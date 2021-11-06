@@ -44,3 +44,6 @@ Sudoku, and the quickest winner should make the final resolution.
 ### Agreement
 xx19, ruozhen2, kangyuf2, and yuxuan19 all agree with the ground rules and the
 remediation plan in this team contract.
+
+### Signature
+Yuxuan Chen yuxuan19
