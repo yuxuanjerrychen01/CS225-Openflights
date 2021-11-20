@@ -1,0 +1,1627 @@
+﻿Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude
+22,Winnipeg / St. Andrews Airport,Winnipeg,Canada,\N,CYAV,50.0564002991,-97.0325012207
+23,Halifax / CFB Shearwater Heliport,Halifax,Canada,\N,CYAW,44.639702,-63.499401
+44,Princeton Airport,Princeton,Canada,\N,CYDC,49.4681015015,-120.511001587
+104,Pitt Meadows Airport,Pitt Meadows,Canada,\N,CYPK,49.21609878540039,-122.70999908447266
+212,Boufarik Airport,Boufarik,Algeria,\N,DAAK,36.545799,2.87611
+213,Reggane Airport,Reggan,Algeria,\N,DAAN,26.7101,0.285647
+215,Ain Oussera Airport,Ain Oussera,Algeria,\N,DAAQ,35.52539825439453,2.8787100315093994
+219,Relizane Airport,Relizane,Algeria,\N,DAAZ,35.752201,0.626272
+226,Bou Sfer Airport,Bou Sfer,Algeria,\N,DAOE,35.73540115356445,-0.8053889870643616
+250,Wa Airport,Wa,Ghana,\N,DGLW,10.0826997756958,-2.507689952850342
+265,Gusau Airport,Gusau,Nigeria,\N,DNGU,12.1717,6.69611
+283,Dirkou Airport,Dirkou,Niger,\N,DRZD,18.968700408935547,12.86870002746582
+284,Diffa Airport,Diffa,Niger,\N,DRZF,13.372900009155272,12.626700401306152
+288,Sidi Ahmed Air Base,Bizerte,Tunisia,\N,DTTB,37.245398,9.79145
+289,Remada Air Base,Remada,Tunisia,\N,DTTD,32.30619812011719,10.382100105285645
+292,Borj El Amri Airport,Bordj El Amri,Tunisia,\N,DTTI,36.72129821777344,9.94314956665039
+300,Beauvechain Air Base,Beauvechain,Belgium,\N,EBBE,50.75859832763672,4.768330097198486
+301,Kleine Brogel Air Base,Kleine Brogel,Belgium,\N,EBBL,51.168301,5.47
+303,Jehonville Air Base,Bertrix,Belgium,\N,EBBX,49.891700744628906,5.223889827728272
+305,Chièvres Air Base,Chievres,Belgium,\N,EBCV,50.575801849365234,3.8310000896453857
+306,Koksijde Air Base,Koksijde,Belgium,\N,EBFN,51.09030151367188,2.652780055999756
+307,Florennes Air Base,Florennes,Belgium,\N,EBFS,50.2433013916,4.64583015442
+311,Zutendaal Air Base,Zutendaal,Belgium,\N,EBSL,50.9474983215332,5.590559959411621
+312,Brustem Airfield Sint Truiden,Sint-truiden,Belgium,\N,EBST,50.791901,5.20167
+313,Saint Hubert Air Base,St.-hubert,Belgium,\N,EBSU,50.034400939941406,5.440810203552246
+314,Ursel Air Base,Ursel,Belgium,\N,EBUL,51.14419937133789,3.475559949874878
+315,Weelde Air Base,Weelde,Belgium,\N,EBWE,51.394798278808594,4.9601898193359375
+317,Flugplatz Bautzen,Bautzen,Germany,\N,EDAB,51.193611,14.519722
+319,Dessau Airfield,Dessau,Germany,\N,EDAD,51.831694,12.190962
+320,Eisenhüttenstadt Airfield,Eisenhuettenstadt,Germany,\N,EDAE,52.195856,14.58753
+322,Großenhain Airport,Suhl,Germany,\N,EDAK,51.30805587768555,13.555556297302246
+323,Merseburg Airport,Muehlhausen,Germany,\N,EDAM,51.3630556,11.9408333
+324,Halle-Oppin Airport,Halle,Germany,\N,EDAQ,51.552223,12.053889
+327,Strausberg Airport,Strausberg,Germany,\N,EDAY,52.5805549621582,13.916666984558104
+330,Jena-Schöngleina Airfield,Jena,Germany,\N,EDBJ,50.915279,11.714444
+331,Kyritz Airport,Kyritz,Germany,\N,EDBK,52.918888092041016,12.425277709960938
+333,Rothenburg/Görlitz Airport,Rothenburg/ol,Germany,\N,EDBR,51.36333465576172,14.949999809265137
+334,Anklam Airfield,Anklam,Germany,\N,EDCA,53.832779,13.668611
+336,Kamenz Airport,Kamenz,Germany,\N,EDCM,51.29694366455078,14.1274995803833
+357,Allendorf/Eder Airport,Allendorf,Germany,\N,EDFQ,51.03499984741211,8.680832862854004
+358,Worms Airport,Worms,Germany,\N,EDFV,49.606945,8.368333
+359,Mainz-Finthen Airport,Mainz,Germany,\N,EDFZ,49.967499,8.147222
+365,Flugplatz Dahlemer Binz,Dahlemer Binz,Germany,\N,EDKV,50.405555725,6.5288891792
+366,Meinerzhagen Airport,Meinerzhagen,Germany,\N,EDKZ,51.09999847412109,7.599999904632568
+367,Arnsberg-Menden Airport,Arnsberg,Germany,\N,EDLA,51.48389053344727,7.8983330726623535
+372,Stadtlohn-Vreden Airport,Stadtlohn,Germany,\N,EDLS,51.99583435058594,6.840556144714356
+375,Biberach a.d. Riß Airfield,Biberach,Germany,\N,EDMB,48.111111,9.762778
+376,Eggenfelden Airport,Eggenfelden,Germany,\N,EDME,48.39611053466797,12.723610877990724
+377,Mindelheim-Mattsies Airfield,Mindelheim,Germany,\N,EDMN,48.106945,10.525
+380,Vilshofen Airport,Vilshofen,Germany,\N,EDMV,48.6349983215332,13.195555686950684
+381,Leutkirch-Unterzeil Airport,Leutkirch,Germany,\N,EDNL,47.85889053344727,10.014166831970217
+384,Stendal-Borstel Airport,Stendal,Germany,\N,EDOV,52.62888717651367,11.818611145019531
+385,Aalen-Heidenheim/Elchingen Airport,Aalen-heidenheim,Germany,\N,EDPA,48.77777862548828,10.264721870422363
+389,Haßfurt-Schweinfurt Airport,Hassfurt,Germany,\N,EDQT,50.0180549621582,10.529443740844728
+390,Koblenz-Winningen Airfield,Koblenz,Germany,\N,EDRK,50.325558,7.528611
+391,Trier-Föhren Airport,Trier,Germany,\N,EDRT,49.863888,6.7875
+392,Speyer Airfield,Speyer,Germany,\N,EDRY,49.304722,8.451389
+395,Freiburg i. Br. Airport,Freiburg,Germany,\N,EDTF,48.022777557400005,7.83249998093
+396,Mengen-Hohentengen Airport,Mengen,Germany,\N,EDTM,48.05389022827149,9.372777938842772
+397,Adolf Würth Airport,Schwaebisch Hall,Germany,\N,EDTY,49.1183319092,9.783888816829998
+398,Finsterwalde/Schacksdorf Airport,Soest,Germany,\N,EDUS,51.607498,13.743611
+401,Hildesheim Airport,Hildesheim,Germany,\N,EDVM,52.18138885498047,9.946389198303224
+404,Leer-Papenburg Airport,Leer,Germany,\N,EDWF,53.27194213867188,7.441667079925537
+409,Rendsburg-Schachtholm Airport,Rendsburg,Germany,\N,EDXR,54.220001220703125,9.599444389343262
+411,Ämari Air Base,Armari Air Force Base,Estonia,\N,EEEI,59.26029968261719,24.208499908447266
+418,Eura Airport,Eura,Finland,\N,EFEU,61.1161003112793,22.201400756835938
+422,Hameenkyro Airport,Hameenkyro,Finland,\N,EFHM,61.689701080322266,23.073699951171875
+423,Hanko Airport,Hanko,Finland,\N,EFHN,59.848899841308594,23.08359909057617
+425,Kiikala Airport,Kikala,Finland,\N,EFIK,60.4625015259,23.6525001526
+426,Immola Airport,Immola,Finland,\N,EFIM,61.24919891357422,28.90369987487793
+436,Kemijarvi Airport,Kemijarvi,Finland,\N,EFKM,66.712898,27.156799
+443,Menkijarvi Airport,Menkijarvi,Finland,\N,EFME,62.94670104980469,23.51889991760254
+445,Nummela Airport,Nummela,Finland,\N,EFNU,60.3339004517,24.2964000702
+447,Piikajarvi Airport,Piikajarvi,Finland,\N,EFPI,61.245601654052734,22.19339942932129
+449,Pudasjärvi Airport,Pudasjarvi,Finland,\N,EFPU,65.4021987915,26.9468994141
+450,Pyhäsalmi Airport,Pyhasalmi,Finland,\N,EFPY,63.7318992615,25.9263000488
+451,Raahe Pattijoki Airport,Pattijoki,Finland,\N,EFRH,64.6881027222,24.6958007812
+452,Rantasalmi Airport,Rantasalmi,Finland,\N,EFRN,62.0654983521,28.3565006256
+454,Rayskala Airport,Rayskala,Finland,\N,EFRY,60.74470138549805,24.107799530029297
+456,Selanpaa Airport,Selanpaa,Finland,\N,EFSE,61.06240081787109,26.798900604248047
+459,Teisko Airport,Teisko,Finland,\N,EFTS,61.7733,24.027
+471,Leicester Airport,Leicester,United Kingdom,\N,EGBG,52.6077995300293,-1.03193998336792
+474,Wolverhampton Halfpenny Green Airport,Halfpenny Green,United Kingdom,\N,EGBO,52.51750183105469,-2.259439945220948
+476,Turweston Airport,Turweston,United Kingdom,\N,EGBT,52.0407981873,-1.09555995464
+477,Wellesbourne Mountford Airport,Wellesbourne,United Kingdom,\N,EGBW,52.19219970703125,-1.6144399642944336
+479,Manchester Woodford Airport,Woodfort,United Kingdom,\N,EGCD,53.3381,-2.14889
+480,Royal Marines Base Chivenor Airport,Chivenor,United Kingdom,\N,EGDC,51.08720016479492,-4.150340080261231
+483,MoD Boscombe Down Airport,Boscombe Down,United Kingdom,\N,EGDM,51.15219879150391,-1.7474100589752195
+484,RNAS Culdrose,Culdrose,United Kingdom,\N,EGDR,50.08610153198242,-5.255710124969482
+485,MoD St. Athan,St. Athan,United Kingdom,\N,EGDX,51.4048,-3.43575
+505,Chalgrove Airport,Chalsgrove,United Kingdom,\N,EGLJ,51.67610168457031,-1.0808299779891968
+511,Brough Airport,Brough,United Kingdom,\N,EGNB,53.7197,-0.566333
+513,Retford Gamston Airport,Repton,United Kingdom,\N,EGNE,53.28060150146485,-0.9513890147209167
+524,Llanbedr Airport,Llanbedr,United Kingdom,\N,EGOD,52.811698913574,-4.1235799789429
+525,RAF Ternhill,Ternhill,United Kingdom,\N,EGOE,52.87120056152344,-2.533560037612915
+526,RAF Shawbury,Shawbury,United Kingdom,\N,EGOS,52.79819869995117,-2.668040037155152
+528,RAF Woodvale,Woodvale,United Kingdom,\N,EGOW,53.5816,-3.05552
+546,Peterborough Business Airport,Peterborough,United Kingdom,\N,EGSF,52.46810150146485,-0.2511110007762909
+549,North Weald Airport,North Weald,United Kingdom,\N,EGSX,51.721698761,0.154166996479
+550,Sheffield City Heliport,Fowlmere,United Kingdom,\N,EGSY,53.394299,-1.38849
+551,Cranfield Airport,Cranfield,United Kingdom,\N,EGTC,52.0722007751,-0.616666972637
+558,RAF Wattisham,Wattisham,United Kingdom,\N,EGUW,52.1273002625,0.956264019012
+563,DCAE Cosford Air Base,Cosford,United Kingdom,\N,EGWC,52.639999,-2.30558
+566,RAF Dishforth,Dishforth,United Kingdom,\N,EGXD,54.1371994019,-1.42025005817
+567,Leeming Airport,Leeming,United Kingdom,\N,EGXE,54.2924,-1.5354
+568,Leeds East Airport,Church Fenton,United Kingdom,\N,EGXG,53.834301,-1.1955
+570,RAF Cottesmore,Cottesmore,United Kingdom,\N,EGXJ,52.735699,-0.648769
+572,RAF Wittering,Wittering,United Kingdom,\N,EGXT,52.612598,-0.476453
+575,RAF Topcliffe,Topcliffe,United Kingdom,\N,EGXZ,54.2055015564,-1.3820899725
+576,RAF Cranwell,Cranwell,United Kingdom,\N,EGYD,53.0303001404,-0.48324200511
+577,RAF Barkston Heath,Barkston Heath,United Kingdom,\N,EGYE,52.9622001648,-0.561625003815
+581,Budel Airfield Kempen,Weert,Netherlands,\N,EHBD,51.255299,5.60139
+583,Deelen Air Base,Deelen,Netherlands,\N,EHDL,52.0606,5.87306
+584,Drachten Airport,Drachten,Netherlands,\N,EHDR,53.1192016602,6.12972021103
+602,Casement Air Base,Casement,Ireland,\N,EIME,53.301700592,-6.451330184940001
+611,Grønholt Hillerød Airport,Gronholt,Denmark,\N,EKGH,55.94139862060547,12.382200241088867
+616,Kruså-Padborg Airport,Krusa-padborg,Denmark,\N,EKPB,54.87030029296875,9.279009819030762
+624,Kolding Vamdrup Airfield,Kolding,Denmark,\N,EKVD,55.436298,9.33092
+626,Vesthimmerlands Flyveplads,Vesthimmerland,Denmark,\N,EKVH,56.846901,9.45861
+633,Bømoen Airport,Voss,Norway,\N,ENBM,60.63890075683594,6.501500129699707
+648,Kjeller Airport,Kjeller,Norway,\N,ENKJ,59.9692993164,11.0361003876
+667,Babice Airport,Warsaw,Poland,\N,EPBC,52.26850128173828,20.910999298095703
+670,Muchowiec Airport,Katowice,Poland,\N,EPKM,50.23809814453125,19.03420066833496
+673,Mielec Airport,Mielec,Poland,\N,EPML,50.32229995727539,21.462099075317383
+678,Swidwin Military Air Base,Shapaja,Poland,\N,EPSN,53.790599823,15.8262996674
+682,Malmen Air Base,Linkoeping,Sweden,\N,ESCF,58.40230178833008,15.525699615478516
+683,Bråvalla Air Base,Norrkoeping,Sweden,\N,ESCK,58.61090087890625,16.103599548339844
+684,Uppsala Airport,Uppsala,Sweden,\N,ESCM,59.89730072021485,17.588600158691406
+686,Råda Air Base,Rada,Sweden,\N,ESFR,58.49810028076172,13.053199768066406
+689,Falköping Airport,Falkoping,Sweden,\N,ESGK,58.1697998046875,13.58780002593994
+694,Karlsborg Air Base,Karlsborg,Sweden,\N,ESIA,58.51380157470703,14.507100105285645
+695,Såtenäs Air Base,Satenas,Sweden,\N,ESIB,58.42639923095703,12.714400291442873
+696,Barkarby Airport,Stockholm,Sweden,\N,ESKB,59.4144743644,17.8821372986
+700,Arvika Airport,Arvika,Sweden,\N,ESKV,59.6759,12.6394
+701,Emmaboda Airfield,Emmaboda,Sweden,\N,ESMA,56.610802,15.6048
+702,Feringe Airport,Ljungby,Sweden,\N,ESMG,56.9502983093,13.9216995239
+704,Landskrona Airport,Landskrona,Sweden,\N,ESML,55.94599914550781,12.869999885559082
+706,Anderstorp Airport,Anderstorp,Sweden,\N,ESMP,57.264198303222656,13.59939956665039
+710,Hagshult Air Base,Hagshult,Sweden,\N,ESMV,57.292198,14.1372
+712,Hallviken Airport,Hallviken,Sweden,\N,ESNA,63.73830032348633,15.45829963684082
+713,Hedlanda Airport,Hede,Sweden,\N,ESNC,62.40890121459999,13.7472000122
+717,Jokkmokk Airport,Jokkmokk,Sweden,\N,ESNJ,66.49620056152344,20.147199630737305
+720,Optand Airport,Optand,Sweden,\N,ESNM,63.12860107421875,14.802800178527832
+723,Piteå Airport,Pitea,Sweden,\N,ESNP,65.39830017089844,21.260799407958984
+725,Orsa Airport,Orsa,Sweden,\N,ESNR,61.18999862670898,14.712599754333496
+727,Sättna Airport,Sattna,Sweden,\N,ESNT,62.4814,17.002899
+735,Vidsel Air Base,Vidsel,Sweden,\N,ESPE,65.87529754638672,20.149900436401367
+736,Arboga Airport,Arboga,Sweden,\N,ESQO,59.386600494384766,15.924099922180176
+748,Kalixfors Airport,Kalixfors,Sweden,\N,ESUK,67.76480102539062,20.257200241088867
+754,Bückeburg Air Base,Brueckeburg,Germany,\N,ETHB,52.2785,9.08217
+756,Rheine Bentlage Air Base,Rheine-brentlange,Germany,\N,ETHE,52.291199,7.387
+758,Laupheim Air Base,Laupheim,Germany,\N,ETHL,48.220299,9.91002
+759,Mendig Airfield,Mendig,Germany,\N,ETHM,50.366001,7.31533
+760,Niederstetten Army Air Base,Niederstetten,Germany,\N,ETHN,49.391945,9.958889
+761,Roth Airport,Roth,Germany,\N,ETHR,49.21749877929688,11.100199699401855
+762,Fassberg Air Base,Fassberg,Germany,\N,ETHS,52.919399,10.185827
+763,Grafenwohr Army Air Field,Grafenwoehr,Germany,\N,ETIC,49.69869995117188,11.940199851989746
+765,Hohenfels Army Air Field,Hohenfels,Germany,\N,ETIH,49.21810150146485,11.836099624633787
+768,Diepholz Air Base,Diepholz,Germany,\N,ETND,52.585556,8.342222
+770,Hohn Air Base,Hohn,Germany,\N,ETNH,54.312199,9.53817
+771,Jever Air Base,Jever,Germany,\N,ETNJ,53.533501,7.88867
+773,Nörvenich Air Base,Noervenich,Germany,\N,ETNN,50.8312,6.65817
+775,Wittmundhafen Airport,Wittmundhafen,Germany,\N,ETNT,53.54779815673828,7.667329788208008
+777,Wunstorf Air Base,Wunstorf,Germany,\N,ETNW,52.457298,9.42717
+778,Vilseck Army Air Field,Vilseck,Germany,\N,ETOI,49.63359832763672,11.767200469970703
+779,Coleman Army Air Field,Coleman,Germany,\N,ETOR,49.5635986328125,8.463390350341797
+781,Landsberg Lech Air Base,Landsberg,Germany,\N,ETSA,48.070599,10.906
+782,Büchel Air Base,Buechel,Germany,\N,ETSB,50.1738014221,7.06333017349
+783,Erding Airport,Erding,Germany,\N,ETSE,48.32229995727539,11.948699951171877
+785,Holzdorf Air Base,Holzdorf,Germany,\N,ETSH,51.767799,13.1677
+787,Lechfeld Air Base,Lechfeld,Germany,\N,ETSL,48.185504,10.8612
+788,Neuburg AFB,Neuburg,Germany,\N,ETSN,48.710999,11.2115
+792,Brakpan Airport,Brakpan,South Africa,\N,FABB,-26.23859977722168,28.30179977416992
+795,Bethlehem Airport,Bethlehem,South Africa,\N,FABM,-28.2483997345,28.3360996246
+796,Hendrik Potgieter Airport,Bothaville,South Africa,\N,FABO,-27.36680030822754,26.629199981689453
+798,Calvinia Airport,Calvinia,South Africa,\N,FACV,-31.50029945373535,19.72590065002441
+801,Ermelo Airport,Ermelo,South Africa,\N,FAEO,-26.4955997467041,29.979799270629883
+806,Graaff Reinet Airport,Graaff Reinet,South Africa,\N,FAGR,-32.193599700927734,24.541400909423828
+807,Grahamstown Airport,Grahamstown,South Africa,\N,FAGT,-33.284698486328125,26.49810028076172
+808,Greytown Airport,Greytown,South Africa,\N,FAGY,-29.1219997406,30.5867004395
+809,Harmony Airport,Harmony,South Africa,\N,FAHA,-28.07869911193848,26.8612003326416
+812,Gariep Dam Airport,Hendrik Verwoerddam,South Africa,\N,FAHV,-30.56220054626465,25.52829933166504
+816,Krugersdorp Airport,Krugersdorp,South Africa,\N,FAKR,-26.0808259199,27.7259149551
+817,Kroonstad Airport,Kroonstad,South Africa,\N,FAKS,-27.660600662231445,27.31579971313477
+821,Lichtenburg Airport,Lichtenburg,South Africa,\N,FALI,-26.17569923400879,26.184600830078125
+822,Makhado Air Force Base Airport,Lambertsbaai,South Africa,\N,FALM,-23.159900665283203,29.69650077819824
+825,Middelburg Airport,Middelburg,South Africa,\N,FAMB,-25.684799194335938,29.440200805664062
+828,Marble Hall Airport,Marble Hall,South Africa,\N,FAMI,-24.98909950256348,29.283100128173828
+829,Majuba Power Station Airport,Majuba Power Station,South Africa,\N,FAMJ,-27.0792999268,29.7784996033
+832,Morningside Farm Airport,Musina,South Africa,\N,FAMS,-25.7045001984,26.9090003967
+835,Nylstroom Airfield,Nylstroom,South Africa,\N,FANY,-24.68610000610352,28.43490028381348
+841,Pietersburg Municipal Airport,Polokwane,South Africa,\N,FAPI,-23.9260997772,29.4843997955
+847,Parys Airport,Parys,South Africa,\N,FAPY,-26.889299392700195,27.503400802612305
+850,Rustenburg Airport,Rustenburg,South Africa,\N,FARG,-25.6443004608,27.2710990906
+854,Saldanha /Vredenburg Airport,Saldanha,South Africa,\N,FASD,-32.964099884,17.9692993164
+855,Springs Airfield,Springs,South Africa,\N,FASI,-26.2494004736,28.3982715607
+856,Swartkop Air Force Base,Swartkop,South Africa,\N,FASK,-25.8097000122,28.1646003723
+858,Hendrik Swellengrebel Airport,Swellendam,South Africa,\N,FASX,-34.04819869995117,20.47459983825684
+860,Tommys Field Airport,Tommy's Field,South Africa,\N,FATF,-28.26000022888184,22.993200302124023
+861,New Tempe Airport,Bloemfontein,South Africa,\N,FATP,-29.032899856567383,26.15760040283203
+862,Tutuka Power Station Airport,Tutuka,South Africa,\N,FATT,-26.776599884,29.3388004303
+870,Vereeniging Airport,Vereeniging,South Africa,\N,FAVV,-26.566400528,27.9608001709
+872,Witbank Airport,Witbank,South Africa,\N,FAWI,-25.8323001862,29.1919994354
+874,Welkom Airport,Welkom,South Africa,\N,FAWM,-27.9968245111,26.6633338928
+875,Ysterplaat Air Force Base,Ysterplaat,South Africa,\N,FAYP,-33.90019989013672,18.498300552368164
+876,Zeerust Airport,Zeerust,South Africa,\N,FAZR,-25.599000930786133,26.042299270629883
+950,Lobito Airport,Lobito,Angola,\N,FNLB,-12.37119960784912,13.53660011291504
+982,Marrupa Airport,Marrupa,Mozambique,\N,FQMR,-13.225099563598633,37.55210113525391
+987,Songo Airport,Songo,Mozambique,\N,FQSG,-15.602700233459473,32.77320098876953
+989,Ulongwe Airport,Ulongwe,Mozambique,\N,FQUG,-14.70460033416748,34.35240173339844
+991,Alphonse Airport,Alphonse,Seychelles,\N,FSAL,-7.00478,52.7262
+993,Farquhar Airport,Farquhar,Seychelles,\N,FSFA,-10.1096,51.176102
+996,Coetivy Airport,Coetivy,Seychelles,\N,FSSC,-7.13457,56.278198
+1002,Charles Prince Airport,Harare,Zimbabwe,\N,FVCP,-17.75160026550293,30.924699783325195
+1007,Mutoko Airport,Mutoko,Zimbabwe,\N,FVMT,-17.431900024414062,32.18450164794922
+1010,Zvishavane Airport,Zvishavane,Zimbabwe,\N,FVSH,-20.28949928283692,30.08819961547852
+1019,Mejametalana Airbase,Maseru,Lesotho,\N,FXMU,-29.304100036621094,27.50349998474121
+1023,Kitona Base Airport,Kitona Base,Congo (Kinshasa),\N,FZAI,-5.918059825897217,12.447699546813965
+1049,Tessalit Airport,Tessalit,Mali,\N,GATS,20.24300003051757,0.9773079752922058
+1060,Cufar Airport,Cufar,Guinea-Bissau,\N,GGCF,11.2878999710083,-15.180500030517578
+1067,Ifrane Airport,Ifrane,Morocco,\N,GMFI,33.50529861450195,-5.152900218963623
+1098,Bir Moghrein Airport,Bir Moghrein,Mauritania,\N,GQPT,25.2367000579834,-11.588700294494627
+1108,Lideta Army Airport,Addis Ababa,Ethiopia,\N,HAAL,9.003685,38.725498
+1146,Naivasha Airport,Naivasha,Kenya,\N,HKNV,-0.787953,36.433494
+1148,Moi Air Base,Nairobi,Kenya,\N,HKRE,-1.27726995945,36.8623008728
+1150,Bu Attifel Airport,Buattifel,Libya,\N,HLFL,28.79540061950684,22.080900192260746
+1151,Warehouse 59e Airport,Giallo,Libya,\N,HLGL,28.638500213623047,21.4379997253418
+1159,Ras Lanuf Oil Airport,Ras Lanouf V 40,Libya,\N,HLNF,30.5,18.52720069885254
+1161,Dahra Airport,Dahra,Libya,\N,HLRA,29.47260093688965,17.934900283813477
+1163,Zella 74 Airport,Zella 74,Libya,\N,HLZA,28.58989906311035,17.293899536132812
+1201,Osijek-Čepin Airfield,Cepin,Croatia,\N,LDOC,45.5427778,18.6319444
+1204,Grobnicko Polje Airport,Grobnik,Croatia,\N,LDRG,45.37950134277344,14.50380039215088
+1207,Varaždin Airport,Varazdin,Croatia,\N,LDVA,46.29464721679688,16.382932662963867
+1210,Udbina Air Base,Udbina,Croatia,\N,LDZU,44.55759811401367,15.774399757385254
+1221,Armilla Air Base,Granada,Spain,\N,LEGA,37.1332016,-3.63568997
+1224,Getafe Air Base,Madrid,Spain,\N,LEGT,40.29410171508789,-3.723829984664917
+1233,Ocaña Airport,Ocana,Spain,\N,LEOC,39.9375,-3.5033299922943115
+1235,Alcantarilla Air Base,Murcia,Spain,\N,LERI,37.951099,-1.23032
+1239,Son Bonet Airport,Son Bonet,Spain,\N,LESB,39.598899841308594,2.70278000831604
+1241,San Luis Airport,San Luis,Spain,\N,LESL,39.86220169067383,4.25832986831665
+1255,Péronne-Saint-Quentin Airport,Peronne,France,\N,LFAG,49.8685,3.02958
+1256,Nangis-Les Loges Airport,Nangis,France,\N,LFAI,48.59619903564453,3.0067899227142334
+1257,Bagnoles-de-l'Orne-Couterne Airport,Bagnole-de-l'orne,France,\N,LFAO,48.54579925537109,-0.3874439895153045
+1261,Amiens-Glisy Airport,Amiens,France,\N,LFAY,49.873004,2.387074
+1263,Cazaux (BA 120) Air Base,Cazaux,France,\N,LFBC,44.53329849243164,-1.125
+1266,Toulouse-Francazal (BA 101) Air Base,Toulouse,France,\N,LFBF,43.54560089111328,1.3674999475479126
+1271,Mont-de-Marsan (BA 118) Air Base,Mont-de-marsan,France,\N,LFBM,43.911701,-0.5075
+1275,Muret-Lherm Airport,La Rochelle,France,\N,LFBR,43.44889831542969,1.2633299827575684
+1282,Saint-Girons-Antichan Airport,St.-girons,France,\N,LFCG,43.0078010559082,1.1031500101089478
+1283,Arcachon-La Teste-de-Buch Airport,Arcachon,France,\N,LFCH,44.596401,-1.11083
+1286,Toulouse-Lasbordes Airport,Toulouse,France,\N,LFCL,43.58610153198242,1.499169945716858
+1287,Millau-Larzac Airfield,Millau,France,\N,LFCM,43.9893,3.183
+1288,Graulhet-Montdragon Airport,Graulhet,France,\N,LFCQ,43.77109909057617,2.0108299255371094
+1290,Ussel-Thalamy Airport,Ussel,France,\N,LFCU,45.534698486328125,2.4238901138305664
+1291,Villeneuve-sur-Lot Airport,Villeneuve-sur-lot,France,\N,LFCW,44.39690017700195,0.7588890194892883
+1293,Mimizan Airport,Mimizan,France,\N,LFCZ,44.145928,-1.16432
+1294,Aire-sur-l'Adour Airport,Aire-sur-l'adour,France,\N,LFDA,43.70940017700195,-0.245278000831604
+1296,Auch-Lamothe Airport,Auch,France,\N,LFDH,43.687801,0.601667
+1297,Libourne-Artigues-de-Lussac Airport,Libourne,France,\N,LFDI,44.982498,-0.134722
+1298,Pamiers-Les Pujols Airport,Pamiers,France,\N,LFDJ,43.090599060058594,1.69582998752594
+1299,Marmande-Virazeil Airport,Marmande,France,\N,LFDM,44.4989013671875,0.2005140036344528
+1301,Pontivy Airport,Pontivy,France,\N,LFED,48.05849838256836,-2.92182993888855
+1302,Aubigny-sur-Nère Airport,Aubigny-sur-nere,France,\N,LFEH,47.480556,2.394167
+1303,Guiscriff Scaer Airport,Guiscriff-scaer,France,\N,LFES,48.0525016784668,-3.664720058441162
+1305,Ancenis Airport,Ancenis,France,\N,LFFI,47.40810012817383,-1.1775000095367432
+1306,Brienne-le-Château Airport,Brienne-le Chateau,France,\N,LFFN,48.4297981262207,4.48222017288208
+1308,Beaune-Challanges Airport,Beaune,France,\N,LFGF,47.005901,4.89342
+1310,Joigny Airport,Joigny,France,\N,LFGK,47.9921989440918,3.392220020294189
+1311,Verdun-Le Rozelier Airfield,Verdun,France,\N,LFGW,49.122398,5.46905
+1314,Saint-Flour-Coltines Airport,St.-flour,France,\N,LFHQ,45.07640075683594,2.99360990524292
+1315,Bourg-Ceyzériat Airport,Bourg,France,\N,LFHS,46.20090103149414,5.292029857635498
+1316,Villefranche-Tarare Airport,Vilefrance,France,\N,LFHV,45.919983,4.634931
+1317,Moulins-Montbeugny Airport,Moulins,France,\N,LFHY,46.53459930419922,3.423719882965088
+1318,Saint-Affrique-Belmont Airport,St.-afrique-belmont,France,\N,LFIF,43.82329940795898,2.7452800273895264
+1319,Cassagnes-Bégonhès Airport,Cassagnes-beghones,France,\N,LFIG,44.17779922485352,2.515000104904175
+1327,Corte Airport,Corte,France,\N,LFKT,42.29359817504883,9.193059921264648
+1332,Chambéry-Challes-les-Eaux Airport,Chambery,France,\N,LFLE,45.5611000061,5.975759983060001
+1333,Chalon-Champforgeuil Airport,Chalon,France,\N,LFLH,46.82609939575195,4.817629814147949
+1336,Mâcon-Charnay Airport,Macon,France,\N,LFLM,46.295101,4.79577
+1341,Montluçon-Domérat Airport,Montlucon,France,\N,LFLT,46.352501,2.57049
+1347,Aix-en-Provence (BA 114) Airport,Aix-les-milles,France,\N,LFMA,43.5056,5.36778
+1348,Le Luc-Le Cannet Airport,Le Luc,France,\N,LFMC,43.38470077514648,6.387139797210693
+1351,Istres Le Tubé/Istres Air Base (BA 125) Airport,Istres,France,\N,LFMI,43.522701,4.92384
+1358,Alès-Deaux Airport,Ales,France,\N,LFMS,44.069698,4.14212
+1362,Salon-de-Provence (BA 701) Air Base,Salon,France,\N,LFMY,43.60639953613281,5.109250068664551
+1363,Lézignan-Corbières Airfield,Lezignan-corbieres,France,\N,LFMZ,43.1758,2.73417
+1365,Carpentras Airport,Carpentras,France,\N,LFNH,44.02980041503906,5.078060150146484
+1366,Avord (BA 702) Air Base,Avord,France,\N,LFOA,47.053299,2.6325
+1368,Châteaudun (BA 279) Air Base,Chateaudun,France,\N,LFOC,48.058102,1.37662
+1369,Saumur-Saint-Florent Airport,Saumur,France,\N,LFOD,47.256802,-0.115142
+1379,Orléans-Saint-Denis-de-l'Hôtel Airport,Orleans,France,\N,LFOZ,47.8969,2.16333
+1383,Coulommiers-Voisins Airport,Coulommiers,France,\N,LFPK,48.83769989013672,3.016119956970215
+1384,Melun-Villaroche Air Base,Melun,France,\N,LFPM,48.60469818115234,2.6711199283599854
+1389,Reims-Prunay Airport,Reims,France,\N,LFQA,49.20869827270508,4.156579971313477
+1390,Troyes-Barberey Airport,Troyes,France,\N,LFQB,48.322102,4.0167
+1391,Lunéville-Croismare Airport,Luneville,France,\N,LFQC,48.593299865722656,6.543459892272949
+1392,Étain-Rouvres Air Base,Etain,France,\N,LFQE,49.226898193359375,5.672220230102539
+1393,Autun-Bellevue Airport,Autun,France,\N,LFQF,46.96730041503906,4.260570049285889
+1395,Cambrai-Épinoy (BA 103) Air Base,Cambrai,France,\N,LFQI,50.221802,3.15424
+1397,Besançon-La Vèze Airport,Besancon-la-veze,France,\N,LFQM,47.2066,6.083681
+1398,Phalsbourg-Bourscheid Air Base,Phalsbourg,France,\N,LFQP,48.7680556,7.205
+1402,Vesoul-Frotey Airport,Vesoul-frotey,France,\N,LFQW,47.6376,6.20392
+1413,Lanvéoc-Poulmic Air Base,Lanvedoc,France,\N,LFRL,48.281700134277344,-4.4450201988220215
+1424,Colmar-Meyenheim Air Base,Colmar,France,\N,LFSC,47.922000885,7.39967012405
+1428,Haguenau Airport,Haguenau,France,\N,LFSH,48.7943000793,7.81760978699
+1429,Saint-Dizier-Robinson (BA 113) Air Base,St.-dizier,France,\N,LFSI,48.63600158691406,4.899419784545898
+1430,Montbéliard-Courcelles Airfield,Montbeliard,France,\N,LFSM,47.487,6.79054
+1432,Nancy-Ochey (BA 133) Air Base,Nancy,France,\N,LFSO,48.583099365234375,5.954999923706055
+1433,Pontarlier Airport,Pontarlier,France,\N,LFSP,46.90399932861328,6.3273701667785645
+1436,Luxeuil-Saint-Sauveur (BA 116) Air Base,Luxeuil,France,\N,LFSX,47.7830556,6.36416667
+1437,Cuers-Pierrefeu Airport,Cuers,France,\N,LFTF,43.24779891967773,6.126699924468994
+1442,Ambérieu Air Base (BA 278),Amberieu,France,\N,LFXA,45.987301,5.32844
+1443,Damblain Airport,Damblain,France,\N,LFYD,48.08629989624024,5.664060115814209
+1447,Alexandria Airport,Alexandria,Greece,\N,LGAX,40.651100158691406,22.48870086669922
+1449,Elefsis Airport,Elefsis,Greece,\N,LGEL,38.06380081176758,23.55599975585937
+1457,Amigdhaleon Airport,Kavala,Greece,\N,LGKM,40.972801208496094,24.34140014648437
+1467,Megara Airport,Megara,Greece,\N,LGMG,37.98109817504883,23.36540031433105
+1471,Maritsa Airport,Rhodos,Greece,\N,LGRD,36.38309860229492,28.10890007019043
+1481,Stefanovikion Air Base,Stefanovikion,Greece,\N,LGSV,39.48,22.7672
+1483,Tanagra Air Base,Tanagra,Greece,\N,LGTG,38.339802,23.565001
+1484,Kasteli Airport,Kasteli,Greece,\N,LGTL,35.192001,25.327
+1485,Tripolis Airport,Tripolis,Greece,\N,LGTP,37.53060150146485,22.403600692749023
+1487,Tatoi Airport,Dekelia,Greece,\N,LGTT,38.1088981628418,23.78380012512207
+1491,Kecskemét Airport,Kecskemet,Hungary,\N,LHKE,46.91749954223633,19.74920082092285
+1492,Nyíregyháza Airport,Nyirregyhaza,Hungary,\N,LHNY,47.9838981628418,21.69230079650879
+1493,Őcsény Airport,Ocseny,Hungary,\N,LHOY,46.30390167236328,18.76919937133789
+1496,Szentkirályszabadja Airport,Azentkilyszabadja,Hungary,\N,LHSA,47.07789993286133,17.968399047851562
+1498,Szolnok Air Base,Szolnok,Hungary,\N,LHSN,47.122897,20.2355
+1499,Amendola Air Base,Amendola,Italy,\N,LIBA,41.541401,15.7181
+1507,Gioia Del Colle Air Base,Gioia Del Colle,Italy,\N,LIBV,40.767799,16.9333
+1513,Palermo-Boccadifalco Airport,Palermo,Italy,\N,LICP,38.110802,13.3133
+1522,Torino-Aeritalia Airport,Turin,Italy,\N,LIMA,45.086399,7.60337
+1523,Milano-Bresso Airfield,Milano,Italy,\N,LIMB,45.542198,9.20333
+1530,Cameri Air Base [MIL],Cameri,Italy,\N,LIMN,45.529598,8.66922
+1532,Piacenza San Damiano Air Base,Piacenza,Italy,\N,LIMS,44.913102,9.723322
+1537,Cervia Air Base,Cervia,Italy,\N,LIPC,44.224201,12.3072
+1540,Rivolto Air Base,Rivolto,Italy,\N,LIPI,45.978699,13.0493
+1542,Ghedi Air Base,Ghedi,Italy,\N,LIPL,45.432201,10.2677
+1543,Verona-Boscomantico Airport,Verona,Italy,\N,LIPN,45.472,10.9279
+1547,Istrana Air Base,Treviso,Italy,\N,LIPS,45.684898,12.0829
+1554,Pratica Di Mare Air Base,Pratica Di Mare,Italy,\N,LIRE,41.654499,12.4452
+1556,Guidonia Air Base,Guidonia,Italy,\N,LIRG,41.990299,12.7408
+1560,Grazzanise Air Base,Grazzanise,Italy,\N,LIRM,41.060799,14.0819
+1565,Urbe Airport,Rome,Italy,\N,LIRU,41.9519,12.4989
+1566,Viterbo Airport,Viterbo,Italy,\N,LIRV,42.430199,12.0642
+1568,Cerklje Airport,Cerklje,Slovenia,\N,LJCE,45.900001525879,15.530200004578
+1572,Slovenj Gradec Airport,Slovenj Gradec,Slovenia,\N,LJSG,46.47200012207031,15.116999626159668
+1573,České Budějovice Airport,Ceske Budejovice,Czech Republic,\N,LKCS,48.9463996887207,14.427499771118164
+1574,Čáslav Air Base,Caslav,Czech Republic,\N,LKCV,49.939701080322266,15.381799697875977
+1575,Hradec Králové Airport,Hradec Kralove,Czech Republic,\N,LKHK,50.253201,15.8452
+1576,Hořovice Airport,Horovice,Czech Republic,\N,LKHV,49.84809875488281,13.893500328063965
+1577,Kbely Air Base,Praha,Czech Republic,\N,LKKB,50.12139892578125,14.54360008239746
+1580,Plzeň-Líně Airport,Line,Czech Republic,\N,LKLN,49.675201416016,13.274600028992
+1581,Mnichovo Hradiště Airport,Mnichovo Hradiste,Czech Republic,\N,LKMH,50.54019927978516,15.006600379943848
+1583,Náměšť Air Base,Namest,Czech Republic,\N,LKNA,49.16579818725586,16.124900817871094
+1585,Pribram Airport,Pribram,Czech Republic,\N,LKPM,49.7201,14.1006
+1592,Tel Nof Air Base,Tel-nof,Israel,\N,LLEK,31.8395004272,34.8218002319
+1593,Ein Shemer Airfield,Eyn-shemer,Israel,\N,LLES,32.440799713134766,35.0077018737793
+1597,Hatzor Air Base,Haztor,Israel,\N,LLHS,31.7625007629,34.727199554399995
+1599,Megiddo Airport,Megido Airstrip,Israel,\N,LLMG,32.5973014831543,35.22880172729492
+1603,Ramat David Air Base,Ramat David,Israel,\N,LLRD,32.66510009765625,35.179500579833984
+1607,Wiener Neustadt East Airport,Wiener Neustadt Ost,Austria,\N,LOAN,47.843299865722656,16.260099411010742
+1608,Wels Airport,Wels,Austria,\N,LOLW,48.18330001831055,14.040900230407717
+1615,Hinterstoisser Air Base,Zeltweg,Austria,\N,LOXZ,47.202801,14.7442
+1621,Aerodromo Municipal de Coimbra,Coimba,Portugal,\N,LPCO,40.158758,-8.470815
+1623,Coimbra Hospital Covões Heliport,Covilha,Portugal,\N,LPCV,40.194812,-8.460207
+1624,Évora Airport,Evora,Portugal,\N,LPEV,38.533501,-7.88964
+1631,Montijo Air Base,Montijo,Portugal,\N,LPMT,38.703899,-9.03592
+1632,Ovar Air Base,Ovar,Portugal,\N,LPOV,40.915901,-8.64592
+1640,Sintra Air Base,Sintra,Portugal,\N,LPST,38.8311,-9.33955
+1641,Tancos Airbase,Tancos,Portugal,\N,LPTN,39.475101,-8.36458
+1664,Les Eplatures Airport,Les Eplatures,Switzerland,\N,LSGC,47.0839004517,6.792840003970001
+1666,Saanen Airport,Saanen,Switzerland,\N,LSGK,46.4874992371,7.25083017349
+1668,Alpnach Air Base,Alpnach,Switzerland,\N,LSMA,46.943901,8.28417
+1669,Dübendorf Air Base,Dubendorf,Switzerland,\N,LSMD,47.398601532,8.648229599
+1671,Mollis Airport,Mollis,Switzerland,\N,LSMF,47.07889938354492,9.06482982635498
+1672,Meiringen Airport,Meiringen,Switzerland,\N,LSMM,46.74330139160156,8.109999656677246
+1673,Payerne Air Base,Payerne,Switzerland,\N,LSMP,46.8432,6.91506004333
+1681,Güvercinlik Airport,Ankara,Turkey,\N,LTAB,39.9350013733,32.7407989502
+1684,Akıncı Air Base,Ankara,Turkey,\N,LTAE,40.0788993835,32.5656013489
+1690,İskenderun Airport,Iskenderun,Turkey,\N,LTAK,36.5744552612,36.1534194946
+1692,Malatya Tulga Airport,Malatya,Turkey,\N,LTAO,38.353699,38.253899
+1697,Sivrihisar Airport,Sivrihisar,Turkey,\N,LTAV,39.45149993896485,31.36529922485352
+1707,Gaziemir Airport,Izmir,Turkey,\N,LTBK,38.31909942626953,27.159400939941406
+1709,Isparta Airport,Isparta,Turkey,\N,LTBM,37.78512191772461,30.59001922607422
+1710,Kütahya Airport,Kutahya,Turkey,\N,LTBN,39.426700592041016,30.01689910888672
+1712,Yalova Airport,Yalova,Turkey,\N,LTBP,40.68439865112305,29.37569999694824
+1716,Akhisar Airport,Akhisar,Turkey,\N,LTBT,38.80889892578125,27.83390045166016
+1719,Samandıra Air Base,Istanbul,Turkey,\N,LTBX,40.99300003051758,29.21649932861328
+1732,Kaklıç Airport,Izmir,Turkey,\N,LTFA,38.5176010131836,26.977399826049805
+1733,Selçuk Efes Airport,Izmir,Turkey,\N,LTFB,37.95069885253906,27.32900047302246
+1744,Vršac International Airport,Vrsac,Serbia,\N,LYVR,45.1469,21.3099
+1747,Kuchyňa Air Base,Malacky,Slovakia,\N,LZMC,48.402000427246094,17.11840057373047
+1750,Trenčín Airport,Trencin,Slovakia,\N,LZTN,48.8650016785,17.9923000336
+1756,Arroyo Barril Airport,Samana,Dominican Republic,\N,MDAB,19.198600769,-69.42980194089999
+1763,San Isidro Air Base,San Isidoro,Dominican Republic,\N,MDSI,18.503700256347656,-69.76170349121094
+1765,Bananera Airport,Bananera,Guatemala,\N,MGBN,15.47350025177002,-88.83719635009766
+1791,Chilpancingo Airport,Chilpancingo,Mexico,\N,MMCH,17.574239,-99.515424
+1832,Ingeniero Juan Guillermo Villasana Airport,Pachuca,Mexico,\N,MMPC,20.0774,-98.782501
+1843,Tlaxcala Airport,Tlaxcala,Mexico,\N,MMTA,19.537992,-98.173492
+1844,Terán Air Base,Tuxtla Gutierrez,Mexico,\N,MMTB,16.739901,-93.173301
+1859,Zapopan Airport,Zapopan,Mexico,\N,MMZP,20.747922,-103.461709
+1861,Los Brasiles Airport,Los Brasiles,Nicaragua,\N,MNBR,12.1899995803833,-86.35389709472656
+1862,Leon (Fanor Urroz) Airport,Leon,Nicaragua,\N,MNLN,12.429200172424316,-86.90280151367188
+1877,El Carmen de Siquirres Airport,El Carmen,Costa Rica,\N,MREC,10.20199966430664,-83.47219848632812
+1878,Finca 10 / Nuevo Palmar Sur Airport,Finca 10,Costa Rica,\N,MRFI,8.916350364685059,-83.5073013305664
+1886,Pandora Airport,Pandora,Costa Rica,\N,MRPD,9.732170104980469,-82.98320007324219
+1890,Santa Clara De Guapiles Airport,Santa Clara,Costa Rica,\N,MRSG,10.288299560546877,-83.7135009765625
+1893,Ilopango International Airport,San Salvador,El Salvador,\N,MSSS,13.69950008392334,-89.11990356445312
+1906,Florida Airport,Florida,Cuba,\N,MUFL,21.49970054626465,-78.20279693603516
+1917,San Antonio De Los Banos Airport,San Antonio De Banos,Cuba,\N,MUSA,22.87150001525879,-82.5093002319336
+1919,Joaquín de Agüero Airport,Santa Lucia,Cuba,\N,MUSL,21.5094559067,-77.02059745790001
+1933,Sandy Point Airport,Sandy Point,Bahamas,\N,MYAS,26.004600524902344,-77.39550018310547
+1942,George Town Airport,George Town,Bahamas,\N,MYEG,23.4666996002,-75.78170013430001
+2016,Hastings Aerodrome,Hastings,New Zealand,\N,NZHS,-39.646702,176.766998
+2032,Waiouru Airport,Waiouru,New Zealand,\N,NZRU,-39.4463996887207,175.6580047607422
+2033,South Pole Station Airport,Stephen's Island,Antarctica,\N,NZSP,-90.0,0.0
+2038,Williams Field,Weydon,Antarctica,\N,NZWD,-77.86740112304688,167.0570068359375
+2040,Wigram Airport,Wigram,New Zealand,\N,NZWG,-43.5511016846,172.552993774
+2044,RNZAF Base Auckland-Whenuapai,Whenuapai,New Zealand,\N,NZWP,-36.78779983520508,174.6300048828125
+2055,Sheberghan Airport,Sheberghan,Afghanistan,\N,OASG,36.75080108642578,65.91320037841797
+2058,Sheik Isa Air Base,Bahrain,Bahrain,\N,OBBS,25.918399810791016,50.590599060058594
+2063,Abqaiq Airport,Abqaiq,Saudi Arabia,\N,OEBQ,25.911300659179688,49.59120178222656
+2071,King Faisal Naval Base,Jeddah,Saudi Arabia,\N,OEJF,21.348100662231445,39.17300033569336
+2077,Pump Station 3 Airport,Petroline 3,Saudi Arabia,\N,OEPC,25.17449951171875,47.488399505615234
+2078,Pump Station 6 Airport,Petroline 6,Saudi Arabia,\N,OEPF,24.71030044555664,44.964500427246094
+2079,Pump Station 10 Airport,Petroline 10,Saudi Arabia,\N,OEPJ,24.1072998046875,41.0359992980957
+2080,Rabigh Airport,Rabigh,Saudi Arabia,\N,OERB,22.702600479125977,39.069801330566406
+2083,Ras Mishab Airport,Rash Mishab,Saudi Arabia,\N,OERM,28.079599380493164,48.61100006103516
+2085,Ras Tanura Airport,Ras Tanura,Saudi Arabia,\N,OERT,26.723100662231445,50.030799865722656
+2091,Thumamah Airport,Thumamah,Saudi Arabia,\N,OETH,25.21299934387207,46.64099884033203
+2092,Ras Tanajib Airport,Ras Tanajib,Saudi Arabia,\N,OETN,27.867799758911133,48.76910018920898
+2101,Shahid Asyaee Airport,Masjed Soleiman,Iran,\N,OIAI,32.00239944458008,49.27040100097656
+2107,Bastak Airport,Bastak,Iran,\N,OIBH,27.21269989013672,54.31859970092773
+2108,Asaloyeh Airport,Golbandi,Iran,\N,OIBI,27.4814,52.615501
+2119,Shahid Vatan Pour Air Base,Esfahan,Iran,\N,OIFH,32.56700134277344,51.69160079956055
+2122,Badr Air Base,Sepah,Iran,\N,OIFP,32.62110137939453,51.696998596191406
+2126,Ghazvin Azadi Airport,Abe-ali,Iran,\N,OIIA,35.95209884643555,50.450801849365234
+2127,Kushke Nosrat Airport,Kushke Nosrat,Iran,\N,OIIC,34.98400115966797,50.80619812011719
+2128,Doshan Tappeh Air Base,Teheran,Iran,\N,OIID,35.702999114990234,51.47510147094727
+2130,Ghale Morghi Airport,Teheran,Iran,\N,OIIG,35.644798278808594,51.38069915771485
+2133,Naja Airport,Khoram Dareh,Iran,\N,OIIM,35.77629852294922,50.88100051879883
+2139,Dayrestan Airport,Gheshm I.,Iran,\N,OIKQ,26.754600524902344,55.90240097045898
+2169,Saravan Airport,Saravan,Iran,\N,OIZS,27.419300079345703,62.315799713134766
+2173,Prince Hassan Air Base,Hotel Four,Jordan,\N,OJHF,32.160702,37.149399
+2174,Jerusalem Airport,Jerusalem,West Bank,\N,OJJR,31.864700317383,35.219200134277
+2181,Al Hamra Aux Airport,Al Hamra,United Arab Emirates,\N,OMAH,24.073999404907227,52.463600158691406
+2182,Jebel Dhana Airport,Jebel Dhana,United Arab Emirates,\N,OMAJ,24.187400817871094,52.61399841308594
+2185,Arzanah Airport,Arzana,United Arab Emirates,\N,OMAR,24.780500411987305,52.55989837646485
+2186,Das Island Airport,Das Island,United Arab Emirates,\N,OMAS,25.14620018005371,52.87369918823242
+2187,Zirku Airport,Zirku,United Arab Emirates,\N,OMAZ,24.862491607666016,53.07714080810547
+2208,Walton Airport,Lahore,Pakistan,\N,OPLH,31.49480056762696,74.34619903564453
+2213,Masroor Air Base,Karachi,Pakistan,\N,OPMR,24.893600463867188,66.93879699707031
+2216,Okara Cantonment Airstrip,Okara,Pakistan,\N,OPOK,30.740999221800003,73.3576965332
+2220,Qasim Airport,Qasim,Pakistan,\N,OPQS,33.56019973754883,73.033203125
+2223,Benazir Bhutto International Airport,Islamabad,Pakistan,\N,OPRN,33.616699,73.099197
+2224,Risalpur Air Base,Risalpur,Pakistan,\N,OPRS,34.08110046386719,71.97260284423828
+2250,Dyess Army Air Field,Kwajalein,Marshall Islands,\N,PKRO,9.396889686580002,167.470993042
+2260,Pingtung South Airport,Pingtung,Taiwan,\N,RCDC,22.672399520874023,120.46199798583984
+2261,Longtan Air Base,Longtang,Taiwan,\N,RCDI,24.855100631713867,121.23799896240234
+2273,Chihhang Air Base,Taitung,Taiwan,\N,RCQS,22.793100357055664,121.18199920654295
+2285,Kohnan Airport,Kohnan,Japan,\N,RJBK,34.59080123901367,133.93299865722656
+2289,Chitose Air Base,Chitose,Japan,\N,RJCJ,42.79449844359999,141.666000366
+2293,Tokachi Airport,Tokachi,Japan,\N,RJCT,42.89049911499024,143.1580047607422
+2302,Ashiya Airport,Ashiya,Japan,\N,RJFA,33.88309860229492,130.6529998779297
+2309,Nyutabaru Airport,Nyutabaru,Japan,\N,RJFN,32.08359909057617,131.4510040283203
+2314,Kanoya Airport,Kanoya,Japan,\N,RJFY,31.367599487304688,130.84500122070312
+2315,Tsuiki Air Field,Tsuiki,Japan,\N,RJFZ,33.6850013733,131.039993286
+2321,Hamamatsu Airport,Hamamatsu,Japan,\N,RJNH,34.75019836425781,137.7030029296875
+2325,Shizuhama Airport,Yaizu,Japan,\N,RJNY,34.812801361083984,138.29800415039062
+2329,Hofu Airport,Hofu,Japan,\N,RJOF,34.034698486328125,131.5489959716797
+2338,Yao Airport,Osaka,Japan,\N,RJOY,34.59629821777344,135.60299682617188
+2339,Ozuki Airport,Ozuki,Japan,\N,RJOZ,34.0452995300293,131.052001953125
+2348,Matsushima Air Base,Matsushima,Japan,\N,RJST,38.4048995972,141.220001221
+2351,Tateyama Airport,Tateyama,Japan,\N,RJTE,34.987099,139.828995
+2353,Iruma Air Base,Iruma,Japan,\N,RJTJ,35.84189987182617,139.41099548339844
+2354,Kisarazu Airport,Kisarazu,Japan,\N,RJTK,35.39830017089844,139.91000366210938
+2355,Shimofusa Airport,Shimofusa,Japan,\N,RJTL,35.79890060424805,140.01100158691406
+2358,Kastner Army Heliport,Zama,Japan,\N,RJTR,35.5138015747,139.393997192
+2366,Sokcho Airport,Sokch'o,South Korea,\N,RKND,38.1426010131836,128.5989990234375
+2375,A 511 Airport,Pyongtaek,South Korea,\N,RKSG,36.96220016479492,127.03099822998048
+2385,Ie Shima Auxiliary Air Base,Iejima,Japan,\N,RODE,26.72575759887696,127.76490020751952
+2395,Futenma Marine Corps Air Station,Futema,Japan,\N,ROTM,26.27429962158203,127.75599670410156
+2400,Cagayan De Oro Airport,Ladag,Philippines,\N,RPML,8.41562,124.611
+2407,Basa Air Base,Floridablanca,Philippines,\N,RPUF,14.98724,120.492554
+2408,Lingayen Airport,Lingayen,Philippines,\N,RPUG,16.034799575805664,120.24099731445312
+2410,Fernando Air Base,Lipa,Philippines,\N,RPUL,13.954999923706056,121.125
+2414,Vigan Airport,Vigan,Philippines,\N,RPUQ,17.555299758911133,120.3560028076172
+2421,Bagabag Airport,Bagabag,Philippines,\N,RPUZ,16.6192,121.251999
+2428,Guiuan Airport,Guiuan,Philippines,\N,RPVG,11.0354995728,125.741996765
+2444,Chamical Airport,Gobernador Gordillo,Argentina,\N,SACT,-30.34530067,-66.29360198
+2446,Mariano Moreno Airport,Jose C. Paz,Argentina,\N,SADJ,-34.5606,-58.7896
+2448,Moron Airport,Moron,Argentina,\N,SADM,-34.6763,-58.6428
+2457,Tinogasta Airport,Tinogasta,Argentina,\N,SANI,-28.0377998352,-67.5802993774
+2459,Chilecito Airport,Chilecito,Argentina,\N,SANO,-29.2238998413,-67.4389038086
+2464,La Quiaca Airport,Laboulaye,Argentina,\N,SAOL,-22.1506004333,-65.57749938959999
+2465,Marcos Juarez Airport,Marcos Juarez,Argentina,\N,SAOM,-32.6836,-62.157801
+2479,Laboulaye Airport,La Quiaca,Argentina,\N,SASQ,-34.1353988647,-63.36230087279999
+2483,Oberá Airport,Obera,Argentina,\N,SATO,-27.5181999207,-55.1241989136
+2493,Marambio Base,Marambio Base,Antarctica,\N,SAWB,-64.2382965088,-56.6307983398
+2506,Bolivar Airport,Bolivar,Argentina,\N,SAZI,-36.1866,-61.0764
+2519,Campo Délio Jardim de Mattos Airport,Rio De Janeiro,Brazil,\N,SBAF,-22.875099,-43.384701
+2520,Amapá Airport,Amapa,Brazil,\N,SBAM,2.07751,-50.8582
+2530,Major Brigadeiro Doorgal Borges Airport,Barbacena,Brazil,\N,SBBQ,-21.2672,-43.761101
+2536,Cachimbo Airport,Itaituba,Brazil,\N,SBCC,-9.33393955231,-54.9654006958
+2542,Canoas Air Force Base,Porto Alegre,Brazil,\N,SBCO,-29.945928,-51.144413
+2553,São Pedro da Aldeia Airport,Sao Pedro Da Aldeia,Brazil,\N,SBES,-22.81290054321289,-42.09260177612305
+2558,Furnas Airport,Alpinopolis,Brazil,\N,SBFU,-20.702800750732425,-46.33530044555664
+2563,EMBRAER - Unidade Gavião Peixoto Airport,Macae,Brazil,\N,SBGP,-21.773700714111328,-48.40510177612305
+2573,Belém/Brigadeiro Protásio de Oliveira Airport,Belem,Brazil,\N,SBJC,-1.4141600132,-48.4607009888
+2583,Lagoa Santa Airport,Lagoa Santa,Brazil,\N,SBLS,-19.66160011291504,-43.89640045166016
+2593,Campo de Marte Airport,Sao Paulo,Brazil,\N,SBMT,-23.5090999603,-46.6377983093
+2627,Tiriós Airport,Obidos Tirios,Brazil,\N,SBTS,2.22347,-55.946098
+2639,Iauaretê Airport,Iauarete,Brazil,\N,SBYA,0.6075000166893,-69.18579864502
+2643,El Bosque Airport,Santiago,Chile,\N,SCBQ,-33.561798095703125,-70.68840026855469
+2663,Eulogio Sánchez Airport,Santiago,Chile,\N,SCTB,-33.456298828125,-70.54669952392578
+2669,Hacienda Clementina Airport,Clementia,Ecuador,\N,SECM,-1.7062699794769287,-79.37889862060547
+2674,Gualaquiza Airport,Gualaquiza,Ecuador,\N,SEGZ,-3.4232099056243896,-78.56700134277344
+2675,Atahualpa Airport,Ibarra,Ecuador,\N,SEIB,0.3384189903736114,-78.13639831542969
+2676,Km 192 Airport,Km-192,Ecuador,\N,SEKK,0.1842029988765716,-79.39199829101562
+2677,Hacienda La Julia Airport,La Julia,Ecuador,\N,SELJ,-1.7043800354003906,-79.55229949951172
+2682,El Carmen Airport,Montalvo,Ecuador,\N,SEMO,-2.067009925842285,-76.97570037841797
+2684,Maragrosa Airport,Maragrosa,Ecuador,\N,SEMX,-2.851099967956543,-79.80359649658203
+2685,Amable Calle Gutierrez Airport,Pasaje,Ecuador,\N,SEPS,-3.3196699619293213,-79.76920318603516
+2687,Quevedo Airport,Quevedo,Ecuador,\N,SEQE,-0.989400029182434,-79.46510314941406
+2689,Chimborazo Airport,Riobamba,Ecuador,\N,SERB,-1.6534299850463867,-78.65609741210938
+2692,Santo Domingo de Los Colorados Airport,Santo Domingo,Ecuador,\N,SESD,-0.2482219934463501,-79.21440124511719
+2694,Taura Airport,Taura,Ecuador,\N,SETA,-2.261039972305298,-79.6801986694336
+2695,Mayor Galo Torres Airport,Tena,Ecuador,\N,SETE,-0.9867669939994812,-77.81950378417969
+2702,Itaipú Airport,Itaipu,Paraguay,\N,SGIB,-25.407519,-54.619377
+2723,Guaymaral Airport,Guaymaral,Colombia,\N,SKGY,4.81233,-74.0649
+2737,Puerto Bolívar Airport,Puerto Bolivar,Colombia,\N,SKPB,12.2215,-71.9848
+2776,Huancabamba Airport,Huancabamba,Peru,\N,SPAB,-5.256770133972168,-79.44290161132812
+2778,Teniente General Gerardo Pérez Pinedo Airport,Atalaya,Peru,\N,SPAY,-10.7291002274,-73.7665023804
+2783,Puerto Esperanza Airport,Puerto Esperanza,Peru,\N,SPEP,-9.7681303024292,-70.70649719238281
+2784,Cesar Torke Podesta Airport,Moquegua,Peru,\N,SPEQ,-17.179000854492188,-70.93080139160156
+2795,Las Palmas Air Base,Las Palmas,Peru,\N,SPLP,-12.16069984436,-76.998901367188
+2799,Collique Airport,Collique,Peru,\N,SPOL,-11.92870044708252,-77.06109619140625
+2803,Capitán FAP Leonardo Alvariño Herr Airport,San Ramon,Peru,\N,SPRM,-11.128600120544434,-75.35050201416016
+2813,Angel S Adami Airport,Montevideo,Uruguay,\N,SUAA,-34.7892,-56.264702
+2820,San Fernando de Atabapo Airport,San Fernando Deatabapo,Venezuela,\N,SVAT,4.05104017258,-67.6996994019
+2823,El Libertador Airbase,Maracaibo,Venezuela,\N,SVBL,10.1833753586,-67.55731964110001
+2828,San Carlos Airport,San Carlos,Venezuela,\N,SVCJ,9.647720336914062,-68.57469940185547
+2834,Oscar Machado Zuluaga Airport,Caracas,Venezuela,\N,SVCS,10.286110877990724,-66.81610870361328
+2836,Capitán Manuel Ríos Airbase,Carrizal,Venezuela,\N,SVCZ,9.372650146484377,-66.92279815673828
+2845,San Juan de Los Morros Airport,San Juan De Los Morros,Venezuela,\N,SVJM,9.906952857971191,-67.379638671875
+2847,La Orchila Airport,La Orchila,Venezuela,\N,SVLO,11.80720043182373,-66.17960357666016
+2872,Linden Airport,Linden,Guyana,\N,SYLD,5.96592,-58.270302
+3005,Deesa Airport,Deesa,India,\N,VADS,24.267900466918945,72.20439910888672
+3041,Bokaro Airport,Bokaro,India,\N,VEBK,23.64349937438965,86.1489028930664
+3049,Hirakud Airport,Hirakud,India,\N,VEHK,21.5802001953125,84.00569915771484
+3051,Jharsuguda Airport,Jharsuguda,India,\N,VEJH,21.91349983215332,84.05039978027344
+3059,Nawapara Airport,Nawapara,India,\N,VENP,20.8700008392334,82.51959991455078
+3060,Panagarh Air Force Station,Panagarh,India,\N,VEPH,23.4743003845,87.4274978638
+3062,Purnea Airport,Purnea,India,\N,VEPU,25.759599685668945,87.41000366210938
+3065,Utkela Airport,Utkela,India,\N,VEUK,20.097400665283203,83.18379974365234
+3075,Tejgaon Airport,Dhaka,Bangladesh,\N,VGTJ,23.77879905700684,90.38269805908205
+3078,Shek Kong Air Base,Sek Kong,Hong Kong,\N,VHSK,22.436599731445312,114.08000183105467
+3083,Bakshi Ka Talab Air Force Station,Bakshi Ka Talab,India,\N,VIBL,26.988300323486328,80.89309692382812
+3087,Bhiwani Airport,Bhiwani,India,\N,VIBW,28.83699989318848,76.1791000366211
+3091,Safdarjung Airport,Delhi,India,\N,VIDD,28.58449935913086,77.20580291748047
+3096,Jhansi Airport,Jhansi,India,\N,VIJN,25.491199493408203,78.55840301513672
+3101,Kanpur Civil Airport,Kanpur,India,\N,VIKA,26.441401,80.364899
+3107,Patiala Airport,Patiala,India,\N,VIPL,30.31480026245117,76.364501953125
+3109,Fursatganj Airport,Raibarelli,India,\N,VIRB,26.24850082397461,81.38050079345703
+3111,Sarsawa Air Force Station,Saharanpur,India,\N,VISP,29.993900299072266,77.42530059814453
+3117,Phonesavanh Airport,Phong Savanh,Laos,\N,VLPV,19.45490074157715,103.21800231933594
+3133,Bidar Air Force Station,Bidar,India,\N,VOBR,17.908100128173828,77.48709869384766
+3140,Dundigul Air Force Academy,Dundigul,India,\N,VODG,17.627199173,78.4033966064
+3145,Nagarjuna Sagar Airport,Nagarjunsagar,India,\N,VONS,16.542699813842773,79.3187026977539
+3154,Tambaram Air Force Station,Tambaram,India,\N,VOTX,12.90719985961914,80.12190246582031
+3159,Khok Kathiam Airport,Lop Buri,Thailand,\N,VTBL,14.8746004105,100.663002014
+3162,Watthana Nakhon Airport,Prachin Buri,Thailand,\N,VTBW,13.768799781799316,102.31500244140624
+3167,Sak Long Airport,Phetchabun,Thailand,\N,VTPL,16.82430076599121,101.2509994506836
+3169,Nakhon Sawan Airport,Nakhon Sawan,Thailand,\N,VTPN,15.67300033569336,100.13700103759766
+3171,Khunan Phumipol Airport,Tak,Thailand,\N,VTPY,17.23419952392578,99.05789947509766
+3172,Khoun Khan Airport,Satun,Thailand,\N,VTSA,6.661399841308594,100.08000183105467
+3178,Cha Eian Airport,Nakhon Si Thammarat,Thailand,\N,VTSN,8.47115039825,99.9555969238
+3187,Khorat Airport,Nakhon Ratchasima,Thailand,\N,VTUN,14.9344997406,102.07900238
+3188,Rob Muang Airport,Roi Et,Thailand,\N,VTUR,16.07040023803711,103.64600372314452
+3197,Gia Lam Air Base,Hanoi,Vietnam,\N,VVGL,21.04050064086914,105.88600158691406
+3198,Kep Air Base,Kep,Vietnam,\N,VVKP,21.3945999146,106.261001587
+3208,Anisakan Airport,Anisakan,Burma,\N,VYAS,21.955400466918945,96.40609741210938
+3211,Coco Island Airport,Coco Island,Burma,\N,VYCI,14.14150047302246,93.36849975585938
+3221,Lanywa Airport,Lanywa,Burma,\N,VYLY,20.940399169921875,94.82260131835938
+3228,Nampong Air Base,Nampong,Burma,\N,VYNP,25.3544006348,97.2951965332
+3234,Shante Air Base,Shante,Burma,\N,VYST,20.941699981689453,95.91449737548828
+3238,Taungoo Airport,Taungoo,Burma,\N,VYTO,19.031299591064453,96.40119934082033
+3295,Kluang Airport,Kluang,Malaysia,\N,WMAP,2.04138994217,103.306999207
+3301,Simpang Airport,Simpang,Malaysia,\N,WMKF,3.1122500896453857,101.7030029296875
+3312,Sembawang Air Base,Sembawang,Singapore,\N,WSAG,1.4252599477767944,103.81300354003906
+3335,RAAF Base East Sale,East Sale,Australia,\N,YMES,-38.0988998413,147.149002075
+3340,"RAAF Williams, Point Cook Base",Point Cook,Australia,\N,YMPC,-37.932201,144.753006
+3343,RAAF Base Edinburgh,Edinburgh,Australia,\N,YPED,-34.70249938964844,138.62100219726562
+3350,Adelaide Parafield Airport,Adelaide,Australia,\N,YPPF,-34.7933006287,138.632995605
+3412,Wainwright Air Station,Fort Wainwright,United States,\N,PAWT,70.61340332,-159.8600006
+3418,Clear Airport,Clear Mews,United States,\N,PACL,64.301201,-149.119995
+3436,Twentynine Palms (Self) Airport,Twenty Nine Palms,United States,\N,KNXP,34.2961998,-116.1620026
+3455,Port Angeles Cgas Airport,Port Angeles,United States,\N,KNOW,48.14149856567383,-123.41400146484376
+3490,China Lake Naws (Armitage Field) Airport,China Lake,United States,\N,KNID,35.6853981,-117.6920013
+3501,Robinson Army Air Field,Robinson,United States,\N,KRBM,34.85010147,-92.30020142
+3507,Hurlburt Field,Mary Esther,United States,\N,KHRT,30.42779922485352,-86.68930053710938
+3534,Muskogee-Davis Regional Airport,Muskogee,United States,\N,KMKO,35.656502,-95.366699
+3551,Millinocket Municipal Airport,Millinocket,United States,\N,KMLT,45.64780044555664,-68.68560028076172
+3556,Wheeler Sack Army Air Field,Fort Drum,United States,\N,KGTB,44.05559921,-75.71949768
+3607,San Nicolas Island Nolf Airport,San Nicolas Island,United States,\N,KNSI,33.23979949951172,-119.45800018310548
+3616,Scappoose Industrial Airpark,San Luis,United States,\N,KSPB,45.77099990844727,-122.86199951171876
+3643,Rancho Murieta Airport,Rancho Murieta,United States,\N,KRIU,38.48680114746094,-121.10299682617188
+3656,Cherry Point MCAS /Cunningham Field/,Cherry Point,United States,\N,KNKT,34.90090179,-76.88069916
+3657,Emanuel County Airport,Santa Barbara,United States,\N,KSBO,32.609100341796875,-82.36990356445312
+3702,Hillsboro Municipal Airport,Hillsboro,United States,\N,KINJ,32.08349991,-97.09719849
+3707,New River MCAS /H/ /Mccutcheon Fld/ Airport,Jacksonville,United States,\N,KNCA,34.70840073,-77.43969727
+3762,Princeton Municipal Airport,Princeton,United States,\N,KPNM,45.55989838,-93.60820007
+3765,Chandler Municipal Airport,Chandler,United States,\N,KCHD,33.2691,-111.810997
+3776,Black Rock Airport,Zuni Pueblo,United States,\N,KZUN,35.08319854736328,-108.79199981689452
+3833,Quantico MCAF /Turner field,Quantico,United States,\N,KNYG,38.50170135,-77.30529785
+3847,Meridian Naval Air Station,Meridian,United States,\N,KNMM,32.55210114,-88.55560303
+3883,Mc Minnville Municipal Airport,Mackminnville,United States,\N,KMMV,45.19440079,-123.1360016
+3893,Iswahyudi Airport,Madiun,Indonesia,\N,WARI,-7.615769863128662,111.43399810791016
+3895,Budiarto Airport,Tangerang,Indonesia,\N,WICB,-6.293171,106.57
+3957,S. Darius and S. Girėnas Airfield,Kaunas,Lithuania,\N,EYKS,54.879799,23.8815
+3962,Erebuni Airport,Yerevan,Armenia,\N,UDYE,40.1221008301,44.465000152600005
+3963,Stepanavan Airport,Stepanavan,Armenia,\N,UDLS,41.048500061,44.3372001648
+3985,Al Badie Airport,Al Badie,Yemen,\N,OYBA,18.71929931640625,50.83689880371094
+4066,Port O'Connor Private Heliport,Port O\'Connor,United States,\N,XS46,28.429725,-96.444419
+4080,Samsø Airport,Samsoe,Denmark,\N,EKSS,55.88949966430664,10.613699913024902
+4085,Yinchuan Airport,Yinchuan,China,\N,ZLIC,38.481899,106.009003
+4107,Coal Harbour Seaplane Base,Vancouver,Canada,\N,CAQ3,50.5999984741,-127.583000183
+4221,Hayman Island Heliport,Hayman Island,Australia,\N,YHYN,-20.0599,148.8834
+4227,La Junta Municipal Airport,La Junta,United States,\N,KLHX,38.04970169,-103.5090027
+4303,Enghien Moisselles Airfield,Enghien-moisselles,France,\N,LFFE,49.046398,2.35306
+4312,Chamonate Airport,Copiapo,Chile,\N,SCHA,-27.2968997955,-70.4131011963
+4321,Bakki Airport,Bakki,Iceland,\N,BIBA,63.55609893798828,-20.137500762939453
+4376,Novosibirsk North Airport,Novosibirsk,Russia,\N,UNCC,55.09170150756836,82.90670013427734
+5483,Lac Du Bonnet Airport,Lac Du Bonnet,Canada,\N,CYAX,50.2943992615,-96.0100021362
+5511,St Georges Airport,Lutselk'e,Canada,\N,CYSG,46.096401,-70.714699
+5578,Weston Airport,Leixlip,Ireland,\N,EIWT,53.3521995544,-6.48611021042
+5613,Los Alamitos Army Air Field,Solwesi,Zambia,\N,KSLI,33.79000092,-118.052002
+5624,Ambanja Airport,Ambanja,Madagascar,\N,FMNJ,-13.645705,48.459427
+5627,Nasa Shuttle Landing Facility Airport,Tsaratanana,Madagascar,\N,KTTS,28.614999771118164,-80.69450378417969
+5789,Győr-Pér International Airport,Győr,Hungary,\N,LHPR,47.624401,17.813601
+5844,Cabo Velas Airport,Nicoya,Costa Rica,\N,MRCV,10.355699539185,-85.852897644043
+5849,(Duplicate) Playa Samara Airport,Playa Samara,Costa Rica,\N,MRSR,9.87,-85.48
+5852,Cayo Coco Airport,Cayo Coco,Cuba,\N,MUOC,22.5132007599,-78.51100158690001
+5924,Dawadmi Domestic Airport,Dawadmi,Saudi Arabia,\N,OEDW,24.5,44.400001525878906
+6011,Rajah Buayan Air Base,General Santos City,Philippines,\N,RPMB,6.10644006729,125.23500061
+6050,La Jagua Airport,Garzón,Colombia,\N,SKGZ,2.1464,-75.6944
+6065,Caballococha Airport,Caballococha,Peru,\N,SPBC,-3.91686010361,-70.5082015991
+6070,El Jagüel / Punta del Este Airport,Maldonado,Uruguay,\N,SUPE,-34.9169998169,-54.9169998169
+6122,Khankala Air Base,Grozny,Russia,\N,URMG,43.298099517822266,45.78409957885742
+6425,Szczecin-Dąbie Airport,Szczecin,Poland,\N,EPSD,53.3921012878418,14.63379955291748
+6431,Lanzhou City Airport,Lanzhou,China,\N,ZLAN,36.033333,103.86667
+6450,Tannheim Airfield,Tannheim,Germany,\N,EDMT,48.009998,10.098611
+6455,Berkley Structures Heliport,Pagerungan,Indonesia,\N,WA19,47.682043,-122.148456
+6458,Anduki Airport,Seria,Brunei,\N,WBAK,4.637000083920001,114.382003784
+6478,La Côte Airport,Prangins,Switzerland,\N,LSGP,46.40639877319336,6.258059978485107
+6483,Isle of Wight / Sandown Airport,Isle Of Wight,United Kingdom,\N,EGHN,50.653099,-1.18221998
+6487,Andernos Les Bains Airport,Andernos-Les-Bains,France,\N,LFCD,44.7561,-1.06333
+6489,Bienenfarm Airport,Nauen,Germany,\N,EDOI,52.661667,12.745833
+6497,Yverdon-les-Bains Airport,Yverdon-Les-Bains,Switzerland,\N,LSGY,46.7619018555,6.61332988739
+6499,Bielsko Biala Airport,Bielsko-Biala,Poland,\N,EPBA,49.80500030517578,19.00189971923828
+6511,Tekapo Aerodrome,Lake Tekapo,New Zealand,\N,NZTL,-44.0052986145,170.444000244
+6519,Niederoeblarn Airport,Niederoeblarn,Austria,\N,LOGO,47.478298,14.0083
+6520,Vöslau Airport,Bad Voeslau,Austria,\N,LOAV,47.96500015258789,16.260000228881836
+6522,Uetersen/Heist Airport,Uetersen,Germany,\N,EDHE,53.64638900756836,9.704167366027832
+6751,Tocache Airport,Tocache,Peru,\N,SPCH,-8.1829996109,-76.516998291
+6798,Weser-Wümme Airport,Hellwege,Germany,\N,EDWM,53.05389022827149,9.208610534667969
+6799,Krems Airport,Krems,Austria,\N,LOAG,48.446389,15.634167
+6816,Raron Airport,Raron,Switzerland,\N,LSTA,46.3036003112793,7.823329925537109
+6819,Borovaya Airfield,Minsk,Belarus,\N,UMMB,53.9604611,27.6505961
+6823,Amlikon Glider Airport,Amlikon,Switzerland,\N,LSPA,47.57419967651367,9.047499656677246
+6824,Lommis Airfield,Lommis,Switzerland,\N,LSZT,47.524399,9.00306
+6826,Burnet Municipal Kate Craddock Field,Bamburi,Kenya,\N,KBMQ,30.73889923095703,-98.23860168457033
+6830,Flugplatz Finsterwalde/Heinrichsruh,Finsterwalde,Germany,\N,EDAS,51.634445,13.675556
+6838,Marquette Airport,Marquette,United States,\N,KMQT,46.53390121459961,-87.5614013671875
+6840,Dinslaken/Schwarze Heide Airport,Dinslaken,Germany,\N,EDLD,51.616112,6.865278
+6841,Höxter-Holzminden Airport,Hoexter Holzminden,Germany,\N,EDVI,51.80666732788086,9.37833309173584
+6843,Niijima Airport,Niijima,Japan,\N,RJAN,34.3694000244,139.268997192
+6855,Kalundborg Airport,Kalundborg,Denmark,\N,EKKL,55.70029830932617,11.25
+6860,Bungle Bungle Airport,Bungle Bungle,Australia,\N,YBUU,-17.545299530029297,128.3070068359375
+6862,Sazená Airport,Sazena,Czech Republic,\N,LKSZ,50.3246994019,14.2588996887
+6866,Spray View Airport,Spray View,Zimbabwe,\N,FVSV,-17.91699981689453,25.816999435424805
+6876,Brown County Airport,Georgetown,United States,\N,KGEO,38.88190078735352,-83.88269805908203
+6894,Zell Am See Airport,Zell am See,Austria,\N,LOWZ,47.292222,12.7875
+6896,RAAF Base Amberley,Amberley,Australia,\N,YAMB,-27.6406,152.712006
+6898,"RAAF Williams, Laverton Base",Laverton,Australia,\N,YLVT,-37.86360168457031,144.74600219726562
+6907,Ternopil International Airport,Ternopol,Ukraine,\N,UKLT,49.5242,25.7001
+6910,Harle Airport,Harlesiel,Germany,\N,EDXP,53.706668853759766,7.820278167724609
+6914,RAAF Base Pearce,Perth,Australia,\N,YPEA,-31.667800903320312,116.01499938964844
+6927,Triengen Airport,Triengen,Switzerland,\N,LSPN,47.22669982910156,8.078060150146484
+6929,Speck-Fehraltorf Airport,Fehraltorf,Switzerland,\N,LSZK,47.37639999389648,8.757499694824219
+6935,Irkutsk Northwest Airport,Irkutsk,Russia,\N,UIIR,52.36830139160156,104.18299865722656
+6936,Khabarovsk Airport,Khabarovsk,Russia,\N,UHHT,48.525001525878906,135.1529998779297
+6937,Dzemgi Airport,Komsomolsk-on-Amur,Russia,\N,UHKD,50.60559844970703,137.08099365234375
+6939,Belaya Air Base,Sredniiy,Russia,\N,UIIB,52.915000915527344,103.5749969482422
+6950,Kyaukhtu South Airport,Kyauktu,Burma,\N,VYXG,21.406700134277344,94.13030242919922
+6951,Jan Mayensfield,Jan Mayen,Norway,\N,ENJA,70.9441166,-8.6520736
+6973,Volkel Air Base,Volkel,Netherlands,\N,EHVK,51.657222,5.7077778
+6984,Biel-Kappelen Airport,Biel,Switzerland,\N,LSZP,47.08919906616211,7.289999961853027
+6995,Deland Municipal Sidney H Taylor Field,DeLand,United States,\N,KDED,29.06699944,-81.28379822
+6996,Haller Airpark,Green Cove Springs,United States,\N,7FL4,29.904057,-81.68515
+6997,Palmar Airport,Santa Lucia,Peru,\N,SLPA,-18.97166633605957,-62.97533416748047
+7000,Malad City Airport,Malad City,United States,\N,KMLD,42.16659927368164,-112.2969970703125
+7010,Birrfeld Airport,Birrfeld,Switzerland,\N,LSZF,47.4436,8.23361
+7021,Ankeny Regional Airport,Ankeny,United States,\N,KIKV,41.69139862060547,-93.56639862060548
+7023,Corpus Christi Naval Air Station/Truax Field,Corpus Christi,United States,\N,KNGP,27.69260025,-97.29109955
+7046,Pápa Air Base,Papa,Hungary,\N,LHPA,47.3636016846,17.5007991791
+7047,Whiting Field Naval Air Station South Airport,Cuxhaven,Germany,\N,KNDZ,30.70439910888672,-87.02300262451172
+7130,Gatton Campus Airport,Gatton,Australia,\N,YGAT,-27.5604060653,152.340459824
+7134,Nabern/Teck Airport,Kirchheim-Teck,Germany,\N,EDTN,48.61277771,9.477222442629998
+7143,Kake Airport,Kake,United States,\N,PAFE,56.9613990784,-133.910003662
+7242,Healy River Airport,Healy,United States,\N,PAHV,63.8661994934082,-148.968994140625
+7244,Klawock Seaplane Base,Klawock,United States,\N,PAQC,55.5546989440918,-133.1020050048828
+7272,Fort St James Airport,Fort St. James,Canada,\N,CYJM,54.39720153808594,-124.26300048828124
+7275,Denny Island Airport,Bella Bella,Canada,\N,CYJQ,52.137937,-128.059748
+7278,Camaguey-Campo Cuatro Milpas Airport,Guasave,Mexico,\N,MM52,25.652200698853,-108.53800201416
+7280,Cabo San Lucas International Airport,Cabo San Lucas,Mexico,\N,MMSL,22.947701,-109.936996
+7323,Afobakka Airstrip,Afobaka,Suriname,\N,SMAF,4.998505,-54.992033
+7324,Alalapadu Airstrip,Alapadu,Suriname,\N,SMDU,2.5235,-56.3247
+7326,Lawa Anapaike Airstrip,Anapaike,Suriname,\N,SMLA,3.411301,-54.028049
+7327,Apetina Airstrip,Apetina,Suriname,\N,SMPT,3.50278,-55.058791
+7331,Kabalebo Airport,Kabalebo,Suriname,\N,SMKA,4.406,-57.223
+7332,Kayser Airport,Kayser,Suriname,\N,SMKE,3.094343,-56.472702
+7333,Kwamalasoemoetoe Airport,Kwamelasemoetoe,Suriname,\N,SMSM,2.354427,-56.792431
+7337,Sarakreek Airstrip,Sarakreek,Suriname,\N,SMSK,4.319444,-54.966667
+7338,Sipaliwini Airport,Sipaliwini,Suriname,\N,SMSI,2.026438,-56.126412
+7343,Codela Airport,Guapiles,Costa Rica,\N,MRCA,10.4139995575,-85.0916976929
+7348,Apoteri Airport,Apoteri,Guyana,\N,SYAP,4.013879776000977,-58.60499954223633
+7378,Fazenda Colen Airport,Lucas do Rio Verde,Brazil,\N,SWFE,-13.314443588256836,-56.11277770996094
+7428,Yei Airport,Yei,Sudan,\N,HSYE,4.13028160099,30.7280731201
+7432,Ecuvillens Airport,Ecuvillens,Switzerland,\N,LSGE,46.755001068115234,7.076109886169434
+7448,Kidepo Airport,Kidepo,Uganda,\N,HUKD,3.7176,33.7487
+7449,Kitgum Airport,Kitgum,Uganda,\N,HUKT,3.2817,32.8882
+7450,Bugungu Airport,Pakuba,Uganda,\N,HUPA,2.2,31.55
+7451,Svea Airport,Sveagruva,Svalbard,\N,ENSA,77.8969444,16.725
+7452,Ny-Ålesund Airport (Hamnerabben),Ny-Alesund,Svalbard,\N,ENAS,78.9274978638,11.8743
+7454,Kihnu Airfield,Kihnu,Estonia,\N,EEKU,58.14830017089844,24.002500534057617
+7455,Ruhnu Airfield,Ruhnu,Estonia,\N,EERU,57.78390121459961,23.26609992980957
+7461,Ouessant Airport,Ouessant,France,\N,LFEC,48.46319961547852,-5.06358003616333
+7467,Selfoss Airport,Selfoss,Iceland,\N,BISF,63.92919921875,-21.03779983520508
+7469,Ak Bashat Airport,Taldykorgan,Kazakhstan,\N,UAAT,42.88958,73.602004
+7474,Severo-Evensk Airport,Evensk,Russia,\N,UHMW,61.92166519165039,159.22999572753906
+7481,Nizhneangarsk Airport,Nizhneangarsk,Russia,\N,UIUN,55.80080032348633,109.59500122070312
+7483,Vanavara Airport,Vanavara,Russia,\N,UNIW,60.35969924926758,102.3239974975586
+7484,Aykhal Airport,Aykhal,Russia,\N,UERA,65.959197998047,111.54650115967
+7485,Uktus Airport,Yekaterinburg,Russia,\N,USSK,56.701698303222656,60.790000915527344
+7486,Baykit Airport,Baykit,Russia,\N,UNIB,61.676700592041016,96.3550033569336
+7487,Biysk Airport,Biysk,Russia,\N,UNBI,52.47999954223633,85.33999633789062
+7498,Tresco Heliport,Tresco,United Kingdom,\N,EGHT,49.94559860229492,-6.331389904022217
+7510,Stepanakert Air Base,Stepanakert,Azerbaijan,\N,UB13,39.90140151977539,46.7869987487793
+7518,Assumption Island Airport,Assumption Island,Seychelles,\N,FSAS,-9.7422199993,46.506802
+7531,Maturacá Airport,Maturaca,Brazil,\N,SWMK,0.6282690167427063,-66.11509704589844
+7533,Centro de Lançamento de Alcântara Airport,Alcantara,Brazil,\N,SNCW,-2.372999906539917,-44.39640045166016
+7538,Würzburg-Schenkenturm Airport,Wuerzburg,Germany,\N,EDFW,49.81778,9.8975
+7542,São Jacinto Airport,Aveiro,Portugal,\N,LPAV,40.656741,-8.741544
+7544,Hopsten Air Base,Hopsten,Germany,\N,ETNP,52.33869934082031,7.541329860687256
+7559,Borongan Airport,Borongan,Philippines,\N,RPVW,11.6743001938,125.478996277
+7578,Wilkins Runway,Budd Coast,Antarctica,\N,YWKS,-66.690833,111.523611
+7582,Richfield Municipal Airport,Richfield,United States,\N,KRIF,38.73640060424805,-112.0989990234375
+7622,Dyagilevo Air Base,Kostroma,Russia,\N,UUBD,54.64469909667969,39.57040023803711
+7642,Tasiilaq Heliport,Angmagssalik,Greenland,\N,BGAM,65.612296,-37.618335
+7651,Yolo County Davis Woodland Winters Airport,Davis-Woodland-Winters,United States,\N,KDWA,38.57910156,-121.8570023
+7660,Wangen-Lachen Airport,Wangen-Lachen,Switzerland,\N,LSPV,47.2047,8.8675
+7684,Courtelary Airport,Courtelary ,Switzerland,\N,LSZJ,47.18360137939453,7.090829849243164
+7685,Lotnisko Korne,Koszalin,Poland,\N,EPKO,54.129583,17.844972
+7686,Camp Okavango Airport,Okavango Delta,Botswana,\N,FBCO,-19.131115,23.102505
+7691,Whittier Airport,Whittier,United States,\N,PAWR,60.77719879150391,-148.7220001220703
+7694,San Clemente Island Naval Auxiliary Landing Field,San Clemente Island,United States,\N,KNUC,33.02270126,-118.5879974
+7710,Mezen Airport,Mezen,Russia,\N,ULAE,65.87833404541016,44.21500015258789
+7711,Vaskovo Airport,Arkhangelsk,Russia,\N,ULAH,64.44170379639999,40.4216995239
+7712,Cobb County-Mc Collum Field,Atlanta,United States,\N,KRYY,34.01319885,-84.59860229
+7714,Brumowski  Air Base,Tulln,Austria,\N,LOXT,48.3167,16.116699
+7716,Dell Flight Strip,Dell,United States,\N,K4U9,44.7356987,-112.720001221
+7720,Big Timber Airport,Big Timber,United States,\N,K6S0,45.806400299072266,-109.9810028076172
+7721,Tulip City Airport,Holland,United States,\N,KBIV,42.742900848389,-86.107398986816
+7722,London Heliport,London,United Kingdom,\N,EGLW,51.46972274779999,-0.179444000125
+7723,Venice-Lido Airport,Venice,Italy,\N,LIPV,45.428299,12.3881
+7724,Tallinn Linnahall Heliport,Tallinn,Estonia,\N,EECL,59.4486198425293,24.75322723388672
+7725,Hernesaari Heliport,Helsinki,Finland,\N,EFHE,60.14777755737305,24.9244441986084
+7726,Linkenheim Airport,Linkenheim,Germany,\N,EDRI,49.14166641235352,8.394721984863281
+7728,Hilversum Airfield,Hilversum,Netherlands,\N,EHHV,52.191898,5.14694
+7730,Texel Airfield,Texel,Netherlands,\N,EHTX,53.115299,4.83361
+7731,La Cerdanya Airport,Das i Fontanals de Cerdanya,Spain,\N,LECD,42.38639831542969,1.86667001247406
+7738,Stary Oskol Airport,Stary Oskol,Russia,\N,UUOS,51.32921600341797,37.76884841918945
+7767,Indianola Municipal Airport,New York,United States,\N,KIDL,33.485699,-90.678902
+7768,Cheremshanka Airport,Krasnoyarsk,Russia,\N,UNKM,56.1769981384,92.5400009155
+7773,White Waltham Airfield,Maidenhead,United Kingdom,\N,EGLM,51.5008010864,-0.774443984032
+7775,Carl R Keller Field,Port Clinton,United States,\N,KPCW,41.516300201416016,-82.86869812011719
+7777,Richmond Municipal Airport,Richmond,United States,\N,KRID,39.75719833374024,-84.8427963256836
+7780,Burlington Executive,Burlington,Canada,\N,CZBA,43.4414531515,-79.850102663
+7787,Engels heliport,Ebenhofen,Germany,\N,EBEN,51.21166610717773,4.580832958221436
+7800,Skå-Edeby Airport,Essen,Germany,\N,ESSE,59.34510040283203,17.74049949645996
+7806,Waterville / Kings County Municipal Airport,Waterville,Canada,\N,CCW3,45.0518989563,-64.6517028809
+7810,Westkapelle heliport,Knokke,Belgium,\N,EBKW,51.32222366333,3.2930560112
+7811,Redcliffe Airport,Rothwell,Australia,\N,YRED,-27.20669937133789,153.0679931640625
+7813,Malbork Military Air Base,Malbork,Poland,\N,EPMB,54.0269012451,19.1341991425
+7814,Lask Military Air Base,Lask,Poland,\N,EPLK,51.551700592,19.1791000366
+7815,Miroslawiec Military Air Base,Miroslawiec,Poland,\N,EPMI,53.3950996399,16.0827999115
+7816,Krzesiny Military Air Base,Poznan,Poland,\N,EPKS,52.3316993713,16.9664001465
+7820,Brampton Airport,Brampton,Canada,\N,CNC3,43.7602996826,-79.875
+7828,Batken Airport,Batken,Kyrgyzstan,\N,UA30,40.042899,70.83784
+7834,Hoogeveen Airfield,Hoogeveen,Netherlands,\N,EHHO,52.730801,6.51611
+7835,Teuge Airport,Deventer,Netherlands,\N,EHTE,52.2447013855,6.04666996002
+7836,Midden-Zeeland Airport,Middelburg,Netherlands,\N,EHMZ,51.5121994019,3.73111009598
+7837,Ameland Airfield,Ameland,Netherlands,\N,EHAL,53.451698,5.67722
+7838,Saint-Cyr-l'École Airport,Saint-Cyr,France,\N,LFPZ,48.8114013671875,2.0747199058532715
+7841,Mantsonyane Airport,Mantsonyane,Lesotho,\N,FXMN,-29.54610061645508,28.270999908447266
+7846,Arlington Municipal Airport,Arlington,United States,\N,KGKY,32.66389846801758,-97.09429931640624
+7855,Roitzschjora Airfield,Roitzschjora,Germany,\N,EDAW,51.577778,12.494444
+7859,Burlington Alamance Regional Airport,Burlington,United States,\N,KBUY,36.04850006103516,-79.47489929199219
+7867,De Peel Air Base,Deurne,Netherlands,\N,EHDP,51.51729965209961,5.855720043182373
+7872,Ringebu Airfield Frya,Frya,Norway,\N,ENRI,61.545440673,10.061588287
+7879,Phillip Island Airport,Phillip Island,Australia,\N,YPID,-38.52330017089844,145.32699584960938
+7892,Strasbourg Neuhof Airfield,Strasbourg Neudorf,France,\N,LFGC,48.554401,7.77806
+7893,Nannhausen Airport,Nannhausen,Germany,\N,EDRN,49.9702796936,7.47916698456
+7903,Marl-Loemühle Airfield,Recklinghausen,Germany,\N,EDLM,51.647202,7.16333
+7904,Färila Air Base,Farila,Sweden,\N,ESNF,61.897998809814,15.705300331116
+7909,Sun Island Resort and SPA,South Aari Atoll,Maldives,\N,\N,3.488334,72.862989
+7910,Fes Sefrou Airport,Fes,Morocco,\N,GMFU,34.00809860229492,-4.965559959411621
+7918,Regensburg-Oberhub Airport,Regensburg,Germany,\N,EDNR,49.14194488525391,12.081944465637209
+7928,Benson Airstrip,Uvalde,United States,\N,2XS8,29.229400634765625,-99.82389831542967
+7929,Rough River State Park Airport,Null,United States,\N,K2I3,37.610022,-86.507262
+7935,Collin County Regional At Mc Kinney Airport,DALLAS,United States,\N,KTKI,33.17789841,-96.59049988
+7939,Benešov Airport,Benesov,Czech Republic,\N,LKBE,49.74079895019531,14.644700050354004
+7941,Bougouni Airport,Bougouni,Mali,\N,GABG,11.449999809265137,-7.517000198364258
+7947,McMurdo Station Ice Runway,Ross Island,Antarctica,\N,NZIR,-77.85399627685547,166.468994140625
+7948,Keekorok Airport,Keekorok,Kenya,\N,HKKE,-1.5829999446868896,35.25
+7981,Mobile Airport,Mobile,United States,\N,1AZ0,33.111900329589844,-112.2689971923828
+7983,Gila Bend Municipal Airport,Gila Bend,United States,\N,KE63,32.95809937,-112.6780014
+7987,Mackenzie Airport,Mackenzie British Columbia,Canada,\N,CYZY,55.304402,-123.132004
+8006,Landshut Airport,Landshut,Germany,\N,EDML,48.51166534423828,12.033332824707031
+8007,Itzehoe/Hungriger Wolf Airport,Itzehoe,Germany,\N,EDHF,53.99444580078125,9.578611373901367
+8031,Calgary / Springbank Airport,Calgary,Canada,\N,CYBW,51.103099823,-114.374000549
+8032,Golden Airport,Golden,Canada,\N,CYGE,51.299196,-116.982002
+8035,Allstedt Airport,Allstedt,Germany,\N,EDBT,51.38055419921875,11.446666717529297
+8038,General Freire Airport,Curico,Chile,\N,SCIC,-34.96666717529297,-71.21639251708984
+8039,Peine-Eddesse Airport,Peine,Germany,\N,EDVP,52.402500152600005,10.228889465299998
+8042,South Texas Regional Airport at Hondo,Hondo,United States,\N,KHDO,29.35950088501,-99.176696777344
+8051,Lake Hood Airport,Anchorage,United States,\N,PALH,61.186946,-149.965442
+8054,Spremberg-Welzow Airport,Welzow,Germany,\N,EDCY,51.57555770874024,14.136943817138672
+8063,Fitzgerald Municipal Airport,Fitzgerald,United States,\N,KFZG,31.68370056152344,-83.27050018310547
+8070,Isla San Felix Airport,Isla San Felix,Chile,\N,SCFX,-26.29389953613281,-80.09619903564453
+8075,Shaibah Airport,Shaybah,Saudi Arabia,\N,OESB,22.51449966430664,53.9640998840332
+8085,Rotenburg (Wümme) Airport,Rotenburg Wuemme,Germany,\N,EDXQ,53.12833404541016,9.348610877990724
+8086,Wipperfürth-Neye Airport,Wipperfuerth,Germany,\N,EDKN,51.124168395996094,7.373610973358154
+8087,Osnabrück-Atterheide Airport,Osnabrueck,Germany,\N,EDWO,52.286388,7.969722
+8088,Flugplatz Ballenstedt,Ballenstedt,Germany,\N,EDCB,51.745834,11.229722
+8089,Flugplatz Hartenholm,Hasenmoor,Germany,\N,EDHM,53.915001,10.035556
+8090,Ganderkesee Atlas Airfield,Ganderkesee,Germany,\N,EDWQ,53.03611,8.505556
+8091,Nienburg-Holzbalge Airport,Nienburg Weser,Germany,\N,EDXI,52.709720611572266,9.162500381469728
+8092,Damme Airfield,Damme,Germany,\N,EDWC,52.487499,8.185556
+8093,Borkenberge Airport,Duelmen,Germany,\N,EDLB,51.7799987793,7.28805589676
+8094,Obermehler-Schlotheim Airport,Obermehler,Germany,\N,EDCO,51.26777648925781,10.634721755981444
+8095,Hodenhagen Airport,Hodenhagen,Germany,\N,EDVH,52.761865,9.61056
+8096,Grube Airport,Grube,Germany,\N,EDHB,54.24444580078125,11.0247220993042
+8097,Tønder Airport,Toender,Denmark,\N,EKTD,54.9296989440918,8.840570449829102
+8098,Celle-Arloh Airport,Celle,Germany,\N,EDVC,52.68722152709961,10.11138916015625
+8099,Uelzen Airport,Uelzen,Germany,\N,EDVU,52.9838905334,10.4650001526
+8100,Hamm-Lippewiesen Airport,Hamm,Germany,\N,EDLH,51.689720153808594,7.816111087799072
+8101,Lüsse Airport,Luesse,Germany,\N,EDOJ,52.141109466552734,12.664722442626951
+8102,Porta Westfalica Airport,Bad Oeynhausen,Germany,\N,EDVY,52.22083282470703,8.859167098999023
+8103,Brilon/Hochsauerlandkreis Airfield,Brilon,Germany,\N,EDKO,51.4025,8.641667
+8104,Hameln-Pyrmont Airport,Bad Pyrmont,Germany,\N,EDVW,51.96666717529297,9.291666984558104
+8105,Nordholz-Spieka Airfield,Cuxhaven,Germany,\N,EDXN,53.767223,8.643611
+8107,St. Michaelisdonn Airport,Sankt Michaelisdonn,Germany,\N,EDXM,53.978057861328125,9.14472198486328
+8108,Salzgitter-Drütte Airport,Salzgitter,Germany,\N,EDVS,52.15444564819336,10.42666721343994
+8109,Karlshöfen Airport,Karlshoefen,Germany,\N,EDWK,53.33277893066406,9.028332710266112
+8110,Oldenburg-Hatten Airfield,Oldenburg,Germany,\N,EDWH,53.06889,8.313611
+8111,Rinteln Airport,Rinteln,Germany,\N,EDVR,52.17527770996094,9.053333282470703
+8112,Münster-Telgte Airport,Muenster,Germany,\N,EDLT,51.94444274902344,7.773889064788818
+8114,Lüchow-Rehbeck Airport,Luechow,Germany,\N,EDHC,53.016109466552734,11.144444465637209
+8115,Klietz/Scharlibbe Airport,Scharlibbe,Germany,\N,EDCL,52.70944213867188,12.07333278656006
+8116,Burg Airport,Burg,Germany,\N,EDBG,52.24166870117188,11.85611057281494
+8117,Crisp County Cordele Airport,Cordele,United States,\N,KCKF,31.98880005,-83.77390289
+8118,Ormond Beach Municipal Airport,Ormond Beach,United States,\N,KOMN,29.300600051879883,-81.11360168457031
+8119,Bad Neuenahr-Ahrweiler Airfield,Bad Neuenahr,Germany,\N,EDRA,50.557777,7.136389
+8120,Bad Dürkheim Airport,Bad Duerkheim,Germany,\N,EDRF,49.47305679321289,8.196389198303223
+8123,One Police Plaza Heliport,New York,United States,\N,NK39,40.71260070800781,-73.99960327148438
+8124,Leverkusen Airport,Leverkusen,Germany,\N,EDKL,51.01527786254883,7.005556106567383
+8126,Wershofen/Eifel Airfield,Wershofen,Germany,\N,EDRV,50.451389,6.783333
+8133,Bend Municipal Airport,Bend,United States,\N,KBDN,44.09479904,-121.2009964
+8134,Christmas Valley Airport,Christmas Valley,United States,\N,K62S,43.23649978637695,-120.66600036621094
+8156,Bolshoye Gryzlovo Airfield,Stupino,Russia,\N,UUDG,54.785,37.645
+8162,Charlevoix Municipal Airport,Charelvoix,United States,\N,KCVX,45.3047981262207,-85.2748031616211
+8165,Mykines Heliport,Mykines,Faroe Islands,\N,EKMS,62.1021003723,-7.645919799800001
+8178,Seppe Airfield,Bosschenhoofd,Netherlands,\N,EHSE,51.554699,4.5525
+8179,St Stephan Airport,St.Stephan,Switzerland,\N,LSTS,46.49739837646485,7.412569999694824
+8181,IAR Gimbav Heliport,Brasov,Romania,\N,LRBG,45.686443,25.529058
+8182,Flagler Executive Airport,Flagler,United States,\N,KXFL,29.4674,-81.206299
+8189,Como (Idroscalo - Water Ad) Hidroport,Como,Italy,\N,LILY,45.814701,9.06972
+8219,Silver Springs Airport,Silver Springs,United States,\N,KSPZ,39.40299987792969,-119.2509994506836
+8224,Victoria Airport,Patricia Bay,Canada,\N,CAP5,48.6538920506,-123.450450897
+8227,Birchwood Airport,Belmopan,Belize,\N,PABV,61.41650009,-149.5070038
+8246,Urucu Airport,Porto Urucu,Brazil,\N,SWUY,-4.88422012329,-65.3554000854
+8273,Douglas Municipal Airport,Douglas,United States,\N,KDQH,31.47669982910156,-82.8604965209961
+8276,Taunton Municipal King Field,Taunton,United States,\N,KTAN,41.8744010925293,-71.0166015625
+8282,Windham Airport,Willimantic,United States,\N,KIJD,41.74399948120117,-72.1802978515625
+8285,Marshfield Municipal George Harlow Field,Marshfield,United States,\N,KGHG,42.09830093383789,-70.67220306396484
+8290,Fitchburg Municipal Airport,Fitchburg,United States,\N,KFIT,42.55410003662109,-71.75900268554688
+8291,Earl L. Small Jr. Field/Stockmar Airport,Villa Rica,United States,\N,20GA,33.7565002441,-84.88469696039999
+8292,Cartersville Airport,Cartersville,United States,\N,KVPC,34.12310028076172,-84.84870147705078
+8293,Centre-Piedmont-Cherokee County Regional Airport,Centre,United States,\N,KPYP,34.089977,-85.610069
+8296,Knoxville Downtown Island Airport,Knoxville,United States,\N,KDKX,35.96390151977539,-83.8739013671875
+8298,Plantation Airpark,Sylvania,United States,\N,KJYL,32.645301818847656,-81.59709930419922
+8300,West Georgia Regional O V Gray Field,Carrollton,United States,\N,KCTJ,33.63100051879883,-85.1520004272461
+8303,Baldwin County Regional Airport,Milledgeville,United States,\N,KMLJ,33.154202,-83.240701
+8306,Peachtree City Falcon Field,Atlanta,United States,\N,KFFC,33.3572998046875,-84.5718002319336
+8313,Darlington County Airport,Darlington,United States,\N,KUDG,34.449401,-79.890098
+8321,Mallards Landing Airport,Locust Grove,United States,\N,GA04,33.365699768066406,-84.16519927978516
+8323,Compton Abbas Aerodrome,Shaftesbury,United Kingdom,\N,EGHA,50.96720123291016,-2.1536099910736084
+8331,Aweil Airport,Aweil,Sudan,\N,HSAW,8.767000198364258,27.39999961853028
+8343,East Troy Municipal Airport,East Troy,United States,\N,K57C,42.79719924926758,-88.37259674072266
+8344,Kolpashevo Airport,Kolpashevo,Russia,\N,UNLL,58.32529830932617,82.93250274658203
+8347,Ali Al Salem Air Base,Kuwait,Kuwait,\N,OKAS,29.34670066833496,47.52080154418945
+8350,Warburton Airport,Warburton Community,Australia,\N,YWBR,-26.12829971313477,126.58300018310548
+8351,Cunderdin Airport,Cunderdin,Australia,\N,YCUN,-31.62220001220703,117.21700286865234
+8354,Ballarat Airport,Ballarat,Australia,\N,YBLT,-37.51169967651367,143.79100036621094
+8363,Slate Falls Airport,Slate Falls,Canada,\N,CKD9,51.130001068115234,-91.66560363769533
+8364,Collingwood Airport,Collingwood,Canada,\N,CNY3,44.4491996765,-80.1583023071
+8365,Brantford Municipal Airport,Brantford,Canada,\N,CYFD,43.13140106201172,-80.34249877929688
+8367,Wellington Municipal Airport,Wellington,United States,\N,KEGT,37.32360076904297,-97.38829803466795
+8394,Shelby County Airport,Alabaster,United States,\N,KEET,33.17699814,-86.78279877
+8397,Sky Ranch At Carefree Airport,Carefree,United States,\N,18AZ,33.81809997558594,-111.89800262451172
+8403,One Hundred Mile House Airport,One Hundred Mile House,Canada,\N,CAV3,51.64250183105469,-121.30699920654295
+8405,Glasgow City Heliport,Glasgow,United Kingdom,\N,EGEG,55.86138916015625,-4.29694414138794
+8406,Yarram Airport,Yarram,Australia,\N,YYRM,-38.56669998168945,146.7550048828125
+8409,Indianapolis Metropolitan Airport,Indianapolis,United States,\N,KUMP,39.93519974,-86.04499817
+8426,Matheson Island Airport,Matheson Island,Canada,\N,CJT2,51.732200622558594,-96.93440246582033
+8427,Tura Mountain Airport,Tura,Russia,\N,UNIT,64.333511352539,100.4328918457
+8432,Gera-Leumnitz Airfield,Gera,Germany,\N,EDAJ,50.881668,12.135833
+8435,Kasimovo Airfield,Saint-Petersburg,Russia,\N,XLLN,60.198299,30.334999
+8438,Terlet Glider Field,Arnhem,Netherlands,\N,EHTL,52.057201,5.92444
+8443,Redlands Municipal Airport,Redlands,United States,\N,KREI,34.08530044555664,-117.14600372314452
+8445,Flabob Airport,Riverside,United States,\N,KRIR,33.98970031738281,-117.41100311279295
+8459,Oerlinghausen Airport,TELGTE,Germany,\N,EDLO,51.932220458984375,8.661666870117188
+8462,Balzers Heliport,Balzers,Switzerland,\N,LSXB,47.0681,9.48111
+8467,Flugplatz Punitz,Punitz-Guessing,Austria,\N,LOGG,47.14653,16.316843
+8475,Sugar Loaf Shores Airport,Key West,United States,\N,7FA1,24.648799896240234,-81.57980346679688
+8480,Msembe Airport,Msembe,Tanzania,\N,HTMR,-7.684811,34.922282
+8494,Price County Airport,Phillips,United States,\N,KPBH,45.70899963378906,-90.40249633789062
+8495,Monroe Municipal Airport,Monroe,United States,\N,KEFT,42.61489868164063,-89.59040069580078
+8500,Fuerstenwalde Airport,Furstenwalde,Germany,\N,EDAL,52.3905982971,14.0972003937
+8501,Eberswalde-Finow Airport,Eberswalde,Germany,\N,EDAV,52.82722091674805,13.693611145019531
+8502,Joseph A. Hardy Connellsville Airport,Connellsville,United States,\N,KVVS,39.95920181,-79.65709686
+8503,Bedford County Airport,Bedford,United States,\N,KHMZ,40.08530045,-78.5121994
+8511,Jesup Wayne County Airport,Jesup,United States,\N,KJES,31.55400085,-81.88249969
+8512,Madison Municipal Airport,Madison,United States,\N,K52A,33.6120986938,-83.46040344240001
+8513,Newnan Coweta County Airport,Newnan,United States,\N,KCCO,33.31159973144531,-84.7697982788086
+8514,Thomson-McDuffie County Airport,Thomson,United States,\N,KHQU,33.52970123,-82.51650238
+8520,Richmond County Airport,Rockingham,United States,\N,KRCZ,34.8913,-79.759598
+8524,Baraboo Wisconsin Dells Airport,Baraboo,United States,\N,KDLL,43.52270126,-89.77020264
+8528,Burlington Municipal Airport,Burlington,United States,\N,KBUU,42.69070053100586,-88.30460357666016
+8538,Zelienople Municipal Airport,Zelienople,United States,\N,KPJC,40.80160141,-80.16069794
+8542,Lorain County Regional Airport,Lorain-Elyria,United States,\N,KLPR,41.34429932,-82.17759705
+8555,Warsaw Municipal Airport,Warsaw,United States,\N,KASW,41.27470016479492,-85.84010314941406
+8556,Van Wert County Airport,Van Wert,United States,\N,KVNW,40.86470031738281,-84.6093978881836
+8559,Brooks Field,Marshall,United States,\N,KRMY,42.25120162963867,-84.95549774169922
+8560,Genesee County Airport,Batavia,United States,\N,KGVQ,43.03170013,-78.16760254
+8577,Orlampa Inc Airport,Forties Alpha,United Kingdom,\N,FA08,28.1669998169,-81.80809783939999
+8601,Pickens County Airport,Jasper,United States,\N,KJZP,34.453399658203125,-84.4573974609375
+8603,Saarmund Airport,Saarmund,Germany,\N,EDCS,52.30833435058594,13.100556373596191
+8606,Lansing Municipal Airport,Lansing,United States,\N,KIGQ,41.5349006652832,-87.52950286865234
+8608,Ramona Airport,Ramona,United States,\N,KRNM,33.0392,-116.915001
+8609,Pont Sur Yonne Airfield,Pont Sur Yonne,France,\N,LFGO,48.289172,3.247912
+8610,St Florentin Cheu Airfield,St Florentin Cheu,France,\N,LFGP,47.98019,3.775583
+8611,Saulieu Liernais Airfield,Saulieu,France,\N,LFEW,47.239399,4.26583
+8612,Olten Airport,Olten,Switzerland,\N,LSPO,47.34439849853516,7.889440059661865
+8614,Ambri Airport,Quinto,Switzerland,\N,LSPM,46.512501,8.68978
+8615,Lodrino Air Base,Lodrino,Switzerland,\N,LSML,46.2958984375,8.992130279541016
+8616,Roudnice Airport,Roudnice nad Lebem,Czech Republic,\N,LKRO,50.41059875,14.2261
+8617,Usti Nad Labem Airfield,Usti Nad Labem,Czech Republic,\N,LKUL,50.699699,13.9697
+8618,Mauterndorf Airport,Mauterndorf,Austria,\N,LOSM,47.13249969482422,13.696900367736816
+8619,Nötsch Im Gailtal Airport,Notsch Im Gailtal,Austria,\N,LOKN,46.58110046386719,13.629199981689451
+8620,Sinsheim Airfield,Karlsruhe,Germany,\N,EDTK,49.2472,8.8938
+8621,Weinheim/Bergstraße Airport,Weinheim,Germany,\N,EDGZ,49.567501068115234,8.610555648803711
+8622,Meaux Esbly Airport,Meaux,France,\N,LFPE,48.92779922485352,2.835279941558838
+8623,Château-Thierry - Belleau Airfield,Chateau-Thierry,France,\N,LFFH,49.0672,3.35694
+8624,Branch County Memorial Airport,Coldwater,United States,\N,KOEB,41.9333992,-85.05259705
+8627,Taoyuan Air Base,Taoyuan,Taiwan,\N,RCGM,25.05660057067871,121.2442626953125
+8633,Inowroclaw Military Air Base,Inowroclaw,Poland,\N,EPIR,52.8293991089,18.3306007385
+8634,Pruszcz Gdanski Air Base,Pruszcz Gdansk,Poland,\N,EPPR,54.248001,18.6716
+8639,Bloyer Field,Tomah,United States,\N,KY72,43.97499847,-90.48349762
+8648,South Haven Area Regional Airport,South Haven,United States,\N,KLWA,42.351200103759766,-86.25569915771484
+8660,Nagaur Airport,Nagaur,India,\N,VI73,27.20829963684082,73.7114028930664
+8665,Somerset Airport,Somerville,United States,\N,KSMQ,40.6259994506836,-74.67019653320312
+8666,Eastport Municipal Airport,Eastport,United States,\N,KEPM,44.910099029541016,-67.01270294189453
+8670,Caernarfon Airport,Caernarfon,United Kingdom,\N,EGCK,53.101819,-4.337614
+8671,Grefrath-Niershorst Airport,Grefrath,Germany,\N,EDLF,51.33388900756836,6.35944414138794
+8683,Newcastle Aerodrome,Newcastle,Ireland,\N,EINC,53.07109832763672,-6.0452799797058105
+8689,Segeletz Airport,Segeletz,Germany,\N,EDAI,52.82666778564453,12.541943550109863
+8690,Fuentemilanos Airport,Segovia,Spain,\N,LEFM,40.8886108398,-4.23750019073
+8691,Akeno Airport,Akeno,Japan,\N,RJOE,34.53329849243164,136.6719970703125
+8692,Ust-Kamchatsk Airport,Ust Kamchatsk,Russia,\N,UHPK,56.23860168457031,162.68800354003906
+8693,Oconomowoc Airport,Oconomowoc,United States,\N,0WI8,43.13890075683594,-88.47229766845703
+8694,Kozyrevsk Airport,Kozyrevsk,Russia,\N,UHPO,56.09000015258789,159.8766632080078
+8696,Beverley Airport,Mine Site,Australia,\N,YBEE,-30.18670082092285,139.55799865722656
+8700,Aliwal North Airport,Aliwal North,South Africa,\N,FAAN,-30.68000030517578,26.729999542236328
+8701,Alkantpan Copper Airport,Alkantpan,South Africa,\N,FACO,-29.906400680541992,22.316699981689453
+8703,Bredasdorp Airport,Barberton,South Africa,\N,FABR,-34.665,20.0628
+8707,Bungoma Airport,Bungoma,Kenya,\N,HKBU,0.5762079954147339,34.55345153808594
+8708,Bura East Airport,Bura,Kenya,\N,HKBR,-1.100000023841858,39.95000076293945
+8709,Busia Airport,Busia,Kenya,\N,HKBA,0.4570850133895874,34.130279541015625
+8710,Embu Airport,Embu,Kenya,\N,HKEM,-0.57327,37.49726
+8711,Garba Tula Airport,Garba Tula,Kenya,\N,HKGT,0.533333,38.516667
+8714,Homa Bay Airport,Homa Bay,Kenya,\N,HKHB,-0.6000000238418579,34.46699905395508
+8715,Isiolo Airport,Isiolo,Kenya,\N,HKIS,0.3381709456443786,37.59169387817383
+8743,Waupaca Municipal Airport,Waupaca,United States,\N,KPCZ,44.33330154,-89.01979828
+8745,Mys Shmidta Airport,Mys Shmidta,Russia,\N,UHMI,68.86830139160156,-179.3730010986328
+8747,Luce County Airport,Newberry,United States,\N,KERY,46.31119918823242,-85.4572982788086
+8751,Góraszka Airport,Goraszka,Poland,\N,EPGO,52.18444061279297,21.281110763549805
+8782,Cooma Hospital Helipad,Yuzhno-Kurilsk,Russia,\N,YXCM,-36.242155,149.130147
+8807,Tabing Airport,Padang,Indonesia,\N,WIMG,-0.874989,100.351997
+8808,Tom B. David Field,Calhoun,United States,\N,KCZL,34.45539856,-84.93920135
+8809,Habersham County Airport,Cornelia,United States,\N,KAJR,34.49990082,-83.55670166
+8811,Georgetown Municipal Airport,Georgetown,United States,\N,KGTU,30.678800582885746,-97.6793975830078
+8812,Old Rhinebeck Airport,Rhinebeck,United States,\N,NY94,41.9715004,-73.86289978
+8816,Newnan Hospital Heliport,Bengassi,Mali,\N,GA46,33.38090133666992,-84.8010025024414
+8822,Mount Garnet Airport,Mount Garnet,Australia,\N,YMRT,-17.700000762939453,145.14999389648438
+8834,Madison County Executive Airport-Tom Sharp Jr Field,Huntsville,United States,\N,KMDQ,34.8614006,-86.55750275
+8835,Leesburg Executive Airport,Leesburg,United States,\N,KJYO,39.077999,-77.557503
+8838,Anoka County-Blaine (Janes Field) Airport,Anoka,United States,\N,KANE,45.145,-93.211401
+8839,Robinson Crusoe Airport,San Juan Bautista,Chile,\N,SCIR,-33.6650009155,-78.9297027588
+8850,Williamson Sodus Airport,Williamson,United States,\N,KSDC,43.234699,-77.121
+8853,Fairoaks Airport,Fairoaks,United Kingdom,\N,EGTF,51.3480987549,-0.558888971806
+8855,Neustadt-Glewe Airport,Neustadt-Glewe,Germany,\N,EDAN,53.35972213745117,11.615278244018556
+8859,Goetsenhoven Air Base,GOETSENHOVEN,Belgium,\N,EBTN,50.781700134277344,4.957779884338379
+8860,Tutow Airport,Wildenrath,Germany,\N,EDUW,53.92194366455078,13.218889236450195
+8861,Bremgarten Airport,Bremgarten,Germany,\N,EDTG,47.9027786255,7.6177778244
+8867,Letiště Vysoké Mýto,Vysoke Myto,Czech Republic,\N,LKVM,49.926899,16.185801
+8868,Spa (la Sauvenière) Airfield,Spa,Belgium,\N,EBSP,50.482498,5.9103
+8870,Coolidge Municipal Airport,Cooldige,United States,\N,KP08,32.9359016418457,-111.427001953125
+8871,Cottonwood Airport,Cottonwood,United States,\N,KP52,34.7299995422,-112.035003662
+8872,Namur-Suarlée Airfield,Namur,Belgium,\N,EBNM,50.487999,4.76892
+8873,Kiewit Airfield Hasselt,Hasselt,Belgium,\N,EBZH,50.970001,5.37507
+8874,Ak-Chin Regional Airport,Phoenix,United States,\N,KA39,32.990806,-111.918528
+8875,Wickenburg Municipal Airport,Wickenburg,United States,\N,KE25,33.96889877,-112.7990036
+8893,Glasgow Industrial Airport,Glasgow,United States,\N,07MT,48.42110061645508,-106.52799987792967
+8927,Lorenzo Airport,Morro de Sao Paulo,Brazil,\N,SNCL,-13.389444351196287,-38.90999984741211
+8928,Windom Municipal Airport,Windom,United States,\N,KMWM,43.91339874267578,-95.1093978881836
+8931,Longview Ranch Airport,Longview,United States,\N,OG39,44.66170120239258,-119.6520004272461
+8932,Rothera Research Station,Rothera Research Station,United Kingdom,\N,EGAR,-67.5675,-68.1274027778
+8933,Sortavala Airport,Sortavala,Russia,\N,ULPW,61.73609924316406,30.673599243164062
+8948,Paluknys Airport,Paluknys,Lithuania,\N,EYVP,54.48484802246094,24.98737335205078
+8953,Base Aérea Airport,Anapolis,Brazil,\N,SBAN,-16.2292,-48.964298
+8965,Beccles Airport,Beccles,United Kingdom,\N,EGSM,52.4352989197,1.6183300018300002
+8967,Caldera Airport,Caldera,Chile,\N,SCCL,-27.078100204467773,-70.79530334472656
+8968,San Pedro de Atacama Airport,San Pedro de Atacama,Chile,\N,SCPE,-22.92169952392578,-68.15840148925781
+8969,Copacabana Airport,Copacabana,Bolivia,\N,SLCC,-16.191099166870117,-69.09559631347656
+8972,RAF Brawdy,Brawdy,United Kingdom,\N,EGDA,51.88375,-5.119972
+8985,Enstone Aerodrome,Enstone,United Kingdom,\N,EGTN,51.9281666667,-1.4285
+9001,Ivanhoe Airport,Ivanhoe,Australia,\N,YIVO,-32.88330078125,144.30999755859375
+9002,Menindee Airport,Menindee,Australia,\N,YMED,-32.36669921875,142.40499877929688
+9004,Pooncarie Airport,Pooncarie,Australia,\N,YPCE,-33.36669921875,142.58799743652344
+9006,Tilpa Airport,Tilpa,Australia,\N,YTLP,-30.933300018310547,144.41700744628906
+9008,Reichenbach Air Base,Reichenbach im Kandertal,Switzerland,\N,LSGR,46.61360168457031,7.6777801513671875
+9053,Yelahanka Air Force Station,Bangalore,India,\N,VOYK,13.135499954223633,77.60600280761719
+9054,Yeltsovka Airport,Novosibirsk,Russia,\N,UNNE,55.09239959716797,83.00450134277344
+9062,Kodinsk Airport,Kodinsk,Russia,\N,UNKI,58.479400634765625,99.09390258789062
+9066,Henry County Airport,Hampton,United States,\N,K4A7,33.389099,-84.332397
+9075,Endelave Flyveplads,Endelage,Denmark,\N,EKEL,55.7565,10.2485
+9076,St. Johann In Tirol Airport,St. Johann in Tirol,Austria,\N,LOIJ,47.5201,12.4497
+9079,Thalmässing-Waizenhofen Airport,Thalmaessing,Germany,\N,EDPW,49.06416702270508,11.209166526794434
+9093,Comarapa Airport,Salt Lake City,United States,\N,SLCR,-17.91360092163086,-64.5177993774414
+9100,Ansbach-Petersdorf Airport,Ansbach,Germany,\N,EDQF,49.361111,10.669444
+9104,Rancho San Simeon Airport,Cambria,United States,\N,66CA,35.60770034790039,-121.11000061035156
+9123,Kasongo Airport,Kasongo,Congo (Kinshasa),\N,FZOK,-4.5329999923706055,26.617000579833984
+9124,McMurdo Station Pegasus Field,McMurdo Station,Antarctica,\N,NZPG,-77.9634017944336,166.52499389648438
+9125,Klatovy Airport,Klatovy,Czech Republic,\N,LKKT,49.41830062866211,13.321900367736816
+9129,Kangel Danda Airport,Kangel Danda,Nepal,\N,VNKL,27.4106333137,86.6465950012
+9134,Chara Airport,Chara,Russia,\N,UIAR,56.913333892822266,118.2699966430664
+9136,Herning Airport,Herning,Denmark,\N,EKHG,56.18470001220703,9.04444980621338
+9137,Oberschleißheim Airfield,Schleissheim,Germany,\N,EDNX,48.239445,11.561389
+9139,Glendale Municipal Airport,Glendale,United States,\N,KGEU,33.52690124511719,-112.29499816894533
+9141,Verden-Scharnhorst Airfield,Verden,Germany,\N,EDWV,52.965279,9.282778
+9147,Nittenau-Bruck Airport,Nittenau,Germany,\N,EDNM,49.22249984741211,12.296667098999023
+9149,Americana Airport,Americana,Brazil,\N,SDAI,-22.755800247192383,-47.26940155029297
+9162,Adamovka,Adamovka,Russia,\N,UWOD,51.5,59.936111
+9163,Kvarkeno,Kvarkeno,Russia,\N,UWOH,52.078333,59.683333
+9179,Saratoga County Airport,Ballston Spa,United States,\N,K5B2,43.05130005,-73.86119843
+9182,Crystal River Airport,Crystal River,United States,\N,KCGC,28.867300033569336,-82.57129669189453
+9184,Lincoln Regional Karl Harder Field,Lincoln,United States,\N,KLHM,38.90919876098633,-121.35099792480467
+9185,Fostoria Metropolitan Airport,Fostoria,United States,\N,KFZI,41.19079971,-83.39450073
+9187,Coral Creek Airport,Placida,United States,\N,FA54,26.85449981689453,-82.2511978149414
+9207,Warnervale Airport,Warnervale Airport,Australia,\N,YWVA,-33.240278,151.429722
+9237,Huronia Airport,Midland,Canada,\N,CYEE,44.6833000183,-79.9282989502
+9238,Markham Airport,Markham,Canada,\N,CNU8,43.93579864501953,-79.26219940185547
+9239,Stanhope Municipal Airport,Haliburton,Canada,\N,CND4,45.1108333333,-78.64
+9240,Kawartha Lakes (Lindsay) Airport,Lindsay,Canada,\N,CNF4,44.3647,-78.783897
+9243,Edenvale Aerodrome,Edenvale,Canada,\N,CNV8,44.441101,-79.962799
+9244,Orillia Airport,Orillia,Canada,\N,CNJ4,44.67765578389999,-79.31021690370001
+9245,Holland Landing Airpark,Holland Landing,Canada,\N,CLA4,44.08940124511719,-79.49500274658203
+9248,Hanover / Saugeen Municipal Airport,Hanover,Canada,\N,CYHS,44.158298,-81.062798
+9249,Brandywine Airport,West Goshen Township,United States,\N,KOQN,39.9901008605957,-75.58190155029297
+9253,Bubovice Airport,Bubovice,Czech Republic,\N,LKBU,49.97439956665039,14.178099632263184
+9255,Rakkestad Astorp Airport,Rakkestad,Norway,\N,ENRK,59.397499,11.3469
+9276,Elstree Airfield,Elstree,United Kingdom,\N,EGTR,51.6557998657,-0.325832992792
+9277,Sandtoft Airfield,Sandtoft,United Kingdom,\N,EGCF,53.5597000122,-0.8583329916
+9290,Torit Airport,Torit,South Sudan,\N,HSTR,4.400000095367432,32.58300018310547
+9305,Shelby County Airport,Shelbyville,United States,\N,K2H0,39.4104003906,-88.8453979492
+9317,Vängsö Airport,Vangso,Sweden,\N,ESSZ,59.10110092163086,17.21109962463379
+9348,Enumclaw Airport,Enumclaw,United States,\N,WA77,47.19570159912109,-122.02200317382812
+9372,Seymchan Airport,Seymchan,Russia,\N,UHMS,62.920780181884766,152.4227752685547
+9374,Susuman Airport,Susuman,Russia,\N,UHMH,62.76666641235352,148.14666748046875
+9379,Vitim Airport,Vitim,Russia,\N,UERT,59.458,112.563004
+9380,Pellworm Field,Pellworm,Germany,\N,EDHP,54.5363883972,8.68000030518
+9390,Fairfield County Airport,Winnsboro,United States,\N,KFDW,34.31549835205078,-81.10880279541016
+9396,Skyhaven Airport,Rochester,United States,\N,KDAW,43.28409957885742,-70.9292984008789
+9400,La Ferté Alais Airfield,La Ferte Alais,France,\N,LFFQ,48.498652,2.338867
+9407,Prosser Airport,Prosser,United States,\N,KS40,46.21340179,-119.7910004
+9409,Desert Aire Regional Airport,Mattawa,United States,\N,KM94,46.687401,-119.920998
+9412,Sabetha Municipal Airport,Sabetha,United States,\N,KK83,39.90420150756836,-95.77940368652344
+9413,Mt Pleasant Regional-Faison field,Mount Pleasant,United States,\N,KLRO,32.89780045,-79.78289795
+9414,Jimmy Carter Regional Airport,Americus,United States,\N,KACJ,32.110802,-84.188904
+9416,Saluda County Airport,Saluda,United States,\N,K6J4,33.92679977416992,-81.79460144042969
+9419,Tri Cities Airport,Endicott,United States,\N,KCZG,42.078499,-76.096296
+9428,Bessemer Airport,Bessemer,United States,\N,KEKY,33.31290054,-86.92590332
+9429,Colorado Springs East Airport,Ellicott,United States,\N,KA50,38.8744010925293,-104.41000366210938
+9447,Crystal Airport,Crystal,United States,\N,KMIC,45.0620002746582,-93.35389709472656
+9448,Clarke County Airport,Quitman,United States,\N,K23M,32.0849,-88.738897
+9475,Kabale Airport,Kabale,Uganda,\N,HUKB,-1.226111,29.96
+9481,Guatuso Airport,Marigot,France,\N,MRGT,10.68333339691162,-84.83333587646484
+9484,Central Bolívar Airport,Sevilla,Spain,\N,SVSJ,8.916666984558105,-71.93333435058594
+9492,Tuzla Romania Airport,Tuzla,Romania,\N,LRTZ,43.98419952392578,28.60969924926757
+9500,El Almendro Airport,Scranton,United States,\N,SCRT,-35.96055603027344,-71.7933349609375
+9511,San Agustin Airport,Morristown,United States,\N,MRST,10.06666660308838,-84.88333129882812
+9521,Samambaia Heliport,Saint Denis,Reunion,\N,SDNS,-22.46249961853028,-43.13055419921875
+9528,Fazenda Campo Verde Airport,Sihanoukville,Cambodia,\N,SNKV,1.04278004169,-50.5167007446
+9542,Coral Bay Airport,Coral Bay,Australia,\N,YCOY,-23.1299991607666,113.7770004272461
+9544,Lake Country Regional Airport,Clarksville,United Arab Emirates,\N,KW63,36.5957984924,-78.56009674070002
+9545,Robert S Kerr Airport,Poteau,United States,\N,KRKR,35.02159881591797,-94.62129974365234
+9746,Tok Airport,Tok,United States,\N,PATJ,63.303333,-143.001111
+9753,Popham Airfield,Popham,United Kingdom,\N,EGHP,51.193901,-1.23472
+9754,Causey Airport,Liberty,United States,\N,K2A5,35.911800384521484,-79.61759948730469
+9760,Black Point Airstrip,Black Point,Bahamas,\N,MYEB,24.0894884488,-76.3979172707
+9766,Cape Town Waterfort Heliport,Cap Town,South Africa,\N,FADW,0.0,0.0
+9773,Hyde County Airport,Engelhard,United States,\N,K7W6,35.562400817871094,-75.9552001953125
+9784,Perry Municipal Airport,Perry,United States,\N,KF22,36.38560104370117,-97.2771987915039
+9786,Hamilton Municipal Airport,Hamilton,United States,\N,KMNZ,31.6658992767334,-98.14859771728516
+9788,Mesquite Metro Airport,Misquite,United States,\N,KHQZ,32.74700164794922,-96.53040313720705
+9789,Denton Municipal Airport,Denton,United States,\N,KDTO,33.2006988525,-97.1979980469
+9790,Austin Executive Airport,Austin,United States,\N,KEDC,30.3974931,-97.5663935
+9791,Lago Vista Tx Rusty Allen Airport,Lago Vista,United States,\N,KRYW,30.49860000610352,-97.96949768066406
+9792,Brenham Municipal Airport,Brenham,United States,\N,K11R,30.21899986,-96.3742981
+9793,Lakeway Airpark,Lakeway,United States,\N,K3R9,30.357500076293945,-97.99449920654295
+9795,Kestrel Airpark,San Antonio,United States,\N,K1T7,29.812700271606445,-98.42530059814452
+9798,Charleston Executive Airport,Charleston,United States,\N,KJZI,32.70090103149414,-80.00289916992188
+9800,Brookneal/Campbell County Airport,Brookneal,United States,\N,K0V4,37.1417007446,-79.01640319820001
+9808,Wauchula Municipal Airport,Wuchula,United States,\N,KCHN,27.51490020752,-81.880500793457
+9818,Lilydale Airport,Lilydale,Australia,\N,YLIL,-37.69169998168945,145.36700439453125
+9829,Mbeya Airport,Mbeya,Tanzania,\N,HTMB,-8.919444,33.463889
+9830,Mpanda Airport,Mpanda,Tanzania,\N,HTMP,-6.355374,31.084116
+9832,Morogoro Airport,Morogoro,Tanzania,\N,HTMG,-6.797220230102539,37.653099060058594
+9847,Conway Horry County Airport,Conway,United States,\N,KHYW,33.82849884,-79.12220001
+9860,City Airport Manchester,Manchester,United Kingdom,\N,EGCB,53.471698761,-2.38971996307
+9861,Sleap Airport,Shrewsbury,United Kingdom,\N,EGCV,52.8339004517,-2.77167010307
+9862,Tatenhill Airfield,Burton-on-Trent,United Kingdom,\N,EGBM,52.8147010803,-1.76110994816
+9863,Full Sutton Airfield,York,United Kingdom,\N,EGNU,53.980598,-0.864722
+9864,Sherburn-In-Elmet Airfield,Leeds,United Kingdom,\N,EGCJ,53.788458,-1.216877
+9866,Beringin Airport,Muara Teweh,Indonesia,\N,WAOM,-0.940325021744,114.893875122
+9875,Lasikin Airport,Sinabang,Indonesia,\N,WITG,2.4102799892425537,96.32559967041016
+9892,Selayar/Aroepala Airport,Selayar,Indonesia,\N,WAWH,-6.1751,120.4362
+9938,Asheboro Regional Airport,Asheboro,United States,\N,KHBI,35.65449905,-79.8946991
+9942,Henderson Field,Wallace,United States,\N,KACZ,34.717899322509766,-78.00360107421875
+9943,Emporia Greensville Regional Airport,Emporia,United States,\N,KEMV,36.6869010925293,-77.48280334472656
+10062,Kee Field,Pineville,United States,\N,KI16,37.600399017333984,-81.5593032836914
+10089,Lille/Marcq-en-Baroeul Airport,Marcq En Baroeul,France,\N,LFQO,50.687198638916016,3.0755600929260254
+10096,Kawass Airport,Kamsar,Guinea,\N,GUKR,10.651000022888,-14.533599853516
+10103,Sallisaw Municipal Airport,Sallisaw,United States,\N,KJSV,35.4382019,-94.80280304
+10105,El Dorado Springs Memorial Airport,El dorado springs,United States,\N,K87K,37.8567008972168,-93.99909973144533
+10121,Mount Sterling Montgomery County Airport,Mount Sterling,United States,\N,KIOB,38.05810165,-83.979599
+10123,Nappanee Municipal Airport,Nappanee ,United States,\N,KC03,41.44620132446289,-85.93479919433594
+10129,Grove Municipal Airport,Grove,United States,\N,KGMJ,36.60680008,-94.73860168
+10130,Mc Pherson Airport,Mc Pherson,United States,\N,KMPR,38.35240173,-97.69129944
+10132,Perry Houston County Airport,Perry,United States,\N,KPXE,32.51060104370117,-83.76730346679688
+10134,Horace Williams Airport,Chapel Hill,United States,\N,KIGX,35.935001,-79.065902
+10138,Brunswick County Airport,Oak Island,United States,\N,KSUT,33.9292984,-78.07499695
+10139,Chesterfield County Airport,Richmond,United States,\N,KFCI,37.40650177,-77.52500153
+10140,Atherton Airport,Atherton,Australia,\N,YATN,-17.2616996765,145.51499939
+10141,Bagdarin Airport,Bagdarin,Russia,\N,UIUB,54.36920166015625,113.47899627685548
+10144,Henderson Oxford Airport,Oxford,United States,\N,KHNZ,36.36159897,-78.52919769
+10148,Semyazino Airport,Vladimir,Russia,\N,UUBL,56.12670135498047,40.31499862670898
+10149,Witberg Tswalu Airport,Dedeben,South Africa,\N,FATW,-27.20499992370605,22.48189926147461
+10151,Mana Pools Airport,Mana Pools,Zimbabwe,\N,FVMN,-15.768735,29.385617
+10161,Shobdon Aerodrome,Shobdon,United Kingdom,\N,EGBS,52.2416992188,-2.88110995293
+10163,Kamigoto Airport,Shin-kamigoto,Japan,\N,RJDK,33.0130996704,129.192001343
+10164,Ojika Airport,Odika,Japan,\N,RJDO,33.1907997131,129.089996338
+10165,Chofu Airport,Tokyo,Japan,\N,RJTF,35.67169952392578,139.5279998779297
+10169,Madison County Airport,London,United States,\N,KUYF,39.93270111,-83.46199799
+10173,Digby (General Hospital) Heliport,Tremblay-en-France,France,\N,CDG2,44.6161003112793,-65.76190185546875
+10178,Thun Airport,Thun,Switzerland,\N,LSZW,46.756401062,7.60056018829
+10184,Lavrentiya Airport,Lavrentiya,Russia,\N,UHML,65.58000183105469,-170.99667358398438
+10186,N 104 Helipad,Ulleung,South Korea,\N,RKDU,37.4791666667,130.895555556
+10295,Kymi Airport,Kotka,Finland,\N,EFKY,60.5713996887207,26.89609909057617
+10370,Kadina Airport,Kadina,Australia,\N,YKDI,-33.97669982910156,137.66000366210938
+10611,Ali Air Base,Nasiriyah,Iraq,\N,ORTL,30.935800552368164,46.0900993347168
+10617,Ota Air Base,Ota,Portugal,\N,LPOT,39.087502,-8.96278
+10723,Elsenthal Grafe Airport,Elsenthal,Germany,\N,EDNF,48.822498,13.3675
+10744,Newtownards Airport,Newtownards,United Kingdom,\N,EGAD,54.5811004639,-5.69193983078
+10745,Lashenden (Headcorn) Airfield,Headcorn,United Kingdom,\N,EGKH,51.156898,0.641667
+10746,Panshanger Aerodrome,Panshanger,United Kingdom,\N,EGLG,51.80250167849999,-0.158056005836
+10747,Thurrock Airfield,Thurrock,United Kingdom,\N,EGMT,51.537505,0.367634
+10748,Stapleford Aerodrome,Stapleford,United Kingdom,\N,EGSG,51.652500152600005,0.155833005905
+10750,HAL Airport,Bangalore,India,\N,VOBG,12.9499998093,77.6681976318
+10752,Omarama Glider Airport,Omarama,New Zealand,\N,NZOA,-44.486698150634766,169.98599243164062
+10753,Haast Aerodrome,Haast,New Zealand,\N,NZHT,-43.86529922485352,169.04100036621094
+10776,Meschede-Schüren Airport,Meschede,Germany,\N,EDKM,51.30277633666992,8.239167213439941
+10794,Morro da Urca Heliport,Rio de Janeiro,Brazil,\N,SDHU,-22.95166778564453,-43.16583251953125
+10802,Skúvoy Heliport,Skuvoy,Faroe Islands,\N,EKSY,61.76959991455078,-6.803410053253174
+10803,Stóra Dímun Heliport,Stora Dimun,Faroe Islands,\N,EKSR,61.68529891967773,-6.758500099182129
+10804,Frooba Heliport,Frooba,Faroe Islands,\N,EKFA,61.543701171875,-6.774419784545898
+10831,Person County Airport,Roxboro,United States,\N,KTDF,36.28490067,-78.98419952
+10951,Mestia Queen Tamar Airport,Mestia,Georgia,\N,UGMS,43.053597,42.749012
+11008,Mankato Regional Airport,Mankato,United States,\N,KMKT,44.22159958,-93.91870117
+11011,Merkel Field Sylacauga Municipal Airport,Sylacauga,United States,\N,KSCD,33.17179870605469,-86.30549621582031
+11017,Ryan Field,Tucson,United States,\N,KRYN,32.1422004699707,-111.1750030517578
+11032,Stade Airport,Stade,Germany,\N,EDHS,53.56111145019531,9.499167442321776
+11035,Meriden Markham Municipal Airport,Meriden,United States,\N,KMMK,41.50870132446289,-72.82949829101562
+11038,Flinders Island Airport,Elliston,Australia,\N,YFLS,-33.730989,134.501
+11048,Luzern-Beromunster Airport,Lucerne,Switzerland,\N,LSZO,47.18999862670898,8.204719543457031
+11049,La Grand'combe Airport,La Grand'Combe,France,\N,LFTN,44.24440002441406,4.012219905853272
+11054,Canmore Municipal Heliport,Canmore,Canada,\N,CEW9,51.07780075069999,-115.337997437
+11055,Krasnokamensk Airport,Krasnokamensk,Russia,\N,UIAE,50.03310775756836,118.06114196777344
+11067,Ridgely Airpark,Ridgely,United States,\N,KRJD,38.97010040283203,-75.86630249023438
+11068,New Castle Henry Co. Municipal Airport,New Castle,United States,\N,KUWL,39.87590027,-85.32649994
+11069,Scott City Municipal Airport,Scott City,United States,\N,KTQK,38.47430038452149,-100.88500213623048
+11072,Yubileyniy Airfield,Baikonur,Kazakhstan,\N,UAON,46.05500030517578,63.25
+11073,Wahoo Municipal Airport,Wahoo,United States,\N,KAHQ,41.2412986755,-96.59400177
+11075,Sublette Municipal Airport,Sublette,United States,\N,K19S,37.49140167,-100.8300018
+11078,Neodesha Municipal Airport,Neodesha,United States,\N,K2K7,37.43539810180664,-95.64610290527344
+11079,King Ranch Airport,Sutton,United States,\N,AK59,61.79560089111328,-148.35499572753906
+11080,Elkhart Morton County Airport,Elkhart,United States,\N,KEHA,37.000702,-101.879997
+11081,Front Range Airport,Denver,United States,\N,KFTG,39.785301208496094,-104.54299926757812
+11086,Meade Municipal Airport,Meade,United States,\N,KMEJ,37.27690124511719,-100.3560028076172
+11087,Turkey Mountain Estates Airport,Shell Knob,United States,\N,MO00,36.59170150756836,-93.66690063476562
+11088,Ulysses Airport,Ulysses,United States,\N,KULS,37.60400009,-101.3740005
+11089,Flagler Aerial Spraying Inc Airport,Flagler,United States,\N,CO00,39.27999877929688,-103.06700134277344
+11091,Augusta Municipal Airport,Augusta,United States,\N,K3AU,37.67160034179688,-97.0779037475586
+11092,Larned Pawnee County Airport,Larned,United States,\N,KLQR,38.20859909,-99.08599854
+11093,Lampasas Airport,Lampasas,United States,\N,KLZZ,31.106199264526367,-98.1958999633789
+11097,The Farm Airport,Summit,United States,\N,24SC,33.93579864501953,-81.42970275878906
+11099,General Dewitt Spain Airport,Memphis,United States,\N,KM01,35.20069885,-90.05400085
+11129,Nordborg Flyveplads,Nordborg,Denmark,\N,EKNB,55.07485,9.753379
+11132,Gießen-Lützellinden Airport,Giessen,Germany,\N,EDFL,50.543888092041016,8.590277671813965
+11133,Tököl Airport,Budapest,Hungary,\N,LHTL,47.345298767100005,18.9808006287
+11139,Kotido Airport,Kotido,Uganda,\N,HUKO,2.953,34.1232
+11140,Kajjansi Airfield,Kampala,Uganda,\N,HUKJ,0.1968,32.55297
+11141,Arlington Municipal Airport,Arlington,United States,\N,KAWO,48.16070175,-122.1589966
+11142,Paracatu Airport,Paracatu,Brazil,\N,SNZR,-17.242599487304688,-46.88309860229492
+11143,Das Bandeirinhas Airport,Conselheiro Lafaiete,Brazil,\N,SNKF,-20.738585,-43.797444
+11144,Janaúba Airport,Janauba,Brazil,\N,SNAP,-15.732,-43.323102
+11146,Cristiano Ferreira Varella Airport,Muriae,Brazil,\N,SNBM,-21.126100540161133,-42.39440155029297
+11170,Lure Malbouhans Air Base,Malbouhans,France,\N,LFYL,47.7047,6.54583
+11175,Parati Airport,Paraty,Brazil,\N,SDTK,-23.2243995667,-44.720298767100005
+11177,Angra dos Reis Airport,Angra dos Reis,Brazil,\N,SDAG,-22.97529983520508,-44.30709838867188
+11179,Maricá Airport,Marica,Brazil,\N,SDMC,-22.9195,-42.830898
+11181,Saquarema Airport,Saquarema,Brazil,\N,SDSK,-22.92972183227539,-42.50694274902344
+11182,Drumheller Municipal Airport,Drumheller,Canada,\N,CEG4,51.49639892578125,-112.7490005493164
+11193,Mwene-Ditu Airport,Mwene-Ditu,Congo (Kinshasa),\N,FZWE,-6.982999801635742,23.08300018310547
+11204,Posto Leonardo Vilas Boas Airport,Chapada dos Guimaraes,Brazil,\N,SWPL,-12.19833278656006,-53.38166809082031
+11209,Sobral Airport,Sobral,Brazil,\N,SNOB,-3.67889,-40.336802
+11272,Murray Bridge Airport,Murray Bridge,Australia,\N,YMBD,-35.06669998168945,139.2270050048828
+11292,Kahemba Airport,Kahemba,Congo (Kinshasa),\N,FZCF,-7.333000183105469,19.01700019836425
+11293,Francisco de Miranda Airport,Caracas,Venezuela,\N,SVFM,10.4850330353,-66.8435134888
+11352,Thamkharka Airport,Thamkharka,Nepal,\N,VNTH,27.04787,86.858022
+11386,Jelenia Góra Glider Airport,Jelenia Gora,Poland,\N,EPJG,50.89889907836914,15.785599708557127
+11406,Vuktyl Airport,Vuktyl,Russia,\N,UUYK,63.82329940795898,57.27999877929688
+11407,Berezniki Airport,Berezniki,Russia,\N,USPT,59.57954788208008,56.85768127441406
+11431,San Sebastián Airport,San Sebastian,Chile,\N,SCSS,-53.31700134277344,-68.6500015258789
+11433,Tolwin Observatory Airport,Tolhuin,Argentina,\N,SAWL,-54.521900177,-67.1989974976
+11438,Camarillo Airport,Camarillo - CA,United States,\N,KCMA,34.21369934082031,-119.09400177001952
+11452,Leopoldsburg Airfield,Leopoldsburg,Belgium,\N,EBLE,51.12,5.3072222
+11479,Omtepe Airport,Moyogalpa,Nicaragua,\N,MNLP,11.523616,-85.702995
+11649,Williamsburg Jamestown Airport,Williamsburg,United States,\N,KJGG,37.239200592041016,-76.71610260009766
+11673,William Creek Airport,William Creek,Australia,\N,YWMC,-28.906700134277344,136.3419952392578
+11684,Kenora Seaplane Base,Kenora,Canada,\N,CJM9,49.767424,-94.49274
+11685,Rumbula Air Base,Riga,Latvia,\N,EVRC,56.8833007812,24.2266998291
+11700,Siquijor Airport,Siquijor,Philippines,\N,RPVZ,9.21420322319,123.472251892
+11718,Gelnhausen Airport,Gelnhausen,Germany,\N,EDFG,50.19722366333008,9.170000076293944
+11719,Ærø Airport,Aero,Denmark,\N,EKAE,54.85279846191406,10.45639991760254
+11720,Lauterbach Airport,Lauterbach-Wernges,Germany,\N,EDFT,50.683334,9.410833
+11721,Aschaffenburg Airport,Aschaffenburg,Germany,\N,EDFC,49.93888854980469,9.063888549804688
+11735,Reichelsheim Airport,Reichelsheim,Germany,\N,EDFB,50.33583450317383,8.878055572509766
+11737,Marburg-Schönstadt Airport,Schoenstadt,Germany,\N,EDFN,50.87444305419922,8.8149995803833
+11738,Lauenbrück Airport,Lauenbrueck,Germany,\N,EDHU,53.20750045776367,9.57333278656006
+11739,Hüttenbusch Airport,Huettenbusch,Germany,\N,EDXU,53.28666687011719,8.947221755981445
+11740,Vrsar Crljenka Airport,Vsar,Croatia,\N,LDPV,45.141700744628906,13.630599975585938
+11742,Union County Airport,Marysville,United States,\N,KMRT,40.224700927734375,-83.35160064697266
+11745,Liverpool South Shore Regional Airport,Liverpool,Canada,\N,CYAU,44.2303009033,-64.85610198970001
+11747,Nipawin Airport,Nipawin,Canada,\N,CYBU,53.33250045776367,-104.00800323486328
+11749,Blue River Airport,Blue River,Canada,\N,CYCP,52.11669921875,-119.28299713134766
+11754,Goderich Airport,Goderich,Canada,\N,CYGD,43.7668991089,-81.7106018066
+11763,Nejanilini Lake Airport,Nejanilini Lake,Canada,\N,CYNN,59.4874992371,-97.7802963257
+11768,Ottawa / Carp Airport,Ottawa,Canada,\N,CYRP,45.3191986084,-76.0222015381
+11771,Virden/R.J. (Bob) Andrew Field Regional Aerodrome,Virden,Canada,\N,CYVD,49.8782997131,-100.917999268
+11786,Airport Bamberg-Breitenau,Bamberg,Germany,\N,EDQA,49.920403,10.914233
+11787,Zerbst Airport,Zerbst/Anhalt,Germany,\N,EDUZ,52.000832,12.148611
+11788,RAF Spadeadam,Spadeadam,United Kingdom,\N,EGOM,55.0499992371,-2.54999995232
+11791,Cewice Air Base,Lębork,Poland,\N,EPCE,54.416,17.7633
+11792,Deblin Military Air Base,Dęblin,Poland,\N,EPDE,51.551399231,21.8936004639
+11793,Leczyca Military Air Base,Leczyca,Poland,\N,EPLY,52.004699707,19.1455993652
+11794,Minsk Mazowiecki Military Air Base,,Poland,\N,EPMM,52.1954994202,21.6558990479
+11795,Powidz Military Air Base,,Poland,\N,EPPW,52.379398,17.853901
+11796,Tomaszow Mazowiecki Military Air Base,Tomaszów Mazowiecki,Poland,\N,EPTM,51.584400177,20.0977993011
+11797,Björkvik Air Base,Björkvik,Sweden,\N,ESKX,58.79079818725586,16.571199417114258
+11798,Ljungbyhed Airport,Ljungbyhed,Sweden,\N,ESTL,56.082801818847656,13.212499618530272
+11800,Jēkabpils Air Base,Jēkabpils,Latvia,\N,EVKA,56.534698,25.8925
+11801,Jūrmala Airport,Tukums,Latvia,\N,EVTA,56.9422,23.2239
+11802,Kėdainiai Air Base,Kėdainiai,Lithuania,\N,EYKD,55.31169891357422,23.95639991760254
+11805,Lusaka City Airport,Lusaka,Zambia,\N,FLLC,-15.4138002396,28.3306999207
+11809,Mariental Airport,Mariental,Namibia,\N,FYML,-24.60540008544922,17.925399780273438
+11810,Almaza Air Force Base,Cairo,Egypt,\N,HEAZ,30.091800689697266,31.36000061035156
+11811,Beni Suef Air Base,Beni Suef,Egypt,\N,HEBS,29.20829963684082,31.016599655151367
+11812,Jiyanklis Air Base,Jiyanklis,Egypt,\N,HEGS,30.819799423217773,30.191200256347656
+11835,San Marcos Regional Airport,San Marcos,United States,\N,KHYI,29.8927,-97.862999
+11838,Monticello Municipal Ellis Field,Monticello,United States,\N,KLLQ,33.6385994,-91.75099945
+11847,Columbus Municipal Airport,Columbus,United States,\N,KOLU,41.44800186,-97.34259796
+11852,New Richmond Regional Airport,New Richmond,United States,\N,KRNH,45.14830017,-92.5381012
+11856,Sonora Municipal Airport,Sonora,United States,\N,KSOA,30.585699081421,-100.6490020752
+11857,Saline County Regional Airport,Benton,United States,\N,KSUZ,34.59059906,-92.47940063
+11859,Aurora State Airport,Aurora,United States,\N,KUAO,45.247100830078125,-122.7699966430664
+11866,Cape Canaveral AFS Skid Strip,Cocoa Beach,United States,\N,KXMR,28.4675998688,-80.56659698490002
+11867,Homey (Area 51) Airport,Groom Lake,United States,\N,KXTA,37.23500061035156,-115.81099700927734
+11869,Gjadër Air Base,Gjadër,Albania,\N,LAGJ,41.895199,19.5987
+11870,Kukës Airport,Kukës,Albania,\N,LAKU,42.0336990356,20.4158992767
+11871,Kuçovë Air Base,Kuçovë,Albania,\N,LAKV,40.77190017700195,19.901899337768555
+11872,Vlorë Air Base,Vlorë,Albania,\N,LAVL,40.47610092163086,19.474199295043945
+11873,Haskovo Malevo Airport,Haskovo,Bulgaria,\N,LBHS,41.976398,25.5898
+11874,Gabrovnitsa Air Base,Gabrovnitsa,Bulgaria,\N,LBMG,43.5443000793457,23.272499084472656
+11875,Graf Ignatievo Air Base,Graf Ignatievo,Bulgaria,\N,LBPG,42.29040145874024,24.714000701904297
+11876,Dolna Mitropoliya Air Base,Dolna Mitropoliya,Bulgaria,\N,LBPL,43.451401,24.5028
+11877,Balchik Air Base,Balchik,Bulgaria,\N,LBWB,43.42380142211914,28.181299209594727
+11881,Blois-Le Breuil Airport,Blois/Le Breuil,France,\N,LFOQ,47.678502,1.20884
+11882,Trento-Mattarello Airport,Trento (TN),Italy,\N,LIDT,46.0214,11.1242
+11883,Alessandria Airport,Alessandria,Italy,\N,LILA,44.925201,8.62513
+11884,Biella-Cerrione Airport,Biella (BI),Italy,\N,LILE,45.4953,8.10278
+11885,Vercelli Airport,Vercelli,Italy,\N,LILI,45.310233,8.417935
+11886,Casale Monferrato Airport,Casale Monferrato,Italy,\N,LILM,45.111198,8.45603
+11887,Varese-Venegono Airport,Varese,Italy,\N,LILN,45.742199,8.888233
+11888,Novi Ligure Airport,Novi Ligure,Italy,\N,LIMR,44.779999,8.78639
+11890,Câmpia Turzii Air Base,Câmpia Turzii,Romania,\N,LRCT,46.50230026245117,23.885900497436523
+11891,Mărculeşti International Airport,Mărculeşti,Moldova,\N,LUBM,47.862701416015625,28.212799072265625
+11892,Cahul International Airport,Cahul,Moldova,\N,LUCH,45.8437995911,28.2637004852
+11893,Tiraspol Airport,Tiraspol,Moldova,\N,LUTR,46.86809921264648,29.5905990600586
+11904,Hamadan Air Base,Hamadan,Iran,\N,OIHS,35.21160125732422,48.65340042114258
+11907,Rayak Air Base,Rayak,Lebanon,\N,OLRA,33.850799560546875,35.987701416015625
+11908,Mirpur Khas Air Base,Mirpur Khas,Pakistan,\N,OPMK,25.682501,69.0728
+11910,Rafiqui Air Base,Shorkot,Pakistan,\N,OPRQ,30.758100509643555,72.28250122070312
+11911,Faisal Air Base,Karachi,Pakistan,\N,OPSF,24.87420082092285,67.11849975585938
+11914,Al Sahra Army Air Field,Tikrit,Iraq,\N,ORSH,34.67319869995117,43.542999267578125
+11915,Tall Afar Army Air Field,Tall Afar,Iraq,\N,ORTF,36.28310012817383,42.40299987792969
+11916,Al Taji Army Air Field,Taji,Iraq,\N,ORTI,33.52389907836914,44.25669860839844
+11917,Ubaydah Bin Al Jarrah Airport,Al Cut,Iraq,\N,ORUB,32.48199844360352,45.75709915161133
+11920,Gangshan Air Force Base,Gangshan,Taiwan,\N,RCAY,22.78249931335449,120.26300048828124
+11921,Asahikawa Airfield,,Japan,\N,RJCA,43.794734,142.365432
+11923,Utsunomiya Airport,,Japan,\N,RJTU,36.5145,139.87101
+11924,Jungwon Air Base/Chungju Airport,,South Korea,\N,RKTI,37.03024,127.886353
+11929,Presidente Néstor Kirchner Regionsl Airport,Villa Maria,Argentina,\N,SAOV,-32.3201,-63.22663
+11933,Schroeder's field,Cochrane,Chile,\N,SCHR,35.071718,-91.738801
+11942,Tunja Airport,Tunja,Colombia,\N,SKTJ,5.54138,-73.3445
+11944,Marandúa Air Base,Marandúa,Colombia,\N,SKUA,5.52448,-68.6856
+11947,Metropolitano Airport,,Venezuela,\N,SVMP,10.133169174194336,-66.78782653808594
+11949,Kant Air Base,Kant,Kyrgyzstan,\N,UAFW,42.85319900512695,74.84649658203125
+11950,Ayaguz Airport,Ayaguz,Kazakhstan,\N,UASA,47.91859817504883,80.45279693603516
+11951,Chelkar Airport,Chelkar,Kazakhstan,\N,UATR,47.90499877929688,59.619998931884766
+11952,Kyzyl-Syr Airport,Kyzyl-Syr,Russia,\N,UENK,63.8849983215332,122.7770004272461
+11955,Dzhermuk Airport,Dzhermuk,Armenia,\N,UGEJ,39.8240013123,45.6739997864
+11956,Kamenny Ruchey Naval Air Base,Sovetskaya Gavan,Russia,\N,UHKG,49.23570251464844,140.19309997558594
+11958,Omsukchan Airport,Omsukchan,Russia,\N,UHMF,62.45700073242188,155.7449951171875
+11959,Chaybukha Airport,Chaybukha,Russia,\N,UHMG,61.834999084472656,160.54800415039062
+11960,Keperveem Airport,Keperveem,Russia,\N,UHMK,67.8450012207,166.13999939
+11961,Magadan-13 Airport,Magadan,Russia,\N,UHMT,59.62329864501953,150.9219970703125
+11963,Palana Airport,Palana,Russia,\N,UHPL,59.08169937133789,159.88800048828125
+11964,Zheleznogorsk Airport,Zheleznogorsk-Ilimsky,Russia,\N,UIBV,56.487701416015625,104.1060028076172
+11965,Gvardeyskoe Air Base,Sarabuz,Ukraine,\N,UKFG,45.1150016784668,33.97700119018555
+11966,Saki Air Base,Saki,Ukraine,\N,UKFI,45.09299850463867,33.595001220703125
+11967,Dzhankoy Airport,Dzhankoy,Ukraine,\N,UKFY,45.70090103149414,34.41889953613281
+11968,Ozerne Air Base,Zhytomyr,Ukraine,\N,UKKO,50.158298,28.7383
+11969,Severomorsk-1 Naval Air Base,Severomorsk,Russia,\N,ULAK,69.03166961669922,33.418331146240234
+11970,Pushkin Airport,St. Petersburg,Russia,\N,ULLP,59.685001,30.338301
+11971,Siversky Air Base,Siversky,Russia,\N,ULLS,59.3567008972168,30.036699295043945
+11972,Staraya Russa Air Base,Staraya Russa,Russia,\N,ULNR,57.961399,31.384399
+11973,Peski Airport,Petrozavodsk,Russia,\N,ULPP,61.83194351196289,34.295555114746094
+11974,Baranavichi Air Base,Baranavichi,Belarus,\N,UMMA,53.09999847412109,26.049999237060547
+11975,Babruisk Air Base,Babruisk,Belarus,\N,UMNB,53.105,29.205
+11976,Severo-Eniseysk Airport,Severo-Eniseysk,Russia,\N,UNIS,60.37329864501953,93.01170349121094
+11977,Sharypovo Airport,Sharypovo,Russia,\N,UNKO,55.454914093,89.1738815308
+11978,Omsk Severny Airport,Omsk,Russia,\N,UNOS,54.9749984741,73.5550003052
+11979,Nagurskoye,Murmansk,Russia,\N,UODN,80.803207,47.663586
+11980,Svetlogorsk Airport,Svetlogorsk,Russia,\N,UOIG,66.83999633789062,88.40333557128906
+11981,Valek Airport,Valek,Russia,\N,UOOW,69.39690399169922,88.35368347167969
+11982,Khanskaya Air Base,Maykop,Russia,\N,URKH,44.68,40.035
+11983,Dudinka Airport,Dudinka,Russia,\N,UROD,69.375,86.15666961669922
+11985,Tashkent East Airport,Tashkent,Uzbekistan,\N,UTTP,41.31269836425781,69.39140319824219
+11986,Myachkovo Airport,Moscow,Russia,\N,UUBM,55.5600013733,37.9850006104
+11987,Tretyakovo Airport,Lukhovitsy,Russia,\N,UUMT,54.9049987793,39.02666854859999
+11988,Yermolino Airport,Balabanovo,Russia,\N,UUWE,55.2283325195,36.6083335876
+11990,Izhma Airport,Izhma,Russia,\N,UUYV,65.03170013427734,53.970001220703125
+11991,Borisoglebskoye Airport,Kazan,Russia,\N,UWKG,55.86669921875,49.13330078125
+11993,Maksimovka Airport,Ufa,Russia,\N,UWUM,54.83000183105469,56.16830062866211
+11994,Buguruslan Severny Airport,Buguruslan,Russia,\N,UWWB,53.71839904789999,52.3718986511
+11995,Bezymyanka Airfield,Samara,Russia,\N,UWWG,53.220001220703125,50.32500076293945
+11999,Ambala Air Force Station,,India,\N,VIAM,30.368099212646484,76.81670379638672
+12000,Sirsa Air Force Station,,India,\N,VISA,29.56060028076172,75.006103515625
+12001,Udhampur Air Force Station,,India,\N,VIUX,32.902198791503906,75.15619659423828
+12003,Meiktila Air Base,Meiktila,Burma,\N,VYML,20.88640022277832,95.89279174804688
+12004,Changi Air Base (East),Singapore,Singapore,\N,WSAC,1.3441400528,104.009002686
+12005,Soltsy-2 Air Base,Soltsy,Russia,\N,XLLL,58.139545,30.33042
+12006,Severomorsk-3 Naval Air Base,Severomorsk,Russia,\N,XLMV,68.866669,33.716667
+12007,Fedotovo Naval Air Base,Kipelovo,Russia,\N,XLWF,59.193031,39.129411
+12008,Lebyazhye Air Base,Kamyshin,Russia,\N,XRWL,50.2016983032,45.2083015442
+12010,Rtishchevo Air Base,Rtishchevo,Russia,\N,XWPR,52.297317,43.7241
+12049,Sunchon Air Base,Sunchon,North Korea,\N,ZKSC,39.415699,125.894997
+12057,Shenyang Dongta Airport,Shenyang,China,\N,ZYYY,41.784400939941406,123.49600219726562
+12059,Itapiranga Airport,Itapiranga,Brazil,\N,SSYT,-27.14249992370605,-53.68579864501953
+12069,Aguas Calientes Airport,Aguas Calientes,Peru,\N,SPAT,-8.833330154418945,-74.68329620361328
+12090,Vancouver International Seaplane Base,Vancouver,Canada,\N,CAM9,49.177047,-123.168154
+12096,Bressaucourt Airport,Bressaucourt-Porrentruy,Switzerland,\N,LSZQ,47.392677,7.028648
+12109,Sokodé Airport,Sokode,Togo,\N,DXSK,8.994275,1.153004
+12110,Sansanné-Mango Airport,Mango,Togo,\N,DXMG,10.373010635375977,0.4713821411132812
+12133,Arnbruck Airport,Arnbruck,Germany,\N,EDNB,49.12472152709961,12.985555648803713
+12163,Jacarepaguá - Roberto Marinho Airport,Rio de Janeiro,Brazil,\N,SBJR,-22.987499,-43.369999
+12165,Hacaritama Airport,Aguachica,Colombia,\N,SKAG,8.247,-73.5814
+12182,Mount Davies Airport,Pipalyatjara,Australia,\N,YMDV,-26.16670036315918,129.13299560546875
+12183,Areyonga Airport,Areyonga,Australia,\N,YARN,-24.066699981689453,132.26699829101562
+12185,Tracy Municipal Airport,Tracy,United States,\N,KTCY,37.68899917602539,-121.44200134277344
+12217,Mount Allan Airport,Yuelamu,Australia,\N,YMNA,-22.27499961853028,132.2169952392578
+12218,Everard Park Airport,Mimili,Australia,\N,YEVP,-27.016700744628903,132.7169952392578
+12219,Warrabri Airport,Ali-Curung,Australia,\N,YWBI,-21.0,134.39700317382812
+12310,Krefeld-Egelsberg Airport,Krefeld,Germany,\N,EDLK,51.3849983215332,6.587778091430664
+12340,Ampilatwatja Airport,Ampilatwatja,Australia,\N,YAMJ,-21.655000686645508,135.22999572753906
+12361,Harts Range Airport,Harts Range,Australia,\N,YHTS,-22.98500061035156,134.91799926757812
+12391,Elliott Airport,Elliott,Australia,\N,YELL,-17.527429580688477,133.52989196777344
+12392,Papunya Airport,Papunya,Australia,\N,YPAY,-23.246700286865234,131.9029998779297
+12444,Fregon Airport,Fregon,Australia,\N,YFRG,-26.77499961853028,132.01699829101562
+12445,Mount Liebig Airport,Mt Liebig,Australia,\N,YLBG,-23.24329948425293,131.25999450683594
+12469,Bolton Field,Columbus,United States,\N,KTZR,39.90119934082031,-83.13690185546875
+12619,Liman Airfield,Odesa,Ukraine,\N,UKOE,46.57851,30.703053
+12640,Lognes Emerainville Airport,Lognes,France,\N,LFPL,48.821028,2.625967
+12673,Evergreen Regional Airport/Middleton Field,Evergreen,United States,\N,KGZH,31.4158,-87.043999
+12796,Danielson Airport,Danielson,United States,\N,KLZD,41.81969833374024,-71.9010009765625
+12856,Clearfield Lawrence Airport,Clearfield,United States,\N,KFIG,41.04859924316406,-78.41310119628906
+12918,Ti Tree Airport,Ti Tree,Australia,\N,YTIT,-22.13170051574707,133.4199981689453
+12931,El Fuentero Airport,Svenborg,Denmark,\N,SVFT,7.099999904632568,-69.58333587646484
+12941,Sturgate Airfield,Eger,Hungary,\N,EGCS,53.38109970092773,-0.6852779984474182
+12948,Kintore Airport,Kintore,Australia,\N,YKNT,-23.26499938964844,129.38699340820312
+12951,Utopia Airport,Utopia,Australia,\N,YUTP,-22.05500030517578,134.7899932861328
+12957,Nyrripi Airport,Nyirripi,Australia,\N,YNRR,-22.645299911499023,130.56500244140625
+12961,Glacier Country Heliport,Franz Josef,New Zealand,\N,NZGH,-43.38722,170.18
+12980,Helisul I Heliport,Foz do Iguassu,Brazil,\N,SSHH,-25.604167938232425,-54.49361038208008
+13004,Nypari Airport,Angatja Homeland,Australia,\N,YNYP,-26.200000762939453,130.23300170898438
+13006,Ihtiman Airfield,Ihtiman,Bulgaria,\N,LBHT,42.42189,23.767221
+13009,Vogtareuth Airport,Vogtareuth,Germany,\N,EDNV,47.94610977172852,12.20472240447998
+13011,[Duplicate] Illertissen see EDMI - ED-0425 location moved out-of-the way,Not Specified,New Zealand,\N,XXXX,89.5,0.0001
+13016,New Smyrna Beach Municipal Airport,New Smyrna Beach,United States,\N,KEVB,29.055700302124023,-80.94889831542969
+13018,Las Vegas Helicopters Heliport,Las vegas,United States,\N,NV03,36.10810089111328,-115.17400360107422
+13019,Delta Camp Airport,Delta Camp,Botswana,\N,FBDT,-19.5323,23.0925
+13022,Harbour (Public) Heliport,Vancouver,Canada,\N,CBC7,49.2868921105,-123.106112257
+13023,Victoria Harbour (Camel Point) Heliport,Victoria,Canada,\N,CBF7,48.41809844970703,-123.38800048828124
+13032,Shushenskoye Airport,Shushenskoye,Russia,\N,UNAU,53.3849983215332,92.04499816894533
+13066,Stockerau Airport,Stockerau,Austria,\N,LOAU,48.40999984741211,16.191699981689453
+13072,Iowa County Airport,MINERAL POINT,United States,\N,KMRJ,42.886799,-90.236198
+13097,Cascade Heliport,Kobok,Indonesia,\N,WA98,47.512346,-120.488691
+13098,Air Orlando Heliport,Orlando,United States,\N,2FD7,28.43560028076172,-81.47309875488281
+13106,Tórshavn/Bodanes Heliport,Torshavn,Faroe Islands,\N,EKTB,62.02170181274414,-6.757420063018799
+13114,RAF Mona,Mona,United Kingdom,\N,EGOQ,53.258598,-4.37355
+13120,Rerik-Zweedorf Airport,Rerik,Germany,\N,EDCR,54.08194351196289,11.64916706085205
+13121,Fazenda Vaticano Airport,Cruz,Brazil,\N,SSVV,-21.294443,-56.11861
+13123,Stanly County Airport,Albemarle,United States,\N,KVUJ,35.416698455811,-80.150802612305
+13124,Davidson County Airport,Lexington,United States,\N,KEXX,35.78110122680664,-80.30380249023438
+13126,Windwood Fly-In Resort Airport,Davis,United States,\N,WV62,39.055099487300005,-79.43139648440001
+13127,Lathan Strip,Mocksville,United States,\N,5NC2,34.87630081176758,-80.61920166015625
+13130,Double Eagle II Airport,Albuquerque,United States,\N,KAEG,35.145198822021484,-106.79499816894533
+13131,Socorro Municipal Airport,Socorro,United States,\N,KONM,34.022499084472656,-106.90299987792967
+13135,Bentonville Municipal-Louise M Thaden Field,Bentonville,United States,\N,KVBT,36.34569931,-94.21929932
+13137,Blue Ridge Airport,Martinsville,United States,\N,KMTV,36.63069915771485,-80.01830291748047
+13138,Mount Airy Surry County Airport,Mount Airy,United States,\N,KMWK,36.45970154,-80.5530014
+13144,Rusk County Airport,Ladysmith,United States,\N,KRCX,45.49679946899414,-91.00050354003906
+13155,William R. Pogue Municipal Airport,Sand Springs,United States,\N,KOWP,36.1753006,-96.15180206
+13176,Budaörs Airfield,Budaoers,Hungary,\N,LHBS,47.451099,18.9806
+13177,Jakabszállás Airport,Jakabszallas,Hungary,\N,LHJK,46.74720001220703,19.605600357055664
+13199,Northeim Airport,Northeim,Germany,\N,EDVN,51.706390380859375,10.039722442626951
+13209,Reggio Emilia Airport,Reggio Emilia,Italy,\N,LIDE,44.698299,10.6628
+13248,Torgau-Beilrode Airport,Gransee,Germany,\N,EDOG,51.570907,13.051641
+13257,Renk Airport,Huangshan,China,\N,HSRN,11.8324692723,32.810497283900006
+13263,Port Hardy Seaplane Base,Port Hardy,Canada,\N,CAW5,50.71670150756836,-127.48300170898438
+13269,Mid-State Regional Airport,Philipsburg,United States,\N,KPSB,40.884399414062,-78.087303161621
+13306,Coonawarra Airport,Coonawarra,Australia,\N,YCNQ,-37.28329849243164,140.8000030517578
+13309,Camilla Mitchell County Airport,Camilla,United States,\N,KCXU,31.212900161743164,-84.23680114746094
+13311,Clarenville Airport,Clarenville,Canada,\N,CCZ3,48.27470016479492,-53.92390060424805
+13339,Ospika Airport,Williston Lake,Canada,\N,CBA9,56.275001525878906,-124.052001953125
+13341,Charlottetown Airport,Charlottetown,Canada,\N,CCH4,52.76499938964844,-56.1156005859375
+13346,Monte Cristi Airport,Montecristi,Dominican Republic,\N,MDMC,19.865299224900003,-71.6453018188
+13347,El Papalon Airport,San Miguel,El Salvador,\N,MSSM,13.444100379943848,-88.12699890136719
+13354,Sandpoint Airport,Sandpoint,United States,\N,KSZT,48.299499511719,-116.55999755859
+13358,Niaqornaarsuk Heliport,Niaqornaarsuk,Greenland,\N,BGNK,68.236381,-52.852148
+13361,Saqqaq Heliport,Saqqaq,Greenland,\N,BGSQ,70.011448,-51.932142
+13363,Savissivik Heliport,Savissivik,Greenland,\N,BGSV,76.01861346460001,-65.1176834106
+13364,Siorapaluk Heliport,Siorapaluk,Greenland,\N,BGSI,77.7865173475,-70.6386566162
+13365,Aappilattoq (Qaasuitsup) Heliport,Aappilattoq,Greenland,\N,BGAG,72.8870298223,-55.5962866545
+13366,Innarsuit Heliport,Innaarsuit,Greenland,\N,BGIN,73.1998953377,-56.0108166933
+13367,Kangersuatsiaq Heliport,Kangersuatsiaq,Greenland,\N,BGKS,72.38109155069999,-55.53658604619999
+13368,Kullorsuaq Heliport,Kullorsuaq,Greenland,\N,BGKQ,74.5780498288,-57.2268283367
+13369,Nuussuaq Heliport,Nuussuaq,Greenland,\N,BGNU,74.1098528514,-57.0650374889
+13370,Tasiusaq (Qaasuitsup) Heliport,Tasiusaq,Greenland,\N,BGTA,73.37305450439999,-56.0602798462
+13371,Upernavik Kujalleq Heliport,Upernavik Kujalleq,Greenland,\N,BGKL,72.1527425265,-55.5309855938
+13372,Aappilattoq (Kujalleq) Heliport,Aappilattoq,Greenland,\N,BGAQ,60.148357,-44.286916
+13373,Tasiusaq (Kujalleq) Heliport,Tasiusaq,Greenland,\N,BGTQ,60.1943053097,-44.8134469986
+13374,Narsaq Kujalleq Heliport,Narsaq Kujalleq,Greenland,\N,BGFD,60.004694,-44.656935
+13377,Ammassivik Heliport,Ammassivik,Greenland,\N,BGAS,60.597376,-45.382445
+13379,Qassimiut Heliport,Qassimiut,Greenland,\N,BGQT,60.7809592284,-47.1562492847
+13380,Tiniteqilaaq Heliport,Tiniteqilaaq,Greenland,\N,BGTN,65.8920273392,-37.7834093571
+13381,Isortoq Heliport,Isortoq,Greenland,\N,BGIS,65.5477923903,-38.9765524864
+13382,Kuummiut Heliport,Kuummiit,Greenland,\N,BGKM,65.8639347361,-36.9979190826
+13383,Sermiligaaq Heliport,Sermiligaaq,Greenland,\N,BGSG,65.9059197626,-36.3782536983
+13385,Illorsuit Heliport,Illorsuit,Greenland,\N,BGLL,71.2419440428,-53.5628771782
+13386,Nuugaatsiaq Heliport,Nuugaatsiaq,Greenland,\N,BGNQ,71.5387687528,-53.2050383091
+13387,Saattut Heliport,Saattut,Greenland,\N,BGST,70.8111719824,-51.6312897205
+13388,Ikerasak Heliport,Ikerasak,Greenland,\N,BGIA,70.4981453548,-51.3030838966
+13389,Niaqornat Heliport,Niaqornat,Greenland,\N,BGNT,70.7893846882,-53.6629450321
+13390,Ukkusissat Heliport,Ukkusissat,Greenland,\N,BGUT,71.0494384946,-51.8900156021
+13397,Olhos D`água Airport,Agua Boa,Brazil,\N,SWHP,-14.019444,-52.152222
+13400,Serra da Capivara Airport,Sao Raimundo Nonato,Brazil,\N,SWKQ,-9.082778,-42.644444
+13402,Amatopo Airstrip,Amatopo,Suriname,\N,SMAM,3.547885,-57.633958
+13403,Poeketi Airstrip,Poeketi,Suriname,\N,SMPE,4.126389,-54.623611
+13404,Godo Holo Airstrip,Pikienkondre of Miranda,Suriname,\N,SMGH,4.0583,-54.7861
+13405,Anholt Airport,Anholt,Denmark,\N,EKAT,56.6988983154,11.5558996201
+13411,St Pierre d'Oléron Airfield,Saint Pierre d'Oleron,France,\N,LFDP,45.959202,-1.31611
+13412,Semur En Auxois Airfield,Semur en Auxois,France,\N,LFGQ,47.481899,4.34417
+13416,Pyramiden Heliport,Pyramiden,Norway,\N,ENPY,78.652322,16.337208
+13421,Lipki Air Base,Minsk,Belarus,\N,UMMI,53.913545,27.708775
+13422,Zermatt  Heliport,Zermatt,Switzerland,\N,LSEZ,46.0293197631836,7.753366470336914
+13423,Nikolskoye Airport,Nikolskoye,Russia,\N,UHPX,55.1783332824707,166.04833984375
+13424,Tilichiki Airport,Tilichiki,Russia,\N,UHPT,60.3828010559082,166.0260009765625
+13430,Yamburg Airport,Yamburg,Russia,\N,USMQ,67.986664,75.099998
+13433,Mama Airport,Mama,Russia,\N,UIKM,58.31333160400391,112.88999938964844
+13435,Aarhus Seaplne Terminal,Aarhus,Denmark,\N,EKAC,56.151717,10.248428
+13436,Oakland Troy Airport,Troy,United States,\N,KVLL,42.54290009,-83.17790222
+13437,Stratford Municipal Airport,Stratford,Canada,\N,CYSA,43.415599823,-80.93440246579999
+13438,Edmundston Airport,Edmundston,Canada,\N,CYES,47.4906005859375,-68.48190307617188
+13453,Suwałki Airport,Suwalki,Poland,\N,EPSU,54.07279968261719,22.899200439453125
+13454,Srr Ahmadu Bello International Airport,Birnin Kebbi,Nigeria,\N,DNBK,12.480556,4.369445
+13457,Dutse International Airport,Dutse,Nigeria,\N,DNDS,11.795168,9.311667
+13458,Jalingo Airport,Jalingo,Nigeria,\N,DNJA,8.900587,11.27946
+13466,West Kilimanjaro Airport,Kilimanjaro,Tanzania,\N,HTWK,-3.049999952316284,37.0
+13492,Ariquemes Airport,ARIQUEMES,Brazil,\N,SJOG,-9.884721755981444,-63.04888916015625
+13493,Fazenda Spartacus Airport,COLNIZA,Brazil,\N,SIXZ,-24.0,-48.60833358764648
+13497,Fazenda Mequens Airport,ALTA FLORESTA D'OESTE,Brazil,\N,SJTF,-13.061944007873535,-62.25749969482422
+13498,Prainha Airport,APUI,Brazil,\N,SWYN,-7.17287015914917,-59.839599609375
+13499,Mostardas Airport,SANTO ANTONIO DO MATUPI,Brazil,\N,SSMT,-31.103599548339844,-50.910301208496094
+13500,Santo Domingo Airport,CONSELVAN,Brazil,\N,SCSN,-33.65639877319336,-71.6144027709961
+13521,Lasondre Airport,Batu Islands,Indonesia,\N,WIMO,-0.01924,98.30097
+13551,Frankfort Dow Memorial Field,Frankfort,United States,\N,KFKS,44.62519836425781,-86.20079803466797
+13552,Cheboygan County Airport,Cheboygan,United States,\N,KSLH,45.65370178,-84.51930237
+13553,Kozushima Airport,Kozushima,Japan,\N,RJAZ,34.1899986267,139.134002686
+13561,Kazarman Airport,Kazarman,Kyrgyzstan,\N,UAFZ,41.4102908129,74.044418335
+13562,Kerben Airport,Kerben,Kyrgyzstan,\N,UAFE,41.484500885,71.7337036133
+13564,Naryn Airport,Naryn,Kyrgyzstan,\N,UAFN,41.44150161739999,76.13059997559999
+13580,Palanan Community Airport,Palanan,Philippines,\N,RPLN,17.065667,122.427671
+13581,Itbayat Airport,Itbayat,Philippines,\N,RPLT,20.722521,121.809969
+13583,Catbalogan Airport,Catbalogan City,Philippines,\N,RPVY,11.81,124.83
+13584,Maasin Airport,Maasin,Philippines,\N,RPSM,10.187299728393556,124.78199768066406
+13592,Bantayan Airport,Bantayan,Philippines,\N,RPSB,11.1624,123.7848
+13593,Biliran Airport,Biliran,Philippines,\N,RPVQ,11.5159178299,124.428985119
+13595,Fazenda Várzea Funda Airport,PRIMAVERA D'OESTE,Brazil,\N,SIEL,-16.58361053466797,-57.73222351074219
+13597,Primavera do Leste Airport,PRIMAVERA DO LESTE,Brazil,\N,SWPY,-15.565555572509766,-54.33777618408203
+13599,The Granites Airport,The Granites,Australia,\N,YTGT,-20.54829978942871,130.3470001220703
+13606,North Shore Aerodrome,North Shore,New Zealand,\N,NZNE,-36.656700134277344,174.65499877929688
+13607,John C Tune Airport,Nashville,United States,\N,KJWN,36.18239974975586,-86.88670349121094
+13608,Okiwi Station Airport,Okiwi,New Zealand,\N,NZOX,-36.14640045166016,175.41900634765625
+13610,Karamea Airport,Karamea,New Zealand,\N,NZKM,-41.236698150634766,172.10499572753906
+13621,Jastarnia Airport,Jastarnia,Poland,\N,EPJA,54.71028137207031,18.64528083801269
+13635,Denali Airport,McKinley Park,United States,\N,AK06,63.64509963989258,-148.79800415039062
+13636,Comte. Rolim Adolfo Amaro–Jundiaí State Airport,Jundiai,Brazil,\N,SBJD,-23.180369,-46.944408
+13642,Potomac Airpark,Berkeley Springs,United States,\N,KW35,39.69260025024414,-78.16609954833984
+13643,Helisul IV Heliport,Foz Do Iguacu,Brazil,\N,SSHS,-25.613056182861328,-54.39805603027344
+13647,Brits Airport,Brits,South Africa,\N,FABS,-25.53230094909668,27.77589988708496
+13648,West Melton Aerodrome,West Melton,New Zealand,\N,NZWL,-43.47669982910156,172.39700317382812
+13649,Rangiora Airfield,Rangiora,New Zealand,\N,NZRT,-43.290000915527344,172.54200744628906
+13668,Fazenda Jatobasso Airport,JARU,Brazil,\N,SIDG,-22.42916679382324,-55.53333282470703
+13669,FIC Heliport,MACHADINHO D'OESTE,Brazil,\N,SIMC,-22.711389541625977,-47.141109466552734
+13681,Chepelevka Airport,Uzyn,Ukraine,\N,UKKH,49.79059982299805,30.4414005279541
+13683,Fazenda São Nicolau Airport,COTRIGUACU,Brazil,\N,SWQT,-9.8644437789917,-58.229167938232
+13684,Kisoro Airport,Kisoro,Uganda,\N,HUKI,-1.2837,29.7197
+13694,Stennis International Airport,Bay St. Louis,United States,\N,KHSA,30.367799758911133,-89.45459747314453
+13712,Engeløy Airport,Engeløy,Norway,\N,ENEN,67.967222,14.9925
+13715,Julian Carroll Airport,Jackson,United States,\N,KJKL,37.59389877319336,-83.31729888916016
+13716,Beaufort MCAS - Merritt Field,Beaufort,United States,\N,KNBC,32.4774017334,-80.723197937
+13717,Camp Pendleton MCAS (Munn Field) Airport,Oceanside,United States,\N,KNFG,33.30130005,-117.3550034
+13718,Aerodromo de Castelo Branco,Castelo Branco,Portugal,\N,LPCB,39.847022,-7.44111
+13719,Ponte de Sor Airport,Ponte de Sôr,Portugal,\N,LPSO,39.211559,-8.056542
+13720,Vilar de Luz Airfield,Maia,Portugal,\N,LPVL,41.27729,-8.516209
+13721,Hard Bargain Airport,,Bahamas,\N,MYLR,23.011194,-74.905889
+13722,Kenebetsu JASDF Airfield,Kenebetsu,Japan,\N,RJCS,43.425154,144.741354
+13723,Augusto Severo Airport,Natal,Brazil,\N,SBNT,-5.91141986847,-35.2476997375
+13726,Beijing Xijiao Airport,Beijing,China,\N,ZBBB,39.9608,116.257004
+13735,Flores Airport,MANAUS,Brazil,\N,SWFN,-3.0727779865264893,-60.02111053466797
+13752,Umuwa Airport,Umuwa,Australia,\N,YUMU,-26.4867000579834,132.0399932861328
+13758,Granbury Regional Airport,Granbury,United States,\N,KGDJ,32.44440079,-97.81690216
+13759,Oswego County Airport,Fulton,United States,\N,KFZY,43.35079956054688,-76.38809967041016
+13762,Vumbura Airport,Vumburu,Botswana,\N,FBVM,-18.955395,22.814533
+13763,Farm Whitwater East Landing Strip,Hardap,Namibia,\N,FYGK,-24.629999,15.9392
+13765,Muwaffaq Salti Air Base,AZRAQ,Jordan,\N,OJ40,31.8255996704,36.7820014954
+13771,Kirkjubæjarklaustur Airport,Kirkjubaejarklaustur ,Iceland,\N,BIKL,63.79079818725586,-18.001399993896484
+13772,Fazenda Uiapuru Airport,COMODORO,Brazil,\N,SWVJ,-13.663888931274414,-56.002220153808594
+13773,Whitehorse Seaplane Base,Whitehorse,Canada,\N,CEZ5,60.69110107421875,-135.03700256347656
+13777,Pertominsk Airport,Pertominsk,Russia,\N,ULAT,64.7900009155,38.4199981689
+13792,Mount Weld Airport,Laverton,Australia,\N,YMNW,-28.771699905395508,122.44000244140624
+13793,Kidston Airport,Kidston,Australia,\N,YKID,-18.8700008392334,144.17300415039062
+13802,Klaksvik Heliport,Klaksvik,Faroe Islands,\N,EKKV,62.2178497314,-6.5764546394300005
+13805,Hunda Airport,Tubu Tree Camp,Botswana,\N,FBHU,-19.2765,22.475646
+13830,Fazenda Kajussol Airport,Alta Floresta D'Oeste,Brazil,\N,SJYD,-11.9647216796875,-61.686668395996094
+13880,Pelee Island Airport,Pelee,Canada,\N,CYPT,41.780399322509766,-82.6780014038086
+13891,Mangalore Airport,Mangalore,Australia,\N,YMNG,-36.888301849365234,145.1840057373047
+14086,San Isidro del General Airport,San Isidro,Costa Rica,\N,MRSI,9.352620124816896,-83.71309661865234
+14089,Osovtsy Air Base,Byaroza,Belarus,\N,UMMO,52.5569992065,24.8840007782
+14091,Changsha Datuopu Airport/AFB,Changsha,China,\N,ZGCS,28.0688991547,112.958000183
+14096,Kalocsa/Foktő Airport,Kalocsa/Foktő,Hungary,\N,LHKA,46.549613,18.942421
+14098,Jakkur Aerodrome,Bengaluru,India,\N,VOJK,13.07674,77.597645
+14099,Jalal-Abad Airport,Jalal-Abad,Kyrgyzstan,\N,UAFJ,40.944401,72.977798
+14103,Kostomuksha Airport,Kostomuksha,Russia,\N,ULPM,64.61799621579999,30.6870002747
+14104,Privolzhskiy Air Base,Astrakhan,Russia,\N,XRAP,46.396,47.893
+14105,Kubinka Air Base,Kubinka,Russia,\N,UUMB,55.611695,36.650002
+14106,Rogachyovo Air Base,Belaya,Russia,\N,ULDA,71.61669921880001,52.4782981873
+14107,Ulan-Ude East Airport,Ulan Ude,Russia,\N,XIUW,51.84999847412109,107.73799896240234
+14108,Krechevitsy Air Base,Novgorod,Russia,\N,ULLK,58.625,31.38500022888184
+14110,Melitopol Air Base,Melitopol,Ukraine,\N,UKDM,46.880001,35.305

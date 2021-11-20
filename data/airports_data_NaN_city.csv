@@ -1,0 +1,50 @@
+﻿Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude,Altitude,Timezone,DST,Tz timezone,Type,Source
+11794,Minsk Mazowiecki Military Air Base,,Poland,\N,EPMM,52.1954994202,21.6558990479,604,\N,\N,\N,airport,OurAirports
+11795,Powidz Military Air Base,,Poland,\N,EPPW,52.379398,17.853901,371,\N,\N,\N,airport,OurAirports
+11900,King Salman Abdulaziz Airport,,Saudi Arabia,DWD,OEDM,24.4499,44.121201,3026,\N,\N,\N,airport,OurAirports
+11901,King Khaled Air Base,,Saudi Arabia,KMX,OEKM,18.29730033874512,42.80350112915039,6778,\N,\N,\N,airport,OurAirports
+11921,Asahikawa Airfield,,Japan,\N,RJCA,43.794734,142.365432,377,\N,\N,\N,airport,OurAirports
+11923,Utsunomiya Airport,,Japan,\N,RJTU,36.5145,139.87101,334,\N,\N,\N,airport,OurAirports
+11924,Jungwon Air Base/Chungju Airport,,South Korea,\N,RKTI,37.03024,127.886353,281,\N,\N,\N,airport,OurAirports
+11927,Bislig Airport,,Philippines,BPH,RPMF,8.19594955444336,126.3219985961914,12,\N,\N,\N,airport,OurAirports
+11928,Mati National Airport,,Philippines,MXI,RPMQ,6.949091,126.27368,156,\N,\N,\N,airport,OurAirports
+11947,Metropolitano Airport,,Venezuela,\N,SVMP,10.133169174194336,-66.78782653808594,574,\N,\N,\N,airport,OurAirports
+11954,Belaya Gora Airport,,Russia,BGN,UESG,68.556602,146.231506,118,\N,\N,\N,airport,OurAirports
+11984,Volgodonsk Airport,,Russia,VLK,URRY,47.68209838867188,42.07279968261719,276,\N,\N,\N,airport,OurAirports
+11996,Ratnagiri Airport,,India,RTC,VARG,17.013599,73.327797,305,\N,\N,\N,airport,OurAirports
+11999,Ambala Air Force Station,,India,\N,VIAM,30.368099212646484,76.81670379638672,909,\N,\N,\N,airport,OurAirports
+12000,Sirsa Air Force Station,,India,\N,VISA,29.56060028076172,75.006103515625,650,\N,\N,\N,airport,OurAirports
+12001,Udhampur Air Force Station,,India,\N,VIUX,32.902198791503906,75.15619659423828,2066,\N,\N,\N,airport,OurAirports
+12012,Ararat Airport,,Australia,ARY,YARA,-37.30939865112305,142.98899841308594,1008,\N,\N,\N,airport,OurAirports
+12013,Benalla Airport,,Australia,BLN,YBLA,-36.55189895629883,146.0070037841797,569,\N,\N,\N,airport,OurAirports
+12014,Balranald Airport,,Australia,BZD,YBRN,-34.62360000610352,143.5780029296875,210,\N,\N,\N,airport,OurAirports
+12015,Brewarrina Airport,,Australia,BWQ,YBRW,-29.9738998413086,146.81700134277344,414,\N,\N,\N,airport,OurAirports
+12016,Cleve Airport,,Australia,CVC,YCEE,-33.70970153808594,136.5050048828125,589,\N,\N,\N,airport,OurAirports
+12017,Corowa Airport,,Australia,CWW,YCOR,-35.99470138549805,146.35699462890625,469,\N,\N,\N,airport,OurAirports
+12018,Corryong Airport,,Australia,CYG,YCRG,-36.18280029296875,147.88800048828125,963,\N,\N,\N,airport,OurAirports
+12019,Cootamundra Airport,,Australia,CMD,YCTM,-34.6239013671875,148.0279998779297,1110,\N,\N,\N,airport,OurAirports
+12020,Dirranbandi Airport,,Australia,DRN,YDBI,-28.591699600219727,148.2169952392578,567,\N,\N,\N,airport,OurAirports
+12022,Dysart Airport,,Australia,DYA,YDYS,-22.62220001220703,148.36399841308594,670,\N,\N,\N,airport,OurAirports
+12023,Echuca Airport,,Australia,ECH,YECH,-36.15719985961914,144.76199340820312,323,\N,\N,\N,airport,OurAirports
+12025,Gunnedah Airport,,Australia,GUH,YGDH,-30.96109962463379,150.25100708007812,863,\N,\N,\N,airport,OurAirports
+12026,Hay Airport,,Australia,HXX,YHAY,-34.53139877319336,144.8300018310547,305,\N,\N,\N,airport,OurAirports
+12027,Hopetoun Airport,,Australia,HTU,YHPN,-35.715301513671875,142.36000061035156,256,\N,\N,\N,airport,OurAirports
+12028,Kerang Airport,,Australia,KRA,YKER,-35.751399993896484,143.93899536132812,254,\N,\N,\N,airport,OurAirports
+12029,Kempsey Airport,,Australia,KPS,YKMP,-31.07439994812012,152.77000427246094,54,\N,\N,\N,airport,OurAirports
+12030,Kingaroy Airport,,Australia,KGY,YKRY,-26.580799102783203,151.84100341796875,1492,\N,\N,\N,airport,OurAirports
+12032,Mareeba Airport,,Australia,MRG,YMBA,-17.06920051574707,145.41900634765625,1560,\N,\N,\N,airport,OurAirports
+12033,Ngukurr Airport,,Australia,RPM,YNGU,-14.722800254821776,134.7469940185547,45,\N,\N,\N,airport,OurAirports
+12034,Narromine Airport,,Australia,QRM,YNRM,-32.214698791503906,148.22500610351562,782,\N,\N,\N,airport,OurAirports
+12035,Port Pirie Airport,,Australia,PPI,YPIR,-33.23889923095703,137.9949951171875,40,\N,\N,\N,airport,OurAirports
+12036,Smithton Airport,,Australia,SIO,YSMI,-40.834999084472656,145.08399963378906,31,\N,\N,\N,airport,OurAirports
+12037,Snake Bay Airport,,Australia,SNB,YSNB,-11.422800064086914,130.6540069580078,173,\N,\N,\N,airport,OurAirports
+12038,Stawell Airport,,Australia,SWC,YSWL,-37.07170104980469,142.74099731445312,807,\N,\N,\N,airport,OurAirports
+12039,Tibooburra Airport,,Australia,TYB,YTIB,-29.45109939575196,142.05799865722656,584,\N,\N,\N,airport,OurAirports
+12040,Tumut Airport,,Australia,TUM,YTMU,-35.26279830932617,148.24099731445312,878,\N,\N,\N,airport,OurAirports
+12041,Wangaratta Airport,,Australia,WGT,YWGT,-36.41579818725586,146.3070068359375,504,\N,\N,\N,airport,OurAirports
+12042,Warracknabeal Airport,,Australia,WKB,YWKB,-36.32109832763672,142.41900634765625,397,\N,\N,\N,airport,OurAirports
+12043,Warren Airport,,Australia,QRR,YWRN,-31.733299255371094,147.80299377441406,669,\N,\N,\N,airport,OurAirports
+12046,Young Airport,,Australia,NGA,YYNG,-34.25559997558594,148.2480010986328,1267,\N,\N,\N,airport,OurAirports
+12051,Baruun Urt Airport,,Mongolia,UUN,ZMBU,46.660301208496094,113.28500366210938,3205,\N,\N,\N,airport,OurAirports
+13721,Hard Bargain Airport,,Bahamas,\N,MYLR,23.011194,-74.905889,0,\N,\N,\N,airport,OurAirports
+14092,Xingcheng Air Base,,China,XEN,ZYXC,40.5802993774,120.697998047,30,\N,\N,\N,airport,OurAirports
