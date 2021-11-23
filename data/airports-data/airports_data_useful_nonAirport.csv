@@ -1,0 +1,966 @@
+﻿Airport ID,Name,City,Country,IATA,ICAO,Latitude,Longitude
+10,Thule Air Base,Thule,Greenland,THU,BGTL,76.5311965942,-68.7032012939
+23,Halifax / CFB Shearwater Heliport,Halifax,Canada,\N,CYAW,44.639702,-63.499401
+28,CFB Bagotville,Bagotville,Canada,YBG,CYBG,48.33060073852539,-70.99639892578125
+98,CFB Cold Lake,Cold Lake,Canada,YOD,CYOD,54.40499877929688,-110.27899932861328
+101,Prince Albert Glass Field,Prince Albert,Canada,YPA,CYPA,53.2141990662,-105.672996521
+142,CFB Trenton,Trenton,Canada,YTR,CYTR,44.118900299072266,-77.5280990600586
+143,Timmins/Victor M. Power,Timmins,Canada,YTS,CYTS,48.5696983337,-81.376701355
+204,CFB Greenwood,Greenwood,Canada,YZX,CYZX,44.98440170288086,-64.91690063476562
+288,Sidi Ahmed Air Base,Bizerte,Tunisia,\N,DTTB,37.245398,9.79145
+289,Remada Air Base,Remada,Tunisia,\N,DTTD,32.30619812011719,10.382100105285645
+300,Beauvechain Air Base,Beauvechain,Belgium,\N,EBBE,50.75859832763672,4.768330097198486
+301,Kleine Brogel Air Base,Kleine Brogel,Belgium,\N,EBBL,51.168301,5.47
+303,Jehonville Air Base,Bertrix,Belgium,\N,EBBX,49.891700744628906,5.223889827728272
+305,Chièvres Air Base,Chievres,Belgium,\N,EBCV,50.575801849365234,3.8310000896453857
+306,Koksijde Air Base,Koksijde,Belgium,\N,EBFN,51.09030151367188,2.652780055999756
+307,Florennes Air Base,Florennes,Belgium,\N,EBFS,50.2433013916,4.64583015442
+311,Zutendaal Air Base,Zutendaal,Belgium,\N,EBSL,50.9474983215332,5.590559959411621
+312,Brustem Airfield Sint Truiden,Sint-truiden,Belgium,\N,EBST,50.791901,5.20167
+313,Saint Hubert Air Base,St.-hubert,Belgium,\N,EBSU,50.034400939941406,5.440810203552246
+314,Ursel Air Base,Ursel,Belgium,\N,EBUL,51.14419937133789,3.475559949874878
+315,Weelde Air Base,Weelde,Belgium,\N,EBWE,51.394798278808594,4.9601898193359375
+316,Zoersel (Oostmalle) Airfield,Zoersel,Belgium,OBL,EBZR,51.264702,4.75333
+317,Flugplatz Bautzen,Bautzen,Germany,\N,EDAB,51.193611,14.519722
+319,Dessau Airfield,Dessau,Germany,\N,EDAD,51.831694,12.190962
+320,Eisenhüttenstadt Airfield,Eisenhuettenstadt,Germany,\N,EDAE,52.195856,14.58753
+330,Jena-Schöngleina Airfield,Jena,Germany,\N,EDBJ,50.915279,11.714444
+334,Anklam Airfield,Anklam,Germany,\N,EDCA,53.832779,13.668611
+365,Flugplatz Dahlemer Binz,Dahlemer Binz,Germany,\N,EDKV,50.405555725,6.5288891792
+375,Biberach a.d. Riß Airfield,Biberach,Germany,\N,EDMB,48.111111,9.762778
+377,Mindelheim-Mattsies Airfield,Mindelheim,Germany,\N,EDMN,48.106945,10.525
+390,Koblenz-Winningen Airfield,Koblenz,Germany,\N,EDRK,50.325558,7.528611
+392,Speyer Airfield,Speyer,Germany,\N,EDRY,49.304722,8.451389
+411,Ämari Air Base,Armari Air Force Base,Estonia,\N,EEEI,59.26029968261719,24.208499908447266
+424,Hyvinkää Airfield,Hyvinkaa,Finland,HYV,EFHV,60.6543998718,24.8810997009
+461,Utti Air Base,Utti,Finland,UTI,EFUT,60.89640045166,26.938400268555
+464,Ylivieska Airfield,Ylivieska-raudaskyla,Finland,YLI,EFYL,64.0547222,24.7252778
+482,RAF Lyneham,Lyneham,United Kingdom,LYE,EGDL,51.5051,-1.99343
+484,RNAS Culdrose,Culdrose,United Kingdom,\N,EGDR,50.08610153198242,-5.255710124969482
+485,MoD St. Athan,St. Athan,United Kingdom,\N,EGDX,51.4048,-3.43575
+486,RNAS Yeovilton,Yeovilton,United Kingdom,YEO,EGDY,51.0093994140625,-2.638819932937622
+525,RAF Ternhill,Ternhill,United Kingdom,\N,EGOE,52.87120056152344,-2.533560037612915
+526,RAF Shawbury,Shawbury,United Kingdom,\N,EGOS,52.79819869995117,-2.668040037155152
+528,RAF Woodvale,Woodvale,United Kingdom,\N,EGOW,53.5816,-3.05552
+543,RAF Leuchars,Leuchars,United Kingdom,ADX,EGQL,56.37289810180664,-2.8684399127960205
+544,RAF Lossiemouth,Lossiemouth,United Kingdom,LMO,EGQS,57.7052001953125,-3.339169979095459
+550,Sheffield City Heliport,Fowlmere,United Kingdom,\N,EGSY,53.394299,-1.38849
+555,RAF Benson,Benson,United Kingdom,BEX,EGUB,51.6164016724,-1.09582996368
+556,RAF Lakenheath,Lakenheath,United Kingdom,LKZ,EGUL,52.4093017578,0.56099998951
+557,RAF Mildenhall,Mildenhall,United Kingdom,MHZ,EGUN,52.36190032958984,0.486405998468399
+558,RAF Wattisham,Wattisham,United Kingdom,\N,EGUW,52.1273002625,0.956264019012
+559,RAF Wyton,Wyton,United Kingdom,QUY,EGUY,52.3572006226,-0.107832998037
+560,RAF Fairford,Fairford,United Kingdom,FFD,EGVA,51.6822013855,-1.7900300025900002
+561,RAF Brize Norton,Brize Norton,United Kingdom,BZZ,EGVN,51.75,-1.58362
+562,RAF Odiham,Odiham,United Kingdom,ODH,EGVO,51.2341003418,-0.94282501936
+563,DCAE Cosford Air Base,Cosford,United Kingdom,\N,EGWC,52.639999,-2.30558
+564,RAF Northolt,Northolt,United Kingdom,NHT,EGWU,51.5530014038,-0.418166995049
+565,RAF Coningsby,Coningsby,United Kingdom,QCY,EGXC,53.0929985046,-0.166014000773
+566,RAF Dishforth,Dishforth,United Kingdom,\N,EGXD,54.1371994019,-1.42025005817
+569,RAF Honington,Honington,United Kingdom,BEQ,EGXH,52.34260177612305,0.7729390263557434
+570,RAF Cottesmore,Cottesmore,United Kingdom,\N,EGXJ,52.735699,-0.648769
+571,RAF Scampton,Scampton,United Kingdom,SQZ,EGXP,53.307800293,-0.550832986832
+572,RAF Wittering,Wittering,United Kingdom,\N,EGXT,52.612598,-0.476453
+573,RAF Linton-On-Ouse,Linton-on-ouse,United Kingdom,HRT,EGXU,54.0489006042,-1.2527500391
+574,RAF Waddington,Waddington,United Kingdom,WTN,EGXW,53.1661987305,-0.523810982704
+575,RAF Topcliffe,Topcliffe,United Kingdom,\N,EGXZ,54.2055015564,-1.3820899725
+576,RAF Cranwell,Cranwell,United Kingdom,\N,EGYD,53.0303001404,-0.48324200511
+577,RAF Barkston Heath,Barkston Heath,United Kingdom,\N,EGYE,52.9622001648,-0.561625003815
+578,RAF Marham,Marham,United Kingdom,KNF,EGYM,52.648395,0.550692
+581,Budel Airfield Kempen,Weert,Netherlands,\N,EHBD,51.255299,5.60139
+583,Deelen Air Base,Deelen,Netherlands,\N,EHDL,52.0606,5.87306
+587,Gilze Rijen Air Base,Gilze-rijen,Netherlands,GLZ,EHGR,51.56740188598633,4.931829929351807
+590,Leeuwarden Air Base,Leeuwarden,Netherlands,LWR,EHLW,53.22859954833984,5.760560035705566
+592,Soesterberg Air Base,Soesterberg,Netherlands,UTC,EHSB,52.1273002625,5.27618980408
+594,Valkenburg Naval Air Base,Valkenburg,Netherlands,LID,EHVB,52.1660995483,4.41794013977
+595,Woensdrecht Air Base,Woensdrecht,Netherlands,WOE,EHWO,51.4491,4.34203
+602,Casement Air Base,Casement,Ireland,\N,EIME,53.301700592,-6.451330184940001
+621,Skrydstrup Air Base,Skrydstrup,Denmark,SKS,EKSP,55.221048,9.26702
+624,Kolding Vamdrup Airfield,Kolding,Denmark,\N,EKVD,55.436298,9.33092
+626,Vesthimmerlands Flyveplads,Vesthimmerland,Denmark,\N,EKVH,56.846901,9.45861
+644,Oslo Lufthavn,Oslo,Norway,OSL,ENGM,60.121,11.0502
+677,Redzikowo Air Base,Slupsk,Poland,OSP,EPSK,54.47890090942383,17.107500076293945
+678,Swidwin Military Air Base,Shapaja,Poland,\N,EPSN,53.790599823,15.8262996674
+682,Malmen Air Base,Linkoeping,Sweden,\N,ESCF,58.40230178833008,15.525699615478516
+683,Bråvalla Air Base,Norrkoeping,Sweden,\N,ESCK,58.61090087890625,16.103599548339844
+686,Råda Air Base,Rada,Sweden,\N,ESFR,58.49810028076172,13.053199768066406
+694,Karlsborg Air Base,Karlsborg,Sweden,\N,ESIA,58.51380157470703,14.507100105285645
+695,Såtenäs Air Base,Satenas,Sweden,\N,ESIB,58.42639923095703,12.714400291442873
+701,Emmaboda Airfield,Emmaboda,Sweden,\N,ESMA,56.610802,15.6048
+710,Hagshult Air Base,Hagshult,Sweden,\N,ESMV,57.292198,14.1372
+735,Vidsel Air Base,Vidsel,Sweden,\N,ESPE,65.87529754638672,20.149900436401367
+750,Spangdahlem Air Base,Spangdahlem,Germany,SPM,ETAD,49.9726982117,6.69250011444
+751,Ramstein Air Base,Ramstein,Germany,RMS,ETAR,49.4369010925293,7.600279808044434
+753,[Duplicate] Giebelstadt Army Air Field,Giebelstadt,Germany,GHF,ETEU,49.6481018066,9.966489791870002
+754,Bückeburg Air Base,Brueckeburg,Germany,\N,ETHB,52.2785,9.08217
+756,Rheine Bentlage Air Base,Rheine-brentlange,Germany,\N,ETHE,52.291199,7.387
+758,Laupheim Air Base,Laupheim,Germany,\N,ETHL,48.220299,9.91002
+759,Mendig Airfield,Mendig,Germany,\N,ETHM,50.366001,7.31533
+760,Niederstetten Army Air Base,Niederstetten,Germany,\N,ETHN,49.391945,9.958889
+762,Fassberg Air Base,Fassberg,Germany,\N,ETHS,52.919399,10.185827
+763,Grafenwohr Army Air Field,Grafenwoehr,Germany,\N,ETIC,49.69869995117188,11.940199851989746
+764,Hanau Army Air Field,Hanau,Germany,ZNF,ETID,50.169201,8.96159
+765,Hohenfels Army Air Field,Hohenfels,Germany,\N,ETIH,49.21810150146485,11.836099624633787
+766,Flugplatz Kitzingen,Kitzingen,Germany,KZG,ETIN,49.743099,10.2006
+767,Nordholz Naval Airbase,Nordholz,Germany,FCN,ETMN,53.7677001953,8.658499717709999
+768,Diepholz Air Base,Diepholz,Germany,\N,ETND,52.585556,8.342222
+769,Geilenkirchen Air Base,Geilenkirchen,Germany,GKE,ETNG,50.9608,6.04242
+770,Hohn Air Base,Hohn,Germany,\N,ETNH,54.312199,9.53817
+771,Jever Air Base,Jever,Germany,\N,ETNJ,53.533501,7.88867
+773,Nörvenich Air Base,Noervenich,Germany,\N,ETNN,50.8312,6.65817
+774,Schleswig Air Base,Schleswig,Germany,WBG,ETNS,54.459301,9.51633
+777,Wunstorf Air Base,Wunstorf,Germany,\N,ETNW,52.457298,9.42717
+778,Vilseck Army Air Field,Vilseck,Germany,\N,ETOI,49.63359832763672,11.767200469970703
+779,Coleman Army Air Field,Coleman,Germany,\N,ETOR,49.5635986328125,8.463390350341797
+780,Wiesbaden Army Airfield,Wiesbaden,Germany,WIE,ETOU,50.049800872802734,8.325400352478027
+781,Landsberg Lech Air Base,Landsberg,Germany,\N,ETSA,48.070599,10.906
+782,Büchel Air Base,Buechel,Germany,\N,ETSB,50.1738014221,7.06333017349
+784,Fürstenfeldbruck Air Base,Fuerstenfeldbruck,Germany,FEL,ETSF,48.205555,11.266944
+785,Holzdorf Air Base,Holzdorf,Germany,\N,ETSH,51.767799,13.1677
+787,Lechfeld Air Base,Lechfeld,Germany,\N,ETSL,48.185504,10.8612
+788,Neuburg AFB,Neuburg,Germany,\N,ETSN,48.710999,11.2115
+789,Gütersloh Air Base,Guetersloh,Germany,GUT,ETUO,51.922798,8.30633
+835,Nylstroom Airfield,Nylstroom,South Africa,\N,FANY,-24.68610000610352,28.43490028381348
+855,Springs Airfield,Springs,South Africa,\N,FASI,-26.2494004736,28.3982715607
+856,Swartkop Air Force Base,Swartkop,South Africa,\N,FASK,-25.8097000122,28.1646003723
+873,Waterkloof Air Force Base,Waterkloof,South Africa,WKF,FAWK,-25.8299999237,28.2224998474
+875,Ysterplaat Air Force Base,Ysterplaat,South Africa,\N,FAYP,-33.90019989013672,18.498300552368164
+892,RAF Ascension Island,Wide Awake,Saint Helena,ASI,FHAW,-7.9696,-14.3937
+895,Diego Garcia Naval Support Facility,Diego Garcia Island,British Indian Ocean Territory,NKW,FJDG,-7.31327,72.411102
+1011,Thornhill Air Base,Gwert,Zimbabwe,GWE,FVTL,-19.436399459838867,29.861900329589844
+1019,Mejametalana Airbase,Maseru,Lesotho,\N,FXMU,-29.304100036621094,27.50349998474121
+1144,Manda Airstrip,Lamu,Kenya,LAU,HKLU,-2.252419948577881,40.91310119628906
+1148,Moi Air Base,Nairobi,Kenya,\N,HKRE,-1.27726995945,36.8623008728
+1199,RAF Akrotiri,Akrotiri,Cyprus,AKT,LCRA,34.590401,32.9879
+1201,Osijek-Čepin Airfield,Cepin,Croatia,\N,LDOC,45.5427778,18.6319444
+1210,Udbina Air Base,Udbina,Croatia,\N,LDZU,44.55759811401367,15.774399757385254
+1221,Armilla Air Base,Granada,Spain,\N,LEGA,37.1332016,-3.63568997
+1224,Getafe Air Base,Madrid,Spain,\N,LEGT,40.29410171508789,-3.723829984664917
+1232,Moron Air Base,Sevilla,Spain,OZP,LEMO,37.17490005493164,-5.615940093994141
+1235,Alcantarilla Air Base,Murcia,Spain,\N,LERI,37.951099,-1.23032
+1236,Reus Air Base,Reus,Spain,REU,LERS,41.14739990234375,1.1671700477600098
+1252,Zaragoza Air Base,Zaragoza,Spain,ZAZ,LEZG,41.66619873046875,-1.0415500402450562
+1263,Cazaux (BA 120) Air Base,Cazaux,France,\N,LFBC,44.53329849243164,-1.125
+1266,Toulouse-Francazal (BA 101) Air Base,Toulouse,France,\N,LFBF,43.54560089111328,1.3674999475479126
+1267,Cognac-Châteaubernard (BA 709) Air Base,Cognac,France,CNG,LFBG,45.65829849243164,-0.3174999952316284
+1271,Mont-de-Marsan (BA 118) Air Base,Mont-de-marsan,France,\N,LFBM,43.911701,-0.5075
+1287,Millau-Larzac Airfield,Millau,France,\N,LFCM,43.9893,3.183
+1311,Verdun-Le Rozelier Airfield,Verdun,France,\N,LFGW,49.122398,5.46905
+1326,Solenzara (BA 126) Air Base,Solenzara,France,SOZ,LFKS,41.92440032958984,9.406000137329102
+1355,Orange-Caritat (BA 115) Air Base,Orange,France,XOG,LFMO,44.14049911499024,4.866720199584961
+1362,Salon-de-Provence (BA 701) Air Base,Salon,France,\N,LFMY,43.60639953613281,5.109250068664551
+1363,Lézignan-Corbières Airfield,Lezignan-corbieres,France,\N,LFMZ,43.1758,2.73417
+1364,Mende-Brenoux Airfield,Mende,France,MEN,LFNB,44.502102,3.53282
+1366,Avord (BA 702) Air Base,Avord,France,\N,LFOA,47.053299,2.6325
+1368,Châteaudun (BA 279) Air Base,Chateaudun,France,\N,LFOC,48.058102,1.37662
+1370,Évreux-Fauville (BA 105) Air Base,Evreux,France,EVX,LFOE,49.02870178222656,1.219859957695007
+1372,Abbeville,Abbeville,France,XAB,LFOI,50.143501,1.831891
+1373,Orléans-Bricy (BA 123) Air Base,Orleans,France,ORE,LFOJ,47.9878005981,1.7605600357100002
+1381,Creil Air Base,Creil,France,CSF,LFPC,49.25350189208984,2.5191400051116943
+1384,Melun-Villaroche Air Base,Melun,France,\N,LFPM,48.60469818115234,2.6711199283599854
+1388,Villacoublay-Vélizy (BA 107) Air Base,Villacoublay,France,VIY,LFPV,48.7741667,2.1916667
+1392,Étain-Rouvres Air Base,Etain,France,\N,LFQE,49.226898193359375,5.672220230102539
+1395,Cambrai-Épinoy (BA 103) Air Base,Cambrai,France,\N,LFQI,50.221802,3.15424
+1398,Phalsbourg-Bourscheid Air Base,Phalsbourg,France,\N,LFQP,48.7680556,7.205
+1411,Landivisiau Air Base,Landivisiau,France,LDV,LFRJ,48.53030014038086,-4.151639938354492
+1413,Lanvéoc-Poulmic Air Base,Lanvedoc,France,\N,LFRL,48.281700134277344,-4.4450201988220215
+1424,Colmar-Meyenheim Air Base,Colmar,France,\N,LFSC,47.922000885,7.39967012405
+1426,Metz-Frescaty (BA 128) Air Base,Metz,France,MZM,LFSF,49.07170104980469,6.131669998168945
+1429,Saint-Dizier-Robinson (BA 113) Air Base,St.-dizier,France,\N,LFSI,48.63600158691406,4.899419784545898
+1430,Montbéliard-Courcelles Airfield,Montbeliard,France,\N,LFSM,47.487,6.79054
+1432,Nancy-Ochey (BA 133) Air Base,Nancy,France,\N,LFSO,48.583099365234375,5.954999923706055
+1434,Reims-Champagne (BA 112) Air Base,Reims,France,RHE,LFSR,49.310001,4.05
+1436,Luxeuil-Saint-Sauveur (BA 116) Air Base,Luxeuil,France,\N,LFSX,47.7830556,6.36416667
+1442,Ambérieu Air Base (BA 278),Amberieu,France,\N,LFXA,45.987301,5.32844
+1444,Andravida Air Base,Andravida,Greece,PYR,LGAD,37.9207,21.292601
+1445,Agrinion Air Base,Agrinion,Greece,AGQ,LGAG,38.602001,21.3512001
+1481,Stefanovikion Air Base,Stefanovikion,Greece,\N,LGSV,39.48,22.7672
+1483,Tanagra Air Base,Tanagra,Greece,\N,LGTG,38.339802,23.565001
+1498,Szolnok Air Base,Szolnok,Hungary,\N,LHSN,47.122897,20.2355
+1499,Amendola Air Base,Amendola,Italy,\N,LIBA,41.541401,15.7181
+1504,Lecce Galatina Air Base,Lecce,Italy,LCC,LIBN,40.239201,18.133301
+1507,Gioia Del Colle Air Base,Gioia Del Colle,Italy,\N,LIBV,40.767799,16.9333
+1516,Sigonella Navy Air Base,Sigonella,Italy,NSY,LICZ,37.401699,14.9224
+1518,Decimomannu Air Base,Decimomannu,Italy,DCI,LIED,39.354198,8.97248
+1523,Milano-Bresso Airfield,Milano,Italy,\N,LIMB,45.542198,9.20333
+1530,Cameri Air Base [MIL],Cameri,Italy,\N,LIMN,45.529598,8.66922
+1532,Piacenza San Damiano Air Base,Piacenza,Italy,\N,LIMS,44.913102,9.723322
+1535,Aviano Air Base,Aviano,Italy,AVB,LIPA,46.031898,12.596503
+1537,Cervia Air Base,Cervia,Italy,\N,LIPC,44.224201,12.3072
+1540,Rivolto Air Base,Rivolto,Italy,\N,LIPI,45.978699,13.0493
+1542,Ghedi Air Base,Ghedi,Italy,\N,LIPL,45.432201,10.2677
+1547,Istrana Air Base,Treviso,Italy,\N,LIPS,45.684898,12.0829
+1554,Pratica Di Mare Air Base,Pratica Di Mare,Italy,\N,LIRE,41.654499,12.4452
+1556,Guidonia Air Base,Guidonia,Italy,\N,LIRG,41.990299,12.7408
+1559,Latina Air Base,Latina,Italy,QLT,LIRL,41.5424,12.909
+1560,Grazzanise Air Base,Grazzanise,Italy,\N,LIRM,41.060799,14.0819
+1564,Grosseto Air Base,Grosseto,Italy,GRS,LIRS,42.759701,11.0719
+1574,Čáslav Air Base,Caslav,Czech Republic,\N,LKCV,49.939701080322266,15.381799697875977
+1577,Kbely Air Base,Praha,Czech Republic,\N,LKKB,50.12139892578125,14.54360008239746
+1583,Náměšť Air Base,Namest,Czech Republic,\N,LKNA,49.16579818725586,16.124900817871094
+1586,Přerov Air Base,Prerov,Czech Republic,PRV,LKPO,49.42580032348633,17.404699325561523
+1592,Tel Nof Air Base,Tel-nof,Israel,\N,LLEK,31.8395004272,34.8218002319
+1593,Ein Shemer Airfield,Eyn-shemer,Israel,\N,LLES,32.440799713134766,35.0077018737793
+1595,Ein Yahav Airfield,Eyn-yahav,Israel,EIY,LLEY,30.621700286865234,35.20330047607422
+1597,Hatzor Air Base,Haztor,Israel,\N,LLHS,31.7625007629,34.727199554399995
+1600,Bar Yehuda Airfield,Metzada,Israel,MTZ,LLMZ,31.32819938659668,35.38859939575195
+1601,Nevatim Air Base,Nevatim,Israel,VTM,LLNV,31.2082996368,35.012298584
+1603,Ramat David Air Base,Ramat David,Israel,\N,LLRD,32.66510009765625,35.179500579833984
+1604,Ramon Air Base,Ramon,Israel,MIP,LLRM,30.776100158691406,34.66669845581055
+1615,Hinterstoisser Air Base,Zeltweg,Austria,\N,LOXZ,47.202801,14.7442
+1616,Alverca Air Base,Alverca,Portugal,AVR,LPAR,38.883301,-9.0301
+1620,Braga Municipal Aerodrome,Braga,Portugal,BGZ,LPBR,41.5871009827,-8.445139884949999
+1621,Aerodromo Municipal de Coimbra,Coimba,Portugal,\N,LPCO,40.158758,-8.470815
+1623,Coimbra Hospital Covões Heliport,Covilha,Portugal,\N,LPCV,40.194812,-8.460207
+1630,Monte Real Air Base,Monte Real,Portugal,QLR,LPMR,39.828335,-8.8875
+1631,Montijo Air Base,Montijo,Portugal,\N,LPMT,38.703899,-9.03592
+1632,Ovar Air Base,Ovar,Portugal,\N,LPOV,40.915901,-8.64592
+1640,Sintra Air Base,Sintra,Portugal,\N,LPST,38.8311,-9.33955
+1641,Tancos Airbase,Tancos,Portugal,\N,LPTN,39.475101,-8.36458
+1668,Alpnach Air Base,Alpnach,Switzerland,\N,LSMA,46.943901,8.28417
+1669,Dübendorf Air Base,Dubendorf,Switzerland,\N,LSMD,47.398601532,8.648229599
+1670,Emmen Air Base,Emmen,Switzerland,EML,LSME,47.092444,8.305184
+1673,Payerne Air Base,Payerne,Switzerland,\N,LSMP,46.8432,6.91506004333
+1683,Etimesgut Air Base,Ankara,Turkey,ANK,LTAD,39.949798584,32.6885986328
+1684,Akıncı Air Base,Ankara,Turkey,\N,LTAE,40.0788993835,32.5656013489
+1686,İncirlik Air Base,Adana,Turkey,UAB,LTAG,37.0021018982,35.4258995056
+1705,Eskişehir Air Base,Eskisehir,Turkey,ESK,LTBI,39.7840995789,30.5820999146
+1719,Samandıra Air Base,Istanbul,Turkey,\N,LTBX,40.99300003051758,29.21649932861328
+1747,Kuchyňa Air Base,Malacky,Slovakia,\N,LZMC,48.402000427246094,17.11840057373047
+1763,San Isidro Air Base,San Isidoro,Dominican Republic,\N,MDSI,18.503700256347656,-69.76170349121094
+1778,Boscobel Aerodrome,Ocho Rios,Jamaica,OCJ,MKBS,18.404199600219727,-76.96900177001953
+1844,Terán Air Base,Tuxtla Gutierrez,Mexico,\N,MMTB,16.739901,-93.173301
+1907,Leeward Point Field,Guantanamo,Cuba,NBW,MUGM,19.906499862671,-75.207099914551
+2014,Hokitika Airfield,Hokitika,New Zealand,HKK,NZHK,-42.713600158691406,170.98500061035156
+2016,Hastings Aerodrome,Hastings,New Zealand,\N,NZHS,-39.646702,176.766998
+2026,RNZAF Base Ohakea,Ohakea,New Zealand,OHA,NZOH,-40.20600128173828,175.38800048828125
+2038,Williams Field,Weydon,Antarctica,\N,NZWD,-77.86740112304688,167.0570068359375
+2044,RNZAF Base Auckland-Whenuapai,Whenuapai,New Zealand,\N,NZWP,-36.78779983520508,174.6300048828125
+2058,Sheik Isa Air Base,Bahrain,Bahrain,\N,OBBS,25.918399810791016,50.590599060058594
+2065,King Abdulaziz Air Base,Dhahran,Saudi Arabia,DHA,OEDR,26.265399932900003,50.1520004272
+2071,King Faisal Naval Base,Jeddah,Saudi Arabia,\N,OEJF,21.348100662231445,39.17300033569336
+2119,Shahid Vatan Pour Air Base,Esfahan,Iran,\N,OIFH,32.56700134277344,51.69160079956055
+2122,Badr Air Base,Sepah,Iran,\N,OIFP,32.62110137939453,51.696998596191406
+2128,Doshan Tappeh Air Base,Teheran,Iran,\N,OIID,35.702999114990234,51.47510147094727
+2173,Prince Hassan Air Base,Hotel Four,Jordan,\N,OJHF,32.160702,37.149399
+2175,King Hussein Air College,Mafraq,Jordan,OMF,OJMF,32.3564,36.259201
+2178,Rene Mouawad Air Base,Kleiat,Lebanon,KYE,OLKA,34.589298248291016,36.01129913330078
+2184,Al Dhafra Air Base,Abu Dhabi,United Arab Emirates,DHF,OMAM,24.248199462900004,54.5476989746
+2192,Khasab Air Base,Khasab,Oman,KHS,OOKB,26.17099952697754,56.2406005859375
+2193,Masirah Air Base,Masirah,Oman,MSH,OOMA,20.67539978027344,58.89049911499024
+2196,Thumrait Air Base,Thumrait,Oman,TTH,OOTH,17.666000366210938,54.024600982666016
+2205,Shahbaz Air Base,Jacobsbad,Pakistan,JAG,OPJA,28.28420066833496,68.44969940185547
+2211,Mianwali Air Base,Mianwali,Pakistan,MWD,OPMI,32.5630989074707,71.5707015991211
+2213,Masroor Air Base,Karachi,Pakistan,\N,OPMR,24.893600463867188,66.93879699707031
+2216,Okara Cantonment Airstrip,Okara,Pakistan,\N,OPOK,30.740999221800003,73.3576965332
+2224,Risalpur Air Base,Risalpur,Pakistan,\N,OPRS,34.08110046386719,71.97260284423828
+2237,Deir ez-Zor Air Base,Deire Zor,Syria,DEZ,OSDZ,35.2854,40.175999
+2245,Andersen Air Force Base,Andersen,Guam,UAM,PGUA,13.584,144.929998
+2250,Dyess Army Air Field,Kwajalein,Marshall Islands,\N,PKRO,9.396889686580002,167.470993042
+2251,Bucholz Army Air Field,Kwajalein,Marshall Islands,KWA,PKWA,8.720120429992676,167.73199462890625
+2253,Henderson Field,Midway,Midway Islands,MDY,PMDY,28.20170021057129,-177.38099670410156
+2261,Longtan Air Base,Longtang,Taiwan,\N,RCDI,24.855100631713867,121.23799896240234
+2271,Hsinchu Air Base,Hsinchu,Taiwan,HSZ,RCPO,24.8180007935,120.939002991
+2273,Chihhang Air Base,Taitung,Taiwan,\N,RCQS,22.793100357055664,121.18199920654295
+2289,Chitose Air Base,Chitose,Japan,\N,RJCJ,42.79449844359999,141.666000366
+2315,Tsuiki Air Field,Tsuiki,Japan,\N,RJFZ,33.6850013733,131.039993286
+2346,Misawa Air Base,Misawa,Japan,MSJ,RJSM,40.7032012939,141.367996216
+2348,Matsushima Air Base,Matsushima,Japan,\N,RJST,38.4048995972,141.220001221
+2350,Atsugi Naval Air Facility,Atsugi,Japan,NJA,RJTA,35.4546012878418,139.4499969482422
+2353,Iruma Air Base,Iruma,Japan,\N,RJTJ,35.84189987182617,139.41099548339844
+2358,Kastner Army Heliport,Zama,Japan,\N,RJTR,35.5138015747,139.393997192
+2360,Yokota Air Base,Yokota,Japan,OKO,RJTY,35.74850082397461,139.34800720214844
+2376,Seoul Air Base (K-16),Seoul East,South Korea,SSN,RKSM,37.444744,127.112718
+2377,Osan Air Base,Osan,South Korea,OSN,RKSO,37.090599,127.029999
+2383,Yecheon Airbase,Yechon,South Korea,YEC,RKTY,36.630373,128.34971
+2385,Ie Shima Auxiliary Air Base,Iejima,Japan,\N,RODE,26.72575759887696,127.76490020751952
+2386,Kadena Air Base,Kadena,Japan,DNA,RODN,26.3556,127.767998
+2395,Futenma Marine Corps Air Station,Futema,Japan,\N,ROTM,26.27429962158203,127.75599670410156
+2407,Basa Air Base,Floridablanca,Philippines,\N,RPUF,14.98724,120.492554
+2410,Fernando Air Base,Lipa,Philippines,\N,RPUL,13.954999923706056,121.125
+2442,Jorge Newbery Airpark,Buenos Aires,Argentina,AEP,SABE,-34.5592,-58.4156
+2493,Marambio Base,Marambio Base,Antarctica,\N,SAWB,-64.2382965088,-56.6307983398
+2542,Canoas Air Force Base,Porto Alegre,Brazil,\N,SBCO,-29.945928,-51.144413
+2614,Santa Cruz Air Force Base,Rio De Janeiro,Brazil,SNZ,SBSC,-22.9324,-43.719101
+2661,Teniente Rodolfo Marsh Martin Base,Isla Rey Jorge,Antarctica,TNM,SCRM,-62.1907997131,-58.9866981506
+2765,Capitán Av. Salvador Ogaya G. airport,Puerto Suarez,Bolivia,PSZ,SLPS,-18.975301,-57.820599
+2795,Las Palmas Air Base,Las Palmas,Peru,\N,SPLP,-12.16069984436,-76.998901367188
+2823,El Libertador Airbase,Maracaibo,Venezuela,\N,SVBL,10.1833753586,-67.55731964110001
+2826,"Aeropuerto ""General Tomas de Heres"". Ciudad Bolivar",Ciudad Bolivar,Venezuela,CBL,SVCB,8.12216091156,-63.5369567871
+2836,Capitán Manuel Ríos Airbase,Carrizal,Venezuela,\N,SVCZ,9.372650146484377,-66.92279815673828
+2881,Pointe-à-Pitre Le Raizet,Pointe-a-pitre,Guadeloupe,PTP,TFFR,16.265301,-61.531799
+2986,Migalovo Air Base,Tver,Russia,KLD,UUEM,56.82469940185547,35.7577018737793
+3025,Anuradhapura Air Force Base,Anuradhapura,Sri Lanka,ACJ,VCCA,8.30148983002,80.42790222170001
+3060,Panagarh Air Force Station,Panagarh,India,\N,VEPH,23.4743003845,87.4274978638
+3078,Shek Kong Air Base,Sek Kong,Hong Kong,\N,VHSK,22.436599731445312,114.08000183105467
+3083,Bakshi Ka Talab Air Force Station,Bakshi Ka Talab,India,\N,VIBL,26.988300323486328,80.89309692382812
+3086,Bhatinda Air Force Station,Bhatinda,India,BUP,VIBT,30.27009963989257,74.75579833984375
+3088,Bareilly Air Force Station,Bareilly,India,BEK,VIBY,28.4221000671,79.45079803470001
+3111,Sarsawa Air Force Station,Saharanpur,India,\N,VISP,29.993900299072266,77.42530059814453
+3133,Bidar Air Force Station,Bidar,India,\N,VOBR,17.908100128173828,77.48709869384766
+3139,Car Nicobar Air Force Station,Carnicobar,India,CBD,VOCX,9.152509689331056,92.8196029663086
+3140,Dundigul Air Force Academy,Dundigul,India,\N,VODG,17.627199173,78.4033966064
+3150,Tanjore Air Force Base,Tanjore,India,TJV,VOTJ,10.722399711608888,79.10160064697266
+3154,Tambaram Air Force Station,Tambaram,India,\N,VOTX,12.90719985961914,80.12190246582031
+3197,Gia Lam Air Base,Hanoi,Vietnam,\N,VVGL,21.04050064086914,105.88600158691406
+3198,Kep Air Base,Kep,Vietnam,\N,VVKP,21.3945999146,106.261001587
+3200,Nha Trang Air Base,Nhatrang,Vietnam,NHA,VVNT,12.2275,109.192001
+3228,Nampong Air Base,Nampong,Burma,\N,VYNP,25.3544006348,97.2951965332
+3234,Shante Air Base,Shante,Burma,\N,VYST,20.941699981689453,95.91449737548828
+3279,Soewondo Air Force Base,Medan,Indonesia,MES,WIMK,3.559167,98.671111
+3312,Sembawang Air Base,Sembawang,Singapore,\N,WSAG,1.4252599477767944,103.81300354003906
+3313,Paya Lebar Air Base,Paya Lebar,Singapore,QPG,WSAP,1.360419988632202,103.91000366210938
+3314,Tengah Air Base,Tengah,Singapore,TGA,WSAT,1.38725996017,103.708999634
+3335,RAAF Base East Sale,East Sale,Australia,\N,YMES,-38.0988998413,147.149002075
+3340,"RAAF Williams, Point Cook Base",Point Cook,Australia,\N,YMPC,-37.932201,144.753006
+3343,RAAF Base Edinburgh,Edinburgh,Australia,\N,YPED,-34.70249938964844,138.62100219726562
+3352,Woomera Airfield,Woomera,Australia,UMR,YPWR,-31.14419937133789,136.81700134277344
+3360,RAAF Base Richmond,Richmond,Australia,XRH,YSRI,-33.600601,150.781006
+3412,Wainwright Air Station,Fort Wainwright,United States,\N,PAWT,70.61340332,-159.8600006
+3422,Bryant Army Heliport,Fort Richardson,United States,FRN,PAFR,61.26639938,-149.6529999
+3425,Laurence G Hanscom Field,Bedford,United States,BED,KBED,42.47000122,-71.28900146
+3435,Bicycle Lake Army Air Field,Fort Irwin,United States,BYS,KBYS,35.2804985046,-116.629997253
+3438,Merrill Field,Anchorage,United States,MRI,PAMR,61.2135009765625,-149.843994140625
+3441,Hunter Army Air Field,Hunter Aaf,United States,SVN,KSVN,32.00999832,-81.14569855
+3444,Whiting Field Naval Air Station - North,Milton,United States,NSE,KNSE,30.7241993,-87.02189636
+3446,Ernest A. Love Field,Prescott,United States,PRC,KPRC,34.65449905,-112.4199982
+3449,Travis Air Force Base,Fairfield,United States,SUU,KSUU,38.262699127197,-121.92700195312
+3454,Eppley Airfield,Omaha,United States,OMA,KOMA,41.3032,-95.894096
+3459,Dane County Regional Truax Field,Madison,United States,MSN,KMSN,43.13990020751953,-89.3375015258789
+3475,Allen Army Airfield,Delta Junction,United States,BIG,PABI,63.9944992065,-145.722000122
+3479,Little Rock Air Force Base,Jacksonville,United States,LRF,KLRF,34.916900634799994,-92.14969635010002
+3480,Redstone Army Air Field,Redstone,United States,HUA,KHUA,34.67869949,-86.68479919
+3481,Pope Field,Fort Bragg,United States,POB,KPOB,35.1708984375,-79.014503479004
+3487,Dover Air Force Base,Dover,United States,DOV,KDOV,39.12950134,-75.46600342
+3495,Boise Air Terminal/Gowen Field,Boise,United States,BOI,KBOI,43.5644,-116.223
+3496,Creech Air Force Base,Indian Springs,United States,INS,KINS,36.5872001648,-115.672996521
+3499,Wheeler Army Airfield,Wahiawa,United States,HHI,PHHI,21.48349953,-158.0399933
+3500,Maxwell Air Force Base,Montgomery,United States,MXF,KMXF,32.3829,-86.365799
+3501,Robinson Army Air Field,Robinson,United States,\N,KRBM,34.85010147,-92.30020142
+3502,Dallas Love Field,Dallas,United States,DAL,KDAL,32.847099,-96.851799
+3503,Butts AAF (Fort Carson) Air Field,Fort Carson,United States,FCS,KFCS,38.67839813,-104.7570038
+3505,Miramar Marine Corps Air Station - Mitscher Field,Miramar,United States,NKX,KNKX,32.86840057,-117.1429977
+3506,Luke Air Force Base,Phoenix,United States,LUF,KLUF,33.534999847399995,-112.383003235
+3507,Hurlburt Field,Mary Esther,United States,\N,KHRT,30.42779922485352,-86.68930053710938
+3510,Vance Air Force Base,Enid,United States,END,KEND,36.3391990662,-97.9164962769
+3511,Point Mugu Naval Air Station (Naval Base Ventura Co),Point Mugu,United States,NTD,KNTD,34.120300293,-119.121002197
+3512,Edwards Air Force Base,Edwards Afb,United States,EDW,KEDW,34.905399,-117.884003
+3518,Felker Army Air Field,Fort Eustis,United States,FAF,KFAF,37.1324996948,-76.60880279540001
+3519,Campbell AAF (Fort Campbell) Air Field,Hopkinsville,United States,HOP,KHOP,36.668598175,-87.49620056150002
+3521,Patuxent River Naval Air Station (Trapnell Field),Patuxent River,United States,NHK,KNHK,38.285999,-76.411797
+3525,Tinker Air Force Base,Oklahoma City,United States,TIK,KTIK,35.414699554443,-97.386596679688
+3530,Gray Army Air Field,Fort Lewis,United States,GRF,KGRF,47.07920074,-122.5810013
+3538,Keesler Air Force Base,Biloxi,United States,BIX,KBIX,30.4104003906,-88.92440032959999
+3539,Lawson Army Air Field (Fort Benning),Fort Benning,United States,LSF,KLSF,32.337299346900004,-84.9913024902
+3540,Kingsville Naval Air Station,Kingsville,United States,NQI,KNQI,27.5072002411,-97.8097000122
+3541,Marshall Army Air Field,Fort Riley,United States,FRI,KFRI,39.05530167,-96.76450348
+3546,Massena International Richards Field,Massena,United States,MSS,KMSS,44.93579864501953,-74.84559631347656
+3549,Page Field,Fort Myers,United States,FMY,KFMY,26.58659935,-81.86329650879999
+3552,Joint Base Andrews,Camp Springs,United States,ADW,KADW,38.810799,-76.866997
+3556,Wheeler Sack Army Air Field,Fort Drum,United States,\N,KGTB,44.05559921,-75.71949768
+3558,Meadows Field,Bakersfield,United States,BFL,KBFL,35.43360138,-119.0569992
+3562,Davis Monthan Air Force Base,Tucson,United States,DMA,KDMA,32.1665000916,-110.883003235
+3563,Pensacola Naval Air Station/Forrest Sherman Field,Pensacola,United States,NPA,KNPA,30.35269928,-87.31860352
+3565,Grand Forks Air Force Base,Red River,United States,RDR,KRDR,47.961101532,-97.4011993408
+3567,Buckley Air Force Base,Buckley,United States,BFK,KBKF,39.7016983032,-104.751998901
+3573,Whidbey Island Naval Air Station (Ault Field),Whidbey Island,United States,NUW,KNUW,48.351799,-122.655998
+3575,Moody Air Force Base,Valdosta,United States,VAD,KVAD,30.9678001404,-83.1930007935
+3578,Lovell Field,Chattanooga,United States,CHA,KCHA,35.035301208496094,-85.20379638671875
+3583,Dillingham Airfield,Dillingham,United States,HDH,PHDH,21.5795001984,-158.197006226
+3586,Whiteman Air Force Base,Knobnoster,United States,SZL,KSZL,38.73030090332,-93.547897338867
+3594,North Island Naval Air Station-Halsey Field,San Diego,United States,NZY,KNZY,32.69919968,-117.2149963
+3595,Biggs Army Air Field (Fort Bliss),El Paso,United States,BIF,KBIF,31.84950066,-106.3799973
+3597,Cavern City Air Terminal,Carlsbad,United States,CNM,KCNM,32.337501525878906,-104.26300048828124
+3600,Bowman Field,Louisville,United States,LOU,KLOU,38.2280006409,-85.6636962891
+3601,Sierra Vista Municipal Libby Army Air Field,Fort Huachuca,United States,FHU,KFHU,31.588499069213867,-110.34400177001952
+3614,Hill Air Force Base,Ogden,United States,HIF,KHIF,41.12403,-111.973086
+3616,Scappoose Industrial Airpark,San Luis,United States,\N,KSPB,45.77099990844727,-122.86199951171876
+3623,Patrick Air Force Base,Coco Beach,United States,COF,KCOF,28.2348995209,-80.6100997925
+3625,Ellsworth Air Force Base,Rapid City,United States,RCA,KRCA,44.14500046,-103.1039963
+3631,Coulter Field,Bryan,United States,CFD,KCFD,30.7157001495,-96.3313980103
+3635,Altus Air Force Base,Altus,United States,LTS,KLTS,34.667098999,-99.2667007446
+3637,Minot Air Force Base,Minot,United States,MIB,KMIB,48.4156,-101.358002
+3638,Beale Air Force Base,Marysville,United States,BAB,KBAB,39.136100769,-121.43699646
+3640,Seymour Johnson Air Force Base,Goldsboro,United States,GSB,KGSB,35.33940125,-77.96060181
+3648,Polk Army Air Field,Fort Polk,United States,POE,KPOE,31.0447998,-93.1917038
+3649,Eielson Air Force Base,Fairbanks,United States,EIL,PAEI,64.66570282,-147.102005
+3655,Mc Guire Air Force Base,Wrightstown,United States,WRI,KWRI,40.0155983,-74.59169769
+3656,Cherry Point MCAS /Cunningham Field/,Cherry Point,United States,\N,KNKT,34.90090179,-76.88069916
+3658,Augusta Regional At Bush Field,Bush Field,United States,AGS,KAGS,33.36989974975586,-81.9645004272461
+3665,Waynesville-St. Robert Regional Forney field,Fort Leonardwood,United States,TBN,KTBN,37.74160004,-92.14070129
+3666,Dobbins Air Reserve Base,Marietta,United States,MGE,KMGE,33.91540146,-84.51629639
+3667,Fairchild Air Force Base,Spokane,United States,SKA,KSKA,47.6151008606,-117.65599823
+3669,Tyndall Air Force Base,Panama City,United States,PAM,KPAM,30.0695991516,-85.57540130619999
+3672,McChord Air Force Base,Tacoma,United States,TCM,KTCM,47.1376991272,-122.475997925
+3677,Hood Army Air Field,Fort Hood,United States,HLR,KHLR,31.1387004852,-97.7145004272
+3684,Mc Clellan Airfield,Sacramento,United States,MCC,KMCC,38.66759872,-121.401001
+3692,Elmendorf Air Force Base,Anchorage,United States,EDF,PAED,61.2509994506836,-149.8070068359375
+3695,Dyess Air Force Base,Abilene,United States,DYS,KDYS,32.4207992554,-99.854598999
+3696,South Arkansas Regional At Goodwin Field,El Dorado,United States,ELD,KELD,33.22100067138672,-92.81330108642578
+3703,Jacksonville Naval Air Station (Towers Field),Jacksonville,United States,NIP,KNIP,30.2358,-81.680603
+3706,Godman Army Air Field,Fort Knox,United States,FTK,KFTK,37.9071006775,-85.9720993042
+3708,San Angelo Regional Mathis Field,San Angelo,United States,SJT,KSJT,31.35770034790039,-100.49600219726562
+3715,Easterwood Field,College Station,United States,CLL,KCLL,30.58860016,-96.36380005
+3716,Felts Field,Spokane,United States,SFF,KSFF,47.682800292969,-117.32299804688
+3725,Cape Cod Coast Guard Air Station,Falmouth,United States,FMH,KFMH,41.6584014893,-70.5214004517
+3727,Lackland Air Force Base,San Antonio,United States,SKF,KSKF,29.38419914,-98.58110046
+3733,Shaw Air Force Base,Sumter,United States,SSC,KSSC,33.97269821,-80.47059631
+3741,Fallon Naval Air Station,Fallon,United States,NFL,KNFL,39.41659927,-118.7009964
+3746,Naval Air Station Key West/Boca Chica Field,Key West,United States,NQX,KNQX,24.57579994,-81.68890381
+3753,Sioux Gateway Col. Bud Day Field,Sioux City,United States,SUX,KSUX,42.40259933,-96.38439941
+3757,Randolph Air Force Base,San Antonio,United States,RND,KRND,29.52969933,-98.27890015
+3760,Drake Field,Fayetteville,United States,FYV,KFYV,36.00510025024414,-94.17009735107422
+3761,Henry Post Army Air Field (Fort Sill),Fort Sill,United States,FSI,KFSI,34.64979935,-98.40219879
+3763,Wright-Patterson Air Force Base,Dayton,United States,FFO,KFFO,39.8260993958,-84.0483016968
+3767,Mc Connell Air Force Base,Wichita,United States,IAB,KIAB,37.62189865,-97.26820374
+3768,New Orleans NAS JRB/Alvin Callender Field,New Orleans,United States,NBG,KNBG,29.82530022,-90.03500366
+3770,Texarkana Regional Webb Field,Texarkana,United States,TXK,KTXK,33.45370101928711,-93.99099731445312
+3772,Phillips Army Air Field,Aberdeen,United States,APG,KAPG,39.466202,-76.1688
+3779,Elkins-Randolph Co-Jennings Randolph Field,Elkins,United States,EKN,KEKN,38.88940048,-79.85710144
+3783,Moffett Federal Airfield,Mountain View,United States,NUQ,KNUQ,37.4161,-122.049004
+3787,Bradshaw Army Airfield,Bradshaw Field,United States,BSF,PHSF,19.760099411,-155.554000854
+3789,Mac Dill Air Force Base,Tampa,United States,MCF,KMCF,27.84930038,-82.52120209
+3800,Sherman Army Air Field,Fort Leavenworth,United States,FLV,KFLV,39.3683013916,-94.9147033691
+3802,Holloman Air Force Base,Alamogordo,United States,HMN,KHMN,32.8525009155,-106.107002258
+3803,Willow Grove Naval Air Station/Joint Reserve Base,Willow Grove,United States,NXX,KNXX,40.19979858,-75.14820099
+3804,Cheyenne Regional Jerry Olson Field,Cheyenne,United States,CYS,KCYS,41.15570068,-104.8119965
+3810,Vandenberg Air Force Base,Lompoc,United States,VBG,KVBG,34.7373008728,-120.583999634
+3813,Eareckson Air Station,Shemya,United States,SYA,PASY,52.71229935,174.1139984
+3814,Nellis Air Force Base,Las Vegas,United States,LSV,KLSV,36.2361984253,-115.033996582
+3816,Modesto City Co-Harry Sham Field,Modesto,United States,MOD,KMOD,37.62580109,-120.9540024
+3823,Mountain Home Air Force Base,Mountain Home,United States,MUO,KMUO,43.043598,-115.872002
+3827,Norfolk Naval Station (Chambers Field),Norfolk,United States,NGU,KNGU,36.937599,-76.289299
+3833,Quantico MCAF /Turner field,Quantico,United States,\N,KNYG,38.50170135,-77.30529785
+3834,Cannon Air Force Base,Clovis,United States,CVS,KCVS,34.3828010559,-103.321998596
+3836,Offutt Air Force Base,Omaha,United States,OFF,KOFF,41.118301391602,-95.912498474121
+3842,Barksdale Air Force Base,Shreveport,United States,BAD,KBAD,32.5018005371,-93.6626968384
+3847,Meridian Naval Air Station,Meridian,United States,\N,KNMM,32.55210114,-88.55560303
+3853,Condron Army Air Field,White Sands,United States,WSD,KWSD,32.34149933,-106.4029999
+3865,Valdez Pioneer Field,Valdez,United States,VDZ,PAVD,61.13389969,-146.2480011
+3866,Langley Air Force Base,Hampton,United States,LFI,KLFI,37.082901001,-76.360496521
+3868,Columbus Air Force Base,Colombus,United States,CBM,KCBM,33.6437988281,-88.44380187990001
+3870,Oceana Naval Air Station,Oceana,United States,NTU,KNTU,36.820702,-76.033501
+3871,Grissom Air Reserve Base,Peru,United States,GUS,KGUS,40.6481018066,-86.1520996094
+3874,Craig Field,Selma,United States,SEM,KSEM,32.343898773193,-86.987800598145
+3882,Ladd AAF Airfield,Fort Wainwright,United States,FBK,PAFB,64.83750153,-147.6139984
+3884,Robins Air Force Base,Macon,United States,WRB,KWRB,32.6400985718,-83.5919036865
+3900,Pondok Cabe Air Base,Jakarta,Indonesia,PCB,WIHP,-6.336959838867188,106.76499938964844
+3957,S. Darius and S. Girėnas Airfield,Kaunas,Lithuania,\N,EYKS,54.879799,23.8815
+3960,Panevėžys Air Base,Panevezys,Lithuania,PNV,EYPP,55.729400634765625,24.46080017089844
+3993,Downtown-Manhattan/Wall St Heliport,New York,United States,JRB,KJRB,40.70119858,-74.00900269
+3996,Qasigiannguit Heliport,Qasigiannguit,Greenland,JCH,BGCH,68.822815547,-51.1734473705
+4005,Xewkija Heliport,Gozo,Malta,GZM,LMMG,36.027199,14.2728
+4014,Louisville International Standiford Field,Louisville,United States,SDF,KSDF,38.1744,-85.736
+4019,Albuquerque International Sunport,Albuquerque,United States,ABQ,KABQ,35.040199,-106.609001
+4020,Gallatin Field,Bozeman,United States,BZN,KBZN,45.77750015,-111.1529999
+4066,Port O'Connor Private Heliport,Port O\'Connor,United States,\N,XS46,28.429725,-96.444419
+4096,Levuka Airfield,Levuka,Fiji,LEV,NFNB,-17.7110996246,178.759002686
+4099,Mahlon Sweet Field,Eugene,United States,EUG,KEUG,44.12459945678711,-123.21199798583984
+4103,Roberts Field,Redmond-Bend,United States,RDM,KRDM,44.2541008,-121.1500015
+4104,Picton Aerodrome,Picton,New Zealand,PCN,NZPN,-41.346099853516,173.95599365234
+4106,Victoria Harbour Seaplane Base,Victoria,Canada,YWH,CYWH,48.4249858939,-123.388867378
+4107,Coal Harbour Seaplane Base,Vancouver,Canada,\N,CAQ3,50.5999984741,-127.583000183
+4113,Huntsville International Carl T Jones Field,Huntsville,United States,HSV,KHSV,34.637199401855,-86.775100708008
+4129,Greater Binghamton/Edwin A Link field,Binghamton,United States,BGM,KBGM,42.20869827,-75.97979736
+4137,Al Asad Air Base,Al Asad,Iraq,IQA,ORAA,33.7855987549,42.4412002563
+4138,Al Taqaddum Air Base,Al Taqaddum,Iraq,TQD,ORAT,33.33810043335,43.597099304199
+4139,Joint Base Balad,Al Bakr,Iraq,XQC,ORBD,33.940200805699995,44.361598968500005
+4221,Hayman Island Heliport,Hayman Island,Australia,\N,YHYN,-20.0599,148.8834
+4276,Erie International Tom Ridge Field,Erie,United States,ERI,KERI,42.0831270134,-80.1738667488
+4278,Barnstable Municipal Boardman Polando Field,Barnstable,United States,HYA,KHYA,41.66930008,-70.28040314
+4284,Morgantown Municipal Walter L. Bill Hart Field,Morgantown,United States,MGW,KMGW,39.64289856,-79.91629791
+4298,El Toro Marine Corps Air Station,Santa Ana,United States,NZJ,KNZJ,33.67610168457031,-117.7310028076172
+4303,Enghien Moisselles Airfield,Enghien-moisselles,France,\N,LFFE,49.046398,2.35306
+4314,Edward Bodden Airfield,Little Cayman,Cayman Islands,LYB,MWCL,19.660161,-80.088826
+4335,Key Field,Meridian,United States,MEI,KMEI,32.33259963989258,-88.75189971923828
+4383,Smith Field,Fort Wayne IN,United States,SMD,KSMD,41.14339828,-85.15280151
+4390,Shun Tak Heliport,Hong Kong,Hong Kong,HHP,VHST,22.2893714905,114.152153015
+5438,Alluitsup Paa Heliport,Alluitsup Paa,Greenland,LLU,BGAP,60.46445,-45.56917
+5440,Paamiut Heliport,Paamiut,Greenland,JFR,BGFH,61.9921989441,-49.6624984741
+5441,Qeqertarsuaq Heliport,Qeqertarsuaq Airport,Greenland,JGO,BGGN,69.251181993,-53.5148763657
+5442,Qaqortoq Heliport,Qaqortoq,Greenland,JJU,BGJH,60.7156841553,-46.0299186409
+5444,Nanortalik Heliport,Nanortalik,Greenland,JNN,BGNN,60.1418839759,-45.232976675
+5445,Narsaq Heliport,Narsaq,Greenland,JNS,BGNS,60.9172827256,-46.059923172
+5456,Whistler/Green Lake Water Aerodrome,Whistler,Canada,YWS,CAE5,50.1436004639,-122.948997498
+5500,Vancouver Harbour Water Aerodrome,Vancouver,Canada,CXH,CYHC,49.2943992615,-123.111000061
+5573,Penzance Heliport,Penzance,United Kingdom,PZE,EGHK,50.128101,-5.51845
+5590,Værøy Heliport,Værøy,Norway,VRY,ENVR,67.654555,12.727257
+5613,Los Alamitos Army Air Field,Solwesi,Zambia,\N,KSLI,33.79000092,-118.052002
+5738,Fayetteville Regional Grannis Field,Fayetteville,United States,FAY,KFAY,34.9911994934082,-78.88030242919922
+5741,Memorial Field,Hot Springs,United States,HOT,KHOT,34.47800064086914,-93.09619903564452
+5742,Tri-State/Milton J. Ferguson Field,Huntington,United States,HTS,KHTS,38.36669922,-82.55799866
+5753,Lynchburg Regional Preston Glenn Field,Lynchburg,United States,LYH,KLYH,37.326698303222656,-79.20040130615234
+5755,Frank Wiley Field,Miles City,United States,MLS,KMLS,46.428001403808594,-105.88600158691406
+5764,Reading Regional Carl A Spaatz Field,Reading,United States,RDG,KRDG,40.37850189208984,-75.96520233154297
+5772,Santa Maria Pub/Capt G Allan Hancock Field,Santa Maria,United States,SMX,KSMX,34.89889908,-120.4570007
+5774,Quincy Regional Baldwin Field,Quincy,United States,UIN,KUIN,39.94269943,-91.19460297
+5779,Yakima Air Terminal McAllister Field,Yakima,United States,YKM,KYKM,46.56819916,-120.5439987
+5895,Torres Airstrip,Loh/Linua,Vanuatu,TOH,NVSD,-13.3280000687,166.638000488
+6003,Kunsan Air Base,Kunsan,South Korea,KUV,RKJK,35.90380096435547,126.61599731445312
+6004,Mokpo Heliport,Mokpo,South Korea,MPK,RKJM,34.7588996887,126.379997253
+6005,Wonju/Hoengseong Air Base (K-38/K-46),Wonju,South Korea,WJU,RKNW,37.441201,127.963858
+6011,Rajah Buayan Air Base,General Santos City,Philippines,\N,RPMB,6.10644006729,125.23500061
+6122,Khankala Air Base,Grozny,Russia,\N,URMG,43.298099517822266,45.78409957885742
+6134,Akutan Seaplane Base,Akutan,United States,KQA,KQA,54.1337704415,-165.778895617
+6415,Waikoloa Heliport,Waikoloa Village,United States,WKL,HI07,19.9205,-155.8607
+6421,Inishmore Aerodrome,Inis Mor,Ireland,IOR,EIIM,53.1067008972168,-9.653610229492188
+6450,Tannheim Airfield,Tannheim,Germany,\N,EDMT,48.009998,10.098611
+6455,Berkley Structures Heliport,Pagerungan,Indonesia,\N,WA19,47.682043,-122.148456
+6511,Tekapo Aerodrome,Lake Tekapo,New Zealand,\N,NZTL,-44.0052986145,170.444000244
+6736,Port Clarence Coast Guard Station,Port Clarence,United States,KPC,PAPC,65.2537002563,-166.85899353
+6739,Hagerstown Regional Richard A Henson Field,Hagerstown,United States,HGR,KHGR,39.707901,-77.72949982
+6773,Buffalo Spring,Samburu South,Kenya,UAS,HKSB,0.530583,37.534195
+6819,Borovaya Airfield,Minsk,Belarus,\N,UMMB,53.9604611,27.6505961
+6824,Lommis Airfield,Lommis,Switzerland,\N,LSZT,47.524399,9.00306
+6826,Burnet Municipal Kate Craddock Field,Bamburi,Kenya,\N,KBMQ,30.73889923095703,-98.23860168457033
+6830,Flugplatz Finsterwalde/Heinrichsruh,Finsterwalde,Germany,\N,EDAS,51.634445,13.675556
+6832,Kirkuk Air Base,Kirkuk,Iraq,KIK,ORKK,35.46950149536133,44.348899841308594
+6833,Al Udeid Air Base,Doha,Qatar,XJD,OTBH,25.1173000336,51.3149986267
+6834,Great Barrier Aerodrome,Claris,New Zealand,GBZ,NZGB,-36.24140167236328,175.4720001220703
+6871,Delaware County Johnson Field,Muncie,United States,MIE,KMIE,40.2422981262207,-85.3958969116211
+6896,RAAF Base Amberley,Amberley,Australia,\N,YAMB,-27.6406,152.712006
+6898,"RAAF Williams, Laverton Base",Laverton,Australia,\N,YLVT,-37.86360168457031,144.74600219726562
+6914,RAAF Base Pearce,Perth,Australia,\N,YPEA,-31.667800903320312,116.01499938964844
+6939,Belaya Air Base,Sredniiy,Russia,\N,UIIB,52.915000915527344,103.5749969482422
+6946,Altay Air Base,Altay,China,AAT,ZWAT,47.7498855591,88.08580780030002
+6948,NAS Fort Worth JRB/Carswell Field,Dallas,United States,FWH,KNFW,32.76919937,-97.4414978
+6951,Jan Mayensfield,Jan Mayen,Norway,\N,ENJA,70.9441166,-8.6520736
+6973,Volkel Air Base,Volkel,Netherlands,\N,EHVK,51.657222,5.7077778
+6995,Deland Municipal Sidney H Taylor Field,DeLand,United States,\N,KDED,29.06699944,-81.28379822
+6996,Haller Airpark,Green Cove Springs,United States,\N,7FL4,29.904057,-81.68515
+7001,Aspen-Pitkin Co/Sardy Field,Aspen,United States,ASE,KASE,39.22320175,-106.8690033
+7009,Kerrville Municipal Louis Schreiner Field,Kerrville,United States,ERV,KERV,29.9766998291,-99.0857009888
+7012,Prince Rupert/Seal Cove Seaplane Base,Prince Rupert,Canada,ZSW,CZSW,54.33330154418945,-130.2830047607422
+7017,Grand Rapids Itasca Co-Gordon Newstrom field,Grand Rapids MN,United States,GPZ,KGPZ,47.21110153,-93.50980377
+7020,Lakeland-Noble F. Lee Memorial field,Minocqua - Woodruff,United States,ARV,KARV,45.92789841,-89.73090363
+7023,Corpus Christi Naval Air Station/Truax Field,Corpus Christi,United States,\N,KNGP,27.69260025,-97.29109955
+7027,Interlaken Air Base,Interlaken,Switzerland,ZIN,LSMI,46.6766014,7.8790798
+7030,Inisheer Aerodrome,Inisheer,Ireland,INQ,EIIR,53.064701080322266,-9.510899543762209
+7036,Bagram Air Base,Kabul,Afghanistan,OAI,OAIX,34.9460983276,69.26499938959999
+7037,Prince Sultan Air Base,Al Kharj,Saudi Arabia,AKH,OEPS,24.062700271606445,47.58050155639648
+7046,Pápa Air Base,Papa,Hungary,\N,LHPA,47.3636016846,17.5007991791
+7048,Volk Field,Camp Douglas,United States,VOK,KVOK,43.938999176025,-90.253402709961
+7053,Zamperini Field,Torrance,United States,TOA,KTOA,33.803398132324,-118.33999633789
+7073,San Luis Valley Regional Bergman Field,Alamosa,United States,ALS,KALS,37.434898,-105.866997
+7074,Canyonlands Field,Moab,United States,CNY,KCNY,38.75500107,-109.7549973
+7122,Merced Regional Macready Field,Merced,United States,MCE,KMCE,37.28469849,-120.5139999
+7135,Angoon Seaplane Base,Angoon,United States,AGN,PAGN,57.503601,-134.585007
+7136,Elfin Cove Seaplane Base,Elfin Cove,United States,ELV,PAEL,58.1952018738,-136.347000122
+7140,Funter Bay Seaplane Base,Funter Bay,United States,FNR,PANR,58.2543983459,-134.897994995
+7146,Metlakatla Seaplane Base,Metakatla,United States,MTM,PAMM,55.131001,-131.578003
+7148,Hydaburg Seaplane Base,Hydaburg,United States,HYG,PAHY,55.206298828125,-132.8280029296875
+7196,Nikolski Air Station,Nikolski,United States,IKO,PAKO,52.94160079956055,-168.8489990234375
+7244,Klawock Seaplane Base,Klawock,United States,\N,PAQC,55.5546989440918,-133.1020050048828
+7269,Ganges Seaplane Base,Ganges,Canada,YGG,CAX6,48.8545,-123.4969
+7291,Corn Island,Corn Island,Nicaragua,RNI,MNCI,12.1628999710083,-83.06379699707031
+7294,Siuna,Siuna,Nicaragua,SIU,MNSI,13.727222442626951,-84.77777862548828
+7296,San Carlos,San Carlos,Nicaragua,NCR,MNSC,11.133399963378906,-84.7699966430664
+7309,Charlotte Amalie Harbor Seaplane Base,Charlotte Amalie,Virgin Islands,SPB,VI22,18.338600158691406,-64.9406967163086
+7323,Afobakka Airstrip,Afobaka,Suriname,\N,SMAF,4.998505,-54.992033
+7324,Alalapadu Airstrip,Alapadu,Suriname,\N,SMDU,2.5235,-56.3247
+7326,Lawa Anapaike Airstrip,Anapaike,Suriname,\N,SMLA,3.411301,-54.028049
+7327,Apetina Airstrip,Apetina,Suriname,\N,SMPT,3.50278,-55.058791
+7334,Moengo Airstrip,Moengo,Suriname,MOJ,SMMO,5.6076,-54.4003
+7337,Sarakreek Airstrip,Sarakreek,Suriname,\N,SMSK,4.319444,-54.966667
+7341,Wageningen Airstrip,Wageningen,Suriname,AGI,SMWA,5.841128,-56.673328
+7424,Mara Serena Lodge Airstrip,Masai Mara,Kenya,MRE,HKMS,-1.406111,35.008057
+7454,Kihnu Airfield,Kihnu,Estonia,\N,EEKU,58.14830017089844,24.002500534057617
+7455,Ruhnu Airfield,Ruhnu,Estonia,\N,EERU,57.78390121459961,23.26609992980957
+7468,Inishmaan Aerodrome,Inishmaan,Ireland,IIA,EIMN,53.09299850463867,-9.568059921264648
+7492,Colonsay Airstrip,Colonsay,United Kingdom,CSA,EGEY,56.0574989319,-6.243060112
+7498,Tresco Heliport,Tresco,United Kingdom,\N,EGHT,49.94559860229492,-6.331389904022217
+7510,Stepanakert Air Base,Stepanakert,Azerbaijan,\N,UB13,39.90140151977539,46.7869987487793
+7517,Ryan's Creek Aerodrome,Stewart Island,New Zealand,SZS,NZRC,-46.8997,168.100998
+7522,Kinston Regional Jetport At Stallings Field,Kinston,United States,ISO,KISO,35.331401825,-77.60880279540001
+7527,Lintsang Airfield,Lincang,China,LNJ,ZPLC,23.7381000519,100.025001526
+7544,Hopsten Air Base,Hopsten,Germany,\N,ETNP,52.33869934082031,7.541329860687256
+7578,Wilkins Runway,Budd Coast,Antarctica,\N,YWKS,-66.690833,111.523611
+7580,Steamboat Springs Bob Adams Field,Steamboat Springs,United States,SBS,KSBS,40.5163002,-106.8659973
+7583,Carbon County Regional/Buck Davis Field,Price,United States,PUC,KPUC,39.61389923,-110.7509995
+7615,Afutara Aerodrome,Afutara,Solomon Islands,AFT,AGAF,-9.19138888889,160.948611111
+7620,Batuna Aerodrome,Batuna,Solomon Islands,BPF,AGBT,-8.56202777778,158.119305556
+7622,Dyagilevo Air Base,Kostroma,Russia,\N,UUBD,54.64469909667969,39.57040023803711
+7642,Tasiilaq Heliport,Angmagssalik,Greenland,\N,BGAM,65.612296,-37.618335
+7653,Shively Field,SARATOGA,United States,SAA,KSAA,41.444901,-106.823997
+7656,Witham Field,Stuart,United States,SUA,KSUA,27.18169975,-80.22109985
+7674,Wake Island Airfield,Wake island,Wake Island,AWK,PWAK,19.282100677490234,166.63600158691406
+7685,Lotnisko Korne,Koszalin,Poland,\N,EPKO,54.129583,17.844972
+7693,Gillespie Field,El Cajon,United States,SEE,KSEE,32.826198577881,-116.97200012207
+7694,San Clemente Island Naval Auxiliary Landing Field,San Clemente Island,United States,\N,KNUC,33.02270126,-118.5879974
+7712,Cobb County-Mc Collum Field,Atlanta,United States,\N,KRYY,34.01319885,-84.59860229
+7714,Brumowski  Air Base,Tulln,Austria,\N,LOXT,48.3167,16.116699
+7716,Dell Flight Strip,Dell,United States,\N,K4U9,44.7356987,-112.720001221
+7717,Mission Field,Livingston-Montana,United States,LVM,KLVM,45.6994018555,-110.447998047
+7722,London Heliport,London,United Kingdom,\N,EGLW,51.46972274779999,-0.179444000125
+7724,Tallinn Linnahall Heliport,Tallinn,Estonia,\N,EECL,59.4486198425293,24.75322723388672
+7725,Hernesaari Heliport,Helsinki,Finland,\N,EFHE,60.14777755737305,24.9244441986084
+7728,Hilversum Airfield,Hilversum,Netherlands,\N,EHHV,52.191898,5.14694
+7729,West 30th St. Heliport,New York,United States,JRA,KJRA,40.754501,-74.007103
+7730,Texel Airfield,Texel,Netherlands,\N,EHTX,53.115299,4.83361
+7773,White Waltham Airfield,Maidenhead,United Kingdom,\N,EGLM,51.5008010864,-0.774443984032
+7775,Carl R Keller Field,Port Clinton,United States,\N,KPCW,41.516300201416016,-82.86869812011719
+7780,Burlington Executive,Burlington,Canada,\N,CZBA,43.4414531515,-79.850102663
+7787,Engels heliport,Ebenhofen,Germany,\N,EBEN,51.21166610717773,4.580832958221436
+7804,Wycombe Air Park,Wycombe,United Kingdom,HYC,EGTB,51.6116981506,-0.8083329796790001
+7810,Westkapelle heliport,Knokke,Belgium,\N,EBKW,51.32222366333,3.2930560112
+7812,Oksywie Military Air Base,Gdynia,Poland,QYD,EPOK,54.57970047,18.51720047
+7813,Malbork Military Air Base,Malbork,Poland,\N,EPMB,54.0269012451,19.1341991425
+7814,Lask Military Air Base,Lask,Poland,\N,EPLK,51.551700592,19.1791000366
+7815,Miroslawiec Military Air Base,Miroslawiec,Poland,\N,EPMI,53.3950996399,16.0827999115
+7816,Krzesiny Military Air Base,Poznan,Poland,\N,EPKS,52.3316993713,16.9664001465
+7831,Hunt Field,Lindau,Germany,LND,KLND,42.8152008057,-108.730003357
+7834,Hoogeveen Airfield,Hoogeveen,Netherlands,\N,EHHO,52.730801,6.51611
+7837,Ameland Airfield,Ameland,Netherlands,\N,EHAL,53.451698,5.67722
+7847,Gwinnett County Briscoe Field,Lawrenceville,United States,LZU,KLZU,33.97809982,-83.96240234
+7853,Al Minhad Air Base,Minhad AB,United Arab Emirates,NHD,OMDM,25.0268001556,55.3661994934
+7855,Roitzschjora Airfield,Roitzschjora,Germany,\N,EDAW,51.577778,12.494444
+7861,Chkalovskiy Air Base,Shchyolkovo,Russia,CKL,UUMU,55.8783,38.061699
+7867,De Peel Air Base,Deurne,Netherlands,\N,EHDP,51.51729965209961,5.855720043182373
+7870,Easton Newnam Field,Easton,United States,ESN,KESN,38.8041992188,-76.06900024410001
+7872,Ringebu Airfield Frya,Frya,Norway,\N,ENRI,61.545440673,10.061588287
+7880,Halliburton Field,Duncan,United States,DUC,KDUC,34.47090149,-97.9598999
+7885,Garner Field,Uvalde,United States,UVA,KUVA,29.2112998962,-99.743598938
+7888,Buchanan Field,Concord,United States,CCR,KCCR,37.9897003174,-122.056999207
+7892,Strasbourg Neuhof Airfield,Strasbourg Neudorf,France,\N,LFGC,48.554401,7.77806
+7903,Marl-Loemühle Airfield,Recklinghausen,Germany,\N,EDLM,51.647202,7.16333
+7904,Färila Air Base,Farila,Sweden,\N,ESNF,61.897998809814,15.705300331116
+7907,Ohio University Snyder Field,Athens,United States,ATO,KUNI,39.2109985352,-82.23139953610001
+7928,Benson Airstrip,Uvalde,United States,\N,2XS8,29.229400634765625,-99.82389831542967
+7947,McMurdo Station Ice Runway,Ross Island,Antarctica,\N,NZIR,-77.85399627685547,166.468994140625
+7976,Ukunda Airstrip,Ukunda,Kenya,UKA,HKUK,-4.29333,39.571098
+7978,Wilmington Airpark,Wilmington,United States,ILN,KILN,39.427898407,-83.792098999
+8080,Méribel Altiport,Ajaccio,France,MFX,LFKX,45.407003,6.577942
+8088,Flugplatz Ballenstedt,Ballenstedt,Germany,\N,EDCB,51.745834,11.229722
+8089,Flugplatz Hartenholm,Hasenmoor,Germany,\N,EDHM,53.915001,10.035556
+8090,Ganderkesee Atlas Airfield,Ganderkesee,Germany,\N,EDWQ,53.03611,8.505556
+8092,Damme Airfield,Damme,Germany,\N,EDWC,52.487499,8.185556
+8103,Brilon/Hochsauerlandkreis Airfield,Brilon,Germany,\N,EDKO,51.4025,8.641667
+8105,Nordholz-Spieka Airfield,Cuxhaven,Germany,\N,EDXN,53.767223,8.643611
+8110,Oldenburg-Hatten Airfield,Oldenburg,Germany,\N,EDWH,53.06889,8.313611
+8119,Bad Neuenahr-Ahrweiler Airfield,Bad Neuenahr,Germany,\N,EDRA,50.557777,7.136389
+8123,One Police Plaza Heliport,New York,United States,\N,NK39,40.71260070800781,-73.99960327148438
+8126,Wershofen/Eifel Airfield,Wershofen,Germany,\N,EDRV,50.451389,6.783333
+8143,Montgomery County Airpark,Gaithersburg,United States,GAI,KGAI,39.1683006287,-77.1660003662
+8146,Sharana Airstrip,Sharona,Afghanistan,OAS,OASA,33.12575,68.838517
+8149,Suffield Heliport,Suffield,Canada,YSD,CYSD,50.266700744628906,-111.18299865722656
+8156,Bolshoye Gryzlovo Airfield,Stupino,Russia,\N,UUDG,54.785,37.645
+8165,Mykines Heliport,Mykines,Faroe Islands,\N,EKMS,62.1021003723,-7.645919799800001
+8178,Seppe Airfield,Bosschenhoofd,Netherlands,\N,EHSE,51.554699,4.5525
+8181,IAR Gimbav Heliport,Brasov,Romania,\N,LRBG,45.686443,25.529058
+8189,Como (Idroscalo - Water Ad) Hidroport,Como,Italy,\N,LILY,45.814701,9.06972
+8208,Ittoqqortoormiit Heliport,Ittoqqortoormiit,Greenland,OBY,BGSC,70.4882288244,-21.9716799259
+8215,Decatur County Industrial Air Park,Bainbridge,United States,BGE,KBGE,30.9715004,-84.63739777
+8267,Shank Air Base,Shank,Afghanistan,OAA,OASH,33.9225,69.07722222219999
+8276,Taunton Municipal King Field,Taunton,United States,\N,KTAN,41.8744010925293,-71.0166015625
+8285,Marshfield Municipal George Harlow Field,Marshfield,United States,\N,KGHG,42.09830093383789,-70.67220306396484
+8287,Boire Field,Nashua,United States,ASH,KASH,42.7817001343,-71.51480102539999
+8298,Plantation Airpark,Sylvania,United States,\N,KJYL,32.645301818847656,-81.59709930419922
+8300,West Georgia Regional O V Gray Field,Carrollton,United States,\N,KCTJ,33.63100051879883,-85.1520004272461
+8306,Peachtree City Falcon Field,Atlanta,United States,\N,KFFC,33.3572998046875,-84.5718002319336
+8312,Harry Clever Field,New Philadelpha,United States,PHD,KPHD,40.470901489258,-81.419700622559
+8318,Daniel Field,Augusta,United States,DNL,KDNL,33.4664993286,-82.0393981934
+8320,Pike County-Hatcher Field,Pikeville,United States,PVL,KPBX,37.5617981,-82.56639862
+8323,Compton Abbas Aerodrome,Shaftesbury,United Kingdom,\N,EGHA,50.96720123291016,-2.1536099910736084
+8347,Ali Al Salem Air Base,Kuwait,Kuwait,\N,OKAS,29.34670066833496,47.52080154418945
+8379,Pompano Beach Airpark,Pompano Beach,United States,PPM,KPMP,26.247100830078,-80.111099243164
+8405,Glasgow City Heliport,Glasgow,United Kingdom,\N,EGEG,55.86138916015625,-4.29694414138794
+8412,Simmons Army Air Field,Fredericksburg,United States,FBG,KFBG,35.13180161,-78.93669891
+8432,Gera-Leumnitz Airfield,Gera,Germany,\N,EDAJ,50.881668,12.135833
+8435,Kasimovo Airfield,Saint-Petersburg,Russia,\N,XLLN,60.198299,30.334999
+8438,Terlet Glider Field,Arnhem,Netherlands,\N,EHTL,52.057201,5.92444
+8442,Shigatse Air Base,Shigatse,China,RKZ,ZURK,29.3519,89.311401
+8462,Balzers Heliport,Balzers,Switzerland,\N,LSXB,47.0681,9.48111
+8467,Flugplatz Punitz,Punitz-Guessing,Austria,\N,LOGG,47.14653,16.316843
+8499,Jackson County Reynolds Field,Jackson,United States,JXN,KJXN,42.2597999573,-84.45939636230001
+8504,Wings Field,Philadelphia,United States,BBX,KLOM,40.1375007629,-75.2650985718
+8516,Woodward Field,Camden,United States,CDN,KCDN,34.2835998535,-80.56490325930001
+8559,Brooks Field,Marshall,United States,\N,KRMY,42.25120162963867,-84.95549774169922
+8565,Clearwater Air Park,Clearwater,United States,CLW,KCLW,27.9766998291,-82.7586975098
+8609,Pont Sur Yonne Airfield,Pont Sur Yonne,France,\N,LFGO,48.289172,3.247912
+8610,St Florentin Cheu Airfield,St Florentin Cheu,France,\N,LFGP,47.98019,3.775583
+8611,Saulieu Liernais Airfield,Saulieu,France,\N,LFEW,47.239399,4.26583
+8615,Lodrino Air Base,Lodrino,Switzerland,\N,LSML,46.2958984375,8.992130279541016
+8617,Usti Nad Labem Airfield,Usti Nad Labem,Czech Republic,\N,LKUL,50.699699,13.9697
+8620,Sinsheim Airfield,Karlsruhe,Germany,\N,EDTK,49.2472,8.8938
+8623,Château-Thierry - Belleau Airfield,Chateau-Thierry,France,\N,LFFH,49.0672,3.35694
+8627,Taoyuan Air Base,Taoyuan,Taiwan,\N,RCGM,25.05660057067871,121.2442626953125
+8628,Uummannaq Heliport,Uummannaq,Greenland,UMD,BGUM,70.6804279261,-52.1116304398
+8633,Inowroclaw Military Air Base,Inowroclaw,Poland,\N,EPIR,52.8293991089,18.3306007385
+8634,Pruszcz Gdanski Air Base,Pruszcz Gdansk,Poland,\N,EPPR,54.248001,18.6716
+8639,Bloyer Field,Tomah,United States,\N,KY72,43.97499847,-90.48349762
+8681,St Paul Downtown Holman Field,St. Paul,United States,STP,KSTP,44.93450164794922,-93.05999755859376
+8683,Newcastle Aerodrome,Newcastle,Ireland,\N,EINC,53.07109832763672,-6.0452799797058105
+8698,Bantry Aerodrome,Bantry,Ireland,BYT,EIBN,51.66859817504883,-9.484169960021973
+8782,Cooma Hospital Helipad,Yuzhno-Kurilsk,Russia,\N,YXCM,-36.242155,149.130147
+8793,Hardwick Field,Cleveland,United States,HDI,KHDI,35.22010040283203,-84.8323974609375
+8798,Brackett Field,La Verne,United States,POC,KPOC,34.091598510742,-117.78199768066
+8808,Tom B. David Field,Calhoun,United States,\N,KCZL,34.45539856,-84.93920135
+8813,Duxford Aerodrome,Duxford,United Kingdom,QFO,EGSU,52.090801,0.131944
+8815,Sidney Municipal-Lloyd W Carr Field,Sidney,United States,SNY,KSNY,41.10129929,-102.9850006
+8816,Newnan Hospital Heliport,Bengassi,Mali,\N,GA46,33.38090133666992,-84.8010025024414
+8859,Goetsenhoven Air Base,GOETSENHOVEN,Belgium,\N,EBTN,50.781700134277344,4.957779884338379
+8867,Letiště Vysoké Mýto,Vysoke Myto,Czech Republic,\N,LKVM,49.926899,16.185801
+8868,Spa (la Sauvenière) Airfield,Spa,Belgium,\N,EBSP,50.482498,5.9103
+8869,Falcon Field,Mesa,United States,MSC,KFFZ,33.4608001709,-111.727996826
+8872,Namur-Suarlée Airfield,Namur,Belgium,\N,EBNM,50.487999,4.76892
+8873,Kiewit Airfield Hasselt,Hasselt,Belgium,\N,EBZH,50.970001,5.37507
+8932,Rothera Research Station,Rothera Research Station,United Kingdom,\N,EGAR,-67.5675,-68.1274027778
+8972,RAF Brawdy,Brawdy,United Kingdom,\N,EGDA,51.88375,-5.119972
+8975,Redhill Aerodrome,Redhill,United Kingdom,KRH,EGKR,51.2136001587,-0.138611003757
+8985,Enstone Aerodrome,Enstone,United Kingdom,\N,EGTN,51.9281666667,-1.4285
+9008,Reichenbach Air Base,Reichenbach im Kandertal,Switzerland,\N,LSGR,46.61360168457031,7.6777801513671875
+9053,Yelahanka Air Force Station,Bangalore,India,\N,VOYK,13.135499954223633,77.60600280761719
+9071,Alameda Naval Air Station,Alameda,United States,NGZ,KNGZ,37.78889846801758,-122.31999969482422
+9075,Endelave Flyveplads,Endelage,Denmark,\N,EKEL,55.7565,10.2485
+9124,McMurdo Station Pegasus Field,McMurdo Station,Antarctica,\N,NZPG,-77.9634017944336,166.52499389648438
+9127,Fortescue - Dave Forrest Aerodrome,Cloudbreak,Australia,KFE,YFDF,-22.290754,119.437143
+9137,Oberschleißheim Airfield,Schleissheim,Germany,\N,EDNX,48.239445,11.561389
+9138,Pinal Airpark,Marana,United States,MZJ,KMZJ,32.5106010437,-111.32800293
+9141,Verden-Scharnhorst Airfield,Verden,Germany,\N,EDWV,52.965279,9.282778
+9162,Adamovka,Adamovka,Russia,\N,UWOD,51.5,59.936111
+9163,Kvarkeno,Kvarkeno,Russia,\N,UWOH,52.078333,59.683333
+9184,Lincoln Regional Karl Harder Field,Lincoln,United States,\N,KLHM,38.90919876098633,-121.35099792480467
+9189,Coeur D'Alene - Pappy Boyington Field,Coeur d'Alene,United States,COE,KCOE,47.77429962,-116.8199997
+9225,Andrau Airpark,Houston,United States,AAP,KAAP,29.7224998474,-95.5883026123
+9229,Sigiriya Air Force Base,Sigiriya,Sri Lanka,GIU,VCCS,7.956669807430001,80.7285003662
+9243,Edenvale Aerodrome,Edenvale,Canada,\N,CNV8,44.441101,-79.962799
+9245,Holland Landing Airpark,Holland Landing,Canada,\N,CLA4,44.08940124511719,-79.49500274658203
+9276,Elstree Airfield,Elstree,United Kingdom,\N,EGTR,51.6557998657,-0.325832992792
+9277,Sandtoft Airfield,Sandtoft,United Kingdom,\N,EGCF,53.5597000122,-0.8583329916
+9380,Pellworm Field,Pellworm,Germany,\N,EDHP,54.5363883972,8.68000030518
+9400,La Ferté Alais Airfield,La Ferte Alais,France,\N,LFFQ,48.498652,2.338867
+9403,Taszár Air Base,Columbus,United States,TZR,LHTA,46.39310073852539,17.917499542236328
+9413,Mt Pleasant Regional-Faison field,Mount Pleasant,United States,\N,KLRO,32.89780045,-79.78289795
+9415,Weedon Field,Eufala,United States,EUF,KEUF,31.9512996674,-85.1288986206
+9521,Samambaia Heliport,Saint Denis,Reunion,\N,SDNS,-22.46249961853028,-43.13055419921875
+9547,Sanderson Field,Shelton,United States,SHN,KSHN,47.233600616455,-123.14800262451
+9749,Bedwell Harbour Seaplane Base,Bedwell Harbour,Canada,YBW,CAB3,48.75,-123.233001709
+9753,Popham Airfield,Popham,United Kingdom,\N,EGHP,51.193901,-1.23472
+9760,Black Point Airstrip,Black Point,Bahamas,\N,MYEB,24.0894884488,-76.3979172707
+9766,Cape Town Waterfort Heliport,Cap Town,South Africa,\N,FADW,0.0,0.0
+9772,Warren Field,Washington,United States,OCW,KOCW,35.570499420166,-77.049797058105
+9780,Strother Field,Winfield,United States,WLD,KWLD,37.168598175,-97.0375976562
+9793,Lakeway Airpark,Lakeway,United States,\N,K3R9,30.357500076293945,-97.99449920654295
+9795,Kestrel Airpark,San Antonio,United States,\N,K1T7,29.812700271606445,-98.42530059814452
+9844,Anshan Air Base,Anshan,China,AOG,ZYAS,41.105301,122.853996
+9862,Tatenhill Airfield,Burton-on-Trent,United Kingdom,\N,EGBM,52.8147010803,-1.76110994816
+9863,Full Sutton Airfield,York,United Kingdom,\N,EGNU,53.980598,-0.864722
+9864,Sherburn-In-Elmet Airfield,Leeds,United Kingdom,\N,EGCJ,53.788458,-1.216877
+9905,RAAF Base Curtin,Derby,Australia,DCN,YCIN,-17.5813999176,123.82800293
+9939,Seosan Air Base,Seosan,South Korea,HMY,RKTP,36.703999,126.486
+9942,Henderson Field,Wallace,United States,\N,KACZ,34.717899322509766,-78.00360107421875
+10062,Kee Field,Pineville,United States,\N,KI16,37.600399017333984,-81.5593032836914
+10080,Kautokeino Air Base,Kautokeino,Norway,QKX,ENKA,69.04029846191406,23.03400039672852
+10161,Shobdon Aerodrome,Shobdon,United Kingdom,\N,EGBS,52.2416992188,-2.88110995293
+10173,Digby (General Hospital) Heliport,Tremblay-en-France,France,\N,CDG2,44.6161003112793,-65.76190185546875
+10186,N 104 Helipad,Ulleung,South Korea,\N,RKDU,37.4791666667,130.895555556
+10371,General WM J Fox Airfield,Lancaster,United States,WJF,KWJF,34.74110031,-118.2190018
+10611,Ali Air Base,Nasiriyah,Iraq,\N,ORTL,30.935800552368164,46.0900993347168
+10617,Ota Air Base,Ota,Portugal,\N,LPOT,39.087502,-8.96278
+10745,Lashenden (Headcorn) Airfield,Headcorn,United Kingdom,\N,EGKH,51.156898,0.641667
+10746,Panshanger Aerodrome,Panshanger,United Kingdom,\N,EGLG,51.80250167849999,-0.158056005836
+10747,Thurrock Airfield,Thurrock,United Kingdom,\N,EGMT,51.537505,0.367634
+10748,Stapleford Aerodrome,Stapleford,United Kingdom,\N,EGSG,51.652500152600005,0.155833005905
+10753,Haast Aerodrome,Haast,New Zealand,\N,NZHT,-43.86529922485352,169.04100036621094
+10794,Morro da Urca Heliport,Rio de Janeiro,Brazil,\N,SDHU,-22.95166778564453,-43.16583251953125
+10800,Dongji Aiport,Fuyuan,China,FYJ,ZYFY,48.199494,134.366447
+10802,Skúvoy Heliport,Skuvoy,Faroe Islands,\N,EKSY,61.76959991455078,-6.803410053253174
+10803,Stóra Dímun Heliport,Stora Dimun,Faroe Islands,\N,EKSR,61.68529891967773,-6.758500099182129
+10804,Frooba Heliport,Frooba,Faroe Islands,\N,EKFA,61.543701171875,-6.774419784545898
+11017,Ryan Field,Tucson,United States,\N,KRYN,32.1422004699707,-111.1750030517578
+11022,Thomas C Russell Field,Alexander City,United States,ALX,KALX,32.914699554399995,-85.9629974365
+11054,Canmore Municipal Heliport,Canmore,Canada,\N,CEW9,51.07780075069999,-115.337997437
+11067,Ridgely Airpark,Ridgely,United States,\N,KRJD,38.97010040283203,-75.86630249023438
+11070,Brewster Field,Holdredge,United States,HDE,KHDE,40.452099,-99.336502
+11072,Yubileyniy Airfield,Baikonur,Kazakhstan,\N,UAON,46.05500030517578,63.25
+11074,Jim Kelly Field,Lexington,United States,LXN,KLXN,40.7910003662,-99.7772979736
+11095,Cox Field,Paris,United States,PRX,KPRX,33.636600494385,-95.450798034668
+11129,Nordborg Flyveplads,Nordborg,Denmark,\N,EKNB,55.07485,9.753379
+11140,Kajjansi Airfield,Kampala,Uganda,\N,HUKJ,0.1968,32.55297
+11170,Lure Malbouhans Air Base,Malbouhans,France,\N,LFYL,47.7047,6.54583
+11277,Turtle Island Seaplane Base,Turtle Island,Fiji,TTL,NFUL,-16.966,177.368
+11288,Dewadaru - Kemujan Island,Karimunjawa,Indonesia,KWB,WARU,-5.80091,110.47838
+11452,Leopoldsburg Airfield,Leopoldsburg,Belgium,\N,EBLE,51.12,5.3072222
+11498,Alashankou Bole (Bortala) airport,Bole,China,BPL,ZWAX,44.895,82.3
+11684,Kenora Seaplane Base,Kenora,Canada,\N,CJM9,49.767424,-94.49274
+11685,Rumbula Air Base,Riga,Latvia,\N,EVRC,56.8833007812,24.2266998291
+11748,Centralia / James T. Field Memorial Aerodrome,Centralia,Canada,YCE,CYCE,43.285599,-81.508301
+11771,Virden/R.J. (Bob) Andrew Field Regional Aerodrome,Virden,Canada,\N,CYVD,49.8782997131,-100.917999268
+11788,RAF Spadeadam,Spadeadam,United Kingdom,\N,EGOM,55.0499992371,-2.54999995232
+11789,RAF Kinloss,Kinloss,United Kingdom,FSS,EGQK,57.6493988037,-3.56064009666
+11790,Biała Podlaska Airfield,Biała Podlaska,Poland,BXP,EPBP,52.00078,23.1325278
+11791,Cewice Air Base,Lębork,Poland,\N,EPCE,54.416,17.7633
+11792,Deblin Military Air Base,Dęblin,Poland,\N,EPDE,51.551399231,21.8936004639
+11793,Leczyca Military Air Base,Leczyca,Poland,\N,EPLY,52.004699707,19.1455993652
+11796,Tomaszow Mazowiecki Military Air Base,Tomaszów Mazowiecki,Poland,\N,EPTM,51.584400177,20.0977993011
+11797,Björkvik Air Base,Björkvik,Sweden,\N,ESKX,58.79079818725586,16.571199417114258
+11800,Jēkabpils Air Base,Jēkabpils,Latvia,\N,EVKA,56.534698,25.8925
+11802,Kėdainiai Air Base,Kėdainiai,Lithuania,\N,EYKD,55.31169891357422,23.95639991760254
+11810,Almaza Air Force Base,Cairo,Egypt,\N,HEAZ,30.091800689697266,31.36000061035156
+11811,Beni Suef Air Base,Beni Suef,Egypt,\N,HEBS,29.20829963684082,31.016599655151367
+11812,Jiyanklis Air Base,Jiyanklis,Egypt,\N,HEGS,30.819799423217773,30.191200256347656
+11815,Chandler Field,Alexandria,United States,AXN,KAXN,45.8662986755,-95.3946990967
+11817,Curtis Field,Brady,United States,BBD,KBBD,31.1793003082,-99.3238983154
+11820,Miley Memorial Field,Big Piney,United States,BPI,KBPI,42.58509827,-110.1110001
+11827,Crossville Memorial Whitson Field,Crossville,United States,CSV,KCSV,35.9513015747,-85.08499908450001
+11828,Davison Army Air Field,Fort Belvoir,United States,DAA,KDAA,38.715000152600005,-77.1809997559
+11833,Duke Field,Crestview,United States,EGI,KEGI,30.65040016,-86.52290344
+11834,Murray Field,Eureka,United States,EKA,KEKA,40.8033981323,-124.112998962
+11838,Monticello Municipal Ellis Field,Monticello,United States,\N,KLLQ,33.6385994,-91.75099945
+11839,Derby Field,Lovelock,United States,LOL,KLOL,40.0663986206,-118.565002441
+11843,Mc Entire Joint National Guard Base,Eastover,United States,MMT,KMMT,33.92079926,-80.80130005
+11845,Naval Station Mayport (Admiral David L. Mcdonald Field),Mayport,United States,NRB,KNRB,30.39109993,-81.42469788
+11849,Cairns AAF (Fort Rucker) Air Field,Fort Rucker/Ozark,United States,OZR,KOZR,31.27569962,-85.71340179
+11850,Ralph Wenz Field,Pinedale,United States,PWY,KPNA,42.79550171,-109.8069992
+11863,Miller Field,Valentine,United States,VTN,KVTN,42.85779953,-100.5479965
+11866,Cape Canaveral AFS Skid Strip,Cocoa Beach,United States,\N,KXMR,28.4675998688,-80.56659698490002
+11869,Gjadër Air Base,Gjadër,Albania,\N,LAGJ,41.895199,19.5987
+11871,Kuçovë Air Base,Kuçovë,Albania,\N,LAKV,40.77190017700195,19.901899337768555
+11872,Vlorë Air Base,Vlorë,Albania,\N,LAVL,40.47610092163086,19.474199295043945
+11874,Gabrovnitsa Air Base,Gabrovnitsa,Bulgaria,\N,LBMG,43.5443000793457,23.272499084472656
+11875,Graf Ignatievo Air Base,Graf Ignatievo,Bulgaria,\N,LBPG,42.29040145874024,24.714000701904297
+11876,Dolna Mitropoliya Air Base,Dolna Mitropoliya,Bulgaria,\N,LBPL,43.451401,24.5028
+11877,Balchik Air Base,Balchik,Bulgaria,\N,LBWB,43.42380142211914,28.181299209594727
+11889,Sarzana-Luni Air Base,Sarzana (SP),Italy,QLP,LIQW,44.088001,9.98795
+11890,Câmpia Turzii Air Base,Câmpia Turzii,Romania,\N,LRCT,46.50230026245117,23.885900497436523
+11894,Batajnica Air Base,Batajnica,Serbia,BJY,LYBT,44.935299,20.2575
+11896,Coronel Enrique Soto Cano Air Base,Comayagua,Honduras,XPL,MHSC,14.3824,-87.621201
+11899,San Julian Air Base,Pinar Del Rio,Cuba,SNJ,MUSJ,22.09530067443848,-84.1520004272461
+11902,Riyadh Air Base,Riyadh,Saudi Arabia,XXN,OERY,24.709800720214844,46.72520065307617
+11904,Hamadan Air Base,Hamadan,Iran,\N,OIHS,35.21160125732422,48.65340042114258
+11906,Ahmed Al Jaber Air Base,Ahmed Al Jaber AB,Kuwait,XIJ,OKAJ,28.9347991943,47.7919006348
+11907,Rayak Air Base,Rayak,Lebanon,\N,OLRA,33.850799560546875,35.987701416015625
+11908,Mirpur Khas Air Base,Mirpur Khas,Pakistan,\N,OPMK,25.682501,69.0728
+11909,Minhas Air Base,Kamra,Pakistan,ATG,OPMS,33.8690986633,72.4009017944
+11910,Rafiqui Air Base,Shorkot,Pakistan,\N,OPRQ,30.758100509643555,72.28250122070312
+11911,Faisal Air Base,Karachi,Pakistan,\N,OPSF,24.87420082092285,67.11849975585938
+11912,Mushaf Air Base,Sargodha,Pakistan,SGI,OPSR,32.04859924316406,72.66500091552734
+11914,Al Sahra Army Air Field,Tikrit,Iraq,\N,ORSH,34.67319869995117,43.542999267578125
+11915,Tall Afar Army Air Field,Tall Afar,Iraq,\N,ORTF,36.28310012817383,42.40299987792969
+11916,Al Taji Army Air Field,Taji,Iraq,\N,ORTI,33.52389907836914,44.25669860839844
+11920,Gangshan Air Force Base,Gangshan,Taiwan,\N,RCAY,22.78249931335449,120.26300048828124
+11922,Iwakuni Marine Corps Air Station,Iwakuni,Japan,IWK,RJOI,34.143902,132.235992
+11933,Schroeder's field,Cochrane,Chile,\N,SCHR,35.071718,-91.738801
+11938,Gomez Nino Apiay Air Base,Apiay,Colombia,API,SKAP,4.07607,-73.5627
+11940,German Olano Air Base,La Dorada,Colombia,PAL,SKPQ,5.48361,-74.6574
+11943,Tres Esquinas Air Base,Tres Esquinas,Colombia,TQS,SKTQ,0.7459,-75.234
+11944,Marandúa Air Base,Marandúa,Colombia,\N,SKUA,5.52448,-68.6856
+11949,Kant Air Base,Kant,Kyrgyzstan,\N,UAFW,42.85319900512695,74.84649658203125
+11956,Kamenny Ruchey Naval Air Base,Sovetskaya Gavan,Russia,\N,UHKG,49.23570251464844,140.19309997558594
+11965,Gvardeyskoe Air Base,Sarabuz,Ukraine,\N,UKFG,45.1150016784668,33.97700119018555
+11966,Saki Air Base,Saki,Ukraine,\N,UKFI,45.09299850463867,33.595001220703125
+11968,Ozerne Air Base,Zhytomyr,Ukraine,\N,UKKO,50.158298,28.7383
+11969,Severomorsk-1 Naval Air Base,Severomorsk,Russia,\N,ULAK,69.03166961669922,33.418331146240234
+11971,Siversky Air Base,Siversky,Russia,\N,ULLS,59.3567008972168,30.036699295043945
+11972,Staraya Russa Air Base,Staraya Russa,Russia,\N,ULNR,57.961399,31.384399
+11974,Baranavichi Air Base,Baranavichi,Belarus,\N,UMMA,53.09999847412109,26.049999237060547
+11975,Babruisk Air Base,Babruisk,Belarus,\N,UMNB,53.105,29.205
+11979,Nagurskoye,Murmansk,Russia,\N,UODN,80.803207,47.663586
+11982,Khanskaya Air Base,Maykop,Russia,\N,URKH,44.68,40.035
+11995,Bezymyanka Airfield,Samara,Russia,\N,UWWG,53.220001220703125,50.32500076293945
+11997,Hingurakgoda Air Force Base,Polonnaruwa Town,Sri Lanka,HIM,VCCH,8.04981,80.9814
+12003,Meiktila Air Base,Meiktila,Burma,\N,VYML,20.88640022277832,95.89279174804688
+12004,Changi Air Base (East),Singapore,Singapore,\N,WSAC,1.3441400528,104.009002686
+12005,Soltsy-2 Air Base,Soltsy,Russia,\N,XLLL,58.139545,30.33042
+12006,Severomorsk-3 Naval Air Base,Severomorsk,Russia,\N,XLMV,68.866669,33.716667
+12007,Fedotovo Naval Air Base,Kipelovo,Russia,\N,XLWF,59.193031,39.129411
+12008,Lebyazhye Air Base,Kamyshin,Russia,\N,XRWL,50.2016983032,45.2083015442
+12010,Rtishchevo Air Base,Rtishchevo,Russia,\N,XWPR,52.297317,43.7241
+12047,Guangzhou MR Air Base,Guanghua,China,LHK,ZHGH,32.389400482177734,111.69499969482422
+12049,Sunchon Air Base,Sunchon,North Korea,\N,ZKSC,39.415699,125.894997
+12053,Rugao Air Base,Rugao,China,RUG,ZSRG,32.25788497924805,120.50165557861328
+12054,Wuhu Air Base,Wuhu,China,WHU,ZSWU,31.3906,118.408997
+12090,Vancouver International Seaplane Base,Vancouver,Canada,\N,CAM9,49.177047,-123.168154
+12469,Bolton Field,Columbus,United States,\N,KTZR,39.90119934082031,-83.13690185546875
+12619,Liman Airfield,Odesa,Ukraine,\N,UKOE,46.57851,30.703053
+12672,Marion County Brown Field,Jasper,United States,APT,KAPT,35.060699,-85.585297
+12941,Sturgate Airfield,Eger,Hungary,\N,EGCS,53.38109970092773,-0.6852779984474182
+12961,Glacier Country Heliport,Franz Josef,New Zealand,\N,NZGH,-43.38722,170.18
+12980,Helisul I Heliport,Foz do Iguassu,Brazil,\N,SSHH,-25.604167938232425,-54.49361038208008
+13006,Ihtiman Airfield,Ihtiman,Bulgaria,\N,LBHT,42.42189,23.767221
+13011,[Duplicate] Illertissen see EDMI - ED-0425 location moved out-of-the way,Not Specified,New Zealand,\N,XXXX,89.5,0.0001
+13018,Las Vegas Helicopters Heliport,Las vegas,United States,\N,NV03,36.10810089111328,-115.17400360107422
+13022,Harbour (Public) Heliport,Vancouver,Canada,\N,CBC7,49.2868921105,-123.106112257
+13023,Victoria Harbour (Camel Point) Heliport,Victoria,Canada,\N,CBF7,48.41809844970703,-123.38800048828124
+13077,Anderson Municipal Darlington Field,ANDERSON,United States,AID,KAID,40.10860061649999,-85.6129989624
+13097,Cascade Heliport,Kobok,Indonesia,\N,WA98,47.512346,-120.488691
+13098,Air Orlando Heliport,Orlando,United States,\N,2FD7,28.43560028076172,-81.47309875488281
+13106,Tórshavn/Bodanes Heliport,Torshavn,Faroe Islands,\N,EKTB,62.02170181274414,-6.757420063018799
+13114,RAF Mona,Mona,United Kingdom,\N,EGOQ,53.258598,-4.37355
+13127,Lathan Strip,Mocksville,United States,\N,5NC2,34.87630081176758,-80.61920166015625
+13135,Bentonville Municipal-Louise M Thaden Field,Bentonville,United States,\N,KVBT,36.34569931,-94.21929932
+13142,Raton Municipal-Crews Field,Raton,United States,RTN,KRTN,36.74150085,-104.5019989
+13154,Perry Lefors Field,Pampa,United States,PPA,KPPA,35.612998962402,-100.99600219727
+13176,Budaörs Airfield,Budaoers,Hungary,\N,LHBS,47.451099,18.9806
+13227,Boolgeeda,Brockman,Australia,OCM,YBGD,-22.54,117.275
+13263,Port Hardy Seaplane Base,Port Hardy,Canada,\N,CAW5,50.71670150756836,-127.48300170898438
+13342,Doris Lake,Doris Lake,Canada,JOJ,CDL7,68.1252746582,-106.585281372
+13355,Attu Heliport,Attu,Greenland,QGQ,BGAT,67.9406628551,-53.6218696833
+13356,Kangaatsiaq Heliport,Kangaatsiaq,Greenland,QPW,BGKA,68.3126574861,-53.4602075815
+13357,Kitsissuarsuit Heliport,Kitsissuarsuit,Greenland,QJE,BGKT,68.85792599759999,-53.1232953072
+13358,Niaqornaarsuk Heliport,Niaqornaarsuk,Greenland,\N,BGNK,68.236381,-52.852148
+13359,Ilimanaq Heliport,Ilimanaq,Greenland,XIQ,BGIL,69.0809150007,-51.1143153906
+13360,Qeqertaq Heliport,Qeqertaq,Greenland,QQT,BGQE,69.9958611087,-51.3009166718
+13361,Saqqaq Heliport,Saqqaq,Greenland,\N,BGSQ,70.011448,-51.932142
+13363,Savissivik Heliport,Savissivik,Greenland,\N,BGSV,76.01861346460001,-65.1176834106
+13364,Siorapaluk Heliport,Siorapaluk,Greenland,\N,BGSI,77.7865173475,-70.6386566162
+13365,Aappilattoq (Qaasuitsup) Heliport,Aappilattoq,Greenland,\N,BGAG,72.8870298223,-55.5962866545
+13366,Innarsuit Heliport,Innaarsuit,Greenland,\N,BGIN,73.1998953377,-56.0108166933
+13367,Kangersuatsiaq Heliport,Kangersuatsiaq,Greenland,\N,BGKS,72.38109155069999,-55.53658604619999
+13368,Kullorsuaq Heliport,Kullorsuaq,Greenland,\N,BGKQ,74.5780498288,-57.2268283367
+13369,Nuussuaq Heliport,Nuussuaq,Greenland,\N,BGNU,74.1098528514,-57.0650374889
+13370,Tasiusaq (Qaasuitsup) Heliport,Tasiusaq,Greenland,\N,BGTA,73.37305450439999,-56.0602798462
+13371,Upernavik Kujalleq Heliport,Upernavik Kujalleq,Greenland,\N,BGKL,72.1527425265,-55.5309855938
+13372,Aappilattoq (Kujalleq) Heliport,Aappilattoq,Greenland,\N,BGAQ,60.148357,-44.286916
+13373,Tasiusaq (Kujalleq) Heliport,Tasiusaq,Greenland,\N,BGTQ,60.1943053097,-44.8134469986
+13374,Narsaq Kujalleq Heliport,Narsaq Kujalleq,Greenland,\N,BGFD,60.004694,-44.656935
+13375,Ikamiut Heliport,Ikamiut,Greenland,QJI,BGIT,68.6342530984,-51.8322622776
+13377,Ammassivik Heliport,Ammassivik,Greenland,\N,BGAS,60.597376,-45.382445
+13378,Eqalugaarsuit Heliport,Eqalugaarsuit,Greenland,QFG,BGET,60.6197196536,-45.9140619636
+13379,Qassimiut Heliport,Qassimiut,Greenland,\N,BGQT,60.7809592284,-47.1562492847
+13380,Tiniteqilaaq Heliport,Tiniteqilaaq,Greenland,\N,BGTN,65.8920273392,-37.7834093571
+13381,Isortoq Heliport,Isortoq,Greenland,\N,BGIS,65.5477923903,-38.9765524864
+13382,Kuummiut Heliport,Kuummiit,Greenland,\N,BGKM,65.8639347361,-36.9979190826
+13383,Sermiligaaq Heliport,Sermiligaaq,Greenland,\N,BGSG,65.9059197626,-36.3782536983
+13384,Ikerassaarsuk Heliport,Ikerasaarsuk,Greenland,QRY,BGIK,68.14088100629999,-53.4414589405
+13385,Illorsuit Heliport,Illorsuit,Greenland,\N,BGLL,71.2419440428,-53.5628771782
+13386,Nuugaatsiaq Heliport,Nuugaatsiaq,Greenland,\N,BGNQ,71.5387687528,-53.2050383091
+13387,Saattut Heliport,Saattut,Greenland,\N,BGST,70.8111719824,-51.6312897205
+13388,Ikerasak Heliport,Ikerasak,Greenland,\N,BGIA,70.4981453548,-51.3030838966
+13389,Niaqornat Heliport,Niaqornat,Greenland,\N,BGNT,70.7893846882,-53.6629450321
+13390,Ukkusissat Heliport,Ukkusissat,Greenland,\N,BGUT,71.0494384946,-51.8900156021
+13402,Amatopo Airstrip,Amatopo,Suriname,\N,SMAM,3.547885,-57.633958
+13403,Poeketi Airstrip,Poeketi,Suriname,\N,SMPE,4.126389,-54.623611
+13404,Godo Holo Airstrip,Pikienkondre of Miranda,Suriname,\N,SMGH,4.0583,-54.7861
+13411,St Pierre d'Oléron Airfield,Saint Pierre d'Oleron,France,\N,LFDP,45.959202,-1.31611
+13412,Semur En Auxois Airfield,Semur en Auxois,France,\N,LFGQ,47.481899,4.34417
+13416,Pyramiden Heliport,Pyramiden,Norway,\N,ENPY,78.652322,16.337208
+13421,Lipki Air Base,Minsk,Belarus,\N,UMMI,53.913545,27.708775
+13422,Zermatt  Heliport,Zermatt,Switzerland,\N,LSEZ,46.0293197631836,7.753366470336914
+13435,Aarhus Seaplne Terminal,Aarhus,Denmark,\N,EKAC,56.151717,10.248428
+13511,Vijayanagar Aerodrome (JSW),Toranagallu,India,VDY,VOJV,15.1749666667,76.6349472222
+13551,Frankfort Dow Memorial Field,Frankfort,United States,\N,KFKS,44.62519836425781,-86.20079803466797
+13606,North Shore Aerodrome,North Shore,New Zealand,\N,NZNE,-36.656700134277344,174.65499877929688
+13642,Potomac Airpark,Berkeley Springs,United States,\N,KW35,39.69260025024414,-78.16609954833984
+13643,Helisul IV Heliport,Foz Do Iguacu,Brazil,\N,SSHS,-25.613056182861328,-54.39805603027344
+13648,West Melton Aerodrome,West Melton,New Zealand,\N,NZWL,-43.47669982910156,172.39700317382812
+13649,Rangiora Airfield,Rangiora,New Zealand,\N,NZRT,-43.290000915527344,172.54200744628906
+13669,FIC Heliport,MACHADINHO D'OESTE,Brazil,\N,SIMC,-22.711389541625977,-47.141109466552734
+13677,Algeciras Heliport,Algeciras,Spain,AEI,LEAG,36.12888,-5.441118
+13716,Beaufort MCAS - Merritt Field,Beaufort,United States,\N,KNBC,32.4774017334,-80.723197937
+13718,Aerodromo de Castelo Branco,Castelo Branco,Portugal,\N,LPCB,39.847022,-7.44111
+13720,Vilar de Luz Airfield,Maia,Portugal,\N,LPVL,41.27729,-8.516209
+13722,Kenebetsu JASDF Airfield,Kenebetsu,Japan,\N,RJCS,43.425154,144.741354
+13763,Farm Whitwater East Landing Strip,Hardap,Namibia,\N,FYGK,-24.629999,15.9392
+13765,Muwaffaq Salti Air Base,AZRAQ,Jordan,\N,OJ40,31.8255996704,36.7820014954
+13773,Whitehorse Seaplane Base,Whitehorse,Canada,\N,CEZ5,60.69110107421875,-135.03700256347656
+13802,Klaksvik Heliport,Klaksvik,Faroe Islands,\N,EKKV,62.2178497314,-6.5764546394300005
+14088,Bezmer Air Base,Yambol,Bulgaria,JAM,LBIA,42.4548988342,26.3521995544
+14089,Osovtsy Air Base,Byaroza,Belarus,\N,UMMO,52.5569992065,24.8840007782
+14090,Yuanmou Air Base,Yuanmou,China,YUA,ZPYM,25.737499237061,101.88200378418
+14098,Jakkur Aerodrome,Bengaluru,India,\N,VOJK,13.07674,77.597645
+14104,Privolzhskiy Air Base,Astrakhan,Russia,\N,XRAP,46.396,47.893
+14105,Kubinka Air Base,Kubinka,Russia,\N,UUMB,55.611695,36.650002
+14106,Rogachyovo Air Base,Belaya,Russia,\N,ULDA,71.61669921880001,52.4782981873
+14108,Krechevitsy Air Base,Novgorod,Russia,\N,ULLK,58.625,31.38500022888184
+14110,Melitopol Air Base,Melitopol,Ukraine,\N,UKDM,46.880001,35.305
