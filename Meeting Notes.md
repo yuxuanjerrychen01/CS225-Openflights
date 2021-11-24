@@ -10,12 +10,12 @@ Airlines: airline_id, airline_name, country
 
 ## Nov. 23th
 #### What we still need to do
-Graph Constructor: 
-(1) Try Catch (Make sure input files are correct format)
-(2) Combine Route, Airline, and Airport data together to finish the construction of directed graph. Change getAirline function to a helper function for the constructor
-(3) Add more features to the inner struct Airport, like latitude and longitude
-(4) Change the passing argument of the Graph constructor from vector to file names
-Data Cleaning and Data Prep
+	Graph Constructor: 
+	(1) Try Catch (Make sure input files are correct format)
+	(2) Combine Route, Airline, and Airport data together to finish the construction of directed graph. Change getAirline function to a helper function for the constructor
+	(3) Add more features to the inner struct Airport, like latitude and longitude
+	(4) Change the passing argument of the Graph constructor from vector to file names
+	Data Cleaning and Data Prep
 #### Assignment before next Meeting:
 	Kangyu and Patrick: finish the Directed Graph constructor 
 	Yuxuan and Ruozhen: finish the data cleaning and prep
