@@ -1,6 +1,6 @@
 import pandas as pd
 
-file = "routes_data.txt"
+file = "routes.dat.txt"
 test = pd.read_csv(file, delimiter = ",", encoding = "utf_8")
 test.to_csv("./routes_data.csv", index = False, encoding = "utf_8_sig")
 
