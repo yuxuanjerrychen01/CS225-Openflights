@@ -23,3 +23,16 @@ The *openflights_data_filter.py* uses the Python module "Pandas" to generate csv
     4. We will check all data with Names that do not end with "Airport", to see if they are truly airports.  
 
 ## 
+
+## Nov. 26th
+#### Graph Constructor, Makefile, and Testcase
+This week, we have finished the first part of the graph constructor, especially converting the airports.csv file into the inner airport struct and storing it into an unordered map, Makefile, and several test cases. We also separated the test, object, header, and source files into different folders.
+ -Unordered map
+  1. We decided to use an unordered map mainly because the airport ID is not successive, and the BigO of unordered maps find is O1.
+ -Vector of pairs to store destination
+  1. Because we want to implement a weighted directed map, we decided to use vector<pair<int, int>> in airport struct to store destinations and the number of airlines with the same source airports and destination airports.
+ -MakeFile
+  1. We used clang++ and c++11 first and will change them into c++20 in the future
+ -Testcase
+  1. We finished the graph's inner function getInformation and getSize to test if we correctly convert each line of the cvs into struct airport.
+  
