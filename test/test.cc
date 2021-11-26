@@ -13,12 +13,12 @@
 //////////////////////////includes
 #include <fstream>
 #include <iostream>
-#include "/Users/patrickxu/Desktop/ruozhen2-xx19-kangyuf2-yuxuan19/src/Graph.hpp"
+#include "../src/Graph.hpp"
 using namespace std;
 
 /////////////////////////testcase
 TEST_CASE("Graph Constructor airports")
 {
-    Graph graph("/Users/patrickxu/Desktop/ruozhen2-xx19-kangyuf2-yuxuan19/data/test_data_airport1.csv");
+    Graph graph("data/test_data_airport1.csv");
     cout << graph.getInformation(2) << endl;
 }

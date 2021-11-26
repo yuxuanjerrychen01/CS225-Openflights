@@ -35,6 +35,7 @@ Graph::Graph(string airportsFile) {
             newLatitude >> latitude;
             stringstream newLongitude(airport[7]);
             newLongitude >> longitude;
+            //airport new pointer
             Airport newAirport(id, airport[1], airport[2], airport[3], airport[4], airport[5],latitude, longitude);
             airports[id] = newAirport;
         }
@@ -42,7 +43,8 @@ Graph::Graph(string airportsFile) {
         cout <<"no such file" << endl;
     }
     size = airports.size();
-    cout<<airports.size()<<endl;
+    
+   // edges with weights
 }
 
 void Graph::getAirline(vector<string> data) {

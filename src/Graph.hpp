@@ -16,7 +16,7 @@ class Graph{
         string ICAO;
         double Latitude;
         double Longitude;
-        vector<int> destinations;
+        vector<pair<int, int>> destinations;
         Airport() {}
         Airport(int id, string airport, string city, string country, string iata, string icao, double latitude, double longitude)
          : uniqueID(id), airportName(airport), cityName(city), countryName(country), IATA(iata), ICAO(icao), Latitude(latitude), Longitude(longitude) {}
