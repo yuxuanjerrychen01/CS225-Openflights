@@ -36,7 +36,7 @@ Graph::Graph(string airportsFile) {
             stringstream newLongitude(airport[7]);
             newLongitude >> longitude;
             //airport new pointer
-            Airport newAirport(id, airport[1], airport[2], airport[3], airport[4], airport[5],latitude, longitude);
+            Airport * newAirport = new Airport(id, airport[1], airport[2], airport[3], airport[4], airport[5],latitude, longitude);
             airports[id] = newAirport;
         }
     } else {
@@ -47,17 +47,30 @@ Graph::Graph(string airportsFile) {
    // edges with weights
 }
 
-void Graph::getAirline(vector<string> data) {
-    //not finish
-    (void) data;
+void Graph::getAirline(int start, int end) {
+    Airport * startAirport = airports[start];
+    // check whether it is repeated;
+    for(pair<int, int> & check : startAirport->destinations) {
+        if(end == check.first) {
+            check.second++;
+            return;
+        }
+    }
+    startAirport->destinations.push_back(pair<int, int>(start,1));
+}
+Graph::~Graph() {
+    for(auto airport : airports) {
+        delete airport.second;
+        airports.erase(airport.first);
+    }
 }
 string Graph::getInformation(int id) {
     auto iterator = airports.find(id);
     if(iterator == airports.end()) {
         return "no according airport found";
     } else {
-        return airports[id].airportName +' '+ airports[id].cityName +' '+ 
-        airports[id].countryName +' '+ airports[id].IATA + ' ' + 
-        airports[id].ICAO + ' ' + to_string(airports[id].Latitude) + ' ' + to_string(airports[id].Longitude);
+        return airports[id]->airportName +' '+ airports[id]->cityName +' '+ 
+        airports[id]->countryName +' '+ airports[id]->IATA + ' ' + 
+        airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude);
     }
 }
