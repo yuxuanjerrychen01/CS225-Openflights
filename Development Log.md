@@ -27,15 +27,12 @@ The *openflights_data_filter.py* uses the Python module "Pandas" to generate csv
 ## Nov. 26th
 #### Graph Constructor, Makefile, and Testcase
 This week, we have finished the first part of the graph constructor, especially converting the airports.csv file into the inner airport struct and storing it into an unordered map, Makefile, and several test cases. We also separated the test, object, header, and source files into different folders.
- -Unordered map
+ -Unordered map:
     1. We decided to use an unordered map mainly because the airport ID is not successive, and the BigO of unordered maps find is O1.
- -Vector of pairs to store destination
+ -Vector of pairs to store destination.
     1. Because we want to implement a weighted directed map, we decided to use vector<pair<int, int>> in airport struct to store destinations and the number of airlines with the same source airports and destination airports.
- -MakeFile
-    1. We used clang++ and c++11 first and will change them into c++20 in the future
- -Testcase
+ -MakeFile:
+    1. We used clang++ and c++11 first and will change them into c++20 in the future.
+ -Testcase:
     1. We finished the graph's inner function getInformation and getSize to test if we correctly convert each line of the cvs into struct airport.
   
-Filtered file routes.csv:
-    1. For the codeshare and equipment in the routes.csv, When we are processing routes, we found that all NaN codeshare do not influence the whole route calculation and result, so we dropped this column. Also, the equipment only represent the physical plane used, which has nothing deal with route calculation and we dropped this column also. 
-    2. For the stop column in the routes.csv, we filtered all the rows whose stops are greater than 0. We did this since if we keep the routes whose stops are greater than 0, we cannot calculate the routes length in total without given the specific location of the stops. Also, it is unrealistic if we do not consider the time taken of each route. We dropped the row whose airport id is /N since the null airport id would not help us find specific airport node.
