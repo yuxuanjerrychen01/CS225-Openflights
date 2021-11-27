@@ -8,7 +8,7 @@ Airports: airport_id, city, country, latitude, longitude, IATA, ICAO
 Airlines: airline_id, airline_name, country  
 #### Text file -> Data frame/excel/CSV(using c++ or SQL to solve proficiency problem)
 
-## Nov. 23th
+## Nov. 23rd
 #### What we still need to do
 	Graph Constructor: 
 	(1) Try Catch (Make sure input files are correct format)
@@ -21,3 +21,13 @@ Airlines: airline_id, airline_name, country
 	Yuxuan and Ruozhen: finish the data cleaning and prep
 	Everyone should be familiar with each data file
 
+## Nov. 26th
+#### Graphs data structure
+ - Use "new" on Airports struct  
+ - include destructor  
+ - change destination to vector<pair<int,int>>  
+ The first int will represent destination airport ID, and the second int will be the number of paths from source airport to destination airport.
+  - Consider airlines dataset in the future
+#### Data filtering
+ - finish routes_data filter  
+remove \N data (rows) of *routes_useful_stops0.csv*.
