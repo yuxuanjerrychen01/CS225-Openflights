@@ -26,7 +26,7 @@ The *openflights_data_filter.py* uses the Python module "Pandas" to generate csv
 
 ## Nov. 26th
 #### Graph Constructor, Makefile, and Testcase  
-This week, we have finished the first part of the graph constructor, especially converting the airports.csv file into the inner airport struct and storing it into an unordered map, Makefile, and several test cases. We also separated the test, object, header, and source files into different folders.  
+This week, we have finished the first part of the graph constructor, especially converting the airports.csv file into the inner airport struct and storing it into an unordered map, Makefile, and several test cases. We also separated the test, object, header, and source files into different folders. Before the next meeting, we need to finish the whole constructor, building the graph of vertexs(airports) and edges(airlines).  
  - Unordered map:  
     1. We decided to use an unordered map mainly because the airport ID is not successive.  
     2. the BigO of unordered maps find is O1.  
@@ -38,5 +38,4 @@ This week, we have finished the first part of the graph constructor, especially 
     1. We used clang++ and c++11 first and will change them into c++20 in the future.  
  - Testcase:  
     1. We finished the graph's inner function getInformation and getSize to test if we correctly convert each line of the cvs into struct airport.  
-Before the next meeting, we need to finish the whole constructor, building the graph of vertexs(airports) and edges(airlines).  
   
