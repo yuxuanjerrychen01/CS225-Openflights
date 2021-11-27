@@ -36,3 +36,6 @@ This week, we have finished the first part of the graph constructor, especially 
  -Testcase
     1. We finished the graph's inner function getInformation and getSize to test if we correctly convert each line of the cvs into struct airport.
   
+Filtered file routes.csv:
+    1. For the codeshare and equipment in the routes.csv, When we are processing routes, we found that all NaN codeshare do not influence the whole route calculation and result, so we dropped this column. Also, the equipment only represent the physical plane used, which has nothing deal with route calculation and we dropped this column also. 
+    2. For the stop column in the routes.csv, we filtered all the rows whose stops are greater than 0. We did this since if we keep the routes whose stops are greater than 0, we cannot calculate the routes length in total without given the specific location of the stops. Also, it is unrealistic if we do not consider the time taken of each route. We dropped the row whose airport id is /N since the null airport id would not help us find specific airport node.
