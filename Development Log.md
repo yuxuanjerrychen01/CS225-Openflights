@@ -86,3 +86,10 @@ The "routes-data" folder will store any data related to routes dataset or genera
     4. We will work on dropping the data (rows) whose airport id is \N since the null airport id would not help us find specific airport node.  
 ##
 
+## Nov. 27th  
+#### Graph Constructor, Destructor, and helpfuction  
+We decided to use the pointer to store the data in the map. 
+- Constructor
+- Destructor: we delete all the Airports node, and there is no memory leak after we build the destructor
+- Help function: finish getAirline which get the information of airports ID and put them into the node airports as edges.  
+
