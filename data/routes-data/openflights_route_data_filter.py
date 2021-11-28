@@ -69,3 +69,59 @@ useful_df = stops0_df[
      "Destination Airport ID"]]
 useful_df.to_csv("./routes_data_useful_stops0.csv", index=False, encoding="utf_8_sig")
 
+
+#########################################
+# finding any data row that has \N
+
+file = "routes_data_useful_stops0.csv"
+df1 = pd.read_csv(file)
+df2 = df1["Destination Airport ID"]
+
+# index of data with \N in Destination Airport ID
+df22 = df2.loc[df1["Destination Airport ID"] == "\\N"]
+index = df22.index
+# print(index)
+drop_des_df = df1.drop(index=index)
+# get all data that have Destination Airport ID as \N
+temp_df = df1.loc[df1["Destination Airport ID"] == "\\N"]
+temp_df.to_csv("./routes_data_useful_stops0_desAirportNull.csv", index=False, encoding="utf_8_sig")
+
+df3 = drop_des_df["Source Airport ID"]
+# index of data with \N in Source Airport ID
+df33 = df3.loc[drop_des_df["Source Airport ID"] == "\\N"]
+index = df33.index
+drop_sou_des_df = drop_des_df.drop(index=index)
+# print(drop_sou_des_df)
+drop_sou_des_df.to_csv("./routes_data_useful_stops0_airportNoNull.csv", index=False, encoding="utf_8_sig")
+
+df4 = drop_sou_des_df["Airline ID"]
+# index of data with \N in Airline ID
+df44 = df4.loc[drop_sou_des_df["Airline ID"] == "\\N"]
+index = df44.index
+# print(index)
+drop_air_sou_des_df = drop_sou_des_df.drop(index=index)
+# print(drop_air_sou_des_df)
+drop_air_sou_des_df.to_csv("./routes_data_final.csv", index=False, encoding="utf_8_sig")
+
+# check remaining columns
+df5 = drop_air_sou_des_df["Airline (IATA or ICAO)"]
+# index of data with \N in Airline
+df55 = df5.loc[drop_air_sou_des_df["Airline (IATA or ICAO)"] == "\\N"]
+index = df55.index
+print(index)
+
+df6 = drop_air_sou_des_df["Source Airport"]
+# index of data with \N in Source Airport
+df66 = df6.loc[drop_air_sou_des_df["Source Airport"] == "\\N"]
+index = df66.index
+print(index)
+
+df7 = drop_air_sou_des_df["Destination Airport"]
+# index of data with \N in Destination Airport
+df77 = df7.loc[drop_air_sou_des_df["Destination Airport"] == "\\N"]
+index = df77.index
+print(index)
+
+# we found out that for some data without airport ID, we could still obtain airport info trough IATA. Currently will still delete the rows, but will be considered.
+# print(drop_air_sou_des_df.loc[drop_air_sou_des_df["Destination Airport"] == 12087])
+
