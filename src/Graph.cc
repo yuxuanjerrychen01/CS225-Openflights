@@ -10,7 +10,7 @@ Graph::Graph() {
     //do nothing
 }
 
-Graph::Graph(string airportsFile) {
+Graph::Graph(string airportsFile, string airRoutesFile) {
     ifstream airportsLines(airportsFile);    
     string eachLine;                                    
     if(airportsLines.is_open()) {
@@ -45,23 +45,40 @@ Graph::Graph(string airportsFile) {
     size = airports.size();
     
    // edges with weights
+   ifstream airRoutes(airRoutesFile);
+    string eachRoute;
+    if (airRoutes.is_open()) {
+        getline(airRoutes, eachRoute);
+        while (getline(airRoutes,eachRoute)) {
+            vector<string> airroutes;
+            string seg;
+            stringstream eachLine2(eachRoute);
+            while (getline(eachLine2, seg, ',')) {
+                airroutes.push_back(seg);
+            }
+            //airroutes[3]=source airport ID airroutes[5]=destination airport ID
+            if (airroutes[3].empty() && airroutes[5].empty()) {
+                getAirline(stoi(airroutes[3]), stoi(airroutes[5]));
+            }
+        }
+    }
 }
 
 void Graph::getAirline(int start, int end) {
-    Airport * startAirport = airports[start];
     // check whether it is repeated;
-    for(pair<int, int> & check : startAirport->destinations) {
-        if(end == check.first) {
-            check.second++;
-            return;
+    if (airports.find(start) != airports.end()) {
+        for(pair<int, int> & check : airports[start]->destinations) {
+            if(end == check.first) {
+                check.second++;
+                return;
+            }
         }
+        airports[start]->destinations.push_back(pair<int, int>(end,1));
     }
-    startAirport->destinations.push_back(pair<int, int>(start,1));
 }
 Graph::~Graph() {
     for(auto airport : airports) {
         delete airport.second;
-        airports.erase(airport.first);
     }
 }
 string Graph::getInformation(int id) {

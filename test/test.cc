@@ -19,6 +19,6 @@ using namespace std;
 /////////////////////////testcase
 TEST_CASE("Graph Constructor airports")
 {
-    Graph graph("data/test_data_airport1.csv");
+    Graph graph("data/airports-data/airports_data_useful_drop_city_ICAO_nonAirport.csv", "data/routes-data/routes_data_useful_stops0.csv");
     cout << graph.getInformation(2) << endl;
 }

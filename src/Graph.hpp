@@ -28,7 +28,7 @@ class Graph{
     public:
     Graph();                                    //empty constructor
     ~Graph();                                   //destructor
-    Graph(string airportsFile);                 //for the project, we assume the given data is a vector of string for each line, create the airport as node
+    Graph(string airportsFile, string airRoutesFile);                 //for the project, we assume the given data is a vector of string for each line, create the airport as node
     void getAirline(int a, int b);              //given a vector of airline information, fuction will assign each airline as edage to the node
     string getInformation(int id);              //test function that make sure all the data is in the graph
 };
