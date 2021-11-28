@@ -92,4 +92,10 @@ We decided to use the pointer to store the data in the map.
 - Constructor:Using data from Routes, we connect each airports with weights using vector<pair<int, int>>.
 - Destructor: we delete all the Airports node, and there is no memory leak after we build the destructor.
 - Help function: finish getAirline which get the information of airports ID and put them into the node airports as edges. Polished getAirline function by detecting not find before adding new destinations for each airport.
+##
 
+## Nov. 27th  
+#### constructor  
+We fix the constructor, and provide more information in getInformation
+- constructor: fix line 61 to make the right if statement.
+- getInformation: add the airlines information, including the name of target airports, the number of routes.

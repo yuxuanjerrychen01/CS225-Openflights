@@ -39,6 +39,7 @@ Graph::Graph(string airportsFile, string airRoutesFile) {
             Airport * newAirport = new Airport(id, airport[1], airport[2], airport[3], airport[4], airport[5],latitude, longitude);
             airports[id] = newAirport;
         }
+        cout <<"airports finished" << endl;
     } else {
         cout <<"no such file" << endl;
     }
@@ -57,14 +58,17 @@ Graph::Graph(string airportsFile, string airRoutesFile) {
                 airroutes.push_back(seg);
             }
             //airroutes[3]=source airport ID airroutes[5]=destination airport ID
-            if (airroutes[3].empty() && airroutes[5].empty()) {
-                getAirline(stoi(airroutes[3]), stoi(airroutes[5]));
+            if (!airroutes[3].empty() && !airroutes[5].empty()) {
+                _getAirline(stoi(airroutes[3]), stoi(airroutes[5])); 
             }
         }
+        cout <<"airlines finished" << endl;
+    } else {
+        cout <<"no such file" << endl;
     }
 }
 
-void Graph::getAirline(int start, int end) {
+void Graph::_getAirline(int start, int end) {
     // check whether it is repeated;
     if (airports.find(start) != airports.end()) {
         for(pair<int, int> & check : airports[start]->destinations) {
@@ -86,8 +90,12 @@ string Graph::getInformation(int id) {
     if(iterator == airports.end()) {
         return "no according airport found";
     } else {
-        return airports[id]->airportName +' '+ airports[id]->cityName +' '+ 
+        for (auto pair : airports[id]->destinations) {
+            cout << "target airpots: " << airports[pair.first]->airportName << ", number of routes: " << to_string(pair.second) << endl;
+        }
+        cout << airports[id]->airportName +' '+ airports[id]->cityName +' '+ 
         airports[id]->countryName +' '+ airports[id]->IATA + ' ' + 
-        airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude);
+        airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude) << endl;
+        return "number of targets: " + to_string(airports[id]->destinations.size());
     }
 }
