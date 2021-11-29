@@ -94,8 +94,8 @@ We decided to use the pointer to store the data in the map.
 - Help function: finish getAirline which get the information of airports ID and put them into the node airports as edges. Polished getAirline function by detecting not find before adding new destinations for each airport.
 ##
 
-## Nov. 27th  
-#### constructor  
+## Nov. 28th  
+#### Constructor and Testcase
 We fix the constructor, and provide more information in getInformation
 - constructor: fix line 61 to make the right if statement.
 - getInformation: add the airlines information, including the airport id of target airports, the number of routes.
