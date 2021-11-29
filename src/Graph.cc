@@ -93,9 +93,9 @@ string Graph::getInformation(int id) {
         return "no according airport found";
     } else {
         for (auto pair : airports[id]->destinations) {
-            cout << "target airpots: " << to_string(airports[pair.first]->uniqueID) << ", number of routes: " << to_string(pair.second) << endl;
+            cout << "target airpots: " << airports[pair.first]->airportName << ", number of routes: " << to_string(pair.second) << endl;
         }
-        cout << to_string(airports[id]->uniqueID) +' '+ airports[id]->cityName +' '+ 
+        cout << airports[id]->airportName +' '+ airports[id]->cityName +' '+ 
         airports[id]->countryName +' '+ airports[id]->IATA + ' ' + 
         airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude) << endl;
         return "number of targets: " + to_string(airports[id]->destinations.size());
