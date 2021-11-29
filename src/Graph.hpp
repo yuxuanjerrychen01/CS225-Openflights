@@ -23,7 +23,7 @@ class Graph{
          : uniqueID(id), airportName(airport), cityName(city), countryName(country), IATA(iata), ICAO(icao), Latitude(latitude), Longitude(longitude) {}
     };
     unordered_map<int, Airport *> airports;                               //store the airports, the key store airport ID, the value is the pointer of airports.
-    long long size = 0;
+    long long size_ = 0;
     
     public:
     Graph();                                    //empty constructor
@@ -31,4 +31,6 @@ class Graph{
     Graph(string airportsFile, string airRoutesFile);                 //for the project, we assume the given data is a vector of string for each line, create the airport as node
     void _getAirline(int a, int b);              //given a vector of airline information, fuction will assign each airline as edage to the node
     string getInformation(int id);              //test function that make sure all the data is in the graph
+    long long size() {return size_;};
+    vector<pair<int, int>> getDestination(int source) {return airports[source]->destinations;};
 };
