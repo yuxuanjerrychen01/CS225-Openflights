@@ -98,4 +98,5 @@ We decided to use the pointer to store the data in the map.
 #### constructor  
 We fix the constructor, and provide more information in getInformation
 - constructor: fix line 61 to make the right if statement.
-- getInformation: add the airlines information, including the name of target airports, the number of routes.
+- getInformation: add the airlines information, including the airport id of target airports, the number of routes.
+- Finished tesecase of graph constructor by checking graph's size and airport ID 2 and airport 2972's destinations.
