@@ -2,7 +2,7 @@
 #include <sstream>
 #include <fstream>
 #include <iostream>
-#include <stack>
+#include <queue>
 #include "math.h"
 #define pi 3.1415926535897932384626433832795
 #define EARTH_RADIUS 6378.137
@@ -110,40 +110,26 @@ void Graph::Dijkstra(int start1, int end1) {
     //need to check the airports exist or segmentfault
     
     vector<Airport *> outcome; 
-    stack<Airport *> dfs;
+    priority_queue<pair<double,Airport *>> check;
     _setInitial();
     Airport * start = airports[start1];
     start->distance = 0;
     start->LastNode = -1;
-    dfs.push(start);
-    while (!dfs.empty()) {
-        Airport * airport = dfs.top();
-        dfs.pop();
-        if(airport->isTravel) {
-            continue;
-        }
+    check.push(pair<double, Airport*>(0.0,start));
+    while (!check.empty()) {
+        Airport * airport = check.top().second;
+        check.pop();
         airport->isTravel = true;
-        vector<Airport *> sortAirport;
         for(auto target : airport -> destinations) {
             Airport * targetPort = airports[target.first];
             if(!targetPort->isTravel) {
                 double curDistance = _findDistance(airport->uniqueID, target.first) + airport->distance;
+                check.push(pair<double, Airport*> (curDistance,targetPort));
                 if (targetPort->distance == -1 || targetPort->distance > curDistance) {
                     targetPort->distance = curDistance;
                     targetPort->LastNode = airport->uniqueID;
-                    unsigned long i = 0;
-                    for(; i < sortAirport.size(); i++) {
-                        Airport * compare = sortAirport[i];
-                        if(compare->distance > curDistance) {
-                            break;
-                        }
-                    }
-                    sortAirport.insert(sortAirport.begin() + i, targetPort);
                 }
             }
-        }
-        for(int i = sortAirport.size() - 1; i >= 0; i--) {
-            dfs.push(sortAirport[i]);
         }
     }
     
@@ -152,6 +138,7 @@ void Graph::Dijkstra(int start1, int end1) {
         cout << "no connection between two airports" << endl;
     } else {
         Airport * curAirport = end;
+        cout << to_string(curAirport->distance * EARTH_RADIUS) << "KM"<< endl;
         while (curAirport->LastNode != -1) {
             outcome.push_back(curAirport);
             curAirport = airports[curAirport->LastNode];

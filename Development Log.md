@@ -100,3 +100,16 @@ We fix the constructor, and provide more information in getInformation
 - constructor: fix line 61 to make the right if statement.
 - getInformation: add the airlines information, including the airport id of target airports, the number of routes.
 - Finished tesecase of graph constructor by checking graph's size and airport ID 2 and airport 2972's destinations.
+
+
+##
+
+## Nov. 30th  
+#### Dijkstra Algorithm
+We implement Dikstra Algorithm to calculate the shortest path between two path.
+- using priority_queue to store the order of node that will be visited
+- distance: the distance between the start point and given node
+- is_Traval: check whether the node being visited
+- LastNode: store the lastnode depend on the shortest path
+- _findDistance, _fakeDistance, and _rad are the help fuction to calculate distance
+- _setInitial are the help function to set the data
