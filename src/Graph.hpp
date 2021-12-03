@@ -37,10 +37,10 @@ class Graph{
     Graph();                                                            //empty constructor
     ~Graph();                                                           //destructor
     Graph(string airportsFile, string airRoutesFile);                   //given data is a file of airport information, create the airport as node
-    string getInformation(int id);                                      //test function that make sure all the data is in the graph
+    vector<string> getInformation(int id);                              //test function that make sure all the data is in the graph
     long long size() {return size_;};                                   //the size of airports(nodes).
     vector<pair<int, int>> getDestination(int source) {return airports[source]->destinations;};
-    void Dijkstra(int start, int end);                                  //dijkstra to find the stortest path to travel depened on distance
+    vector<int> Dijkstra(int start, int end);                           //dijkstra to find the stortest path to travel depened on distance
     void traversal(int start, vector<bool>& visited);                   //using Depth First Search based on recursion, visited is to record the aiport being visited
     vector<vector<int>> route_adjaMat;                                  //use a route adjacency matric to store all routes here. We use row to represent departure airpot and column to 
     //respresent arrival.
