@@ -45,7 +45,7 @@ Graph::Graph(string airportsFile, string airRoutesFile) {
         }
         cout <<"airports finished" << endl;
     } else {
-        cout <<"no such file" << endl;
+        cout <<"no such airports file" << endl;
     }
     size_ = airports.size();
     
@@ -68,7 +68,7 @@ Graph::Graph(string airportsFile, string airRoutesFile) {
         }
         cout <<"airlines finished" << endl;
     } else {
-        cout <<"no such file" << endl;
+        cout <<"no such airlines file" << endl;
     }
 }
 
@@ -91,28 +91,47 @@ Graph::~Graph() {
     }
 }
 
-string Graph::getInformation(int id) {
+vector<string> Graph::getInformation(int id) {
+    vector<string> airport_info;
     auto iterator = airports.find(id);
     if(iterator == airports.end()) {
-        return "no according airport found";
+        airport_info.push_back("no according airport found");
+        return airport_info;
     } else {
         // for (auto pair : airports[id]->destinations) {
         //     cout << "target airpots: " << airports[pair.first]->airportName << ", number of routes: " << to_string(pair.second) << endl;
         // }
-        cout << airports[id]->airportName +' '+ airports[id]->cityName +' '+ 
-        airports[id]->countryName +' '+ airports[id]->IATA + ' ' + 
-        airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude) << endl;
-        return "number of targets: " + to_string(airports[id]->destinations.size());
+        // cout << airports[id]->airportName +' '+ airports[id]->cityName +' '+ 
+        // airports[id]->countryName +' '+ airports[id]->IATA + ' ' + 
+        // airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude) << endl;
+        // return "number of targets: " + to_string(airports[id]->destinations.size());
+        airport_info.push_back(to_string(id));
+        airport_info.push_back(airports[id]->airportName);
+        airport_info.push_back(airports[id]->cityName);
+        airport_info.push_back(airports[id]->countryName);
+        airport_info.push_back(airports[id]->IATA);
+        airport_info.push_back(airports[id]->ICAO);
+        airport_info.push_back(to_string(airports[id]->Latitude));
+        airport_info.push_back(to_string(airports[id]->Longitude));
+        // airport_info.push_back("number of targets: " + to_string(airports[id]->destinations.size()));
+        return airport_info;
     }
 }
 
-void Graph::Dijkstra(int start1, int end1) {
+vector<int> Graph::Dijkstra(int start1, int end1) {
     //need to check the airports exist or segmentfault
+    vector<int> paths;
+    if ((getInformation(start1).size() == 1) || (getInformation(end1).size() == 1)) {
+        paths.push_back(-1);
+        return paths;
+    }
 
     if(start1 == end1) {
-        return;
+        paths.push_back(start1);
+        // paths.push_back(end1);
+        return paths;
     }
-    
+
     vector<Airport *> outcome; 
     priority_queue<pair<double,Airport *>> check;
     _setInitial();
@@ -148,12 +167,14 @@ void Graph::Dijkstra(int start1, int end1) {
             curAirport = airports[curAirport->LastNode];
         }
         cout << "start" << endl;
-        getInformation(start1);
+        paths.push_back(start1);
         for(int i = outcome.size() - 1; i >= 0; i--) {
-            getInformation(outcome[i]->uniqueID);
+            paths.push_back(outcome[i]->uniqueID);
         }
     }
+    return paths;
 }
+
 void Graph::_setInitial() {
     for(auto airport : airports) {
          airport.second->distance = -1;
@@ -171,6 +192,7 @@ double Graph::_findDistance(int a, int b) {
 double Graph::_rad(double d) {
     return d * pi /180.0;
 }
+
 double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
    	double radLat1 = _rad(la1);
     double radLat2 = _rad(la2);
@@ -179,6 +201,7 @@ double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
     double s = 2 * asin(sqrt(pow(sin(a/2),2) + cos(radLat1)*cos(radLat2)*pow(sin(b/2),2)));
     return s;
 }
+
 void Graph::traversal(int start, vector<bool>& visited) {
     if (visited[(airports_set.at(start)).uniqueID] == false) {
         visited[(airports_set.at(start)).uniqueID] = true;
