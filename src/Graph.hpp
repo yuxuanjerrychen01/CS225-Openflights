@@ -26,6 +26,7 @@ class Graph{
          : uniqueID(id), airportName(airport), cityName(city), countryName(country), IATA(iata), ICAO(icao), Latitude(latitude), Longitude(longitude) {}
     };
     unordered_map<int, Airport *> airports;                             //store the airports, the key store airport ID, the value is the pointer of airports.
+    vector<Airport> airports_set; //the set of total airports
     long long size_ = 0;
     void _getAirline(int a, int b);                                     //help fuction, given airline information, fuction will assign each airline as edage to the node.
     void _setInitial();                                                 //help fuction to set distance, LastNode, isTraval in airports node.
@@ -40,5 +41,9 @@ class Graph{
     long long size() {return size_;};                                   //the size of airports(nodes).
     vector<pair<int, int>> getDestination(int source) {return airports[source]->destinations;};
     void Dijkstra(int start, int end);                                  //dijkstra to find the stortest path to travel depened on distance
-
+    void traversal(int start, vector<bool>& visited);                   //using Depth First Search based on recursion, visited is to record the aiport being visited
+    vector<vector<int>> route_adjaMat;                                  //use a route adjacency matric to store all routes here. We use row to represent departure airpot and column to 
+    //respresent arrival.
+    vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
+    bool ifAdjacent(int srcID, int destID);
 };

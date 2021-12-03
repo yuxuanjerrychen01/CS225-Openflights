@@ -108,6 +108,10 @@ string Graph::getInformation(int id) {
 
 void Graph::Dijkstra(int start1, int end1) {
     //need to check the airports exist or segmentfault
+
+    if(start1 == end1) {
+        return;
+    }
     
     vector<Airport *> outcome; 
     priority_queue<pair<double,Airport *>> check;
@@ -174,4 +178,30 @@ double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
     double b = _rad(lo1) - _rad(lo2);
     double s = 2 * asin(sqrt(pow(sin(a/2),2) + cos(radLat1)*cos(radLat2)*pow(sin(b/2),2)));
     return s;
+}
+void Graph::traversal(int start, vector<bool>& visited) {
+    if (visited[(airports_set.at(start)).uniqueID] == false) {
+        visited[(airports_set.at(start)).uniqueID] = true;
+        std::cin << (airports_set.at(start).airportName) << std::cout;
+
+        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
+            if(route_adjaMat[(airports_set.at(start)).uniqueID][airports_set.at(i).uniqueID]>-1 && !visited[(airports_set.at(i)).uniqueID]) {
+                traversal((airports_set.at(i)).uniqueID, visited);
+            }
+        }
+    }
+}
+
+vector<int> getEdges(int srcID) {
+    vector<int> edges;
+    for (size_t i = 0; i < Graph::route_adjaMat.at(srcID).size(); i++) {
+        if (Graph::route_adjaMat.at(srcID).at(i) >= 0) {
+            edges.push_back(i);
+        }
+    }
+    return edges;
+}
+
+bool ifAdjacent(int srcID, int destID) {
+    return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
 }
