@@ -113,3 +113,14 @@ We implement Dikstra Algorithm to calculate the shortest path between two path.
 - LastNode: store the lastnode depend on the shortest path
 - _findDistance, _fakeDistance, and _rad are the help fuction to calculate distance
 - _setInitial are the help function to set the data
+
+##
+
+## Dec. 2th  
+#### Traversal
+We use the Depth-First_Search and recursion as the basis for our traversal
+-use a vector<bool>& visited to store all the visited airports
+-getEdges(int srcID) to get the edges given the uniqueID of the source airport
+-adjacentMatrix: use this adjacent matrix to see if two airports are adjacent to each other directly
+-bool ifAdjacent: to see if two airports(given by the unique source ID and destination ID) are adjacent.
+
