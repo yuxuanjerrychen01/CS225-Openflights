@@ -75,18 +75,12 @@ Graph::Graph(string airportsFile, string airRoutesFile) {
 void Graph::_getAirline(int start, int end) {
     // check whether it is repeated;
     if (airports.find(start) != airports.end() && airports.find(end) != airports.end()) {
-        for(pair<int, int> & check : airports[start]->destinations) {
-            if(end == check.first) {
-                check.second++;
-                return;
-            }
-        }
-        airports[start]->destinations.push_back(pair<int, int>(end,1));
+        airports[start]->addAirlines(end);
     }
 }
 
 Graph::~Graph() {
-    for(auto airport : airports) {
+    for(auto & airport : airports) {
         delete airport.second;
     }
 }
@@ -106,13 +100,13 @@ vector<string> Graph::getInformation(int id) {
         // airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude) << endl;
         // return "number of targets: " + to_string(airports[id]->destinations.size());
         airport_info.push_back(to_string(id));
-        airport_info.push_back(airports[id]->airportName);
-        airport_info.push_back(airports[id]->cityName);
-        airport_info.push_back(airports[id]->countryName);
-        airport_info.push_back(airports[id]->IATA);
-        airport_info.push_back(airports[id]->ICAO);
-        airport_info.push_back(to_string(airports[id]->Latitude));
-        airport_info.push_back(to_string(airports[id]->Longitude));
+        airport_info.push_back(airports[id]->getAirportName());
+        airport_info.push_back(airports[id]->getCityName());
+        airport_info.push_back(airports[id]->getCountryName());
+        airport_info.push_back(airports[id]->getIATA());
+        airport_info.push_back(airports[id]->getICAO());
+        airport_info.push_back(to_string(airports[id]->getLatitude()));
+        airport_info.push_back(to_string(airports[id]->getLongitude()));
         // airport_info.push_back("number of targets: " + to_string(airports[id]->destinations.size()));
         return airport_info;
     }
@@ -133,24 +127,26 @@ vector<int> Graph::Dijkstra(int start1, int end1) {
     }
 
     vector<Airport *> outcome; 
-    priority_queue<pair<double,Airport *>> check;
+    priority_queue<pair<double, Airport*>, vector<pair<double, Airport*>>,
+      std::greater<pair<double, Airport*>>> check;
+    //priority_queue<pair<double,Airport *>> check;
     _setInitial();
     Airport * start = airports[start1];
     start->distance = 0;
     start->LastNode = -1;
-    check.push(pair<double, Airport*>(0.0,start));
+    check.push({0.0,start});
     while (!check.empty()) {
         Airport * airport = check.top().second;
         check.pop();
         airport->isTravel = true;
-        for(auto target : airport -> destinations) {
+        for(pair<int, int> & target : airport -> getDestinations()) {
             Airport * targetPort = airports[target.first];
             if(!targetPort->isTravel) {
-                double curDistance = _findDistance(airport->uniqueID, target.first) + airport->distance;
-                check.push(pair<double, Airport*> (curDistance,targetPort));
-                if (targetPort->distance == -1 || targetPort->distance > curDistance) {
+                double curDistance = _findDistance(airport->getUniqueID(), target.first) + airport->distance;
+                if (targetPort->distance > curDistance) {
                     targetPort->distance = curDistance;
-                    targetPort->LastNode = airport->uniqueID;
+                    check.push(pair<double, Airport*> (curDistance,targetPort));
+                    targetPort->LastNode = airport->getUniqueID();
                 }
             }
         }
@@ -169,15 +165,15 @@ vector<int> Graph::Dijkstra(int start1, int end1) {
         cout << "start" << endl;
         paths.push_back(start1);
         for(int i = outcome.size() - 1; i >= 0; i--) {
-            paths.push_back(outcome[i]->uniqueID);
+            paths.push_back(outcome[i]->getUniqueID());
         }
     }
     return paths;
 }
 
 void Graph::_setInitial() {
-    for(auto airport : airports) {
-         airport.second->distance = -1;
+    for(auto & airport : airports) {
+         airport.second->distance = double(INT64_MAX);
          airport.second->LastNode = 0;
          airport.second->isTravel = false;
     }
@@ -186,7 +182,7 @@ void Graph::_setInitial() {
 double Graph::_findDistance(int a, int b) {
     Airport * start = airports[a];
     Airport * end = airports[b];
-    return _fakeDistance(start->Latitude, start->Longitude, end->Latitude, end->Longitude);
+    return _fakeDistance(start->getLatitude(), start->getLongitude(), end->getLatitude(), end->getLongitude());
 }
 
 double Graph::_rad(double d) {
@@ -202,29 +198,29 @@ double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
     return s;
 }
 
-void Graph::traversal(int start, vector<bool>& visited) {
-    if (visited[(airports_set.at(start)).uniqueID] == false) {
-        visited[(airports_set.at(start)).uniqueID] = true;
-        std::cout << (airports_set.at(start).airportName) << std::endl;
+// void Graph::traversal(int start, vector<bool>& visited) {
+//     if (visited[(airports_set.at(start)).uniqueID] == false) {
+//         visited[(airports_set.at(start)).uniqueID] = true;
+//         std::cout << (airports_set.at(start).airportName) << std::endl;
 
-        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
-            if(route_adjaMat[(airports_set.at(start)).uniqueID][airports_set.at(i).uniqueID]>-1 && !visited[(airports_set.at(i)).uniqueID]) {
-                traversal((airports_set.at(i)).uniqueID, visited);
-            }
-        }
-    }
-}
+//         for(int i = 0; i < (int)route_adjaMat.size(); i++) {
+//             if(route_adjaMat[(airports_set.at(start)).uniqueID][airports_set.at(i).uniqueID]>-1 && !visited[(airports_set.at(i)).uniqueID]) {
+//                 traversal((airports_set.at(i)).uniqueID, visited);
+//             }
+//         }
+//     }
+// }
 
-vector<int> Graph::getEdges(int srcID) {
-    vector<int> edges;
-    for (size_t i = 0; i < Graph::route_adjaMat.at(srcID).size(); i++) {
-        if (Graph::route_adjaMat.at(srcID).at(i) >= 0) {
-            edges.push_back(i);
-        }
-    }
-    return edges;
-}
+// vector<int> Graph::getEdges(int srcID) {
+//     vector<int> edges;
+//     for (size_t i = 0; i < Graph::route_adjaMat.at(srcID).size(); i++) {
+//         if (Graph::route_adjaMat.at(srcID).at(i) >= 0) {
+//             edges.push_back(i);
+//         }
+//     }
+//     return edges;
+// }
 
-bool Graph::ifAdjacent(int srcID, int destID) {
-    return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
-}
+// bool Graph::ifAdjacent(int srcID, int destID) {
+//     return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
+// }
