@@ -1,5 +1,5 @@
 CXX=clang++
-CXX_FLAGS=-std=c++11 -stdlib=libc++ -g -O0 -Wall -Wextra -Werror -Iincludes/
+CXX_FLAGS=-std=c++20 -stdlib=libc++ -g -O0 -Wall -Wextra -Werror -Iincludes/
 
 .PHONY: test clean
 
