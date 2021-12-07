@@ -205,7 +205,7 @@ double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
 void Graph::traversal(int start, vector<bool>& visited) {
     if (visited[(airports_set.at(start)).uniqueID] == false) {
         visited[(airports_set.at(start)).uniqueID] = true;
-        std::cin << (airports_set.at(start).airportName) << std::cout;
+        std::cout << (airports_set.at(start).airportName) << std::endl;
 
         for(int i = 0; i < (int)route_adjaMat.size(); i++) {
             if(route_adjaMat[(airports_set.at(start)).uniqueID][airports_set.at(i).uniqueID]>-1 && !visited[(airports_set.at(i)).uniqueID]) {
@@ -215,7 +215,7 @@ void Graph::traversal(int start, vector<bool>& visited) {
     }
 }
 
-vector<int> getEdges(int srcID) {
+vector<int> Graph::getEdges(int srcID) {
     vector<int> edges;
     for (size_t i = 0; i < Graph::route_adjaMat.at(srcID).size(); i++) {
         if (Graph::route_adjaMat.at(srcID).at(i) >= 0) {
@@ -225,6 +225,6 @@ vector<int> getEdges(int srcID) {
     return edges;
 }
 
-bool ifAdjacent(int srcID, int destID) {
+bool Graph::ifAdjacent(int srcID, int destID) {
     return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
 }
