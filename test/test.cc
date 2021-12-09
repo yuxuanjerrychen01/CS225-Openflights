@@ -14,6 +14,7 @@
 #include <fstream>
 #include <iostream>
 #include "../src/Graph.hpp"
+#include "../src/Draw.hpp"
 using namespace std;
 
 /////////////////////////testcase
@@ -55,6 +56,7 @@ TEST_CASE("Graph Constructor airports")
         expected_2972.push_back(make_pair<int, int>(4111, 1));
         REQUIRE(graph.getDestination(2972).size() == 9);
         REQUIRE(graph.getDestination(2972) == expected_2972);
+
     }
 
 }
@@ -68,6 +70,8 @@ TEST_CASE("Dijkstra's Algorithm")
         int source_airport_id = 3406;
         int dest_airport_id = 2069;
         vector<int> paths = graph.Dijkstra(source_airport_id, dest_airport_id);
+        Draw png("./Equirectangular_projection_SW.png");
+        png.drawAirport(graph,paths);
         REQUIRE(paths[0] == source_airport_id);
         for (int i = 1; i < int(paths.size()) -1; i++) {
             vector<int> sub_path = {paths.begin() + i, paths.end()};
