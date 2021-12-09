@@ -74,6 +74,7 @@
         "unordered_map": "cpp",
         "utility": "cpp",
         "future": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "queue": "cpp"
     }
 }
