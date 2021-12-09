@@ -40,4 +40,5 @@ class Airport {
         string getICAO() {return ICAO;}
         double getLatitude() {return Latitude;}
         double getLongitude() {return Longitude;}
+        double PR_value = 1.0;
 };

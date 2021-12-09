@@ -24,6 +24,7 @@ Graph graph("data/airports_data_final.csv", "data/routes_data_final.csv");
 TEST_CASE("Graph Size")
 {
     REQUIRE(graph.size() == 6683);
+    graph.pagerank();
 }
 
 TEST_CASE("Graph Constructor airports")
