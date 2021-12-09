@@ -11,8 +11,10 @@ private:
 public:
     Draw(string const & fileName);
     ~Draw();
-    PNG drawAirport(Graph & graph, std::vector<int> info);
-    //void _drawAirline(PNG & png,std::vector<std::pair<int,int>> routes);
+    void drawDijkstra(Graph & graph, std::vector<int> info);
+    void _drawAirline(PNG & png,std::pair<int,int> start, std::pair<int,int> end);
     std::pair<int,int> _getXY(double la, double lo);
+    void drawDestinations(Graph & graph, int id);
+    void _drawAirport(PNG & png, std::pair<int, int> position);
 };
 
