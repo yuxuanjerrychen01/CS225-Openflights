@@ -7,6 +7,7 @@
 #include "Airport.hpp"
 #include <iostream>
 #include <fstream>
+#include <cmath>
 using namespace std;
 class Graph{
     private:
@@ -32,39 +33,5 @@ class Graph{
     // //respresent arrival.
     // vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
     // bool ifAdjacent(int srcID, int destID);
-    void pagerank() {
-        long double PR_initial = 1.0 / (double) 6683;
-        for (auto & airport : airports) {
-            airport.second->PR_value = PR_initial;
-        }
-
-        unordered_map<int, unordered_map<int, int>> adj_matrix;
-
-        for (auto i : airports) {
-            unordered_map<int, int> temp_dis;
-            for (auto des : i.second->getDestinations()) {
-                temp_dis[des.first] = des.second;
-                i.second->total_lines+=des.second;
-            }
-            adj_matrix[i.first] = temp_dis;
-        }
-
-        //iteration 100 times for updating new pagevalue
-        for (int i = 0; i < 10; ++i) {
-            for (auto & air : airports) {
-                long double temp = 0.0;
-                for (auto & map : adj_matrix) {
-                    if (map.second.find(air.first) != map.second.end()) {
-                         temp += airports[map.first]->PR_value / (double) airports[map.first]->total_lines * (double) map.second[air.first];
-                    }
-                }
-                air.second->PR_value = temp;
-            }
-            std::cout<<i<<std::endl;
-        }
-        ofstream fts("airports_importance.txt");
-        for (auto p : airports) {
-            fts<<p.second->getAirportName() + "," + to_string(p.second->PR_value)<<endl;
-        }
-    };
+    void pagerank(double tolerance);
 };
