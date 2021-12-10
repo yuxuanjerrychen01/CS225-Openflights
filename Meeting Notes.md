@@ -31,3 +31,15 @@ Airlines: airline_id, airline_name, country
 #### Data filtering
  - finish routes_data filter  
 remove \N data (rows) of *routes_useful_stops0.csv*.
+
+## Dec. 9th
+#### PageRank current problems
+ - Complexity (too slow)   
+ - PR value too small (edit: fixed, changed divison into double)  
+ - May consider using matrix multiplication  
+ - There are 3631 airport data with no source airport ID and destination airport ID in airlines_data_final.csv  
+#### Notes and Goals
+ - do a new airports filter  
+ - continue with test cases  
+ - We have finished dfs traversal, dijkstra's algorithm, currently working on PageRank, done graph visuals  
+ - makefile and main  
