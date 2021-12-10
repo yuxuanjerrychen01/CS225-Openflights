@@ -20,7 +20,6 @@ class Graph{
     double _rad(double a);                                              //help fuction to find the radiance.
     double _fakeDistance(double a, double b, double c, double d);       //help fuction, this is fake because it do not times the radius of earth.
     public:
-
     Graph();                                                            //empty constructor
     ~Graph();                                                           //destructor
     Graph(string airportsFile, string airRoutesFile);                   //given data is a file of airport information, create the airport as node
