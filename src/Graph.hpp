@@ -6,6 +6,7 @@
 #include <queue>
 #include "Airport.hpp"
 #include <iostream>
+#include <fstream>
 using namespace std;
 class Graph{
     private:
@@ -32,26 +33,38 @@ class Graph{
     // vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
     // bool ifAdjacent(int srcID, int destID);
     void pagerank() {
-        /*double PR_initial = 1;
+        long double PR_initial = 1.0 / (double) 6683;
         for (auto & airport : airports) {
             airport.second->PR_value = PR_initial;
-        }*/
+        }
+
+        unordered_map<int, unordered_map<int, int>> adj_matrix;
+
+        for (auto i : airports) {
+            unordered_map<int, int> temp_dis;
+            for (auto des : i.second->getDestinations()) {
+                temp_dis[des.first] = des.second;
+                i.second->total_lines+=des.second;
+            }
+            adj_matrix[i.first] = temp_dis;
+        }
 
         //iteration 100 times for updating new pagevalue
-        int count = 0;
-        for (int i = 0; i < 100; ++i) {
+        for (int i = 0; i < 10; ++i) {
             for (auto & air : airports) {
-                vector<pair<int, int>> air_dess = getDestination(air.first);
-                long double for_update = 0.0;
-                for (auto & des : air_dess) {
-                    count++;
-                    for_update += (airports[des.first]->PR_value / getDestination(des.first).size());
+                long double temp = 0.0;
+                for (auto & map : adj_matrix) {
+                    if (map.second.find(air.first) != map.second.end()) {
+                         temp += airports[map.first]->PR_value / (double) airports[map.first]->total_lines * (double) map.second[air.first];
+                    }
                 }
-                air.second->PR_value = for_update;
+                air.second->PR_value = temp;
             }
+            std::cout<<i<<std::endl;
         }
+        ofstream fts("airports_importance.txt");
         for (auto p : airports) {
-            std::cout<<p.second->getAirportName()<<to_string(p.second->PR_value)<<" "<<to_string(count)<<std::endl;
+            fts<<p.second->getAirportName() + "," + to_string(p.second->PR_value)<<endl;
         }
     };
 };

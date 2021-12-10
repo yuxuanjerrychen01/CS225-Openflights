@@ -72,7 +72,7 @@ TEST_CASE("Dijkstra's Algorithm")
         int dest_airport_id = 2069;
         vector<int> paths = graph.Dijkstra(source_airport_id, dest_airport_id);
         Draw png("./Equirectangular_projection_SW.png");
-        png.drawAirport(graph,paths);
+        png.drawDijkstra(graph,paths);
         REQUIRE(paths[0] == source_airport_id);
         for (int i = 1; i < int(paths.size()) -1; i++) {
             vector<int> sub_path = {paths.begin() + i, paths.end()};
