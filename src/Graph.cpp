@@ -198,7 +198,6 @@ double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
     return s;
 }
 
-<<<<<<< HEAD
 void Graph::traversal(int start, vector<bool>& visited) {
     if (visited[(airports_set.at(start)).getUniqueID()] == false) {
         visited[(airports_set.at(start)).getUniqueID()] = true;
@@ -246,7 +245,7 @@ vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
         for(int i = 0; i < (int)route_adjaMat.size(); i++) {
             if(visited[i] == false) {
                 queue.push(i);
-                visited[i] == true;
+                visited[i] = true;
             }
         }
         queue.pop();
@@ -256,7 +255,6 @@ vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
     }
     return output;
 }
-=======
 /**
  * 
  * @param tolerance: a parameter to check 
@@ -319,60 +317,3 @@ void Graph::pagerank(double tolerance) {
     std::cout<<sum<<std::endl;
 }
 
-void Graph::traversal(int start, vector<bool>& visited) {
-    if (visited[(airports_set.at(start)).getUniqueID()] == false) {
-        visited[(airports_set.at(start)).getUniqueID()] = true;
-        //std::cout << (airports_set.at(start).airportName) << std::endl;
-
-        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
-            if(route_adjaMat[(airports_set.at(start)).getUniqueID()][airports_set.at(i).getUniqueID()]>-1 && !visited[(airports_set.at(i)).getUniqueID()]) {
-                traversal((airports_set.at(i)).getUniqueID(), visited);
-            }
-        }
-    }
-}
-
-vector<int> Graph::getEdges(int srcID) {
-    vector<int> edges;
-    for (size_t i = 0; i < Graph::route_adjaMat.at(srcID).size(); i++) {
-        if (Graph::route_adjaMat.at(srcID).at(i) >= 0) {
-            edges.push_back(i);
-        }
-    }
-    return edges;
-}
-
-bool Graph::ifAdjacent(int srcID, int destID) {
-    return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
-}
-
-vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
-    vector<string> output;
-    //this is a vector of boolean(set default as false) covering all the airports filtered
-    vector<bool> visited(false);
-
-    queue<int> queue;
-    queue.push(source_airport);
-    int current_airport = source_airport;
-    visited[current_airport] = true;
-
-    while(!queue.empty()) {
-        current_airport = queue.front();
-        if (current_airport == dest_airport) {
-            output.push_back(airport_graph.getAirportName());
-            break;
-        }
-        output.push_back(airport_graph.getAirportName());
-        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
-            if(visited[i] == false) {
-                queue.push(i);
-                visited[i] == true;
-            }
-        }
-        queue.pop();
-    } 
-    if (current_airport != dest_airport) {
-        return vector<string>();
-    }
-    return output;
-}

@@ -36,33 +36,6 @@ class Graph{
     bool ifAdjacent(int srcID, int destID);
     Airport airport_graph;
     vector<string> BFS_traverse(int source_airport, int dest_airport);
-    void pagerank() {
-        /*double PR_initial = 1;
-        for (auto & airport : airports) {
-            airport.second->PR_value = PR_initial;
-        }*/
-
-        //iteration 100 times for updating new pagevalue
-        int count = 0;
-        for (int i = 0; i < 100; ++i) {
-            for (auto & air : airports) {
-                vector<pair<int, int>> air_dess = getDestination(air.first);
-                long double for_update = 0.0;
-                for (auto & des : air_dess) {
-                    count++;
-                    for_update += (airports[des.first]->PR_value / getDestination(des.first).size());
-                }
-                air.second->PR_value = for_update;
-            }
-        }
-        for (auto p : airports) {
-            std::cout<<p.second->getAirportName()<<to_string(p.second->PR_value)<<" "<<to_string(count)<<std::endl;
-        }
-    };
-};
-=======
-    // vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
-    // bool ifAdjacent(int srcID, int destID);
     void pagerank(double tolerance);
 };
 
