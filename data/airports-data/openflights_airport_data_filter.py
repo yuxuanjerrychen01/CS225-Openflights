@@ -101,3 +101,101 @@ names2_df = names_df.loc[(~names_df["Name"].str.contains("Base")) &
                          (~names_df["Name"].str.contains("Airstrip")) &
                          (~names_df["Name"].str.contains("Facility"))]
 names2_df.to_csv("./airports_data_useful_nonAirport_improved.csv", index=False, encoding="utf_8_sig")
+
+##############################################
+# new part, deleted all airport row data where there was no mention of such airport in airlines data (no source airport, no destiniation airport)
+
+file1 = "./airports_data_useful_drop_city_ICAO_nonAirport.csv"
+df1 = pd.read_csv(file1)
+file2 = "../routes_data_final.csv"
+df2 = pd.read_csv(file2)
+
+airports_id = df1["Airport ID"]
+source_id = df2["Source Airport ID"]
+dest_id = df2["Destination Airport ID"]
+# print(airports_id)
+# print(source_id)
+# print(dest_id)
+
+check_duplicates1 = source_id.duplicated()
+if True in check_duplicates1.values:
+    source_id.drop_duplicates(inplace=True)
+
+check_duplicates2 = dest_id.duplicated()
+if True in check_duplicates2.values:
+    dest_id.drop_duplicates(inplace=True)
+
+# print(source_id)
+# print(dest_id)
+
+source_list = source_id.tolist()
+dest_list = dest_id.tolist()
+airports_list = airports_id.tolist()
+
+
+
+airports_list_1 = airports_list.copy()
+airports_list_2 = airports_list.copy()
+airports_list_3 = airports_list.copy()
+airports_list_4 = airports_list.copy()
+for i in range(len(source_list)):
+    for j in range(len(airports_list_1)):
+        if airports_list_1[j] == source_list[i]:
+            airports_list_1[j] = -7
+
+for i in range(len(dest_list)):
+    for j in range(len(airports_list_1)):
+        if airports_list_1[j] == dest_list[i]:
+            airports_list_1[j] = -7
+
+print(len(airports_list))
+removed_neither = list(filter((-7).__ne__, airports_list_1))
+print(removed_neither)
+print(len(removed_neither))
+
+# source airport not exist
+# for i in range(len(source_list)):
+#     for j in range(len(airports_list_2)):
+#         if airports_list_2[j] == source_list[i]:
+#             airports_list_2[j] = -7
+#
+# print(len(airports_list))
+# removed_source = list(filter((-7).__ne__, airports_list_2))
+# print(removed_source)
+# print(len(removed_source))
+#
+# # dest sirport not exist
+# for i in range(len(dest_list)):
+#     for j in range(len(airports_list_3)):
+#         if airports_list_3[j] == dest_list[i]:
+#             airports_list_3[j] = -7
+#
+# print(len(airports_list))
+# removed_dest = list(filter((-7).__ne__, airports_list_3))
+# print(removed_dest)
+# print(len(removed_dest))
+
+# airports that have source or dest
+# for i in range(len(airports_list)):
+#     for j in range(len(removed_neither)):
+#         if airports_list_4[i] == removed_neither[j]:
+#             airports_list_4[i] = -8
+#
+# print(len(airports_list))
+# new_airports_list = list(filter((-8).__ne__, airports_list_4))
+# print(new_airports_list)
+# print(len(new_airports_list))
+
+
+file3 = "./airports_data_useful_drop_city_ICAO_nonAirport.csv"
+df3 = pd.read_csv(file1)
+print(df3)
+# for i in range(len(removed_neither)):
+#
+#     df3 = df3.drop
+sub_df = df3.loc[df3['Airport ID'].isin(removed_neither)]
+print(sub_df)
+index = sub_df.index
+remove_df = df3.drop(index=index)
+print(remove_df)
+remove_df.to_csv("../airports_data_final_new.csv", index=False, encoding="utf_8_sig")

@@ -6,6 +6,8 @@
 #include <queue>
 #include "Airport.hpp"
 #include <iostream>
+#include <fstream>
+#include <cmath>
 using namespace std;
 class Graph{
     private:
@@ -29,6 +31,7 @@ class Graph{
     void traversal(int start, vector<bool>& visited);                   //using Depth First Search based on recursion, visited is to record the aiport being visited
     vector<vector<int>> route_adjaMat;                                  //use a route adjacency matric to store all routes here. We use row to represent departure airpot and column to 
     // //respresent arrival.
+
     vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
     bool ifAdjacent(int srcID, int destID);
     Airport airport_graph;
@@ -57,3 +60,9 @@ class Graph{
         }
     };
 };
+=======
+    // vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
+    // bool ifAdjacent(int srcID, int destID);
+    void pagerank(double tolerance);
+};
+

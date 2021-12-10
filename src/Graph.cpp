@@ -190,12 +190,133 @@ double Graph::_rad(double d) {
 }
 
 double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
-   	double radLat1 = _rad(la1);
+    double radLat1 = _rad(la1);
     double radLat2 = _rad(la2);
     double a = radLat1 - radLat2;
     double b = _rad(lo1) - _rad(lo2);
     double s = 2 * asin(sqrt(pow(sin(a/2),2) + cos(radLat1)*cos(radLat2)*pow(sin(b/2),2)));
     return s;
+}
+
+<<<<<<< HEAD
+void Graph::traversal(int start, vector<bool>& visited) {
+    if (visited[(airports_set.at(start)).getUniqueID()] == false) {
+        visited[(airports_set.at(start)).getUniqueID()] = true;
+        //std::cout << (airports_set.at(start).airportName) << std::endl;
+
+        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
+            if(route_adjaMat[(airports_set.at(start)).getUniqueID()][airports_set.at(i).getUniqueID()]>-1 && !visited[(airports_set.at(i)).getUniqueID()]) {
+                traversal((airports_set.at(i)).getUniqueID(), visited);
+            }
+        }
+    }
+}
+
+vector<int> Graph::getEdges(int srcID) {
+    vector<int> edges;
+    for (size_t i = 0; i < Graph::route_adjaMat.at(srcID).size(); i++) {
+        if (Graph::route_adjaMat.at(srcID).at(i) >= 0) {
+            edges.push_back(i);
+        }
+    }
+    return edges;
+}
+
+bool Graph::ifAdjacent(int srcID, int destID) {
+    return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
+}
+
+vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
+    vector<string> output;
+    //this is a vector of boolean(set default as false) covering all the airports filtered
+    vector<bool> visited(false);
+
+    queue<int> queue;
+    queue.push(source_airport);
+    int current_airport = source_airport;
+    visited[current_airport] = true;
+
+    while(!queue.empty()) {
+        current_airport = queue.front();
+        if (current_airport == dest_airport) {
+            output.push_back(airport_graph.getAirportName());
+            break;
+        }
+        output.push_back(airport_graph.getAirportName());
+        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
+            if(visited[i] == false) {
+                queue.push(i);
+                visited[i] == true;
+            }
+        }
+        queue.pop();
+    } 
+    if (current_airport != dest_airport) {
+        return vector<string>();
+    }
+    return output;
+}
+=======
+/**
+ * 
+ * @param tolerance: a parameter to check 
+ * the changes of Pagerank value sum is with the tolerance
+ * 
+ **/ 
+
+void Graph::pagerank(double tolerance) {
+    double PR_initial = 1.0 / airports.size();
+    for (auto & airport : airports) {
+        airport.second->PR_value = PR_initial;
+    }
+    (void) tolerance;
+    unordered_map<int, unordered_map<int, int>> adj_matrix;
+
+    for (auto i : airports) {
+        unordered_map<int, int> temp_dis;
+        for (auto des : i.second->getDestinations()) {
+            temp_dis[des.first] = des.second;
+            i.second->total_lines+=des.second;
+        }
+        adj_matrix[i.first] = temp_dis;
+    }
+
+    //iteration 100 times for updating new pagevalue
+    double page_sum = 1.0;
+    double page_sum_temp = 0.0;
+    int count = 0;
+    while (abs(page_sum - page_sum_temp) > tolerance || count <= 100) {
+        if (count != 0) {
+            page_sum = page_sum_temp;
+        }
+        count++;
+        //normalize PR_value
+        for (auto & air : airports) {
+            air.second->PR_value = air.second->PR_value / page_sum;
+        }
+        //begain to find
+        page_sum_temp = 0;
+        for (auto & air : airports) {
+            page_sum_temp += air.second->PR_value;
+            double temp = 0.0;
+            for (auto & map : adj_matrix) {
+                if (map.second.find(air.first) != map.second.end()) {
+                        temp += (airports[map.first]->PR_value / (double) airports[map.first]->total_lines) * (double) map.second[air.first];
+                }
+            }
+            air.second->PR_value = temp;
+        }
+    }
+    for (auto & air : airports) {
+        air.second->PR_value = air.second->PR_value / page_sum;
+    }
+    ofstream fts("airports_importance.txt");
+    double sum = 0;
+    for (auto &p : airports) {
+        sum += p.second->PR_value;
+        fts<<p.second->getAirportName() + "," + to_string(p.second->PR_value) <<endl;
+    }
+    std::cout<<sum<<std::endl;
 }
 
 void Graph::traversal(int start, vector<bool>& visited) {

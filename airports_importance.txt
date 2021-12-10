@@ -1,0 +1,3052 @@
+Jinchuan Airport,0.000092
+Tarko-Sale Airport,0.000016
+Kongolo Airport,0.000009
+Dharavandhoo Airport,0.000029
+Boende Airport,0.000016
+Beni Airport,0.000006
+Hamad International Airport,0.002868
+Arxan Yi'ershi Airport,0.000015
+Zhangjiakou Ningyuan Airport,0.000031
+Kao Airport,0.000015
+Betoambari Airport,0.000015
+Kasama Airport,0.000016
+Tazadit Airport,0.000044
+Gannan Xiahe Airport,0.000031
+Daocheng Yading Airport,0.000061
+Kastamonu Airport,0.000016
+Busselton Regional Airport,0.000046
+Lensk Airport,0.000092
+Kooddoo Airport,0.000028
+Changbaishan Airport,0.000078
+Qianjiang Wulingshan Airport,0.000107
+Bayannur Tianjitai Airport,0.000077
+Beloyarskiy Airport,0.000063
+Modlin Airport,0.000398
+Gazipaşa Airport,0.000078
+Eirunepé Airport,0.000014
+Ourilândia do Norte Airport,0.000011
+Bauru - Arealva Airport,0.000045
+Kegaska Airport,0.000017
+Vinnytsia/Gavyryshivka Airport,0.000015
+Al Maktoum International Airport,0.000676
+Mackenzie Airport,0.000046
+Puerto Obaldia Airport,0.000010
+Lianshui Airport,0.000185
+Belbek Airport,0.000031
+Mysore Airport,0.000016
+Northwest Florida Beaches International Airport,0.000104
+Rundu Airport,0.000447
+Choiseul Bay Airport,0.000043
+Ulawa Airport,0.000031
+Carajás Airport,0.000049
+Xingyi Airport,0.000093
+Enfidha - Hammamet International Airport,0.000686
+Santa Terezinha Airport,0.000058
+Minaçu Airport,0.000000
+Santa Terezinha Airport,0.000000
+Gurupi Airport,0.000000
+Presidente João Batista Figueiredo Airport,0.000045
+Koyukuk Airport,0.000017
+Kotlik Airport,0.000028
+Alakanuk Airport,0.000007
+Tin City Long Range Radar Station Airport,0.000011
+White Mountain Airport,0.000041
+Teller Airport,0.000033
+Golovin Airport,0.000039
+Elim Airport,0.000041
+Akhiok Airport,0.000009
+Pilot Point Airport,0.000010
+Perryville Airport,0.000000
+Egegik Airport,0.000010
+Russian Mission Airport,0.000038
+Kwigillingok Airport,0.000016
+Kwethluk Airport,0.000016
+Nuiqsut Airport,0.000027
+Shageluk Airport,0.000011
+Emmonak Airport,0.000030
+Charlotte County Airport,0.000253
+Ulyanovsk Baratayevka Airport,0.000031
+Northeast Florida Regional Airport,0.000015
+Warri Airport,0.000030
+Begishevo Airport,0.000109
+Tongren Fenghuang Airport,0.000077
+Chefornak Airport,0.000021
+Pitt Greenville Airport,0.000030
+Naypyidaw Airport,0.000031
+Drake Bay Airport,0.000045
+Ust-Kut Airport,0.000031
+Montrose Regional Airport,0.000015
+Ford Airport,0.000029
+Yakutat Airport,0.000028
+Delta County Airport,0.000015
+Choibalsan Airport,0.000059
+Orange Airport,0.000016
+Hamadan Airport,0.000015
+St Augustin Airport,0.000050
+Tekirdağ Çorlu Airport,0.000016
+Muş Airport,0.000047
+Çanakkale Airport,0.000016
+Walvis Bay Airport,0.000046
+Sialkot Airport,0.000185
+Chaoyang Airport,0.000046
+Walaha Airport,0.000016
+Port Heiden Airport,0.000000
+King Cove Airport,0.000013
+Kangra Airport,0.000031
+Parsabade Moghan Airport,0.000016
+Sand Point Airport,0.000026
+Gorakhpur Airport,0.000031
+Araracuara Airport,0.000015
+Pajala Airport,0.000031
+Coronel Altino Machado de Oliveira Airport,0.000015
+Cauayan Airport,0.000015
+Tambor Airport,0.000059
+Arctic Village Airport,0.000014
+Noatak Airport,0.000024
+Savoonga Airport,0.000043
+Ruby Airport,0.000045
+Kivalina Airport,0.000028
+Atqasuk Edward Burnell Sr Memorial Airport,0.000021
+Anvik Airport,0.000011
+Anaktuvuk Pass Airport,0.000025
+Erechim Airport,0.000051
+Ordos Ejin Horo Airport,0.000385
+Jiayuguan Airport,0.000108
+Yuncheng Guangong Airport,0.000446
+Shanhaiguan Airport,0.000108
+Kuqa Airport,0.000031
+Wanxian Airport,0.000184
+Nanchong Airport,0.000092
+Mianyang Airport,0.000323
+Guangyuan Airport,0.000123
+Dachuan Airport,0.000138
+Qamdo Bangda Airport,0.000046
+Zhoushan Airport,0.000200
+Yiwu Airport,0.000277
+Yancheng Airport,0.000262
+Wenzhou Longwan International Airport,0.001245
+Nanping Wuyishan Airport,0.000231
+Sunan Shuofang International Airport,0.000722
+Weifang Airport,0.000108
+Jiujiang Lushan Airport,0.000092
+Ganzhou Airport,0.000200
+Zhaotong Airport,0.000046
+Diqing Airport,0.000107
+Mörön Airport,0.000028
+Dalanzadgad Airport,0.000014
+Bayankhongor Airport,0.000028
+Altai Airport,0.000014
+Yulin Yuyang Airport,0.000184
+Qingyang Airport,0.000092
+Golmud Airport,0.000031
+Yichang Sanxia Airport,0.000369
+Zhanjiang Airport,0.000293
+Meixian Airport,0.000077
+Dayong Airport,0.000323
+Changde Airport,0.000123
+Beihai Airport,0.000307
+Xilinhot Airport,0.000108
+Tongliao Airport,0.000201
+Datong Airport,0.000169
+Changzhi Airport,0.000246
+Chifeng Airport,0.000232
+Beijing Nanyuan Airport,0.001238
+Thargomindah Airport,0.000015
+Quilpie Airport,0.000031
+Port Macquarie Airport,0.000093
+Parkes Airport,0.000031
+Gove Airport,0.000095
+Paraburdoo Airport,0.000046
+Port Augusta Airport,0.000016
+Olympic Dam Airport,0.000016
+Newman Airport,0.000030
+Normanton Airport,0.000032
+Moruya Airport,0.000031
+Mildura Airport,0.000093
+Merimbula Airport,0.000047
+Longreach Airport,0.000113
+Lockhart River Airport,0.000052
+Lord Howe Island Airport,0.000046
+Kowanyama Airport,0.000031
+King Island Airport,0.000031
+Groote Eylandt Airport,0.000070
+Geraldton Airport,0.000046
+Flinders Island Airport,0.000015
+Elcho Island Airport,0.000015
+Doomadgee Airport,0.000048
+Ceduna Airport,0.000016
+Cloncurry Airport,0.000079
+Bathurst Airport,0.000031
+Boulia Airport,0.000032
+Birdsville Airport,0.000031
+Albany Airport,0.000046
+Lawas Airport,0.000046
+Mukah Airport,0.000031
+Long Seridan Airport,0.000031
+Kalimarau Airport,0.000046
+Kawthoung Airport,0.000016
+Cam Ranh Airport,0.000108
+Buon Ma Thuot Airport,0.000108
+Kadhdhoo Airport,0.000028
+Bhadrapur Airport,0.000015
+Dimapur Airport,0.000031
+Lokpriya Gopinath Bordoloi International Airport,0.000499
+Cheboksary Airport,0.000031
+Belgorod International Airport,0.000170
+Termez Airport,0.000031
+Karshi Khanabad Airport,0.000077
+Fergana International Airport,0.000108
+Kurgan Airport,0.000031
+Comiso Airport,0.000123
+Beslan Airport,0.000016
+Kyzyl Airport,0.000015
+Uzhhorod International Airport,0.000015
+Tiksi Airport,0.000031
+Nakhchivan Airport,0.000016
+Ganja Airport,0.000078
+Petropavlosk South Airport,0.000030
+Kokshetau Airport,0.000031
+Vance W. Amory International Airport,0.000134
+Juan Pablo Pérez Alfonso Airport,0.000045
+Bingöl Çeltiksuyu Airport,0.000032
+Santa Rosa Airport,0.000015
+Mayor General FAP Armando Revoredo Iglesias Airport,0.000030
+Capitán Av. Selin Zeitun Lopez Airport,0.000019
+Camilo Ponce Enriquez Airport,0.000031
+San Cristóbal Airport,0.000062
+Santa Maria Airport,0.000059
+Vitória da Conquista Airport,0.000090
+Macaé Airport,0.000056
+Orlando Bezerra de Menezes Airport,0.000074
+Roxas Airport,0.000046
+Calbayog Airport,0.000015
+Virac Airport,0.000015
+Tuguegarao Airport,0.000046
+Naga Airport,0.000031
+Surigao Airport,0.000046
+Jolo Airport,0.000015
+Cheongju International Airport/Cheongju Air Base (K-59/G-513),0.000139
+Yangyang International Airport,0.000015
+Shonai Airport,0.000016
+Odate Noshiro Airport,0.000016
+Iwami Airport,0.000016
+Nagoya Airport,0.000093
+Saga Airport,0.000031
+Kushiro Airport,0.000077
+Wrangell Airport,0.000029
+Chevak Airport,0.000016
+Mountain Village Airport,0.000013
+Haines Airport,0.000046
+Skagway Airport,0.000052
+Gustavus Airport,0.000043
+Dera Ismael Khan Airport,0.000031
+Chitral Airport,0.000031
+Bahawalpur Airport,0.000091
+Dasht-e Naz Airport,0.000091
+Bojnord Airport,0.000016
+Dawadmi Domestic Airport,0.000030
+Uléi Airport,0.000035
+Gaua Island Airport,0.000032
+Norsup Airport,0.000086
+Yichun Mingyueshan Airport,0.000092
+Lonorore Airport,0.000048
+Maewo-Naone Airport,0.000016
+Lamap Airport,0.000033
+Sara Airport,0.000016
+Longana Airport,0.000032
+Craig Cove Airport,0.000063
+Siwo Airport,0.000016
+Sola Airport,0.000032
+Ua Huka Airport,0.000050
+Hiva Oa-Atuona Airport,0.000066
+Ahe Airport,0.000045
+Pointe Vele Airport,0.000015
+Niue International Airport,0.000000
+Savusavu Airport,0.000041
+Rotuma Airport,0.000015
+Vunisea Airport,0.000027
+Mauke Airport,0.000015
+Mangaia Island Airport,0.000015
+Arthur's Town Airport,0.000031
+Puerto Jimenez Airport,0.000065
+Zafer Airport,0.000016
+Aerotortuguero Airport,0.000015
+El Lencero Airport,0.000030
+La Isabela International Airport,0.000046
+Salt Cay Airport,0.000015
+Süleyman Demirel International Airport,0.000016
+Kars Airport,0.000047
+Worland Municipal Airport,0.000000
+Jiagedaqi Airport,0.000062
+Valdosta Regional Airport,0.000045
+Adirondack Regional Airport,0.000015
+San Luis County Regional Airport,0.000062
+Southwest Wyoming Regional Airport,0.000045
+Pierre Regional Airport,0.000122
+Pocatello Regional Airport,0.000015
+Northwest Alabama Regional Airport,0.000015
+Lebanon Municipal Airport,0.000030
+Wokal Field Glasgow International Airport,0.000015
+New Bedford Regional Airport,0.000026
+Chippewa Valley Regional Airport,0.000015
+Dodge City Regional Airport,0.000031
+Houghton County Memorial Airport,0.000015
+North Central West Virginia Airport,0.000015
+Southeast Iowa Regional Airport,0.000029
+Western Neb. Rgnl/William B. Heilig Airport,0.000015
+Bradford Regional Airport,0.000030
+Walla Walla Regional Airport,0.000015
+Kangding Airport,0.000015
+Waterloo Regional Airport,0.000030
+Aberdeen Regional Airport,0.000015
+Arua Airport,0.000015
+Bukoba Airport,0.000016
+Port Sudan New International Airport,0.000076
+Nyala Airport,0.000030
+Gamal Abdel Nasser Airport,0.000077
+Gardabya Airport,0.000031
+Amboseli Airport,0.000023
+Galcaio Airport,0.000042
+Aden Adde International Airport,0.000160
+Bosaso Airport,0.000084
+São Filipe Airport,0.000016
+Mogador Airport,0.000046
+Osvaldo Vieira International Airport,0.000107
+Lodja Airport,0.000000
+Tshikapa Airport,0.000032
+Eros Airport,0.000671
+Luderitz Airport,0.000016
+Chimoio Airport,0.000016
+Catumbela Airport,0.000030
+Hemavan Airport,0.000031
+Ängelholm-Helsingborg Airport,0.000045
+Torsby Airport,0.000031
+Karlstad Airport,0.000031
+Hagfors Airport,0.000031
+Vardø Airport,0.000025
+Sørkjosen Airport,0.000043
+Sogndal Airport,0.000046
+Sandane Airport (Anda),0.000015
+Mo i Rana Airport,0.000071
+Leknes Airport,0.000039
+Anglesey Airport,0.000015
+Gabala International Airport,0.000016
+Land's End Airport,0.000015
+Lankaran International Airport,0.000031
+Westray Airport,0.000026
+Sanday Airport,0.000038
+Papa Westray Airport,0.000034
+North Ronaldsay Airport,0.000026
+Campbeltown Airport,0.000015
+Heringsdorf Airport,0.000076
+Kumasi Airport,0.000045
+Bordj Badji Mokhtar Airport,0.000013
+Béchar Boudghene Ben Ali Lotfi Airport,0.000015
+Batna Airport,0.000062
+Masset Airport,0.000015
+Whale Cove Airport,0.000095
+Rae Lakes Airport,0.000015
+The Pas Airport,0.000098
+Powell River Airport,0.000015
+Kimmirut Airport,0.000016
+Chevery Airport,0.000050
+Igloolik Airport,0.000078
+Makkovik Airport,0.000034
+Nain Airport,0.000017
+Lourdes de Blanc Sablon Airport,0.000017
+La Tabatière Airport,0.000033
+Whatì Airport,0.000015
+Upernavik Airport,0.000031
+Maniitsoq Airport,0.000031
+Neerlerit Inaat Airport,0.000000
+Tokua Airport,0.000184
+Tabubil Airport,0.000062
+Tari Airport,0.000050
+Misima Island Airport,0.000023
+Moro Airport,0.000051
+Mendi Airport,0.000015
+Kavieng Airport,0.000065
+Girua Airport,0.000058
+Daru Airport,0.000059
+Buka Airport,0.000060
+Ramata Airport,0.000031
+Suavanao Airport,0.000038
+Rennell/Tingoa Airport,0.000015
+Nusatupe Airport,0.000109
+Munda Airport,0.000075
+Uru Harbour Airport,0.000015
+Dubuque Regional Airport,0.000030
+California Redwood Coast-Humboldt County Airport,0.000045
+Los Alamos Airport,0.000000
+Niigata Airport,0.000248
+Uray Airport,0.000048
+Sary-Arka Airport,0.000108
+Ravensthorpe Airport,0.000040
+Yemelyanovo Airport,0.000691
+Kogalym International Airport,0.000016
+Naryan Mar Airport,0.000062
+Aktau Airport,0.000323
+Novy Urengoy Airport,0.000250
+Saratov Central Airport,0.000078
+Talagi Airport,0.000139
+South Bend Regional Airport,0.000164
+Kzyl-Orda Southwest Airport,0.000061
+Joplin Regional Airport,0.000030
+Anapa Vityazevo Airport,0.000046
+Narvik Framnes Airport,0.000014
+St. Mary's Airport,0.000045
+Ørsta-Volda Airport,0.000046
+Cortez Municipal Airport,0.000015
+Abraham Lincoln Capital Airport,0.000074
+Vadsø Airport,0.000071
+Mehamn Airport,0.000050
+Valan Airport,0.000025
+University Park Airport,0.000075
+Cheddi Jagan International Airport,0.000120
+Baoshan Yunduan Airport,0.000031
+Jieyang Chaoshan International Airport,0.000554
+Longyan Guanzhishan Airport,0.000015
+Jiuzhai Huanglong Airport,0.000246
+Gillette Campbell County Airport,0.000045
+Hector International Airport,0.000210
+Ballina Byron Gateway Airport,0.000078
+Wilkes Barre Scranton International Airport,0.000150
+San Pedro Airport,0.000045
+Nizhny Novgorod Strigino International Airport,0.000276
+St Cloud Regional Airport,0.000030
+Joslin Field Magic Valley Regional Airport,0.000015
+Stokmarknes Skagen Airport,0.000041
+Hatay Airport,0.000148
+Eagle County Regional Airport,0.000015
+Juancho E. Yrausquin Airport,0.000028
+Tanna Airport,0.000080
+Déline Airport,0.000029
+Bundaberg Airport,0.000031
+Blackall Airport,0.000031
+Nelson Ribeiro Guimarães Airport,0.000030
+Wilwal International Airport,0.000046
+Brigadeiro Lysias Rodrigues Airport,0.000103
+Porto Seguro Airport,0.000150
+Mactan Cebu International Airport,0.000736
+Legazpi City International Airport,0.000061
+Dipolog Airport,0.000061
+Bancasi Airport,0.000061
+Francisco B. Reyes Airport,0.000046
+Barcelos Airport,0.000014
+Kastelorizo Airport,0.000032
+Coari Airport,0.000014
+Paros National Airport,0.000033
+Naxos Airport,0.000033
+Romeu Zema Airport,0.000015
+Kalymnos Airport,0.000100
+Astypalaia Airport,0.000066
+Tumling Tar Airport,0.000015
+Parintins Airport,0.000014
+John Murtha Johnstown Cambria County Airport,0.000029
+Breves Airport,0.000012
+Orlando Sanford International Airport,0.000669
+Santana do Araguaia Airport,0.000011
+Karlsruhe Baden-Baden Airport,0.000308
+Mae Hong Son Airport,0.000015
+Dong Tac Airport,0.000031
+Chu Lai International Airport,0.000031
+Lien Khuong Airport,0.000077
+Luoyang Airport,0.000138
+Dongying Shengli Airport,0.000093
+Taoxian Airport,0.002064
+Oudomsay Airport,0.000016
+Luang Namtha Airport,0.000016
+Sandakan Airport,0.000092
+Nan Airport,0.000030
+MBS International Airport,0.000075
+Barkley Regional Airport,0.000015
+Tri-Cities Regional TN/VA Airport,0.000105
+Rurenabaque Airport,0.000034
+Mid Ohio Valley Regional Airport,0.000015
+Akron Canton Regional Airport,0.000316
+Yaoqiang Airport,0.002082
+Hosea Kutako International Airport,0.000299
+Redding Municipal Airport,0.000015
+Hawke's Bay Airport,0.000058
+Maestro Wilson Fonseca Airport,0.000146
+Mc Clellan-Palomar Airport,0.000015
+Rapid City Regional Airport,0.000120
+Yinchuan Airport,0.001017
+Xieng Khouang Airport,0.000016
+Tolmachevo Airport,0.001367
+Funafuti International Airport,0.000013
+Nauru International Airport,0.000045
+Faa'a International Airport,0.000612
+Wekweètì Airport,0.000015
+Honiara International Airport,0.000354
+Denny Island Airport,0.000023
+Quad City International Airport,0.000225
+Sarasota Bradenton International Airport,0.000195
+St George Municipal Airport,0.000030
+Grand Junction Regional Airport,0.000121
+Armidale Airport,0.000031
+El Calafate Airport,0.000064
+Jomo Kenyatta International Airport,0.001989
+Venango Regional Airport,0.000030
+Sharm El Sheikh International Airport,0.000594
+Mulu Airport,0.000092
+Dali Airport,0.000107
+Kingscote Airport,0.000016
+Manhattan Regional Airport,0.000060
+Postville Airport,0.000034
+University of Illinois Willard Airport,0.000060
+Appleton International Airport,0.000135
+Central Wisconsin Airport,0.000075
+La Crosse Municipal Airport,0.000044
+Decatur Airport,0.000029
+Toledo Express Airport,0.000073
+Healy River Airport,0.000014
+Kalamazoo Battle Creek International Airport,0.000090
+Gulfport Biloxi International Airport,0.000135
+Sleetmute Airport,0.000000
+Central Illinois Regional Airport at Bloomington-Normal,0.000180
+Greenville Spartanburg International Airport,0.000430
+Lijiang Airport,0.000982
+Domodedovo International Airport,0.004984
+Chicago Rockford International Airport,0.000074
+Jackson Hole Airport,0.000030
+Knox County Regional Airport,0.000015
+Hancock County-Bar Harbor Airport,0.000015
+Mundo Maya International Airport,0.000015
+Bert Mooney Airport,0.000015
+Billings Logan International Airport,0.000181
+Wainwright Airport,0.000021
+Blue Grass Airport,0.000298
+Charlottesville Albemarle Airport,0.000195
+LTS Pulau Redang Airport,0.000031
+Naples Municipal Airport,0.000015
+Manchester-Boston Regional Airport,0.000301
+Kongiganak Airport,0.000012
+Ayers Rock Connellan Airport,0.000065
+Joe Foss Field Airport,0.000195
+Piedmont Triad International Airport,0.000390
+Scammon Bay Airport,0.000016
+Tweed New Haven Airport,0.000030
+False Pass Airport,0.000013
+Darwin International Airport,0.000707
+Kipnuk Airport,0.000019
+Palma De Mallorca Airport,0.004169
+Ilulissat Airport,0.000078
+Tagbilaran Airport,0.000046
+Atka Airport,0.000383
+Kansai International Airport,0.002349
+Emerald Airport,0.000031
+Shaktoolik Airport,0.000060
+Erbil International Airport,0.000466
+St Michael Airport,0.000030
+Ministro Pistarini International Airport,0.001131
+Koyuk Alfred Adams Airport,0.000047
+Nevşehir Kapadokya Airport,0.000031
+Memmingen Allgau Airport,0.000353
+Wales Airport,0.000057
+Socotra International Airport,0.000024
+Brevig Mission Airport,0.000047
+Sana'a International Airport,0.000580
+Selawik Airport,0.000024
+Al Ghaidah International Airport,0.000031
+Robert (Bob) Curtis Memorial Airport,0.000047
+Ataq Airport,0.000016
+Kobuk Airport,0.000048
+Aden International Airport,0.000300
+Bob Baker Memorial Airport,0.000047
+Hodeidah International Airport,0.000061
+Ambler Airport,0.000047
+Mukalla International Airport,0.000145
+Tbilisi International Airport,0.000539
+Kopitnari Airport,0.000121
+Batumi International Airport,0.000093
+Massawa International Airport,0.000000
+Asmara International Airport,0.000105
+Gyumri Shirak Airport,0.000016
+Zvartnots International Airport,0.000697
+Larsen Bay Airport,0.000009
+Vilnius International Airport,0.000874
+Karluk Airport,0.000009
+Palanga International Airport,0.000031
+South Naknek Nr 2 Airport,0.000010
+Kaunas International Airport,0.000293
+Riga International Airport,0.001505
+Daytona Beach International Airport,0.000075
+Monterey Peninsula Airport,0.000154
+Ithaca Tompkins Regional Airport,0.000060
+Pullman Moscow Regional Airport,0.000030
+Kobe Airport,0.000187
+Chubu Centrair International Airport,0.001313
+Hoonah Airport,0.000043
+Sukhothai Airport,0.000016
+Khon Kaen Airport,0.000031
+Incheon International Airport,0.005653
+Juanda International Airport,0.001009
+Juwata Airport,0.000107
+Sultan Aji Muhamad Sulaiman Airport,0.000546
+El Tari Airport,0.000162
+Maumere(Wai Oti) Airport,0.000032
+Nulato Airport,0.000034
+Syamsudin Noor Airport,0.000198
+Huslia Airport,0.000023
+Pangkal Pinang (Depati Amir) Airport,0.000105
+Hughes Airport,0.000014
+Buluh Tumbang (H A S Hanandjoeddin) Airport,0.000060
+Hang Nadim International Airport,0.000416
+Adi Sutjipto International Airport,0.000443
+Naha Airport,0.000015
+Unalakleet Airport,0.000120
+Suvarnabhumi Airport,0.005024
+Youngstown Warren Regional Airport,0.000059
+Orcas Island Airport,0.000192
+Great Falls International Airport,0.000102
+Charlotte Douglas International Airport,0.004233
+Show Low Regional Airport,0.000093
+Key West International Airport,0.000258
+Vernal Regional Airport,0.000015
+Destin-Ft Walton Beach Airport,0.000165
+Alliance Municipal Airport,0.000046
+Albany International Airport,0.000420
+Long Island Mac Arthur Airport,0.000241
+Lanai Airport,0.000045
+Chicago O'Hare International Airport,0.007998
+Lubbock Preston Smith International Airport,0.000105
+Mc Allen Miller International Airport,0.000090
+Bradley International Airport,0.000786
+Cedar City Regional Airport,0.000015
+Buffalo Niagara International Airport,0.000528
+City of Colorado Springs Municipal Airport,0.000211
+Sacramento International Airport,0.000788
+Reno Tahoe International Airport,0.000442
+Stockton Metropolitan Airport,0.000015
+John F Kennedy International Airport,0.006985
+Kapalua Airport,0.000031
+Southwest Florida International Airport,0.000980
+Scott AFB/Midamerica Airport,0.000015
+Santa Fe Municipal Airport,0.000092
+Bellingham International Airport,0.000153
+Robert Gray  Army Air Field Airport,0.000090
+Ted Stevens Anchorage International Airport,0.000747
+Siargao Airport,0.000015
+Plattsburgh International Airport,0.000106
+Edward G. Pitka Sr Airport,0.000079
+Branson Airport,0.000043
+John Glenn Columbus International Airport,0.000983
+Erenhot Saiwusu International Airport,0.000031
+Brainerd Lakes Regional Airport,0.000029
+Middle Georgia Regional Airport,0.000030
+Wuhai Airport,0.000123
+Philadelphia International Airport,0.004257
+Lea County Regional Airport,0.000015
+Norman Y. Mineta San Jose International Airport,0.000899
+Chicago Midway International Airport,0.001866
+San Diego International Airport,0.001753
+Gelendzhik Airport,0.000015
+Coastal Carolina Regional Airport,0.000075
+Des Moines International Airport,0.000419
+Daniel K Inouye International Airport,0.001766
+Columbia Regional Airport,0.000060
+Washington Dulles International Airport,0.002776
+Pangborn Memorial Airport,0.000015
+Durango La Plata County Airport,0.000076
+Jacksonville International Airport,0.000676
+McKellar-Sipes Regional Airport,0.000029
+Nashville International Airport,0.001234
+Imperial County Airport,0.000030
+Fresno Yosemite International Airport,0.000305
+Gerald R. Ford International Airport,0.000420
+Hartsfield Jackson Atlanta International Airport,0.013191
+Eastern Oregon Regional At Pendleton Airport,0.000015
+Sheppard Air Force Base-Wichita Falls Municipal Airport,0.000030
+Riverton Regional Airport,0.000015
+St Louis Lambert International Airport,0.001511
+McGhee Tyson Airport,0.000464
+Rickenbacker International Airport,0.000030
+Austin Bergstrom International Airport,0.001239
+Homer Airport,0.000026
+Bill & Hillary Clinton National Airport/Adams Field,0.000402
+Sloulin Field International Airport,0.000030
+Austin Straubel International Airport,0.000120
+Midland International Airport,0.000106
+Range Regional Airport,0.000015
+Tampa International Airport,0.002053
+Niagara Falls International Airport,0.000075
+Kenai Municipal Airport,0.000039
+James M Cox Dayton International Airport,0.000483
+Raleigh Durham International Airport,0.001265
+Williamson County Regional Airport,0.000014
+Greater Rochester International Airport,0.000451
+San Antonio International Airport,0.000980
+Deadhorse Airport,0.000080
+St Petersburg Clearwater International Airport,0.000434
+Nome Airport,0.000246
+Southeast Texas Regional Airport,0.000030
+Benjamin Rivera Noriega Airport,0.000015
+Norfolk International Airport,0.000558
+Merle K (Mudhole) Smith Airport,0.000040
+Shreveport Regional Airport,0.000121
+Richmond International Airport,0.000572
+Havre City County Airport,0.000015
+Lihue Airport,0.000322
+Bethel Airport,0.000187
+Duluth International Airport,0.000060
+Taree Airport,0.000031
+Jonesboro Municipal Airport,0.000014
+Grafton Airport,0.000016
+Westchester County Airport,0.000336
+Williamsport Regional Airport,0.000030
+Long Beach /Daugherty Field/ Airport,0.000273
+Sinop Airport,0.000000
+Jackson-Medgar Wiley Evers International Airport,0.000267
+Wiley Post Will Rogers Memorial Airport,0.000074
+Pittsburgh International Airport,0.001114
+Long Akah Airport,0.000031
+William P Hobby Airport,0.000998
+Togiak Airport,0.000012
+Pensacola Regional Airport,0.000313
+Columbia Metropolitan Airport,0.000255
+Igiugig Airport,0.000000
+Valley International Airport,0.000100
+Salt Lake City International Airport,0.001930
+Bella Coola Airport,0.000015
+Falls International Airport,0.000029
+Fort Lauderdale Hollywood International Airport,0.002828
+Kirovsk-Apatity Airport,0.000016
+Kodiak Airport,0.000035
+Arenal Airport,0.000045
+Northern Maine Regional Airport at Presque Isle,0.000030
+Sam Mbakwe International Airport,0.000030
+Pueblo Memorial Airport,0.000015
+Atlantic City International Airport,0.000152
+Shishmaref Airport,0.000036
+Ronald Reagan Washington National Airport,0.002683
+Mekoryuk Airport,0.000024
+Nantucket Memorial Airport,0.000065
+St Mary's Airport,0.000054
+Myrtle Beach International Airport,0.000520
+Kaltag Airport,0.000034
+Ellison Onizuka Kona International At Keahole Airport,0.000323
+Helena Regional Airport,0.000059
+Garden City Regional Airport,0.000030
+Oksibil Airport,0.000017
+Juneau International Airport,0.000230
+Huron Regional Airport,0.000046
+Cincinnati Northern Kentucky International Airport,0.001094
+Cleveland Hopkins International Airport,0.001170
+Los Angeles International Airport,0.007300
+Phoenix Sky Harbor International Airport,0.003673
+Boone County Airport,0.000028
+Dillingham Airport,0.000036
+Kansas City International Airport,0.001090
+Wichita Eisenhower National Airport,0.000285
+Metropolitan Oakland International Airport,0.000820
+Hana Airport,0.000015
+Platinum Airport,0.000000
+Iliamna Airport,0.000013
+St Paul Island Airport,0.000039
+Akwa Ibom International Airport,0.000015
+Fort Yukon Airport,0.000057
+Bettles Airport,0.000035
+Hilo International Airport,0.000061
+Barter Island LRRS Airport,0.000030
+Borg El Arab International Airport,0.000594
+Noto Airport,0.000016
+Sultan Abdul Aziz Shah International Airport,0.000447
+Shanghai Pudong International Airport,0.006272
+Zhoushuizi Airport,0.002160
+Taiping Airport,0.002009
+Hotan Airport,0.000092
+Kashgar Airport,0.000199
+Longdongbao Airport,0.002104
+Hefei Luogang International Airport,0.001184
+Nanjing Lukou Airport,0.002542
+Xiamen Gaoqi International Airport,0.003538
+Shenzhen Bao'an International Airport,0.003540
+Mocopulli Airport,0.000013
+Tianjin Binhai International Airport,0.002235
+Dongshan Airport,0.000277
+Tingo Maria Airport,0.000015
+Tamworth Airport,0.000016
+Sydney Kingsford Smith International Airport,0.003242
+Christmas Island Airport,0.000030
+Learmonth Airport,0.000046
+Kalgoorlie Boulder Airport,0.000077
+Karratha Airport,0.000107
+Launceston Airport,0.000123
+Napakiak Airport,0.000008
+Albury Airport,0.000062
+Resolute Bay Airport,0.000031
+Weipa Airport,0.000031
+Gander International Airport,0.000052
+Proserpine Whitsunday Coast Airport,0.000046
+Thunder Bay Airport,0.000139
+Mount Isa Airport,0.000207
+Penang International Airport,0.000646
+Kuala Lumpur International Airport,0.003921
+Kuantan Airport,0.000077
+Sultan Thaha Airport,0.000091
+Ulukhaktok Holman Airport,0.000016
+Tawau Airport,0.000108
+Dryden Regional Airport,0.000034
+Labuan Airport,0.000062
+Îles-de-la-Madeleine Airport,0.000017
+Lahad Datu Airport,0.000015
+Marudi Airport,0.000077
+Iqaluit Airport,0.000279
+Kaimana Airport,0.000035
+Jalaluddin Airport,0.000062
+Wamena Airport,0.000017
+Frans Kaisiepo Airport,0.000065
+Kugluktuk Airport,0.000078
+Hasanuddin International Airport,0.000820
+Castlegar/West Kootenay Regional Airport,0.000030
+Tachileik Airport,0.000047
+Bao'anying Airport,0.000061
+Baker Lake Airport,0.000108
+Putao Airport,0.000015
+Kyaukpyu Airport,0.000016
+Heho Airport,0.000085
+Korla Airport,0.000154
+Goroka Airport,0.000083
+Phu Quoc International Airport,0.000077
+Loei Airport,0.000015
+Quanzhou Jinjiang International Airport,0.000677
+Udon Thani Airport,0.000091
+Shubuling Airport,0.000277
+Trang Airport,0.000031
+Lianyungang Airport,0.000247
+Ranong Airport,0.000015
+Jingdezhen Airport,0.000246
+Samui Airport,0.000277
+Pu'er Simao Airport,0.000046
+Krabi Airport,0.000248
+Mangshi Airport,0.000092
+Narathiwat Airport,0.000015
+Khovd Airport,0.000014
+Phitsanulok Airport,0.000046
+Xining Caojiabu Airport,0.000768
+Lampang Airport,0.000016
+U-Tapao International Airport,0.000030
+Xiangyang Liuji Airport,0.000200
+Don Mueang International Airport,0.001025
+Nanyang Jiangying Airport,0.000123
+Malé International Airport,0.000607
+Liuzhou Bailian Airport,0.000215
+Trivandrum International Airport,0.000643
+Ulanhot Airport,0.000108
+Vir Savarkar International Airport,0.000166
+Shijiazhuang Daguocun International Airport,0.001248
+Chennai International Airport,0.001508
+Ogden Hinckley Airport,0.000015
+Calicut International Airport,0.000460
+Winton Airport,0.000073
+Vijayawada Airport,0.000016
+Windorah Airport,0.000031
+Agatti Airport,0.000015
+Biratnagar Airport,0.000015
+Pokhara Airport,0.000015
+Wattay International Airport,0.000373
+Portland Airport,0.000000
+Savannakhet Airport,0.000046
+Port Lincoln Airport,0.000032
+Luang Phabang International Airport,0.000199
+Narrandera Airport,0.000031
+Leh Kushok Bakula Rimpochee Airport,0.000094
+Mornington Island Airport,0.000048
+Kanpur Civil Airport,0.000015
+Mount Gambier Airport,0.000031
+Jammu Airport,0.000190
+Moree Airport,0.000016
+Jodhpur Airport,0.000092
+McArthur River Mine Airport,0.000015
+Gwalior Airport,0.000015
+Maningrida Airport,0.000046
+Indira Gandhi International Airport,0.003984
+Milingimbi Airport,0.000015
+Dehradun Airport,0.000077
+Chandigarh Airport,0.000139
+Lismore Airport,0.000016
+Lal Bahadur Shastri Airport,0.000154
+Sri Guru Ram Dass Jee International Airport,0.000139
+Allahabad Airport,0.000031
+Osmany International Airport,0.000093
+Griffith Airport,0.000031
+Cox's Bazar Airport,0.000047
+Esperance Airport,0.000030
+Birsa Munda Airport,0.000157
+Burketown Airport,0.000032
+Biju Patnaik Airport,0.000108
+Bedourie Airport,0.000032
+Bagdogra Airport,0.000249
+Hamilton Island Airport,0.000108
+Lengpui Airport,0.000095
+Aurukun Airport,0.000042
+Phnom Penh International Airport,0.000490
+China Bay Airport,0.000000
+Bandaranaike International Colombo Airport,0.001530
+Maharana Pratap Airport,0.000107
+Kudat Airport,0.000031
+Rajkot Airport,0.000046
+Porbandar Airport,0.000031
+Bario Airport,0.000031
+Pune Airport,0.000462
+Jamnagar Airport,0.000015
+Devi Ahilyabai Holkar Airport,0.000230
+Dabolim Airport,0.000417
+Bhavnagar Airport,0.000031
+Tambolaka Airport,0.000047
+Vadodara Airport,0.000077
+Bhuj Airport,0.000031
+Chhatrapati Shivaji International Airport,0.003391
+Dawei Airport,0.000031
+Sardar Vallabhbhai Patel International Airport,0.000492
+Kurumoch International Airport,0.000412
+Vinh Airport,0.000108
+Ufa International Airport,0.000357
+Pleiku Airport,0.000046
+Orenburg Central Airport,0.000093
+Phu Cat Airport,0.000046
+Kazan International Airport,0.000431
+Dien Bien Phu Airport,0.000015
+Syktyvkar Airport,0.000124
+Can Tho International Airport,0.000046
+Vnukovo International Airport,0.001291
+Co Ong Airport,0.000031
+Voronezh International Airport,0.000123
+Cat Bi International Airport,0.000062
+Sheremetyevo International Airport,0.003009
+Hanimaadhoo Airport,0.000030
+Samarkand Airport,0.000109
+Xinyuan Nalati Airport,0.000031
+Gan International Airport,0.000044
+Bukhara Airport,0.000110
+Bharatpur Airport,0.000015
+Ashgabat International Airport,0.000231
+Koltsovo Airport,0.001547
+Surgut Airport,0.000217
+Nizhnevartovsk Airport,0.000220
+Shillong Airport,0.000015
+Magnitogorsk International Airport,0.000031
+Volgograd International Airport,0.000157
+Koggala Airport,0.000015
+Astrakhan Airport,0.000124
+Hubli Airport,0.000031
+Sochi International Airport,0.000402
+Saransk Airport,0.000031
+Stavropol Shpakovskoye Airport,0.000062
+Penza Airport,0.000016
+Mineralnyye Vody Airport,0.000340
+Orsk Airport,0.000016
+Uytash Airport,0.000062
+Krasnodar Pashkovsky International Airport,0.000699
+Abakan Airport,0.000061
+Kursk East Airport,0.000015
+Minsk National Airport,0.000831
+Khrabrovo Airport,0.000231
+Nukus Airport,0.000061
+Pulkovo Airport,0.002831
+Andizhan Airport,0.000046
+Lviv International Airport,0.000262
+Khudzhand Airport,0.000511
+Kiev Zhuliany International Airport,0.000337
+Simferopol International Airport,0.000108
+Nadym Airport,0.000126
+Donetsk International Airport,0.000230
+Pobedilovo Airport,0.000046
+Boryspil International Airport,0.001529
+Izhevsk Airport,0.000063
+Ulan-Ude Airport (Mukhino),0.000171
+Sovetskiy Airport,0.000079
+Irkutsk Airport,0.000602
+Nyagan Airport,0.000064
+Bratsk Airport,0.000062
+Khanty Mansiysk Airport,0.000126
+Chita-Kadala Airport,0.000170
+Salekhard Airport,0.000127
+Vladivostok International Airport,0.000403
+Lopez Island Airport,0.000000
+Yuzhno-Sakhalinsk Airport,0.000200
+Pevek Airport,0.000015
+Tri Cities Airport,0.000121
+Sokol Airport,0.000092
+Ignatyevo Airport,0.000077
+Mirny Airport,0.000125
+Yakutsk Airport,0.000506
+Elista Airport,0.000016
+Heydar Aliyev International Airport,0.000992
+Spichenkovo Airport,0.000031
+Uralsk Airport,0.000046
+Shymkent Airport,0.000152
+Osh Airport,0.000452
+Manas International Airport,0.000697
+Petrozavodsk Airport,0.000016
+Taraz Airport,0.000030
+Cherepovets Airport,0.000108
+Almaty Airport,0.001023
+Solovki Airport,0.000015
+Argyle International Airport,0.000076
+Ivano-Frankivsk International Airport,0.000030
+Terrance B. Lettsome International Airport,0.000179
+Kharkiv International Airport,0.000138
+Piarco International Airport,0.000535
+Tobago-Crown Point Airport,0.000075
+Zaporizhzhia International Airport,0.000031
+Clayton J Lloyd International Airport,0.000088
+Princess Juliana International Airport,0.000839
+F. D. Roosevelt Airport,0.000015
+Hato International Airport,0.000475
+Flamingo International Airport,0.000122
+Ugolny Airport,0.000031
+Queen Beatrix International Airport,0.000696
+Hewanorra International Airport,0.000274
+George F. L. Charles Airport,0.000150
+Cherskiy Airport,0.000031
+Robert L. Bradshaw International Airport,0.000166
+Chokurdakh Airport,0.000031
+Luis Munoz Marin International Airport,0.001502
+Polyarny Airport,0.000076
+Mercedita Airport,0.000031
+Eugenio Maria De Hostos Airport,0.000015
+Kostanay West Airport,0.000046
+Rafael Hernandez Airport,0.000061
+Henry E Rohlsen Airport,0.000133
+Ust-Kamennogorsk Airport,0.000107
+Cyril E. King Airport,0.000480
+L'Espérance Airport,0.000013
+Martinique Aimé Césaire International Airport,0.000264
+Arturo Michelena International Airport,0.000151
+Alferez Fap David Figueroa Fernandini Airport,0.000030
+San Tomé Airport,0.000015
+Santa Elena de Uairen Airport,0.000015
+San Antonio Del Tachira Airport,0.000015
+General Manuel Carlos Piar International Airport,0.000165
+General Bartolome Salom International Airport,0.000030
+Capitán de Av. Emilio Beltrán Airport,0.000019
+Cacique Aramare Airport,0.000015
+El Yopal Airport,0.000031
+Maturín Airport,0.000060
+Obando Airport,0.000046
+Simón Bolívar International Airport,0.001365
+La Pedrera Airport,0.000015
+Alberto Carnevalli Airport,0.000031
+La Fria Airport,0.000015
+Coronel Horácio de Mattos Airport,0.000015
+José Leonardo Chirinos Airport,0.000015
+Canaima Airport,0.000015
+Catarman National Airport,0.000031
+General José Antonio Anzoategui International Airport,0.000166
+Alejandro Velasco Astete International Airport,0.000157
+Padre Aldamiz International Airport,0.000044
+Coronel FAP Carlos Ciriani Santa Rosa International Airport,0.000029
+Sacheon Air Base/Airport,0.000046
+Capitan FAP Carlos Martinez De Pinillos International Airport,0.000015
+Coronel FAP Francisco Secada Vignetta International Airport,0.000105
+Fukushima Airport,0.000062
+Capitan FAP Pedro Canga Rodriguez Airport,0.000015
+Inca Manco Capac International Airport,0.000085
+Jorge Chávez International Airport,0.001704
+Coronel FAP Alfredo Mendivil Duarte Airport,0.000030
+Capitan FAP Jose A Quinones Gonzales International Airport,0.000015
+Cap FAP David Abenzur Rengifo International Airport,0.000090
+Viru Viru International Airport,0.000380
+Teniente Av. Jorge Henrich Arauz Airport,0.000152
+Capitan Oriel Lea Plaza Airport,0.000133
+Juana Azurduy De Padilla Airport,0.000099
+Aniak Airport,0.000108
+Capitan Nicolas Rojas Airport,0.000031
+Kalskag Airport,0.000031
+Capitán Aníbal Arab Airport,0.000054
+Adak Airport,0.000013
+Vanguardia Airport,0.000108
+Alfonso López Pumarejo Airport,0.000031
+El Caraño Airport,0.000090
+Santiago Perez Airport,0.000031
+Turbat International Airport,0.000077
+Simón Bolívar International Airport,0.000061
+Jorge E. Gonzalez Torres Airport,0.000031
+Jose Maria Córdova International Airport,0.000392
+El Embrujo Airport,0.000015
+Guillermo León Valencia Airport,0.000015
+Dera Ghazi Khan Airport,0.000047
+Matecaña International Airport,0.000091
+Al Ain International Airport,0.000030
+Benito Salas Airport,0.000031
+Ardabil Airport,0.000046
+Fabio Alberto Leon Bentley Airport,0.000046
+Lar Airport,0.000093
+Los Garzones Airport,0.000046
+Sabzevar National Airport,0.000016
+Alfredo Vásquez Cobo International Airport,0.000062
+Antonio Roldan Betancourt Airport,0.000061
+Al-Jawf Domestic Airport,0.000030
+Juan Casiano Airport,0.000027
+Aniwa Airport,0.000032
+Gerardo Tobar López Airport,0.000031
+Santo Pekoa International Airport,0.000176
+El Eden Airport,0.000031
+Tavie Airport,0.000028
+Teniente Coronel Luis a Mantilla Airport,0.000015
+Mota Lava Airport,0.000032
+Santa Rosa International Airport,0.000015
+Ua Pou Airport,0.000050
+Mariscal Sucre International Airport,0.000573
+Eloy Alfaro International Airport,0.000015
+Vanua Balavu Airport,0.000013
+Coronel E Carvajal Airport,0.000015
+José Joaquín de Olmedo International Airport,0.000543
+Lakeba Island Airport,0.000013
+Francisco De Orellana Airport,0.000046
+El Tepual Airport,0.000128
+Cicia Airport,0.000013
+Maquehue Airport,0.000042
+Enua Airport,0.000025
+Cañal Bajo Carlos - Hott Siebert Airport,0.000015
+Mataveri Airport,0.000032
+Tobias Bolanos International Airport,0.000013
+El Loa Airport,0.000110
+Balmaceda Airport,0.000051
+Şanlıurfa GAP Airport,0.000079
+Eurico de Aguiar Salles Airport,0.000235
+Paulo Afonso Airport,0.000015
+Tefé Airport,0.000069
+Trombetas Airport,0.000011
+Deputado Luiz Eduardo Magalhães International Airport,0.000862
+Bijie Feixiong Airport,0.000123
+Prof. Eribelto Manoel Reino State Airport,0.000120
+Congonhas Airport,0.000706
+Marechal Cunha Machado International Airport,0.000217
+Santos Dumont Airport,0.000453
+Plácido de Castro Airport,0.000073
+Samaná El Catey International Airport,0.000088
+Governador Jorge Teixeira de Oliveira Airport,0.000131
+JAGS McCartney International Airport,0.000060
+Senador Nilo Coelho Airport,0.000074
+João Simões Lopes Neto International Airport,0.000015
+Balıkesir Körfez Airport,0.000016
+Salgado Filho Airport,0.000605
+Adıyaman Airport,0.000032
+Governador Aluízio Alves International Airport,0.000237
+Kahramanmaraş Airport,0.000047
+Ministro Victor Konder International Airport,0.000105
+Corvo Airport,0.000036
+Zumbi dos Palmares Airport,0.000193
+Regional de Maringá - Sílvio Nane Junior Airport,0.000152
+Syros Airport,0.000033
+João Correa da Rocha Airport,0.000132
+Logroño-Agoncillo Airport,0.000015
+Viracopos International Airport,0.000852
+Ercan International Airport,0.000221
+Presidente João Suassuna Airport,0.000030
+Presidente Castro Pinto International Airport,0.000162
+Victoria Regional Airport,0.000015
+Prefeito Renato Moreira Airport,0.000095
+Bahia - Jorge Amado Airport,0.000134
+Salina Municipal Airport,0.000014
+Itaituba Airport,0.000022
+Sheridan County Airport,0.000015
+Altamira Airport,0.000036
+Rhinelander Oneida County Airport,0.000029
+Santa Genoveva Airport,0.000329
+Portsmouth International at Pease Airport,0.000015
+Rio Galeão – Tom Jobim International Airport,0.001418
+Pellston Regional Airport of Emmet County Airport,0.000015
+Pinto Martins International Airport,0.000495
+Muskegon County Airport,0.000015
+Eduardo Gomes International Airport,0.000440
+Crater Lake-Klamath Regional Airport,0.000031
+Hugo Cantergiani Regional Airport,0.000045
+Arnold Palmer Regional Airport,0.000046
+Corumbá International Airport,0.000015
+Serafin Enoss Bertaso Airport,0.000075
+Bodaybo Airport,0.000031
+Campo Grande Airport,0.000254
+Central Nebraska Regional Airport,0.000061
+Tancredo Neves International Airport,0.000811
+Cascavel Airport,0.000045
+Elko Regional Airport,0.000015
+Atlas Brasil Cantanhede Airport,0.000041
+DuBois Regional Airport,0.000030
+Presidente Juscelino Kubistschek International Airport,0.001440
+William R Fairchild International Airport,0.000192
+Pampulha - Carlos Drummond de Andrade Airport,0.000196
+Cape Girardeau Regional Airport,0.000014
+Araçatuba Airport,0.000030
+Brunswick Golden Isles Airport,0.000045
+Santa Maria Airport,0.000193
+Termas de Río Hondo international Airport,0.000000
+Diu Airport,0.000031
+Ástor Piazzola International Airport,0.000009
+Comandante Espora Airport,0.000017
+La Abraq Airport,0.000047
+Piloto Civil N. Fernández Airport,0.000040
+Nanyuki Airport,0.000023
+El Tehuelche Airport,0.000000
+Praia International Airport,0.000276
+Cataratas Del Iguazú International Airport,0.000030
+Yangzhou Taizhou Airport,0.000277
+Nador International Airport,0.000275
+Formosa Airport,0.000000
+Hassan I Airport,0.000061
+Resistencia International Airport,0.000000
+Dakhla Airport,0.000046
+Brigadier Mayor D Cesar Raul Ojeda Airport,0.000000
+Domingo Faustino Sarmiento Airport,0.000000
+Teniente Benjamin Matienzo Airport,0.000000
+Capitan V A Almonacid Airport,0.000000
+La Gomera Airport,0.000016
+Vicecomodoro Angel D. La Paz Aragonés Airport,0.000000
+Catamarca Airport,0.000000
+Suboficial Ay Santiago Germano Airport,0.000000
+El Plumerillo Airport,0.000122
+Ingeniero Ambrosio Taravella Airport,0.000164
+Sauce Viejo Airport,0.000000
+Lingling Airport,0.000046
+Ondangwa Airport,0.000224
+General Urquiza Airport,0.000000
+Puerto Princesa Airport,0.000138
+Namibe Airport,0.000015
+Kalibo International Airport,0.000276
+Ngjiva Pereira Airport,0.000091
+Iloilo International Airport,0.000153
+Lublin Airport,0.000091
+Godofredo P. Ramos Airport,0.000061
+Sibulan Airport,0.000061
+Bacolod-Silay Airport,0.000092
+Daniel Z. Romualdez Airport,0.000076
+Chipata Airport,0.000016
+San Jose Airport,0.000015
+Zamboanga International Airport,0.000092
+General Santos International Airport,0.000076
+Cagayan De Oro Airport,0.000107
+Awang Airport,0.000046
+Åre Östersund Airport,0.000030
+Miyako Airport,0.000078
+Bydgoszcz Ignacy Jan Paderewski Airport,0.000046
+Kumejima Airport,0.000016
+New Ishigaki Airport,0.000218
+Svolvær Helle Airport,0.000037
+Naha Airport,0.000945
+Røst Airport,0.000027
+Daegu Airport,0.000093
+Rørvik Airport,0.000046
+Pohang Airport (G-815/K-3),0.000046
+Namsos Høknesøra Airport,0.000042
+Gimpo International Airport,0.000603
+Donegal Airport,0.000030
+Ulsan Airport,0.000046
+Barra Airport,0.000015
+Gimhae International Airport,0.001231
+Jeju International Airport,0.000865
+Stronsay Airport,0.000034
+Yeosu Airport,0.000046
+Eday Airport,0.000021
+Gwangju Airport,0.000062
+Robin Hood Doncaster Sheffield Airport,0.000138
+Tokyo Haneda International Airport,0.002402
+Oshima Airport,0.000015
+Guemar Airport,0.000015
+Hachijojima Airport,0.000015
+Sendai Airport,0.000480
+Akita Airport,0.000124
+Hanamaki Airport,0.000062
+Yamagata Airport,0.000047
+Takamatsu Airport,0.000124
+Tokushima Airport/JMSDF Air Base,0.000031
+Matsuyama Airport,0.000186
+Kōchi Ryōma Airport,0.000062
+Izumo Airport,0.000015
+Red Lake Airport,0.000033
+Toyama Airport,0.000139
+Komatsu Airport,0.000263
+Nagasaki Airport,0.000264
+Oita Airport,0.000140
+Kagoshima Airport,0.000264
+Hopedale Airport,0.000017
+Asahikawa Airport,0.000108
+Monbetsu Airport,0.000015
+Tsushima Airport,0.000047
+Gillam Airport,0.000037
+Wakkanai Airport,0.000031
+Nakashibetsu Airport,0.000031
+New Chitose Airport,0.001225
+Tokachi-Obihiro Airport,0.000046
+Hyakuri Airport,0.000078
+Matsumoto Airport,0.000031
+Narita International Airport,0.004452
+Hualien Airport,0.000061
+Taipei Songshan Airport,0.000617
+Tête-à-la-Baleine Airport,0.000033
+Tainan Airport,0.000015
+Kaohsiung International Airport,0.000987
+Rigolet Airport,0.000034
+Yap International Airport,0.000029
+Benazir Bhutto International Airport,0.000897
+Kimbe Airport,0.000096
+Quetta International Airport,0.000217
+Gurney Airport,0.000057
+Peshawar International Airport,0.000462
+Chimbu Airport,0.000015
+Panjgur Airport,0.000016
+Kaghau Airport,0.000034
+Multan International Airport,0.000203
+Marau Airport,0.000015
+Moenjodaro Airport,0.000029
+Gwadar International Airport,0.000044
+Salalah Airport,0.000107
+Muscat International Airport,0.001556
+Sharjah International Airport,0.001479
+Fujairah International Airport,0.000015
+Bateen Airport,0.000046
+Aqaba King Hussein International Airport,0.000031
+Queen Alia International Airport,0.001681
+Zahedan International Airport,0.000168
+Konarak Airport,0.000092
+Zabol Airport,0.000015
+Shahid Sadooghi Airport,0.000106
+Tabriz International Airport,0.000230
+Shiraz Shahid Dastghaib International Airport,0.000541
+Ramsar Airport,0.000031
+Birjand Airport,0.000031
+Kerman Airport,0.000062
+Sardar-e-Jangal Airport,0.000152
+Esfahan Shahid Beheshti International Airport,0.000309
+Bandar Lengeh Airport,0.000031
+Kish International Airport,0.000247
+Bushehr Airport,0.000077
+Mahshahr Airport,0.000031
+Abadan Airport,0.000092
+Turaif Domestic Airport,0.000016
+Ta’if Regional Airport,0.000202
+Sharurah Airport,0.000030
+Arar Domestic Airport,0.000030
+King Khaled International Airport,0.002126
+Rafha Domestic Airport,0.000016
+Al Qaisumah/Hafr Al Batin Airport,0.000030
+Prince Mohammad Bin Abdulaziz Airport,0.000919
+King Abdulaziz International Airport,0.002771
+Gurayat Domestic Airport,0.000030
+Gassim Airport,0.000208
+Al Baha Airport,0.000046
+Al Ahsa Airport,0.000046
+Mazar I Sharif Airport,0.000059
+Kandahar Airport,0.000074
+Herat Airport,0.000088
+Wanganui Airport,0.000020
+Westport Airport,0.000018
+Wellington International Airport,0.000583
+Whakatane Airport,0.000020
+Woodbourne Airport,0.000058
+Rotorua Regional Airport,0.000058
+Palmerston North Airport,0.000096
+Nelson Airport,0.000077
+New Plymouth Airport,0.000058
+Kerikeri Airport,0.000020
+Hamilton International Airport,0.000077
+Jixi Xingkaihu Airport,0.000093
+Dunedin Airport,0.000108
+Christchurch International Airport,0.000647
+Auckland International Airport,0.001922
+La Tontouta International Airport,0.000211
+Ouvéa Airport,0.000411
+Touho Airport,0.000206
+Maré Airport,0.000206
+Handan Airport,0.000092
+Nouméa Magenta Airport,0.001644
+Lifou Airport,0.000617
+Koumac Airport,0.000274
+Koné Airport,0.000206
+Lombok International Airport,0.000248
+Raiatea Airport,0.000064
+Maupiti Airport,0.000042
+Hao Airport,0.000017
+Moorea Airport,0.000040
+Huahine-Fare Airport,0.000052
+Bora Bora Airport,0.000069
+Nuku Hiva Airport,0.000066
+Takaroa Airport,0.000025
+Mataiva Airport,0.000038
+Arutua Airport,0.000017
+Takapoto Airport,0.000008
+Makemo Airport,0.000008
+Kaukura Airport,0.000017
+Manihi Airport,0.000061
+Fakarava Airport,0.000038
+Majeed Bin Abdulaziz Airport,0.000039
+Tikehau Airport,0.000048
+Tubuai Airport,0.000030
+Faleolo International Airport,0.000100
+Bonriki International Airport,0.000044
+Fua'amotu International Airport,0.000083
+Nadi International Airport,0.000624
+Aitutaki Airport,0.000030
+Philip S. W. Goldson International Airport,0.000283
+San Salvador Airport,0.000062
+Stella Maris Airport,0.000031
+Spring Point Airport,0.000031
+Leonard M Thompson International Airport,0.000212
+Owen Roberts International Airport,0.000385
+Gerrard Smith International Airport,0.000031
+Juan Gualberto Gomez International Airport,0.000173
+Abel Santamaria Airport,0.000133
+Frank Pais International Airport,0.000134
+José Martí International Airport,0.000618
+Hilton Head Airport,0.000059
+Mariana Grajales Airport,0.000014
+Antonio Maceo International Airport,0.000084
+Ignacio Agramonte International Airport,0.000044
+Vilo Acuña International Airport,0.000029
+Toussaint Louverture International Airport,0.000334
+Quepos Managua Airport,0.000074
+Juan Santamaria International Airport,0.001128
+Daniel Oduber Quiros International Airport,0.000314
+Golfito Airport,0.000061
+Tocumen International Airport,0.001590
+Marcos A. Gelabert International Airport,0.000040
+Playa De Oro International Airport,0.000106
+Ixtapa Zihuatanejo International Airport,0.000138
+General Leobardo C. Ruiz International Airport,0.000104
+General Heriberto Jara International Airport,0.000240
+Oriximiná Airport,0.000020
+Carlos Rovirosa Pérez International Airport,0.000195
+Tapuruquara Airport,0.000014
+Cancún International Airport,0.002306
+Tapachula International Airport,0.000031
+General Francisco Javier Mina International Airport,0.000105
+General Abelardo L. Rodríguez International Airport,0.000617
+General Lucio Blanco International Airport,0.000120
+Caçador Airport,0.000034
+Querétaro Intercontinental Airport,0.000105
+Sohag International Airport,0.000137
+Xoxocotlán International Airport,0.000090
+General Rafael Buelna International Airport,0.000227
+General Mariano Escobedo International Airport,0.001102
+Licenciado Benito Juarez International Airport,0.003631
+General Rodolfo Sánchez Taboada International Airport,0.000059
+Manuel Márquez de León International Airport,0.000150
+Del Bajío International Airport,0.000226
+Valle del Fuerte International Airport,0.000074
+Point Lay LRRS Airport,0.000011
+Djanet Inedbirene Airport,0.000015
+Licenciado Miguel de la Madrid Airport,0.000045
+Cape Lisburne LRRS Airport,0.000000
+Houari Boumediene Airport,0.001312
+General Ignacio P. Garcia International Airport,0.000347
+Cozumel International Airport,0.000241
+Port Hardy Airport,0.000027
+General Roberto Fierro Villalobos International Airport,0.000255
+Sandspit Airport,0.000015
+Ingeniero Alberto Acuña Ongay International Airport,0.000030
+Chengdu Shuangliu International Airport,0.004949
+Mont Joli Airport,0.000081
+Ciudad del Carmen International Airport,0.000045
+Hangzhou Xiaoshan International Airport,0.003906
+Taloyoak Airport,0.000072
+Sangster International Airport,0.000662
+Fuzhou Changle International Airport,0.002045
+Charlottetown Airport,0.000064
+Norman Manley International Airport,0.000426
+Cacoal Airport,0.000015
+Williams Lake Airport,0.000045
+Casa De Campo International Airport,0.000150
+Sudbury Airport,0.000058
+Hobart International Airport,0.000139
+Belgrade Nikola Tesla Airport,0.001278
+Melbourne Essendon Airport,0.000000
+Cape Dorset Airport,0.000046
+Skopje Alexander the Great Airport,0.000353
+Grande Prairie Airport,0.000062
+Sunshine Coast Airport,0.000077
+Van Ferit Melen Airport,0.000079
+Greater Moncton International Airport,0.000157
+Brisbane International Airport,0.002303
+Rockhampton Airport,0.000077
+Sydney / J.A. Douglas McCurdy Airport,0.000034
+Erzincan Airport,0.000047
+Sultan Ismail Petra Airport,0.000216
+Atatürk International Airport,0.005503
+Sultan Abdul Halim Airport,0.000077
+Çardak Airport,0.000031
+Kayseri Erkilet Airport,0.000124
+Amasya Merzifon Airport,0.000031
+Ain Arnat Airport,0.000108
+Sultan Mahmud Badaruddin II Airport,0.000199
+Malatya Tulga Airport,0.000063
+Gaziantep International Airport,0.000142
+Esenboğa International Airport,0.000820
+St Gallen Altenrhein Airport,0.000031
+Gjoa Haven Airport,0.000082
+Brunei International Airport,0.000353
+Kamloops Airport,0.000045
+Lugano Airport,0.000030
+Bintulu Airport,0.000108
+Geneva Cointrin International Airport,0.002491
+Limbang Airport,0.000015
+Kingston Norman Rogers Airport,0.000015
+Sibiu International Airport,0.000061
+Provincetown Municipal Airport,0.000015
+Arviat Airport,0.000104
+Sultan Khairun Babullah Airport,0.000123
+Oradea International Airport,0.000031
+Gustaf III Airport,0.000115
+Fakfak Airport,0.000060
+Inuvik Mike Zubko Airport,0.000044
+Mihail Kogălniceanu International Airport,0.000016
+Coral Harbour Airport,0.000091
+Sentani International Airport,0.000291
+Arad International Airport,0.000015
+Nabire Airport,0.000044
+Mostar International Airport,0.000015
+Cambridge Bay Airport,0.000099
+Sittwe Airport,0.000047
+Humberto Delgado Airport (Lisbon Portela Airport),0.003392
+Francisco de Sá Carneiro Airport,0.001579
+João Paulo II Airport,0.000389
+Lajes Airport,0.000209
+Keflavik International Airport,0.000654
+Vienna International Airport,0.004711
+Linz Hörsching Airport,0.000168
+Ben Gurion International Airport,0.002077
+Brno-Tuřany Airport,0.000015
+Tunxi International Airport,0.000400
+Sakon Nakhon Airport,0.000015
+Václav Havel Airport Prague,0.002745
+Huangyan Luqiao Airport,0.000214
+Hat Yai International Airport,0.000092
+Pardubice Airport,0.000031
+Quzhou Airport,0.000092
+Phuket International Airport,0.001033
+Ostrava Leos Janáček Airport,0.000061
+Karlovy Vary International Airport,0.000078
+Yan'an Ershilipu Airport,0.000092
+Phrae Airport,0.000015
+Perugia San Francesco d'Assisi – Umbria International Airport,0.000077
+Peretola Airport,0.000818
+Pisa International Airport,0.001149
+Naples International Airport,0.001208
+Enshi Airport,0.000062
+Paro Airport,0.000078
+Marina Di Campo Airport,0.000077
+Zhuhai Jinwan Airport,0.000908
+Tiruchirapally Civil Airport Airport,0.000137
+Leonardo da Vinci–Fiumicino Airport,0.005054
+Ciampino–G. B. Pastine International Airport,0.000767
+Venice Marco Polo Airport,0.001877
+Verona Villafranca Airport,0.000581
+Baotou Airport,0.000446
+Mangalore International Airport,0.000247
+Federico Fellini International Airport,0.000046
+Baita International Airport,0.001341
+Madurai Airport,0.000106
+Trieste–Friuli Venezia Giulia Airport,0.000168
+Wynyard Airport,0.000046
+Coimbatore International Airport,0.000244
+Bologna Guglielmo Marconi Airport,0.001354
+Bolzano Airport,0.000031
+Milano Linate Airport,0.000923
+Tribhuvan International Airport,0.000663
+Genoa Cristoforo Colombo Airport,0.000306
+Roma Airport,0.000046
+Macau International Airport,0.001217
+Malpensa International Airport,0.002938
+Olbia Costa Smeralda Airport,0.000794
+Alghero-Fertilia Airport,0.000474
+Reggio Calabria Airport,0.000092
+Lampedusa Airport,0.000046
+Catania-Fontanarossa Airport,0.001804
+Moranbah Airport,0.000047
+Jaipur International Airport,0.000246
+Bari Karol Wojtyła Airport,0.000763
+Budapest Liszt Ferenc International Airport,0.001473
+Thessaloniki Macedonia International Airport,0.001348
+Hong Kong International Airport,0.005449
+Sitia Airport,0.000086
+Hazrat Shahjalal International Airport,0.001157
+Santorini Airport,0.000247
+Shah Mokhdum Airport,0.000008
+Skiathos Island National Airport,0.000033
+Jessore Airport,0.000047
+Chania International Airport,0.000679
+Aktion National Airport,0.000174
+Gladstone Airport,0.000061
+Vishakhapatnam Airport,0.000226
+Mytilene International Airport,0.000159
+Devonport Airport,0.000015
+Lok Nayak Jayaprakash Airport,0.000199
+Leros Airport,0.000099
+Cunnamulla Airport,0.000031
+Silchar Airport,0.000111
+Kos Airport,0.000724
+Ioannina Airport,0.000033
+Broken Hill Airport,0.000063
+Agartala Airport,0.000125
+St Pierre Airport,0.000050
+Radin Inten II (Branti) Airport,0.000090
+Raipur Airport,0.000138
+EuroAirport Basel-Mulhouse-Freiburg Airport,0.001445
+Bakalalan Airport,0.000015
+Dr. Babasaheb Ambedkar International Airport,0.000233
+Nantes Atlantique Airport,0.001402
+Quimper-Cornouaille Airport,0.000016
+Dumatumbun Airport,0.000030
+Jabalpur Airport,0.000046
+Caen-Carpiquet Airport,0.000062
+Deauville-Saint-Gatien Airport,0.000033
+Belgaum Airport,0.000016
+Brest Bretagne Airport,0.000263
+Aurangabad Airport,0.000077
+Lille-Lesquin Airport,0.000614
+Mae Sot Airport,0.000015
+Tashkent International Airport,0.001225
+Paris-Orly Airport,0.003066
+Châlons-Vatry Airport,0.000031
+Chelyabinsk Balandino Airport,0.000308
+Le Havre Octeville Airport,0.000016
+Platov International Airport,0.000433
+Paris Beauvais Tillé Airport,0.000894
+Omsk Central Airport,0.000263
+Avignon-Caumont Airport,0.000031
+Bugulma Airport,0.000063
+Kemerovo Airport,0.000046
+Béziers-Vias Airport,0.000137
+Vorkuta Airport,0.000031
+Barnaul Airport,0.000046
+Montpellier-Méditerranée Airport,0.000369
+Perpignan-Rivesaltes (Llabanère) Airport,0.000077
+Nice-Côte d'Azur Airport,0.002014
+Marseille Provence Airport,0.001958
+Urgench Airport,0.000123
+Murmansk Airport,0.000107
+Carcassonne Airport,0.000154
+Namangan Airport,0.000187
+Odessa International Airport,0.000292
+Saint-Étienne-Bouthéon Airport,0.000077
+Ajaccio-Napoléon Bonaparte Airport,0.000588
+Aktobe Airport,0.000107
+Figari Sud-Corse Airport,0.000212
+Calvi-Sainte-Catherine Airport,0.000305
+Igarka Airport,0.000016
+Semipalatinsk Airport,0.000046
+Bastia-Poretta Airport,0.000551
+Astana International Airport,0.000790
+Le Puy-Loudes Airport,0.000016
+Dole-Tavaux Airport,0.000047
+Virgin Gorda Airport,0.000059
+Douglas-Charles Airport,0.000221
+Biarritz-Anglet-Bayonne Airport,0.000215
+Périgueux-Bassillac Airport,0.000031
+V.C. Bird International Airport,0.000478
+Angoulême-Brie-Champniers Airport,0.000015
+Tarbes-Lourdes-Pyrénées Airport,0.000077
+Pau Pyrénées Airport,0.000076
+Ji-Paraná Airport,0.000030
+Dr. Antonio Nicolás Briceño Airport,0.000031
+Toulouse-Blagnac Airport,0.001275
+Limoges Airport,0.000170
+Poitiers-Biard Airport,0.000109
+Reyes Murillo Airport,0.000015
+Del Caribe Santiago Mariño International Airport,0.000286
+Sevilla Airport,0.000955
+Caucaya Airport,0.000015
+La Chinita International Airport,0.000213
+Santander Airport,0.000290
+General Rivadeneira Airport,0.000044
+Josefa Camejo International Airport,0.000062
+Valladolid Airport,0.000046
+Valencia Airport,0.001246
+San Sebastian Airport,0.000046
+Menorca Airport,0.000553
+Federico Garcia Lorca Airport,0.000141
+Girona Airport,0.000753
+A Coruña Airport,0.000182
+Basco Airport,0.000031
+Carrasco International /General C L Berisso Airport,0.000315
+Badajoz Airport,0.000031
+Bilbao Airport,0.000952
+Asturias Airport,0.000259
+Cadete FAP Guillermo Del Castillo Paredes Airport,0.000090
+Zadar Airport,0.000397
+Zagreb Airport,0.000659
+Split Airport,0.000722
+Rodríguez Ballón International Airport,0.000138
+Rijeka Airport,0.000108
+Pula Airport,0.000214
+Osijek Airport,0.000061
+Dubrovnik Airport,0.000917
+Paphos International Airport,0.000658
+Varna Airport,0.000138
+Sofia Airport,0.001017
+Plovdiv International Airport,0.000030
+Comandante FAP German Arias Graziani Airport,0.000015
+Burgas Airport,0.000169
+Entebbe International Airport,0.000485
+Abeid Amani Karume International Airport,0.000197
+Jumandy Airport,0.000015
+Albert J Ellis Airport,0.000104
+Mwanza Airport,0.000095
+Mtwara Airport,0.000015
+Kilimanjaro International Airport,0.000316
+Cayenne-Rochambeau Airport,0.000102
+Longjia Airport,0.001033
+Julius Nyerere International Airport,0.000499
+Johan Adolf Pengel International Airport,0.000149
+Arusha Airport,0.000015
+Yacuiba Airport,0.000068
+Khartoum International Airport,0.000620
+Provo Municipal Airport,0.000047
+Juba International Airport,0.000185
+El Fasher Airport,0.000030
+Usinsk Airport,0.000031
+Kamembe Airport,0.000015
+McGrath Airport,0.000048
+El Alto International Airport,0.000400
+Ukhta Airport,0.000062
+Kigali International Airport,0.000590
+Holy Cross Airport,0.000022
+Jorge Wilsterman International Airport,0.000157
+Noyabrsk Airport,0.000079
+Ghadames East Airport,0.000015
+Kulob Airport,0.000094
+Tripoli International Airport,0.000714
+Sayun International Airport,0.000075
+Gustavo Vargas Airport,0.000031
+Atyrau Airport,0.000153
+Benina International Airport,0.000355
+Persian Gulf International Airport,0.000077
+Kisumu Airport,0.000032
+Noshahr Airport,0.000031
+Enrique Olaya Herrera Airport,0.000168
+Luxor International Airport,0.000152
+Hurghada International Airport,0.000597
+Bam Airport,0.000016
+San Luis Airport,0.000015
+Mashhad International Airport,0.000935
+Cairo International Airport,0.002343
+Khoram Abad Airport,0.000016
+Perales Airport,0.000046
+Imam Khomeini International Airport,0.000954
+Abu Simbel Airport,0.000015
+Gustavo Artunduaga Paredes Airport,0.000031
+Hammerfest Airport,0.000108
+Berbera Airport,0.000084
+Île des Pins Airport,0.000206
+Yariguíes Airport,0.000015
+Egal International Airport,0.000064
+Île Art - Waala Airport,0.000137
+Las Brujas Airport,0.000031
+Bujumbura International Airport,0.000211
+Tiga Airport,0.000411
+La Florida Airport,0.000013
+Klagenfurt Airport,0.000107
+Asosa Airport,0.000024
+Ipota Airport,0.000048
+Alfonso Bonilla Aragon International Airport,0.000401
+Mekele Airport,0.000016
+Futuna Airport,0.000032
+Rafael Nuñez International Airport,0.000180
+Newcastle Airport,0.000124
+Lalibella Airport,0.000036
+Dillon's Bay Airport,0.000032
+Camilo Daza International Airport,0.000061
+Broome International Airport,0.000184
+Jimma Airport,0.000016
+Aneityum Airport,0.000016
+José Celestino Mutis Airport,0.000015
+Sabiha Gökçen International Airport,0.002265
+Gonder Airport,0.000028
+Ernesto Cortissoz International Airport,0.000149
+Zhijiang Airport,0.000046
+Gambella Airport,0.000016
+Southwest Bay Airport,0.000033
+El Dorado International Airport,0.002339
+Milas Bodrum International Airport,0.000491
+Aba Tenna Dejazmach Yilma International Airport,0.000045
+Valesdir Airport,0.000016
+Palonegro Airport,0.000076
+Bahir Dar Airport,0.000016
+Axum Airport,0.000028
+Tongoa Airport,0.000016
+Tres De Mayo Airport,0.000059
+Chamonate Airport,0.000065
+Arba Minch Airport,0.000024
+Dunhuang Airport,0.000107
+Preguiça Airport,0.000035
+Maio Airport,0.000016
+Eugene F. Correira International Airport,0.000015
+Rabil Airport,0.000244
+Lamen Bay Airport,0.000037
+Silvio Pettirossi International Airport,0.000257
+Liping Airport,0.000046
+Guarani International Airport,0.000060
+Amílcar Cabral International Airport,0.000259
+Fuyang Xiguan Airport,0.000169
+Chumphon Airport,0.000015
+Nouadhibou International Airport,0.000059
+Bogashevo Airport,0.000078
+Nouakchott–Oumtounsy International Airport,0.000166
+Yeager Airport,0.000225
+Cap Skirring Airport,0.000008
+Cotopaxi International Airport,0.000031
+Ziguinchor Airport,0.000015
+Ibn Batouta Airport,0.000291
+Saniat R'mel Airport,0.000015
+Cherif Al Idrissi Airport,0.000015
+Matei Airport,0.000041
+Seymour Airport,0.000031
+Menara Airport,0.001089
+Martha's Vineyard Airport,0.000052
+Spriggs Payne Airport,0.000030
+Flagstaff Pulliam Airport,0.000031
+Melilla Airport,0.000077
+Tenerife South Airport,0.002407
+Lanzarote Airport,0.001765
+Andrés Sabella Gálvez International Airport,0.000171
+Gran Canaria Airport,0.002306
+Comodoro Arturo Merino Benítez International Airport,0.001154
+Lleida-Alguaire Airport,0.000016
+Lawton Fort Sill Regional Airport,0.000030
+La Palma Airport,0.000124
+Diego Aracena Airport,0.000148
+Columbus Metropolitan Airport,0.000045
+Hierro Airport,0.000047
+Foshan Shadi Airport,0.000031
+Fuerteventura Airport,0.001452
+Mário de Almeida Franco Airport,0.000060
+Lubumbashi International Airport,0.000163
+Senador Petrônio Portela Airport,0.000145
+Mbandaka Airport,0.000063
+Ndjili International Airport,0.000425
+Leite Lopes Airport,0.000286
+Grand Canyon National Park Airport,0.000008
+Lilongwe International Airport,0.000210
+Amado Nervo National Airport,0.000045
+Lauro Kurtz Airport,0.000085
+Robert Gabriel Mugabe International Airport,0.000493
+General Guadalupe Victoria International Airport,0.000075
+Victoria Falls International Airport,0.000115
+General Pedro Jose Mendez International Airport,0.000030
+Guanambi Airport,0.000015
+Labo Airport,0.000061
+Joshua Mqabuko Nkomo International Airport,0.000067
+Banja Luka International Airport,0.000046
+Alberto Alcolumbre Airport,0.000037
+Marsa Alam International Airport,0.000092
+Seychelles International Airport,0.000200
+Shanghai Hongqiao International Airport,0.003138
+Goose Bay Airport,0.000120
+Jesús Terán Paredo International Airport,0.000135
+General Leite de Castro Airport,0.000015
+Ikaria Airport,0.000065
+Chingozi Airport,0.000110
+Chinggis Khaan International Airport,0.000284
+North Bay Jack Garland Airport,0.000027
+Zona da Mata Regional Airport,0.000030
+Juan Manuel Galvez International Airport,0.000192
+Tancredo Thomas de Faria Airport,0.000015
+Lichinga Airport,0.000031
+Luena Airport,0.000015
+Perth International Airport,0.001365
+Hall Beach Airport,0.000062
+M. R. Štefánik Airport,0.000285
+North Platte Regional Airport Lee Bird Field,0.000015
+Afonso Pena Airport,0.000634
+Nova Lisboa Airport,0.000046
+Gold Coast Airport,0.000462
+Townsville Airport,0.000270
+Quesnel Airport,0.000030
+Erzurum International Airport,0.000079
+Jack Mc Namara Field Airport,0.000030
+Piloto Osvaldo Marques Dias Airport,0.000015
+Baghdad International Airport,0.000217
+Antsirabato Airport,0.000042
+Langkawi International Airport,0.000263
+Quebec Jean Lesage International Airport,0.000292
+Roshchino International Airport,0.000359
+Mfuwe Airport,0.000016
+Garoua International Airport,0.000033
+Hermes Quijada International Airport,0.000010
+Rogue Valley International Medford Airport,0.000137
+Salak Airport,0.000015
+Sivas Nuri Demirağ Airport,0.000063
+Sultan Iskandar Muda International Airport,0.000076
+Senai International Airport,0.000277
+Ottawa Macdonald-Cartier International Airport,0.000683
+Idaho Falls Regional Airport,0.000061
+Douala International Airport,0.000744
+Lokichoggio Airport,0.000023
+Almirante Marco Andres Zar Airport,0.000043
+Sir Seewoosagur Ramgoolam International Airport,0.000635
+General E. Mosconi Airport,0.000077
+Sihanoukville International Airport,0.000014
+Bata Airport,0.000030
+Bishop International Airport,0.000182
+Pointe Noire Airport,0.000274
+Mae Hong Son Airport,0.000015
+Maya-Maya Airport,0.000379
+Gode Airport,0.000015
+Gobernador Horacio Guzman International Airport,0.000015
+Bismarck Municipal Airport,0.000091
+Maun Airport,0.000111
+John C. Munro Hamilton International Airport,0.000065
+Sultan Syarif Kasim Ii (Simpang Tiga) Airport,0.000276
+Navoi Airport,0.000093
+Ketapang(Rahadi Usman) Airport,0.000030
+Waterloo Airport,0.000045
+Baise Youjiang Airport,0.000046
+Bern Belp Airport,0.000186
+Martin Miguel De Guemes International Airport,0.000045
+Kasane Airport,0.000064
+Libertador Gral D Jose De San Martin Airport,0.000000
+Francistown Airport,0.000032
+Moses Kilangin Airport,0.000065
+Clyde River Airport,0.000062
+Zhongwei Shapotou Airport,0.000031
+Porto Santo Airport,0.000048
+The Eastern Iowa Airport,0.000270
+Hendrik Van Eck Airport,0.000016
+Santa Maria Airport,0.000049
+Cherry Capital Airport,0.000075
+Lanseria Airport,0.000060
+Akiak Airport,0.000000
+Hoedspruit Air Force Base Airport,0.000031
+Aksu Airport,0.000077
+Phu Bai Airport,0.000062
+Qiqihar Sanjiazi Airport,0.000123
+Narsarsuaq Airport,0.000031
+Tabing Airport,0.000106
+Kruger Mpumalanga International Airport,0.000062
+Pagadian Airport,0.000030
+Asheville Regional Airport,0.000179
+George Airport,0.000078
+Aasiaat Airport,0.000047
+Bram Fischer International Airport,0.000061
+Ljubljana Jože Pučnik Airport,0.000505
+Buckland Airport,0.000047
+Ta'izz International Airport,0.000106
+Rostock-Laage Airport,0.000076
+Miho Yonago Airport,0.000124
+Nakhon Phanom Airport,0.000031
+Stockholm Västerås Airport,0.000046
+Okayama Airport,0.000201
+Nakhon Si Thammarat Airport,0.000031
+Arvidsjaur Airport,0.000031
+Ngari Gunsa Airport,0.000031
+Turin Airport,0.000644
+Sanikiluaq Airport,0.000016
+Hiroshima Airport,0.000263
+Chiang Rai International Airport,0.000171
+Vilhelmina Airport,0.000062
+St George Airport,0.000031
+Gautam Buddha Airport,0.000015
+Il Caravaggio International Airport,0.001229
+Chiang Mai International Airport,0.000723
+Umeå Airport,0.000091
+Adi Sumarmo Wiryokusumo Airport,0.000122
+Skellefteå Airport,0.000046
+Umbu Mehang Kunda Airport,0.000016
+Kiruna Airport,0.000031
+Pormpuraaw Airport,0.000031
+Pakse International Airport,0.000076
+Cagliari Elmas Airport,0.000656
+Toowoomba Airport,0.000062
+Örnsköldsvik Airport,0.000015
+Muhammad Salahuddin Airport,0.000047
+Sundsvall-Härnösand Airport,0.000045
+Amami Airport,0.000031
+Lycksele Airport,0.000062
+Cocos (Keeling) Islands Airport,0.000015
+Sheikh ul Alam Airport,0.000233
+Vincenzo Florio Airport Trapani-Birgi,0.000427
+Kramfors Sollefteå Airport,0.000051
+Falcone–Borsellino Airport,0.000962
+Kumamoto Airport,0.000140
+Visalia Municipal Airport,0.000015
+Gällivare Airport,0.000041
+Pantelleria Airport,0.000046
+Kitakyūshū Airport,0.000046
+Komodo Airport,0.000063
+Sveg Airport,0.000031
+Chaudhary Charan Singh International Airport,0.000277
+Lamezia Terme Airport,0.000382
+St Georges Airport,0.000015
+Miyazaki Airport,0.000170
+Shungnak Airport,0.000047
+Ende (H Hasan Aroeboesman) Airport,0.000064
+Växjö Kronoberg Airport,0.000095
+Ludhiana Airport,0.000015
+Brindisi – Salento Airport,0.000336
+Halmstad Airport,0.000058
+Pescara International Airport,0.000138
+Fukuoka Airport,0.001299
+Venetie Airport,0.000029
+Tjilik Riwut Airport,0.000046
+Malmö Sturup Airport,0.000213
+Raja Haji Fisabilillah International Airport,0.000045
+Kristianstad Airport,0.000015
+Grise Fiord Airport,0.000016
+Iki Airport,0.000031
+Achmad Yani Airport,0.000260
+Mora Airport,0.000031
+Kullu Manali Airport,0.000015
+Yushu Batang Airport,0.000031
+Zakynthos International Airport Dionysios Solomos,0.000264
+Hakodate Airport,0.000155
+Marshall Don Hunter Sr Airport,0.000016
+Abdul Rachman Saleh Airport,0.000046
+Gothenburg City Airport,0.000304
+Agra Airport,0.000031
+Skiros Airport,0.000048
+Chuathbaluk Airport,0.000011
+Ronneby Airport,0.000045
+Copernicus Wrocław Airport,0.000505
+Julia Creek Airport,0.000032
+Saidpur Airport,0.000016
+Samos Airport,0.000141
+Fort Frances Municipal Airport,0.000039
+Taiwan Taoyuan International Airport,0.004039
+Warsaw Chopin Airport,0.001825
+Araxos Airport,0.000046
+Friday Harbor Airport,0.000192
+Florence Regional Airport,0.000030
+Szczecin-Goleniów Solidarność Airport,0.000091
+Horn Island Airport,0.000016
+Shah Amanat International Airport,0.000246
+Diagoras Airport,0.001332
+Makung Airport,0.000077
+Mammoth Yosemite Airport,0.000031
+Orlando International Airport,0.003510
+Rzeszów-Jasionka Airport,0.000168
+Mikonos Airport,0.000201
+Taichung Ching Chuang Kang Airport,0.000447
+Katowice International Airport,0.000428
+Casper-Natrona County International Airport,0.000045
+Kraków John Paul II International Airport,0.000856
+Limnos Airport,0.000086
+Gdańsk Lech Wałęsa Airport,0.000732
+Karpathos Airport,0.000117
+Kinmen Airport,0.000077
+Mc Cook Ben Nelson Regional Airport,0.000015
+Sandnessjøen Airport (Stokka),0.000056
+Kefallinia Airport,0.000112
+Pohnpei International Airport,0.000031
+Dickinson Theodore Roosevelt Regional Airport,0.000030
+Louis Armstrong New Orleans International Airport,0.001846
+Svalbard Airport,0.000015
+Coober Pedy Airport,0.000016
+Imphal Airport,0.000143
+Kastoria National Airport,0.000016
+Shenandoah Valley Regional Airport,0.000022
+New Castle Airport,0.000091
+Røros Airport,0.000000
+Heraklion International Nikos Kazantzakis Airport,0.001668
+Cassidy International Airport,0.000059
+Minneapolis-St Paul International/Wold-Chamberlain Airport,0.003087
+Ørland Airport,0.000000
+Chios Island National Airport,0.000096
+Chautauqua County-Jamestown Airport,0.000030
+Sitka Rocky Gutierrez Airport,0.000044
+Banak Airport,0.000037
+Marshall Islands International Airport,0.000045
+Tulsa International Airport,0.000399
+Mosjøen Airport (Kjærstad),0.000060
+Nea Anchialos Airport,0.000078
+Cold Bay Airport,0.000066
+Molde Airport,0.000079
+Sisimiut Airport,0.000047
+Saipan International Airport,0.000154
+Kristiansund Airport (Kvernberget),0.000106
+Strasbourg Airport,0.000539
+Kristiansand Airport,0.000136
+Fairbanks International Airport,0.000207
+Luxembourg-Findel International Airport,0.001078
+Kiunga Airport,0.000061
+Shaikh Zaid Airport,0.000047
+Vagar Airport,0.000061
+Lorient South Brittany (Bretagne Sud) Airport,0.000032
+Thief River Falls Regional Airport,0.000015
+Karup Airport,0.000015
+Santa Cruz/Graciosa Bay/Luova Airport,0.000015
+Alama Iqbal International Airport,0.000857
+Esbjerg Airport,0.000031
+Ngorangora Airport,0.000046
+Jinnah International Airport,0.000990
+Copenhagen Kastrup Airport,0.003453
+Faisalabad International Airport,0.000032
+Ketchikan International Airport,0.000132
+Waterford Airport,0.000030
+Charleston Air Force Base-International Airport,0.000522
+Shannon Airport,0.000442
+Kerry Airport,0.000091
+Ireland West Knock Airport,0.000229
+Dubai International Airport,0.005348
+King Salmon Airport,0.000048
+Rotterdam The Hague Airport,0.000511
+Abu Dhabi International Airport,0.003613
+Maastricht Aachen Airport,0.000141
+Manzhouli Xijiao Airport,0.000170
+Denver International Airport,0.005138
+London Stansted Airport,0.002584
+Dnipropetrovsk International Airport,0.000216
+Aurillac Airport,0.000016
+Norwich International Airport,0.000152
+Syracuse Hancock International Airport,0.000390
+Tiree Airport,0.000015
+Four Corners Regional Airport,0.000093
+Dundee Airport,0.000015
+Dothan Regional Airport,0.000045
+Islay Airport,0.000015
+Brownsville South Padre Island International Airport,0.000045
+Edinburgh Airport,0.001773
+Mehrabad International Airport,0.000908
+Tunoshna Airport,0.000016
+Glasgow International Airport,0.001465
+Ontario International Airport,0.000394
+Wick Airport,0.000030
+Dalaman International Airport,0.000897
+Ivato Airport,0.000414
+Ogdensburg International Airport,0.000014
+Newcastle Airport,0.001228
+Charleville Airport,0.000061
+Regina International Airport,0.000259
+Haikou Meilan International Airport,0.001646
+Pierrefonds Airport,0.000046
+Sanandaj Airport,0.000016
+Rimatara Airport,0.000040
+Isle of Man Airport,0.000169
+Northern Peninsula Airport,0.000016
+Kenora Airport,0.000043
+Presidente Peron Airport,0.000069
+Montgomery Regional (Dannelly Field) Airport,0.000105
+Prince Said Ibrahim International Airport,0.000136
+Abilene Regional Airport,0.000030
+Humberside Airport,0.000076
+Ahwaz Airport,0.000370
+Chico Municipal Airport,0.000015
+London Heathrow Airport,0.007937
+Molokai Airport,0.000057
+London Gatwick Airport,0.005389
+Prince Abdulmohsin Bin Abdulaziz Airport,0.000154
+Jersey Airport,0.000578
+Al Wajh Domestic Airport,0.000015
+Augusta State Airport,0.000015
+Guernsey Airport,0.000274
+Tallahassee Regional Airport,0.000225
+Southampton Airport,0.000504
+Antalya International Airport,0.001914
+Fatmawati Soekarno Airport,0.000076
+Konya Airport,0.000062
+Natashquan Airport,0.000066
+Assiut International Airport,0.000092
+Brigadier Antonio Parodi Airport,0.000021
+Malabo Airport,0.000210
+La Guardia Airport,0.002307
+Bournemouth Airport,0.000293
+Rodez-Marcillac Airport,0.000061
+Tabuk Airport,0.000146
+London Luton Airport,0.001598
+Supadio Airport,0.000091
+Fort McMurray Airport,0.000202
+Francisco Bangoy International Airport,0.000214
+Matsapha Airport,0.000016
+Ralph Wien Memorial Airport,0.000236
+Bristol Airport,0.001503
+Zhezkazgan Airport,0.000030
+Point Salines International Airport,0.000229
+Castres-Mazamet Airport,0.000047
+Laredo International Airport,0.000060
+Cardiff International Airport,0.000473
+Sir Grantley Adams International Airport,0.000352
+Brive Souillac Airport,0.000095
+Newquay Cornwall Airport,0.000090
+Nejran Airport,0.000046
+Manchester Airport,0.004704
+Fredericton Airport,0.000064
+Babo Airport,0.000016
+Transilvania Târgu Mureş International Airport,0.000030
+Pierre Van Ryneveld Airport,0.000031
+Bergerac-Roumanière Airport,0.000168
+Melbourne International Airport,0.000075
+City of Derry Airport,0.000076
+Rochester International Airport,0.000059
+Polokwane International Airport,0.000016
+Whangarei Airport,0.000038
+Pori Airport,0.000046
+Fort Wayne International Airport,0.000239
+Port Elizabeth Airport,0.000138
+Frank Miloye Milenkowichi–Marília State Airport,0.000030
+Cumaná (Antonio José de Sucre) Airport,0.000015
+Salamanca Airport,0.000015
+Bob Hope Airport,0.000275
+Lappeenranta Airport,0.000046
+Salisbury Ocean City Wicomico Regional Airport,0.000060
+Kuopio Airport,0.000016
+Kokkola-Pietarsaari Airport,0.000046
+Málaga Airport,0.003091
+Queenstown International Airport,0.000170
+Allakaket Airport,0.000025
+Tucson International Airport,0.000468
+Kajaani Airport,0.000031
+Adolfo Suárez Madrid–Barajas Airport,0.005016
+Paraparaumu Airport,0.000040
+Kemi-Tornio Airport,0.000041
+Barcelona International Airport,0.005929
+Kaitaia Airport,0.000020
+Teterboro Airport,0.000013
+Helsinki Vantaa Airport,0.002418
+Innsbruck Airport,0.000123
+Roanoke–Blacksburg Regional Airport,0.000225
+OR Tambo International Airport,0.002496
+Almería International Airport,0.000274
+Tartu Airport,0.000031
+Totegegie Airport,0.000008
+Vieques Airport,0.000090
+Indianapolis International Airport,0.001040
+Friedrichshafen Airport,0.000200
+Rarotonga International Airport,0.000209
+Geneina Airport,0.000030
+Hamburg-Finkenwerder Airport,0.000016
+Eduardo Falla Solano Airport,0.000031
+Northwest Arkansas Regional Airport,0.000361
+Kufra Airport,0.000046
+Lynden Pindling International Airport,0.000992
+El Paso International Airport,0.000333
+Mannheim-City Airport,0.000016
+Sulaymaniyah International Airport,0.000155
+Gustavo Rojas Pinilla International Airport,0.000163
+Ulaangom Airport,0.000014
+Lehigh Valley International Airport,0.000195
+Ghat Airport,0.000015
+Mayaguana Airport,0.000031
+Frankfurt-Hahn Airport,0.000705
+Antonio Narino Airport,0.000044
+Springfield Branson National Airport,0.000209
+Mombasa Moi International Airport,0.000190
+Leipzig/Halle Airport,0.000599
+Governor's Harbour Airport,0.000086
+Mardin Airport,0.000079
+George Bush Intercontinental Houston Airport,0.003546
+Nuremberg Airport,0.000722
+Ilam Airport,0.000016
+Waimea Kohala Airport,0.000015
+Hamburg Airport,0.002431
+Whyalla Airport,0.000016
+Kempegowda International Airport,0.001435
+Cuneo International Airport,0.000077
+Gorno-Altaysk Airport,0.000016
+Osaka International Airport,0.000636
+Ngurah Rai (Bali) International Airport,0.001553
+Stockholm-Arlanda Airport,0.003316
+South Bimini Airport,0.000031
+Lincoln Airport,0.000045
+Frankfurt am Main Airport,0.007512
+Urmia Airport,0.000046
+La Nubia Airport,0.000015
+Yampa Valley Airport,0.000015
+Aswan International Airport,0.000061
+Harrisburg International Airport,0.000285
+Erfurt Airport,0.000091
+Jardines Del Rey Airport,0.000121
+Brussels South Charleroi Airport,0.001258
+Yamaguchi Ube Airport,0.000046
+Stockholm Skavsta Airport,0.000476
+Brussels Airport,0.004798
+Antwerp International Airport (Deurne),0.000033
+Cap Haitien International Airport,0.000045
+Lomé-Tokoin Airport,0.000321
+Debrecen International Airport,0.000030
+Memanbetsu Airport,0.000093
+Husein Sastranegara International Airport,0.000323
+Trollhättan-Vänersborg Airport,0.000015
+Tozeur Nefta International Airport,0.000051
+Monseñor Óscar Arnulfo Romero International Airport,0.000778
+Richmond Airport,0.000016
+Minot International Airport,0.000076
+Sfax Thyna International Airport,0.000122
+Djerba Zarzis International Airport,0.000551
+Chesterfield Inlet Airport,0.000099
+Nanki Shirahama Airport,0.000015
+Eek Airport,0.000028
+Wolter Monginsidi Airport,0.000061
+Gothenburg-Landvetter Airport,0.000766
+Palmar Sur Airport,0.000048
+Lafayette Regional Airport,0.000090
+Gafsa Ksar International Airport,0.000016
+Monastir Habib Bourguiba International Airport,0.000247
+Ouarzazate Airport,0.000031
+Melangguane Airport,0.000015
+Diori Hamani International Airport,0.000261
+McCarran International Airport,0.003670
+Poznań-Ławica Airport,0.000321
+Labasa Airport,0.000027
+Mariscal Lamar Airport,0.000046
+Mohammed V International Airport,0.001902
+Yola Airport,0.000015
+Pichoy Airport,0.000027
+Golden Triangle Regional Airport,0.000045
+Angads Airport,0.000154
+Murtala Muhammed International Airport,0.000885
+Alexander the Great International Airport,0.000094
+Taitung Airport,0.000015
+L M Clayton Airport,0.000015
+Trondheim Airport Værnes,0.000610
+Mitiaro Island Airport,0.000015
+La Florida Airport,0.000114
+Tan Tan Airport,0.000000
+Bocas Del Toro International Airport,0.000035
+Yakubu Gowon Airport,0.000015
+Kosrae International Airport,0.000015
+Chadron Municipal Airport,0.000046
+Will Rogers World Airport,0.000584
+Stord Airport,0.000031
+Margaret Ekpo International Airport,0.000030
+Qaanaaq Airport,0.000016
+Rota International Airport,0.000031
+Baltimore/Washington International Thurgood Marshall Airport,0.002230
+Hasvik Airport,0.000030
+Angel Albino Corzo International Airport,0.000120
+Tamale Airport,0.000030
+Gunnison Crested Butte Regional Airport,0.000015
+Tyler Pounds Regional Airport,0.000045
+Haugesund Airport,0.000153
+Francisco Sarabia International Airport,0.000151
+Kotoka International Airport,0.000755
+Nîmes-Arles-Camargue Airport,0.000061
+Wilmington International Airport,0.000195
+Leirin Airport,0.000000
+Kananga Airport,0.000048
+Ponciano Arriaga International Airport,0.000120
+General Edward Lawrence Logan International Airport,0.003177
+Cadjehoun Airport,0.000596
+Barcaldine Airport,0.000015
+Siem Reap International Airport,0.000601
+Toulon-Hyères Airport,0.000046
+Harstad/Narvik Airport,0.000105
+Trenton Mercer Airport,0.000211
+In Aménas Airport,0.000032
+Topeka Regional Airport - Forbes Field,0.000015
+Bardufoss Airport,0.000000
+Iğdır Airport,0.000032
+Jaqué Airport,0.000000
+Brigadeiro Camarão Airport,0.000015
+Kalemie Airport,0.000009
+Los Cabos International Airport,0.000757
+Ain el Beida Airport,0.000083
+Wapenamanda Airport,0.000015
+Basrah International Airport,0.000123
+Rick Husband Amarillo International Airport,0.000107
+Båtsfjord Airport,0.000028
+Kindu Airport,0.000024
+São Félix do Araguaia Airport,0.000000
+Puerto Escondido International Airport,0.000045
+Anshun Huangguoshu Airport,0.000062
+Touggourt Sidi Madhi Airport,0.000015
+Vanimo Airport,0.000050
+Zhob Airport,0.000031
+Palm Springs International Airport,0.000378
+Bergen Airport Flesland,0.000993
+Ten. Cel. Aviador César Bombonato Airport,0.000226
+Fort Good Hope Airport,0.000029
+Goma International Airport,0.000015
+Bonito Airport,0.000015
+Licenciado Gustavo Díaz Ordaz International Airport,0.000681
+Lindu Airport,0.000031
+Grand Forks International Airport,0.000075
+In Salah Airport,0.000043
+São Gabriel da Cachoeira Airport,0.000014
+Bunia Airport,0.000003
+Saertu Airport,0.000077
+El Golea Airport,0.000032
+Alta Airport,0.000103
+Puerto Lempira Airport,0.000027
+Tucuruí Airport,0.000011
+Kaadedhdhoo Airport,0.000029
+Matari Airport,0.000001
+Biskra Airport,0.000063
+Momote Airport,0.000081
+Sukkur Airport,0.000077
+Ålesund Airport,0.000167
+El Tajín National Airport,0.000090
+Ghriss Airport,0.000015
+Minatitlán/Coatzacoalcos National Airport,0.000030
+St George Airport,0.000039
+Bou Chekif Airport,0.000023
+Lannion-Côte de Granit Airport,0.000016
+Sønderborg Airport,0.000015
+Old Arctic Bay Airport,0.000031
+Licenciado Manuel Crescencio Rejon Int Airport,0.000225
+Cheikh Larbi Tébessi Airport,0.000015
+Long Lellang Airport,0.000031
+Khajuraho Airport,0.000015
+Zonguldak Airport,0.000031
+Rennes-Saint-Jacques Airport,0.000198
+Bornholm Airport,0.000015
+Professor Urbano Ernesto Stumpf Airport,0.000045
+Moshoeshoe I International Airport,0.000016
+General Servando Canales International Airport,0.000030
+Mohamed Boudiaf International Airport,0.000213
+Trail Airport,0.000015
+Loreto International Airport,0.000015
+Mbeya Airport,0.000015
+Rabah Bitat Airport,0.000138
+Kuressaare Airport,0.000015
+Plan De Guadalupe International Airport,0.000030
+Guararapes - Gilberto Freyre International Airport,0.000534
+Missoula International Airport,0.000106
+Chileka International Airport,0.000081
+Lázaro Cárdenas Airport,0.000030
+Aguenar – Hadj Bey Akhamok Airport,0.000060
+Raja Bhoj International Airport,0.000117
+Dinard-Pleurtuit-Saint-Malo Airport,0.000046
+Birmingham-Shuttlesworth International Airport,0.000494
+Billund Airport,0.000676
+Fera/Maringe Airport,0.000015
+Gilgit Airport,0.000015
+Aarhus Airport,0.000108
+Don Miguel Hidalgo Y Costilla International Airport,0.001389
+Andahuaylas Airport,0.000015
+Tirana International Airport Mother Teresa,0.000553
+Rangiroa Airport,0.000109
+Yuma MCAS/Yuma International Airport,0.000046
+Zweibrücken Airport,0.000091
+Nightmute Airport,0.000016
+Chetumal International Airport,0.000015
+Ürümqi Diwopu International Airport,0.002299
+Yellowknife Airport,0.000438
+Mário Ribeiro Airport,0.000045
+Milos Airport,0.000033
+Vilankulo Airport,0.000063
+Xichang Qingshan Airport,0.000077
+Lester B. Pearson International Airport,0.004806
+Yantai Laishan Airport,0.000865
+St. John's International Airport,0.000295
+Bahías de Huatulco International Airport,0.000045
+Chongqing Jiangbei International Airport,0.004124
+Kapuskasing Airport,0.000000
+Charles M. Schulz Sonoma County Airport,0.000092
+Eelde Airport,0.000107
+General Juan N Alvarez International Airport,0.000138
+Muan International Airport,0.000092
+Quelimane Airport,0.000047
+Nepalgunj Airport,0.000015
+Dushanbe Airport,0.000833
+Charles de Gaulle International Airport,0.007842
+Eindhoven Airport,0.001016
+Bom Jesus da Lapa Airport,0.000015
+Dhangarhi Airport,0.000015
+Pemba Airport,0.000125
+Governador José Richa Airport,0.000181
+Nampula Airport,0.000141
+Liuting Airport,0.002900
+Churchill Airport,0.000135
+Ningbo Lishe International Airport,0.001294
+Victoria International Airport,0.000197
+Beirut Rafic Hariri International Airport,0.001015
+Amsterdam Airport Schiphol,0.006851
+Barisal Airport,0.000016
+Bolshoye Savino Airport,0.000091
+Tours-Val-de-Loire Airport,0.000076
+Kuwait International Airport,0.001810
+Mobile Regional Airport,0.000135
+Mount Pleasant Airport,0.000010
+Kunming Changshui International Airport,0.004115
+Smithers Airport,0.000045
+Toncontín International Airport,0.000250
+Lauro Carneiro de Loyola Airport,0.000075
+Maputo Airport,0.000266
+Nanchang Changbei International Airport,0.001322
+Penticton Airport,0.000015
+Xi'an Xianyang International Airport,0.004299
+Whitehorse / Erik Nielsen International Airport,0.000076
+La Laguna Airport,0.000013
+Maestro Marinho Franco Airport,0.000015
+Inhambane Airport,0.000047
+Lanzhou Zhongchuan Airport,0.001291
+Abbotsford Airport,0.000031
+Ramón Villeda Morales International Airport,0.000327
+Xishuangbanna Gasa Airport,0.000367
+Calgary International Airport,0.001674
+Rurutu Airport,0.000046
+Anadolu Airport,0.000015
+Seattle Tacoma International Airport,0.002912
+Augsburg Airport,0.000015
+Pyongyang Sunan International Airport,0.000077
+London Airport,0.000091
+Goloson International Airport,0.000102
+Dourados Airport,0.000045
+Beira Airport,0.000110
+Hihifo Airport,0.000046
+Capitan Corbeta CA Curbelo International Airport,0.000015
+Paderborn Lippstadt Airport,0.000169
+Nanning Wuxu Airport,0.001754
+Pangnirtung Airport,0.000062
+La Aurora Airport,0.000539
+Araguaína Airport,0.000055
+Libreville Leon M'ba International Airport,0.000368
+Wuhan Tianhe International Airport,0.002865
+Northwest Regional Airport Terrace-Kitimat,0.000060
+Las Américas International Airport,0.000674
+Changsha Huanghua International Airport,0.002891
+Fort St John Airport,0.000045
+South Caicos Airport,0.000030
+Sir Bani Yas Airport,0.000031
+Owensboro Daviess County Airport,0.000029
+Hercílio Luz International Airport,0.000303
+Cabo Frio Airport,0.000045
+Yaoundé Nsimalen International Airport,0.000318
+Soyo Airport,0.000040
+Beijing Capital International Airport,0.008134
+Wabush Airport,0.000066
+Deadman's Cay Airport,0.000031
+Bremen Airport,0.000769
+Presidente Prudente Airport,0.000030
+Villa Garzón Airport,0.000015
+Cà Mau Airport,0.000015
+Menongue Airport,0.000046
+Norfolk Island International Airport,0.000031
+Vancouver International Airport,0.002273
+Grand Bahama International Airport,0.000228
+Burgos Airport,0.000015
+Berlin-Tegel Airport,0.003166
+Lancaster Airport,0.000015
+Marechal Rondon Airport,0.000496
+Dong Hoi Airport,0.000031
+Quatro de Fevereiro Airport,0.000697
+Kuujjuaq Airport,0.000031
+Aomori Airport,0.000077
+Elmira Corning Regional Airport,0.000090
+Norrköping Airport,0.000031
+Lodwar Airport,0.000045
+North Eleuthera Airport,0.000122
+Tacheng Airport,0.000031
+Munich Airport,0.005484
+Port Hedland International Airport,0.000122
+Montreal / Pierre Elliott Trudeau International Airport,0.002664
+Tivat Airport,0.000169
+Mattala Rajapaksa International Airport,0.000089
+Laramie Regional Airport,0.000015
+Bartolomeu Lisandro Airport,0.000044
+Xuzhou Guanyin Airport,0.000308
+Cabinda Airport,0.000028
+Košice Airport,0.000076
+Rouyn Noranda Airport,0.000031
+Cochin International Airport,0.000875
+Treviso-Sant'Angelo Airport,0.000584
+Lewiston Nez Perce County Airport,0.000044
+Linköping City Airport,0.000031
+Düsseldorf Airport,0.004349
+Fort Smith Airport,0.000062
+Melbourne International Airport,0.002104
+Priština International Airport,0.000322
+Bathurst Airport,0.000015
+Tottori Airport,0.000015
+Eleftherios Venizelos International Airport,0.003198
+Stockholm-Bromma Airport,0.000402
+Liberal Mid-America Regional Airport,0.000031
+Eldoret International Airport,0.000087
+Gorgan Airport,0.000091
+Capital City Airport,0.000119
+Münster Osnabrück Airport,0.000170
+Corpus Christi International Airport,0.000072
+Stornoway Airport,0.000073
+Thompson Airport,0.000126
+Gibraltar Airport,0.000091
+Podgorica Airport,0.000245
+Kununurra Airport,0.000122
+Billy Bishop Toronto City Centre Airport,0.000194
+Wuzhou Changzhoudao Airport,0.000046
+Dresden Airport,0.000340
+Yelizovo Airport,0.000092
+Lyon Saint-Exupéry Airport,0.002145
+Jining Qufu Airport,0.000154
+Benbecula Airport,0.000029
+Avalon Airport,0.000016
+Chişinău International Airport,0.000524
+Parma Airport,0.000061
+Ubon Ratchathani Airport,0.000046
+Luleå Airport,0.000046
+Treasure Cay Airport,0.000031
+Hami Airport,0.000154
+Berlin-Schönefeld Airport,0.001246
+Bandar Abbas International Airport,0.000295
+Gu-Lian Airport,0.000047
+Glasgow Prestwick Airport,0.000307
+Diosdado Macapagal International Airport,0.000200
+Tôlanaro Airport,0.000031
+Mid Delta Regional Airport,0.000015
+Khabarovsk-Novy Airport,0.000529
+Clermont-Ferrand Auvergne Airport,0.000139
+Roswell International Air Center Airport,0.000030
+Inverness Airport,0.000150
+Sambava Airport,0.000045
+Aberdeen Dyce Airport,0.000596
+Mackay Airport,0.000109
+Rankin Inlet Airport,0.000385
+Batman Airport,0.000047
+Trat Airport,0.000016
+Maroantsetra Airport,0.000057
+Napaskiak Airport,0.000008
+Saint John Airport,0.000049
+Sumburgh Airport,0.000073
+Buri Ram Airport,0.000015
+Fascene Airport,0.000048
+Monroe Regional Airport,0.000090
+Kirkwall Airport,0.000162
+Trabzon International Airport,0.000156
+Chippewa County International Airport,0.000015
+Val de Cans/Júlio Cezar Ribeiro International Airport,0.000434
+Roi Et Airport,0.000015
+Amborovy Airport,0.000031
+Durham Tees Valley Airport,0.000046
+Utila Airport,0.000013
+Morondava Airport,0.000031
+Lethbridge County Airport,0.000015
+Alice Springs Airport,0.000202
+Diyarbakir Airport,0.000110
+Cairns International Airport,0.000878
+Comox Airport,0.000066
+Athens Ben Epps Airport,0.000015
+San Carlos De Bariloche Airport,0.000065
+Djibouti-Ambouli Airport,0.000310
+Roland Garros Airport,0.000318
+Palm Beach International Airport,0.000664
+Hawarden Airport,0.000032
+Windsor Airport,0.000045
+Singapore Changi Airport,0.006302
+Southwest Georgia Regional Airport,0.000060
+Santa Rosa Airport,0.000000
+Dzaoudzi Pamandzi International Airport,0.000172
+Shahid Ashrafi Esfahani Airport,0.000092
+Portland International Airport,0.001651
+Leeds Bradford Airport,0.001238
+General Mitchell International Airport,0.000903
+Blackpool International Airport,0.000138
+Sultan Mahmud Airport,0.000108
+Simon Mwansa Kapwepwe International Airport,0.000144
+Presidente Nicolau Lobato International Airport,0.000062
+Burlington International Airport,0.000210
+Southend Airport,0.000214
+Kasigluk Airport,0.000008
+Jönköping Airport,0.000025
+Newark Liberty International Airport,0.003740
+Gabès Matmata International Airport,0.000024
+Adana Airport,0.000265
+Madeira Airport,0.000803
+Bangui M'Poko International Airport,0.000044
+Altoona Blair County Airport,0.000029
+Liverpool John Lennon Airport,0.000875
+Al Najaf International Airport,0.000155
+Bemidji Regional Airport,0.000015
+Léopold Sédar Senghor International Airport,0.001005
+Nosara Airport,0.000015
+Tunis Carthage International Airport,0.001328
+Zhengzhou Xinzheng International Airport,0.002681
+Prince George Airport,0.000045
+Ha'il Airport,0.000077
+Sawyer International Airport,0.000045
+Gloucestershire Airport,0.000015
+Kota Kinabalu International Airport,0.000801
+Pond Inlet Airport,0.000047
+Guangzhou Baiyun International Airport,0.005084
+Medicine Hat Airport,0.000015
+Cibao International Airport,0.000166
+Rutland - Southern Vermont Regional Airport,0.000015
+Guarulhos - Governador André Franco Montoro International Airport,0.002867
+Barreiras Airport,0.000089
+Port Gentil Airport,0.000015
+Enrique Malek International Airport,0.000025
+Memphis International Airport,0.000794
+Mallam Aminu International Airport,0.000106
+Sibu Airport,0.000139
+Halifax / Stanfield International Airport,0.000787
+Guilin Liangjiang International Airport,0.001646
+Sioux Lookout Airport,0.000035
+Filippos Airport,0.000016
+Stavanger Airport Sola,0.000765
+Saïss Airport,0.000275
+Cap Manuel Niño International Airport,0.000010
+Gainesville Regional Airport,0.000181
+Kaduna Airport,0.000015
+Rendani Airport,0.000118
+Timişoara Traian Vuia Airport,0.000199
+Donskoye Airport,0.000015
+Fort Simpson Airport,0.000029
+Kuching International Airport,0.000385
+L.F. Wade International International Airport,0.000227
+K. D. Matanzima Airport,0.000016
+Jizan Regional Airport,0.000100
+Birmingham International Airport,0.002002
+Gaspé (Michel-Pouliot) Airport,0.000034
+Miri Airport,0.000370
+Soekarno-Hatta International Airport,0.002787
+Hay River / Merlyn Carter Airport,0.000046
+Nausori International Airport,0.000151
+Lübeck Blankensee Airport,0.000061
+Cranbrook/Canadian Rockies International Airport,0.000060
+Gregorio Luperon International Airport,0.000197
+Kasos Airport,0.000073
+Dawson Community Airport,0.000015
+John Wayne Airport-Orange County Airport,0.000662
+Sandefjord Airport,0.000563
+Ulgii Mongolei Airport,0.000014
+Al Massira Airport,0.000426
+Ilorin International Airport,0.000015
+Mayor Buenaventura Vivas International Airport,0.000060
+Bordeaux-Mérignac Airport,0.001028
+King Fahd International Airport,0.001262
+Dallas Fort Worth International Airport,0.006771
+George Best Belfast City Airport,0.000317
+Punta Cana International Airport,0.001044
+Taiyuan Wusu Airport,0.001678
+Saskatoon John G. Diefenbaker International Airport,0.000229
+Coen Airport,0.000037
+Dibrugarh Airport,0.000094
+Ioannis Kapodistrias International Airport,0.000813
+Tromsø Airport,0.000352
+Roberts International Airport,0.000244
+Augusto C. Sandino (Managua) International Airport,0.000210
+San Francisco International Airport,0.003690
+Ibadan Airport,0.000015
+Spokane International Airport,0.000215
+Akanu Ibiam International Airport,0.000046
+Flin Flon Airport,0.000091
+Dominique Edward Osok Airport,0.000132
+Stewart International Airport,0.000091
+Tampere-Pirkkala Airport,0.000184
+Iaşi Airport,0.000183
+Kasiguncu Airport,0.000015
+Craiova Airport,0.000030
+Syukuran Aminuddin Amir Airport,0.000031
+Henri Coandă International Airport,0.001731
+Detroit Metropolitan Wayne County Airport,0.003193
+Mariehamn Airport,0.000062
+Nanaimo Airport,0.000030
+Thandwe Airport,0.000031
+São Jorge Airport,0.000038
+Yangon International Airport,0.000716
+Deer Lake Airport,0.000082
+Watertown International Airport,0.000060
+Bodø Airport,0.000217
+Rubem Berta Airport,0.000015
+Tulita Airport,0.000029
+Bukavu Kavumu Airport,0.000017
+São Félix do Xingu Airport,0.000000
+Licenciado y General Ignacio Lopez Rayon Airport,0.000030
+Oued Irara Airport,0.000093
+Timaru Airport,0.000018
+Theodore Francis Green State Airport,0.000421
+Kittilä Airport,0.000016
+Zürich Airport,0.003764
+Sir Seretse Khama International Airport,0.000145
+La Rochelle-Île de Ré Airport,0.000155
+Kelowna International Airport,0.000213
+Brønnøysund Airport,0.000062
+Redenção Airport,0.000011
+Piedras Negras International Airport,0.000030
+Zunyi Xinzhou Airport,0.000230
+Noumérat - Moufdi Zakaria Airport,0.000061
+Pamplona Airport,0.000015
+Tauranga Airport,0.000058
+Kuusamo Airport,0.000016
+Pico Airport,0.000070
+Andøya Airport,0.000053
+Tabatinga Airport,0.000014
+Bangoka International Airport,0.000022
+Patos de Minas Airport,0.000030
+Hermanos Serdán International Airport,0.000105
+Jiuhuashan Airport,0.000108
+Fort Smith Regional Airport,0.000075
+Touat Cheikh Sidi Mohamed Belkebir Airport,0.000075
+Zenata – Messali El Hadj Airport,0.000092
+Anqing Tianzhushan Airport,0.000107
+Sault Ste Marie Airport,0.000057
+Myitkyina Airport,0.000046
+Graciosa Airport,0.000021
+Campbell River Airport,0.000040
+Sanya Phoenix International Airport,0.001676
+Margate Airport,0.000016
+Barquisimeto International Airport,0.000076
+San Javier Airport,0.000289
+Newport News Williamsburg International Airport,0.000135
+Jyvaskyla Airport,0.000031
+Agen-La Garenne Airport,0.000031
+Bisha Airport,0.000046
+Belfast International Airport,0.000503
+Jinzhou Airport,0.000077
+Wewak International Airport,0.000105
+Bagan Airport,0.000061
+Ísafjörður Airport,0.000016
+Salzburg Airport,0.000533
+Reykjavik Airport,0.000063
+Evansville Regional Airport,0.000135
+Kimberley Airport,0.000031
+Egilsstaðir Airport,0.000016
+Kengtung Airport,0.000012
+Hattiesburg Laurel Regional Airport,0.000015
+Fernando de Noronha Airport,0.000044
+Conakry International Airport,0.000273
+Lubango Airport,0.000046
+Tengchong Tuofeng Airport,0.000076
+Kalamata Airport,0.000154
+Babelthuap Airport,0.000138
+Sidney - Richland Regional Airport,0.000015
+Portland International Jetport Airport,0.000273
+Skien Airport,0.000015
+Colonel Hill Airport,0.000031
+Carriel Sur Airport,0.000070
+Lungi International Airport,0.000335
+East Texas Regional Airport,0.000030
+Benin Airport,0.000030
+Abha Regional Airport,0.000223
+Vaasa Airport,0.000077
+Pattimura Airport,0.000212
+Satu Mare Airport,0.000031
+Camiguin Airport,0.000015
+Capitán FAP Guillermo Concha Iberico International Airport,0.000030
+Santa Ana Airport,0.000031
+Alicante International Airport,0.002364
+Gisborne Airport,0.000038
+Lennart Meri Tallinn Airport,0.000535
+Providenciales Airport,0.000466
+Southwest Oregon Regional Airport,0.000031
+Cataratas International Airport,0.000179
+Bol Airport,0.000016
+Saurimo Airport,0.000030
+Wagga Wagga City Airport,0.000047
+Winnipeg / James Armstrong Richardson International Airport,0.000637
+Kithira Airport,0.000065
+Anahim Lake Airport,0.000008
+Chuuk International Airport,0.000031
+Unalaska Airport,0.000383
+Moss Airport,0.000570
+Tenerife Norte Airport,0.000517
+Bangor International Airport,0.000119
+Nnamdi Azikiwe International Airport,0.000426
+Bahrain International Airport,0.001334
+Turku Airport,0.000123
+Fukue Airport,0.000062
+Iskandar Airport,0.000106
+Kalmar Airport,0.000045
+Addis Ababa Bole International Airport,0.001641
+Hooper Bay Airport,0.000016
+Lake Charles Regional Airport,0.000045
+Ostend-Bruges International Airport,0.000016
+Uyuni Airport,0.000015
+Yibin Caiba Airport,0.000153
+Kenneth Kaunda International Airport Lusaka,0.000536
+Taupo Airport,0.000038
+Savannah Hilton Head International Airport,0.000346
+Westerland Sylt Airport,0.000122
+Ancona Falconara Airport,0.000153
+São Pedro Airport,0.000109
+Gambell Airport,0.000043
+Liège Airport,0.000124
+Adnan Menderes International Airport,0.001042
+Fort Chipewyan Airport,0.000032
+Changzhou Benniu Airport,0.000569
+Livingstone Airport,0.000111
+Red Deer Regional Airport,0.000047
+Graz Airport,0.000290
+Ranai Airport,0.000015
+Surat Airport,0.000046
+Dijon-Bourgogne Airport,0.000016
+Aalborg Airport,0.000261
+Gemena Airport,0.000031
+Quetzalcóatl International Airport,0.000015
+Es Senia Airport,0.000507
+Brandon Municipal Airport,0.000015
+Horta Airport,0.000106
+Skardu Airport,0.000015
+Almirante Padilla Airport,0.000015
+Norilsk-Alykel Airport,0.000219
+Wajir Airport,0.000079
+Inagua Airport,0.000031
+Sege Airport,0.000062
+Hannover Airport,0.001170
+Greenbrier Valley Airport,0.000030
+Exeter International Airport,0.000365
+Cruzeiro do Sul Airport,0.000015
+Rach Gia Airport,0.000015
+Malanje Airport,0.000030
+Dubbo City Regional Airport,0.000047
+Norman Wells Airport,0.000088
+Savonlinna Airport,0.000031
+Mutiara Airport,0.000107
+Cluj-Napoca International Airport,0.000307
+Phoenix-Mesa-Gateway Airport,0.000454
+Sultan Azlan Shah Airport,0.000031
+Prince Rupert Airport,0.000030
+Yanji Chaoyangchuan Airport,0.000216
+Godthaab / Nuuk Airport,0.000109
+Sde Dov Airport,0.000046
+Karamay Airport,0.000031
+Madang Airport,0.000135
+Tan Son Nhat International Airport,0.001664
+Akureyri Airport,0.000016
+Pago Pago International Airport,0.000015
+Katima Mulilo Airport,0.000447
+Miami International Airport,0.005435
+Dortmund Airport,0.000512
+Tupelo Regional Airport,0.000030
+Usiminas Airport,0.000045
+São Tomé International Airport,0.000063
+Sadiq Abubakar III International Airport,0.000015
+Jerez Airport,0.000321
+Joensuu Airport,0.000016
+Worcester Regional Airport,0.000031
+Myeik Airport,0.000031
+Faro Airport,0.001588
+Berlevåg Airport,0.000039
+Nairobi Wilson Airport,0.000141
+Leon Airport,0.000015
+Stuttgart Airport,0.002093
+Coffs Harbour Airport,0.000062
+Val-d'Or Airport,0.000031
+Pdte. Carlos Ibañez del Campo Airport,0.000076
+Raivavae Airport,0.000026
+Banjul International Airport,0.000199
+Senadora Eunice Micheles Airport,0.000014
+Licenciado Adolfo Lopez Mateos International Airport,0.000215
+Kahului Airport,0.000642
+Port Bouet Airport,0.000787
+Vigo Airport,0.000167
+Hamid Karzai International Airport,0.000394
+Rovaniemi Airport,0.000031
+Sam Ratulangi Airport,0.000324
+Malvinas Argentinas Airport,0.000068
+N'Gaoundéré Airport,0.000015
+London City Airport,0.001028
+Kerteh Airport,0.000031
+Port Menier Airport,0.000033
+Malta International Airport,0.001717
+Kangerlussuaq Airport,0.000109
+Rabat-Salé Airport,0.000168
+Port Harcourt International Airport,0.000121
+Moises R. Espinosa Airport,0.000015
+Barinas Airport,0.000031
+Ibiza Airport,0.001574
+Invercargill Airport,0.000038
+Ivalo Airport,0.000016
+Mandalay International Airport,0.000178
+Flores Airport,0.000074
+Santa Barbara Municipal Airport,0.000123
+Visby Airport,0.000121
+Rock Sound Airport,0.000031
+Deering Airport,0.000047
+Saarbrücken Airport,0.000139
+Los Colonizadores Airport,0.000031
+Kuito Airport,0.000030
+Canberra International Airport,0.000202
+Qikiqtarjuaq Airport,0.000031
+Netaji Subhash Chandra Bose International Airport,0.001455
+Dimokritos Airport,0.000050
+Qaarsut Airport,0.000016
+Antonio B. Won Pat International Airport,0.000538
+Alexandria International Airport,0.000090
+Kirkenes Airport (Høybuktmoen),0.000046
+Takoradi Airport,0.000015
+Edmonton International Airport,0.001020
+Sarajevo International Airport,0.000246
+Havre St Pierre Airport,0.000033
+Hervey Bay Airport,0.000031
+Richards Bay Airport,0.000016
+Mopah Airport,0.000051
+Saumlaki/Olilit Airport,0.000015
+Tautii Magheraus Airport,0.000031
+Nyingchi Airport,0.000077
+Noi Bai International Airport,0.001340
+Jiamusi Airport,0.000154
+Port Moresby Jacksons International Airport,0.000736
+Ovda International Airport,0.000000
+Velikiy Ustyug Airport,0.000015
+Watertown Regional Airport,0.000045
+Conceição do Araguaia Airport,0.000011
+Page Municipal Airport,0.000039
+Toamasina Airport,0.000088
+Elazığ Airport,0.000094
+Raleigh County Memorial Airport,0.000015
+Araraquara Airport,0.000015
+Glacier Park International Airport,0.000075
+Mananara Nord Airport,0.000013
+Alpena County Regional Airport,0.000030
+Aviador C. Campos Airport,0.000000
+Sainte Marie Airport,0.000045
+Pavlodar Airport,0.000046
+Metz-Nancy-Lorraine Airport,0.000078
+Boeing Field King County International Airport,0.000383
+East Midlands Airport,0.001479
+Arrachart Airport,0.000079
+Eilat Airport,0.000076
+Nelson Lagoon Airport,0.000013
+Surat Thani Airport,0.000062
+Cape Town International Airport,0.000635
+Ninoy Aquino International Airport,0.002956
+Quinhagak Airport,0.000046
+Ben Schoeman Airport,0.000077
+Yining Airport,0.000061
+Mount Hagen Kagamuga Airport,0.000194
+Larnaca International Airport,0.001472
+Bauerfield International Airport,0.000447
+Kassel-Calden Airport,0.000031
+Dublin Airport,0.003119
+Mudanjiang Hailang International Airport,0.000154
+Chris Hadfield Airport,0.000015
+Abraham González International Airport,0.000180
+Ağrı Airport,0.000032
+Santo Ângelo Airport,0.000030
+Laoag International Airport,0.000031
+N'Djamena International Airport,0.000138
+Sept-Îles Airport,0.000165
+Haifa International Airport,0.000031
+Luzhou Airport,0.000199
+Da Nang International Airport,0.000504
+Klawock Airport,0.000015
+King Shaka International Airport,0.000327
+Birchwood Airport,0.000030
+General Francisco J. Mujica International Airport,0.000150
+Hassi R'Mel Airport,0.000031
+Dandong Airport,0.000077
+Baie Comeau Airport,0.000065
+Heihe Airport,0.000047
+Nadzab Airport,0.000178
+Dalbandin Airport,0.000013
+German Olano Airport,0.000046
+Yasouj Airport,0.000016
+Yellowstone Regional Airport,0.000030
+Kitale Airport,0.000023
+Exuma International Airport,0.000122
+Cologne Bonn Airport,0.002004
+Kirksville Regional Airport,0.000014
+Diomício Freitas Airport,0.000030
+Petersburg James A Johnson Airport,0.000029
+Mbanza Congo Airport,0.000015
+Adelaide International Airport,0.000809
+Repulse Bay Airport,0.000080
+Cabo Velas Airport,0.000058
+Chacalluta Airport,0.000063
+Bugungu Airport,0.000015
+El Trompillo Airport,0.000088
+Modibo Keita International Airport,0.000413
+Bobo Dioulasso Airport,0.000032
+Malindi Airport,0.000032
+Gobernador Castello Airport,0.000000
+Lhasa Gonggar Airport,0.000461
+Sir Charles Gaetan Duval Airport,0.000015
+Waco Regional Airport,0.000030
+Alderney Airport,0.000031
+Toksook Bay Airport,0.000024
+Ciudad Obregón International Airport,0.000074
+Toliara Airport,0.000046
+Baton Rouge Metropolitan Airport,0.000120
+Florø Airport,0.000046
+Mbuji Mayi Airport,0.000032
+Ouagadougou Airport,0.000511
+Oranjemund Airport,0.000016
+Islas Malvinas Airport,0.000075
+General Wayne A. Downing Peoria International Airport,0.000225
+Pietermaritzburg Airport,0.000016
+Santiago de Compostela Airport,0.000519
+Oulu Airport,0.000062
+Cork Airport,0.000518
+Soummam Airport,0.000092
+Bachigualato Federal International Airport,0.000238
+Weeze Airport,0.000584
+Praslin Airport,0.000015
