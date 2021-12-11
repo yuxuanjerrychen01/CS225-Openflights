@@ -232,7 +232,7 @@ vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
     int current_airport = source_airport;
     if(airports.find(source_airport) != airports.end()){
         airports[source_airport] -> isTravel = true;
-        cout<< queue.size() << endl;
+        // cout<< queue.size() << endl;
         while(!queue.empty()) {
             current_airport = queue.front();
             if (current_airport == dest_airport) {
@@ -253,12 +253,16 @@ vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
         } 
        
     }
-    cout << output.size() << endl;
+    // cout << output.size() << endl;
     return output;
 }
 
 vector<string> Graph::BFS_all(int source_airport) {
     vector<string> output;
+    if (airports.find(source_airport) == airports.end()) {
+        output.push_back("Nonexisting airport id");
+        return output;
+    }
     vector<string> temp;
 
     _setInitial();
@@ -276,27 +280,7 @@ vector<string> Graph::BFS_all(int source_airport) {
             for (auto str : temp) {output.push_back(str);}
         }
     }
-    // queue.push(source_airport);
-    // int current_airport = source_airport;
-    // if(airports.find(source_airport) != airports.end()){
-    //     airports[source_airport] -> isTravel = true;
-    //     cout<< queue.size() << endl;
-    //     while(!queue.empty()) {
-    //         current_airport = queue.front();
-    //         Airport * airport_temp = airports[current_airport];
-    //         output.push_back(airport_temp->getAirportName());
-            
-    //         for(auto id : airport_temp->getDestinations()) {
-    //             if(airports[id.first] -> isTravel == false) {
-    //                 queue.push(id.first);
-    //                 airports[id.first] -> isTravel = true;
-    //             }
-    //         }
-    //         queue.pop();
-    //     } 
-        
-    // }
-    // cout << output.size() << endl;
+    
     return output;
 }
 
@@ -307,7 +291,7 @@ vector<string> Graph::BFS_all_helper(int airport_id, queue<int> queue) {
     int current_airport = airport_id;
     if(airports.find(airport_id) != airports.end()){
         airports[airport_id] -> isTravel = true;
-        cout<< queue.size() << endl;
+        // cout<< queue.size() << endl;
         while(!queue.empty()) {
             current_airport = queue.front();
             Airport * airport_temp = airports[current_airport];
@@ -323,7 +307,7 @@ vector<string> Graph::BFS_all_helper(int airport_id, queue<int> queue) {
         } 
         
     }
-    cout << output.size() << endl;
+    // cout << output.size() << endl;
     return output;
 }
 
