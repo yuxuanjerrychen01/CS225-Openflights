@@ -133,7 +133,7 @@ void Draw::_drawAirport(PNG & png, std::pair<int, int> position) {
         for(int j = -2; j < 3; j++) {
             unsigned int x = position.first + i;
             unsigned int y = position.second + j;
-            if(x >= png.width() || x < 0 || y >= png.height() || y < 0) {
+            if(x >= png.width() || y >= png.height()) {
                 continue;
             }
             HSLAPixel & pixel = png.getPixel(x,y);

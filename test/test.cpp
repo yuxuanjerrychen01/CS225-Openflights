@@ -167,3 +167,23 @@ TEST_CASE("Airports Information")
 
 }
 
+TEST_CASE("BFS_traverse") {
+    cout<<"test the BFS_traverse"<<endl;
+    string airportFile = "airports_data_final_new.csv";
+    string routesFile = "routes_data_final.csv";
+    Graph BFS_graph(airportFile, routesFile);
+    vector<string> result_dest = BFS_graph.BFS_traverse(3406, 3830);
+    cout<<"Printing out traversal from Pudong to O'Hare"<<endl;
+    for(unsigned i = 0; i < result_dest.size(); i++) {
+        cout<<result_dest[i];
+        if (i != result_dest.size() - 1) {
+            cout<<"--->";
+        }
+        if (i % 5 == 0 && i != 0) {
+            cout<<endl;
+        }
+        cout<<endl;
+    }
+    REQUIRE("Shanghai Pudong International Airport" == result_dest[0]);
+}
+
