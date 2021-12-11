@@ -1,6 +1,6 @@
-#include "src/Draw.hpp"
-#include "src/Airport.hpp"
-#include "src/Graph.hpp"
+#include "Draw.hpp"
+#include "Airport.hpp"
+#include "Graph.hpp"
 #include <iostream>
 
 /**
@@ -27,7 +27,7 @@ int main() {
         for(auto info : graph.getInformation(id)){
             std::cout<< info;
         }
-        << std::endl;
+        //std::endl;
     }
     
     //draw part
