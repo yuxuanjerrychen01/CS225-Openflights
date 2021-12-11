@@ -157,12 +157,10 @@ vector<int> Graph::Dijkstra(int start1, int end1) {
         cout << "no connection between two airports" << endl;
     } else {
         Airport * curAirport = end;
-        cout << to_string(curAirport->distance * EARTH_RADIUS) << "KM"<< endl;
         while (curAirport->LastNode != -1) {
             outcome.push_back(curAirport);
             curAirport = airports[curAirport->LastNode];
         }
-        cout << "start" << endl;
         paths.push_back(start1);
         for(int i = outcome.size() - 1; i >= 0; i--) {
             paths.push_back(outcome[i]->getUniqueID());
