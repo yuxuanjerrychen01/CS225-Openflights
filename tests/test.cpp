@@ -164,23 +164,53 @@ TEST_CASE("Airports Information")
 
 }
 
-TEST_CASE("BFS_traverse") {
-    cout<<"test the BFS_traverse"<<endl;
-    string airportFile = "airports_data_final_new.csv";
-    string routesFile = "routes_data_final.csv";
-    Graph BFS_graph(airportFile, routesFile);
-    vector<string> result_dest = BFS_graph.BFS_traverse(3406, 3830);
-    cout<<"Printing out traversal from Pudong to O'Hare"<<endl;
-    for(unsigned i = 0; i < result_dest.size(); i++) {
-        cout<<result_dest[i];
-        if (i != result_dest.size() - 1) {
-            cout<<"--->";
-        }
-        if (i % 5 == 0 && i != 0) {
-            cout<<endl;
-        }
-        cout<<endl;
+TEST_CASE("BFS_all") {
+
+    SECTION("BFS_all starting from airport ID 3406") {
+        // cout<<"test the BFS_all"<<endl;
+        vector<string> result_dest = graph.BFS_all(3406);
+        // cout<<"Printing out traversal starting from Pudong Airport"<<endl;
+        // for(unsigned i = 0; i < result_dest.size(); i++) {
+        //     cout<<result_dest[i];
+        //     if (i != result_dest.size() - 1) {
+        //         cout<<"--->";
+        //     }
+        //     if (i % 5 == 0 && i != 0) {
+        //         cout<<endl;
+        //     }
+        // }
+        REQUIRE(result_dest.size() == 3052);
     }
-    REQUIRE("Shanghai Pudong International Airport" == result_dest[0]);
+    
+    SECTION("BFS_all starting from airport ID 1212") {
+        vector<string> result_dest = graph.BFS_all(1212);
+        REQUIRE(result_dest.size() == 3052);
+    }
+
+    SECTION("BFS_all starting from nonexisting airport ID 682") {
+        vector<string> result_dest = graph.BFS_all(682);
+        REQUIRE(result_dest.size() == 1);
+        REQUIRE(result_dest[0] == "Nonexisting airport id");
+    }
+}
+
+TEST_CASE("BFS_traverse") {
+    SECTION("BFS_traverse starting from 3406, ending 3830") {
+        // cout<<"test the BFS_traverse"<<endl;
+        vector<string> result_dest = graph.BFS_traverse(3406, 3830);
+        // cout<<"Printing out traversal from Pudong to O'Hare"<<endl;
+        // for(unsigned i = 0; i < result_dest.size(); i++) {
+        //     cout<<result_dest[i];
+        //     if (i != result_dest.size() - 1) {
+        //         cout<<"--->";
+        //     }
+        //     if (i % 5 == 0 && i != 0) {
+        //         cout<<endl;
+        //     }
+        //     cout<<endl;
+        // }
+        REQUIRE("Shanghai Pudong International Airport" == result_dest[0]);
+        REQUIRE("Chicago O'Hare International Airport" == result_dest.back());
+    }
 }
 
