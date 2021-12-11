@@ -226,33 +226,107 @@ bool Graph::ifAdjacent(int srcID, int destID) {
 vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
     vector<string> output;
     //this is a vector of boolean(set default as false) covering all the airports filtered
-    vector<bool> visited(false);
-
+    _setInitial();
     queue<int> queue;
     queue.push(source_airport);
     int current_airport = source_airport;
-    visited[current_airport] = true;
-
-    while(!queue.empty()) {
-        current_airport = queue.front();
-        if (current_airport == dest_airport) {
-            output.push_back(airport_graph.getAirportName());
-            break;
-        }
-        output.push_back(airport_graph.getAirportName());
-        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
-            if(visited[i] == false) {
-                queue.push(i);
-                visited[i] = true;
+    if(airports.find(source_airport) != airports.end()){
+        airports[source_airport] -> isTravel = true;
+        cout<< queue.size() << endl;
+        while(!queue.empty()) {
+            current_airport = queue.front();
+            if (current_airport == dest_airport) {
+                Airport airport_temp = *airports[current_airport];
+                output.push_back(airport_temp.getAirportName());
+                
+                break;
             }
-        }
-        queue.pop();
-    } 
-    if (current_airport != dest_airport) {
-        return vector<string>();
+            Airport * airport_temp = airports[current_airport];
+            output.push_back(airport_temp->getAirportName());
+            for(auto id : airport_temp->getDestinations()) {
+                if(airports[id.first] -> isTravel == false) {
+                    queue.push(id.first);
+                    airports[id.first] -> isTravel = true;
+                }
+            }
+            queue.pop();
+        } 
+       
     }
+    cout << output.size() << endl;
     return output;
 }
+
+vector<string> Graph::BFS_all(int source_airport) {
+    vector<string> output;
+    vector<string> temp;
+
+    _setInitial();
+    queue<int> queue;
+    //output.reserve(output.size() + BFS_all_helper(source_airport, queue).size());
+    //output.insert(output.end(), BFS_all_helper(source_airport, queue).begin(), BFS_all_helper(source_airport, queue).end());
+    temp = BFS_all_helper(source_airport, queue);
+    for (auto str : temp) {output.push_back(str);}
+
+    for (auto it : airports) {
+        if (it.second -> isTravel == false) {
+            // output.reserve(output.size() + BFS_all_helper(it.first, queue).size());
+            // output.insert(output.end(), BFS_all_helper(it.first, queue).begin(), BFS_all_helper(it.first, queue).end());
+            temp = BFS_all_helper(it.first, queue);
+            for (auto str : temp) {output.push_back(str);}
+        }
+    }
+    // queue.push(source_airport);
+    // int current_airport = source_airport;
+    // if(airports.find(source_airport) != airports.end()){
+    //     airports[source_airport] -> isTravel = true;
+    //     cout<< queue.size() << endl;
+    //     while(!queue.empty()) {
+    //         current_airport = queue.front();
+    //         Airport * airport_temp = airports[current_airport];
+    //         output.push_back(airport_temp->getAirportName());
+            
+    //         for(auto id : airport_temp->getDestinations()) {
+    //             if(airports[id.first] -> isTravel == false) {
+    //                 queue.push(id.first);
+    //                 airports[id.first] -> isTravel = true;
+    //             }
+    //         }
+    //         queue.pop();
+    //     } 
+        
+    // }
+    // cout << output.size() << endl;
+    return output;
+}
+
+vector<string> Graph::BFS_all_helper(int airport_id, queue<int> queue) {
+    vector<string> output;
+
+    queue.push(airport_id);
+    int current_airport = airport_id;
+    if(airports.find(airport_id) != airports.end()){
+        airports[airport_id] -> isTravel = true;
+        cout<< queue.size() << endl;
+        while(!queue.empty()) {
+            current_airport = queue.front();
+            Airport * airport_temp = airports[current_airport];
+            output.push_back(airport_temp->getAirportName());
+            
+            for(auto id : airport_temp->getDestinations()) {
+                if(airports[id.first] -> isTravel == false) {
+                    queue.push(id.first);
+                    airports[id.first] -> isTravel = true;
+                }
+            }
+            queue.pop();
+        } 
+        
+    }
+    cout << output.size() << endl;
+    return output;
+}
+
 /**
  * 
  * @param tolerance: a parameter to check 

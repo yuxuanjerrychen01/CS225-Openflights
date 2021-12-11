@@ -14,7 +14,7 @@ class Graph{
     unordered_map<int, Airport *> airports;                             //store the airports, the key store airport ID, the value is the pointer of airports.
     vector<Airport> airports_set;                                       //the set of total airports
     long long size_ = 0;
-    void _getAirline(int a, int b);                                     //help fuction, given airline information, fuction will assign each airline as edage to the node.
+    void _getAirline(int a, int b);                                     //help fuction, given airline information, fuction will assign each airline as edge to the node.
     void _setInitial();                                                 //help fuction to set distance, LastNode, isTraval in airports node.
     double _findDistance(int a, int b);                                 //help fuction to calculate the distance of two airports.
     double _rad(double a);                                              //help fuction to find the radiance.
@@ -29,12 +29,14 @@ class Graph{
     vector<int> Dijkstra(int start, int end);                           //dijkstra to find the stortest path to travel depened on distance
     void traversal(int start, vector<bool>& visited);                   //using Depth First Search based on recursion, visited is to record the aiport being visited
     vector<vector<int>> route_adjaMat;                                  //use a route adjacency matric to store all routes here. We use row to represent departure airpot and column to 
-    // //respresent arrival.
+    //respresent arrival.
 
     vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
     bool ifAdjacent(int srcID, int destID);
-    Airport airport_graph;
+    Airport airport_;
     vector<string> BFS_traverse(int source_airport, int dest_airport);
+    vector<string> BFS_all(int source_Airport);
+    vector<string> BFS_all_helper(int airport_id, queue<int> queue);
     void pagerank(double tolerance);
 };
 
