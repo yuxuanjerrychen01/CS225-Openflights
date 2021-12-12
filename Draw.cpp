@@ -37,7 +37,7 @@ void Draw::drawDijkstra(Graph & graph, std::vector<int> info) {
     for(unsigned long i = 1; i < routes.size(); i++) {
         _drawAirline(outcome, routes[i-1], routes[i]);
     }
-    outcome.writeToFile("output/outcome_dijkstra.png");
+    outcome.writeToFile("./output/outcome_dijkstra.png");
 }
 
 /**
@@ -72,7 +72,7 @@ void Draw::drawDestinations(Graph & graph, int id) {
     for(unsigned long i = 0; i < routes.size(); i++) {
         _drawAirline(outcome,startposition,routes[i]);
     }
-    outcome.writeToFile("output/outcome_destination.png");
+    outcome.writeToFile("./output/outcome_destination.png");
 }
 /**
  * @param la: the latitude of airport

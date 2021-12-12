@@ -114,13 +114,6 @@ vector<string> Graph::getInformation(int id) {
         airport_info.push_back("no according airport found");
         return airport_info;
     } else {
-        // for (auto pair : airports[id]->destinations) {
-        //     cout << "target airpots: " << airports[pair.first]->airportName << ", number of routes: " << to_string(pair.second) << endl;
-        // }
-        // cout << airports[id]->airportName +' '+ airports[id]->cityName +' '+ 
-        // airports[id]->countryName +' '+ airports[id]->IATA + ' ' + 
-        // airports[id]->ICAO + ' ' + to_string(airports[id]->Latitude) + ' ' + to_string(airports[id]->Longitude) << endl;
-        // return "number of targets: " + to_string(airports[id]->destinations.size());
         airport_info.push_back(to_string(id));
         airport_info.push_back(airports[id]->getAirportName());
         airport_info.push_back(airports[id]->getCityName());
@@ -243,19 +236,6 @@ double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
     return s;
 }
 
-// void Graph::traversal(int start, vector<bool>& visited) {
-//     if (visited[(airports_set.at(start)).getUniqueID()] == false) {
-//         visited[(airports_set.at(start)).getUniqueID()] = true;
-//         //std::cout << (airports_set.at(start).airportName) << std::endl;
-
-//         for(int i = 0; i < (int)route_adjaMat.size(); i++) {
-//             if(route_adjaMat[(airports_set.at(start)).getUniqueID()][airports_set.at(i).getUniqueID()]>-1 && !visited[(airports_set.at(i)).getUniqueID()]) {
-//                 traversal((airports_set.at(i)).getUniqueID(), visited);
-//             }
-//         }
-//     }
-// }
-
 /**
  * @brief this is the function using for finding edges given the uniqueID of the source airport
  * 
@@ -283,40 +263,6 @@ vector<int> Graph::getEdges(int srcID) {
 bool Graph::ifAdjacent(int srcID, int destID) {
     return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
 }
-
-// vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
-//     vector<string> output;
-//     //this is a vector of boolean(set default as false) covering all the airports filtered
-//     _setInitial();
-//     queue<int> queue;
-//     queue.push(source_airport);
-//     int current_airport = source_airport;
-//     if(airports.find(source_airport) != airports.end()){
-//         airports[source_airport] -> isTravel = true;
-//         // cout<< queue.size() << endl;
-//         while(!queue.empty()) {
-//             current_airport = queue.front();
-//             if (current_airport == dest_airport) {
-//                 Airport airport_temp = *airports[current_airport];
-//                 output.push_back(airport_temp.getAirportName());
-                
-//                 break;
-//             }
-//             Airport * airport_temp = airports[current_airport];
-//             output.push_back(airport_temp->getAirportName());
-//             for(auto id : airport_temp->getDestinations()) {
-//                 if(airports[id.first] -> isTravel == false) {
-//                     queue.push(id.first);
-//                     airports[id.first] -> isTravel = true;
-//                 }
-//             }
-//             queue.pop();
-//         } 
-       
-//     }
-//     // cout << output.size() << endl;
-//     return output;
-// }
 
 /**
  * @brief here is the traverse function based on BFS traversing all the airports possible
@@ -348,7 +294,7 @@ void Graph::BFS_all(int source_airport) {
         }
     }
     
-    ofstream fts("output/BFS_traversal.txt");
+    ofstream fts("./output/BFS_traversal.txt");
     for (auto str : output) {
         fts << str << endl;
     }
@@ -438,7 +384,7 @@ void Graph::pagerank(double tolerance, int iteration) {
     for (auto & air : airports) {
         air.second->PR_value = air.second->PR_value / page_sum;
     }
-    ofstream fts("output/airports_importance.txt");
+    ofstream fts("./output/airports_importance.txt");
     double sum = 0;
     for (auto &p : airports) {
         sum += p.second->PR_value;
