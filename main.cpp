@@ -12,7 +12,7 @@
 int main() {
     
     //graph part
-    Graph graph("data/airports_data_final.csv", "data/routes_data_final.csv");
+    Graph graph("data/airports_data_final_new.csv", "data/routes_data_final.csv");
     /**
      * @brief given two uniqueID of airport, Dijkstra will find the shorest path.
      * Example: Shanghai Pudong (3406)--> Ha'il Airport (2069)
