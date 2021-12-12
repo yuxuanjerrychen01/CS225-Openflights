@@ -16,7 +16,7 @@ using namespace std;
 
 /////////////////////////testcase
 
-Graph graph("data/airports_data_final.csv", "data/routes_data_final.csv");
+Graph graph("data/airports_data_final_new.csv", "data/routes_data_final.csv");
 
 TEST_CASE("Graph Size")
 {
