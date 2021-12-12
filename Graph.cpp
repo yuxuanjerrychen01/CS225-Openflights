@@ -9,11 +9,19 @@
 using namespace std;
 
 
-//empty constructor
+/**
+ * @brief default construct a new Graph:: Graph object
+ * 
+ */
 Graph::Graph() {
     //do nothing
 }
-
+/**
+ * @brief Construct a new Graph:: Graph object
+ * 
+ * @param airportsFile 
+ * @param airRoutesFile 
+ */
 Graph::Graph(string airportsFile, string airRoutesFile) {
     ifstream airportsLines(airportsFile);    
     string eachLine;                                    
@@ -71,20 +79,34 @@ Graph::Graph(string airportsFile, string airRoutesFile) {
         cout <<"no such airlines file" << endl;
     }
 }
-
+/**
+ * @brief a getter helper function to return the airline between two airports
+ * 
+ * @param start 
+ * @param end 
+ */
 void Graph::_getAirline(int start, int end) {
     // check whether it is repeated;
     if (airports.find(start) != airports.end() && airports.find(end) != airports.end()) {
         airports[start]->addAirlines(end);
     }
 }
-
+/**
+ * @brief Destroy the Graph:: Graph object
+ * 
+ */
 Graph::~Graph() {
     for(auto & airport : airports) {
         delete airport.second;
     }
 }
 
+/**
+ * @brief return all the information of an airport given its uniqueID
+ * 
+ * @param id 
+ * @return vector<string> 
+ */
 vector<string> Graph::getInformation(int id) {
     vector<string> airport_info;
     auto iterator = airports.find(id);
@@ -111,7 +133,13 @@ vector<string> Graph::getInformation(int id) {
         return airport_info;
     }
 }
-
+/**
+ * @brief the dijkstra algorithm to find the shortest path between starting airport to ending airport
+ * 
+ * @param start1 
+ * @param end1 
+ * @return vector<int> 
+ */
 vector<int> Graph::Dijkstra(int start1, int end1) {
     //need to check the airports exist or segmentfault
     vector<int> paths;
@@ -169,6 +197,10 @@ vector<int> Graph::Dijkstra(int start1, int end1) {
     return paths;
 }
 
+/**
+ * @brief set all possible variables as default values
+ * 
+ */
 void Graph::_setInitial() {
     for(auto & airport : airports) {
          airport.second->distance = double(INT64_MAX);
@@ -177,6 +209,13 @@ void Graph::_setInitial() {
     }
 }
 
+/**
+ * @brief to find the distance between two airports given their uniqueID
+ * 
+ * @param a 
+ * @param b 
+ * @return double 
+ */
 double Graph::_findDistance(int a, int b) {
     Airport * start = airports[a];
     Airport * end = airports[b];
