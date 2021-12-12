@@ -14,24 +14,25 @@ int main() {
     //graph part
     Graph graph("./data/airports_data_final_new.csv", "./data/routes_data_final.csv");
 
-    std::cout << "Hello! This is SPYE01000001 Openflights Data Analysis." << std::endl;
-    std::cout << "get airport information -- enter 0." << std::endl;
-    std::cout << "get shortest path between two airports -- enter 1." << std::endl;
-    std::cout << "get important airports txt-- enter 2." << std::endl;
-    std::cout << "get traversal txt -- enter 3." << std::endl;
-    std::cout << "graph visualization of shortest path -- enter 4." << std::endl;
-    std::cout << "graph visualization of destinations -- enter 5." << std::endl;
+    std::cout << " " << std::endl;
+    std::cout << "Hello! This is SPYE01000001 OpenFlights Data Analysis." << std::endl;
+    std::cout << "get airport information -- enter 1." << std::endl;
+    std::cout << "get shortest path between two airports -- enter 2." << std::endl;
+    std::cout << "get important airports txt -- enter 3." << std::endl;
+    std::cout << "get traversal txt -- enter 4." << std::endl;
+    std::cout << "graph visualization of shortest path -- enter 5." << std::endl;
+    std::cout << "graph visualization of destinations -- enter 6." << std::endl;
 
     int number;
     std::cin >> number;
     std::cout << " " << std::endl;
 
-    if (number < 0 || number > 5) {
+    if (number < 1 || number > 6) {
         std::cout << "Not a valid choice! Must be an integer from 0 to 5." << std::endl;
         return 0;
     }
 
-    if (number == 0) {
+    if (number == 1) {
         std::cout << "Enter airport ID: " << std::endl;
         int airport_id;
         std::cin >> airport_id;
@@ -52,7 +53,7 @@ int main() {
         return 0;
     }
 
-    if (number == 1) {
+    if (number == 2) {
         std::cout << "Enter source airport ID: " << std::endl;
         int source_airport_id;
         std::cin >> source_airport_id;
@@ -84,7 +85,7 @@ int main() {
         return 0;
     }
 
-    if (number == 2) {
+    if (number == 3) {
         std::cout << "Variable tolerance is a double from (0,1)." << std::endl;
         std::cout << "Enter tolerance for PageRank Algorithm: " << std::endl;
         double tolerance;
@@ -110,7 +111,7 @@ int main() {
         return 0;
     }
 
-    if (number == 3) {
+    if (number == 4) {
         std::cout << "Enter airport ID: " << std::endl;
         int airport_id;
         std::cin >> airport_id;
@@ -121,7 +122,7 @@ int main() {
         return 0;
     }
 
-    if (number == 4) {
+    if (number == 5) {
         std::cout << "Enter source airport ID: " << std::endl;
         int source_airport_id;
         std::cin >> source_airport_id;
@@ -152,7 +153,7 @@ int main() {
         return 0;
     }
 
-    if (number == 5) {
+    if (number == 6) {
         std::cout << "Enter airport ID:" << std::endl;
         int airport_id;
         std::cin >> airport_id;
