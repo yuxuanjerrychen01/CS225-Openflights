@@ -17,13 +17,14 @@ int main() {
     std::cout << "Hello! This is SPYE01000001 Openflights Data Analysis." << std::endl;
     std::cout << "get airport information -- enter 0." << std::endl;
     std::cout << "get shortest path between two airports -- enter 1." << std::endl;
-    std::cout << "get important airports -- enter 2." << std::endl;
+    std::cout << "get important airports txt-- enter 2." << std::endl;
     std::cout << "get traversal txt -- enter 3." << std::endl;
     std::cout << "graph visualization of shortest path -- enter 4." << std::endl;
     std::cout << "graph visualization of destinations -- enter 5." << std::endl;
 
     int number;
     std::cin >> number;
+    std::cout << " " << std::endl;
 
     if (number < 0 || number > 5) {
         std::cout << "Not a valid choice! Must be an integer from 0 to 5." << std::endl;
@@ -31,7 +32,7 @@ int main() {
     }
 
     if (number == 0) {
-        std::cout << "Enter airport ID:" << std::endl;
+        std::cout << "Enter airport ID: " << std::endl;
         int airport_id;
         std::cin >> airport_id;
         std::vector<std::string> info = graph.getInformation(airport_id);
@@ -52,13 +53,15 @@ int main() {
     }
 
     if (number == 1) {
-        std::cout << "Enter source airport ID:" << std::endl;
+        std::cout << "Enter source airport ID: " << std::endl;
         int source_airport_id;
         std::cin >> source_airport_id;
+        std::cout << " " << std::endl;
 
-        std::cout << "Enter destination airport ID:" << std::endl;
+        std::cout << "Enter destination airport ID: " << std::endl;
         int dest_airport_id;
         std::cin >> dest_airport_id;
+        std::cout << " " << std::endl;
 
         std::vector<int> path = graph.Dijkstra(source_airport_id, dest_airport_id);
         
@@ -82,21 +85,52 @@ int main() {
     }
 
     if (number == 2) {
+        std::cout << "Variable tolerance is a double from (0,1)." << std::endl;
+        std::cout << "Enter tolerance for PageRank Algorithm: " << std::endl;
+        double tolerance;
+        std::cin >> tolerance;
+        std::cout << " " << std::endl;
+        if (tolerance <= 0 || tolerance >= 1) {
+            std::cout << "Incorrect tolerance, tolerance must be in (0,1)." << std::endl;
+            return 0;
+        }
+
+        std::cout << "Variable iteration can be value 10 or value 100 (may take 5 min)." << std::endl;
+        std::cout << "Enter iteration for PageRank Algorithm: " << std::endl;
+        int iteration;
+        std::cin >> iteration;
+        std::cout << " " << std::endl;
+        if (iteration != 10 && iteration != 100) {
+            std::cout << "Incorrect iteration, iteration must be either 10 or 100." << std::endl;
+            return 0;
+        }
+
+        graph.pagerank(tolerance, iteration);
+        std::cout << "Output has been stored as ./output/airports_importance" << std::endl;
         return 0;
     }
 
     if (number == 3) {
+        std::cout << "Enter airport ID: " << std::endl;
+        int airport_id;
+        std::cin >> airport_id;
+        std::cout << " " << std::endl;
+
+        graph.BFS_all(airport_id);
+        std::cout << "The traversal information has been stored as ./output/BFS_traversal.txt" << std::endl;
         return 0;
     }
 
     if (number == 4) {
-        std::cout << "Enter source airport ID:" << std::endl;
+        std::cout << "Enter source airport ID: " << std::endl;
         int source_airport_id;
         std::cin >> source_airport_id;
+        std::cout << " " << std::endl;
 
-        std::cout << "Enter destination airport ID:" << std::endl;
+        std::cout << "Enter destination airport ID: " << std::endl;
         int dest_airport_id;
         std::cin >> dest_airport_id;
+        std::cout << " " << std::endl;
 
         std::vector<int> path = graph.Dijkstra(source_airport_id, dest_airport_id);
         
@@ -114,7 +148,7 @@ int main() {
         
         Draw draw("Equirectangular_projection_SW.png");
         draw.drawDijkstra(graph,path);
-        std::cout << "The graph visualization has been stored in /output/outcome_dijkstra.png" << std::endl;
+        std::cout << "The graph visualization has been stored as ./output/outcome_dijkstra.png" << std::endl;
         return 0;
     }
 
@@ -122,10 +156,11 @@ int main() {
         std::cout << "Enter airport ID:" << std::endl;
         int airport_id;
         std::cin >> airport_id;
+        std::cout << " " << std::endl;
 
         Draw draw("Equirectangular_projection_SW.png");
         draw.drawDestinations(graph, airport_id);
-        std::cout << "The graph visualization has been stored in /output/outcome_destination.png" << std::endl;
+        std::cout << "The graph visualization has been stored as ./output/outcome_destination.png" << std::endl;
         return 0;
     }
     return 0;

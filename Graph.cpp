@@ -324,11 +324,11 @@ bool Graph::ifAdjacent(int srcID, int destID) {
  * @param source_airport 
  * @return vector<string> 
  */
-vector<string> Graph::BFS_all(int source_airport) {
+void Graph::BFS_all(int source_airport) {
     vector<string> output;
     if (airports.find(source_airport) == airports.end()) {
-        output.push_back("Nonexisting airport id");
-        return output;
+        std::cout << "Nonexisting airport ID." << std::endl;
+        return;
     }
     vector<string> temp;
 
@@ -348,7 +348,10 @@ vector<string> Graph::BFS_all(int source_airport) {
         }
     }
     
-    return output;
+    ofstream fts("output/BFS_traversal.txt");
+    for (auto str : output) {
+        fts << str << endl;
+    }
 }
 /**
  * @brief this is the helper function for BFS_all
@@ -390,12 +393,11 @@ vector<string> Graph::BFS_all_helper(int airport_id, queue<int> queue) {
  * the changes of Pagerank value sum is with the tolerance
  */
 
-void Graph::pagerank(double tolerance) {
+void Graph::pagerank(double tolerance, int iteration) {
     double PR_initial = 1.0 / airports.size();
     for (auto & airport : airports) {
         airport.second->PR_value = PR_initial;
     }
-    (void) tolerance;
     unordered_map<int, unordered_map<int, int>> adj_matrix;
 
     for (auto i : airports) {
@@ -411,7 +413,7 @@ void Graph::pagerank(double tolerance) {
     double page_sum = 1.0;
     double page_sum_temp = 0.0;
     int count = 0;
-    while (abs(page_sum - page_sum_temp) > tolerance || count <= 100) {
+    while (abs(page_sum - page_sum_temp) > tolerance || count < iteration) {
         if (count != 0) {
             page_sum = page_sum_temp;
         }
@@ -436,12 +438,11 @@ void Graph::pagerank(double tolerance) {
     for (auto & air : airports) {
         air.second->PR_value = air.second->PR_value / page_sum;
     }
-    ofstream fts("airports_importance.txt");
+    ofstream fts("output/airports_importance.txt");
     double sum = 0;
     for (auto &p : airports) {
         sum += p.second->PR_value;
         fts<<p.second->getAirportName() + "," + to_string(p.second->PR_value) <<endl;
     }
-    std::cout<<sum<<std::endl;
 }
 

@@ -35,8 +35,8 @@ class Graph{
     bool ifAdjacent(int srcID, int destID);
     Airport airport_;
     vector<string> BFS_traverse(int source_airport, int dest_airport);
-    vector<string> BFS_all(int source_Airport);
+    void BFS_all(int source_Airport);
     vector<string> BFS_all_helper(int airport_id, queue<int> queue);
-    void pagerank(double tolerance);
+    void pagerank(double tolerance, int iteration);
 };
 

@@ -52,7 +52,7 @@ Alakanuk Airport,0.000007
 Tin City Long Range Radar Station Airport,0.000011
 White Mountain Airport,0.000041
 Teller Airport,0.000033
-Golovin Airport,0.000039
+Golovin Airport,0.000040
 Elim Airport,0.000041
 Akhiok Airport,0.000009
 Pilot Point Airport,0.000010
@@ -108,7 +108,7 @@ Ruby Airport,0.000045
 Kivalina Airport,0.000028
 Atqasuk Edward Burnell Sr Memorial Airport,0.000021
 Anvik Airport,0.000011
-Anaktuvuk Pass Airport,0.000025
+Anaktuvuk Pass Airport,0.000026
 Erechim Airport,0.000051
 Ordos Ejin Horo Airport,0.000385
 Jiayuguan Airport,0.000108
@@ -314,7 +314,7 @@ Mogador Airport,0.000046
 Osvaldo Vieira International Airport,0.000107
 Lodja Airport,0.000000
 Tshikapa Airport,0.000032
-Eros Airport,0.000671
+Eros Airport,0.000670
 Luderitz Airport,0.000016
 Chimoio Airport,0.000016
 Catumbela Airport,0.000030
@@ -549,13 +549,13 @@ Brevig Mission Airport,0.000047
 Sana'a International Airport,0.000580
 Selawik Airport,0.000024
 Al Ghaidah International Airport,0.000031
-Robert (Bob) Curtis Memorial Airport,0.000047
+Robert (Bob) Curtis Memorial Airport,0.000048
 Ataq Airport,0.000016
 Kobuk Airport,0.000048
 Aden International Airport,0.000300
 Bob Baker Memorial Airport,0.000047
 Hodeidah International Airport,0.000061
-Ambler Airport,0.000047
+Ambler Airport,0.000048
 Mukalla International Airport,0.000145
 Tbilisi International Airport,0.000539
 Kopitnari Airport,0.000121
@@ -1201,7 +1201,7 @@ El Plumerillo Airport,0.000122
 Ingeniero Ambrosio Taravella Airport,0.000164
 Sauce Viejo Airport,0.000000
 Lingling Airport,0.000046
-Ondangwa Airport,0.000224
+Ondangwa Airport,0.000223
 General Urquiza Airport,0.000000
 Puerto Princesa Airport,0.000138
 Namibe Airport,0.000015
@@ -1348,13 +1348,13 @@ Christchurch International Airport,0.000647
 Auckland International Airport,0.001922
 La Tontouta International Airport,0.000211
 Ouvéa Airport,0.000411
-Touho Airport,0.000206
-Maré Airport,0.000206
+Touho Airport,0.000205
+Maré Airport,0.000205
 Handan Airport,0.000092
 Nouméa Magenta Airport,0.001644
-Lifou Airport,0.000617
+Lifou Airport,0.000616
 Koumac Airport,0.000274
-Koné Airport,0.000206
+Koné Airport,0.000205
 Lombok International Airport,0.000248
 Raiatea Airport,0.000064
 Maupiti Airport,0.000042
@@ -1728,7 +1728,7 @@ Abu Simbel Airport,0.000015
 Gustavo Artunduaga Paredes Airport,0.000031
 Hammerfest Airport,0.000108
 Berbera Airport,0.000084
-Île des Pins Airport,0.000206
+Île des Pins Airport,0.000205
 Yariguíes Airport,0.000015
 Egal International Airport,0.000064
 Île Art - Waala Airport,0.000137
@@ -2077,7 +2077,7 @@ Charleston Air Force Base-International Airport,0.000522
 Shannon Airport,0.000442
 Kerry Airport,0.000091
 Ireland West Knock Airport,0.000229
-Dubai International Airport,0.005348
+Dubai International Airport,0.005347
 King Salmon Airport,0.000048
 Rotterdam The Hague Airport,0.000511
 Abu Dhabi International Airport,0.003613
@@ -2519,7 +2519,7 @@ North Eleuthera Airport,0.000122
 Tacheng Airport,0.000031
 Munich Airport,0.005484
 Port Hedland International Airport,0.000122
-Montreal / Pierre Elliott Trudeau International Airport,0.002664
+Montreal / Pierre Elliott Trudeau International Airport,0.002665
 Tivat Airport,0.000169
 Mattala Rajapaksa International Airport,0.000089
 Laramie Regional Airport,0.000015
@@ -2831,7 +2831,7 @@ Lake Charles Regional Airport,0.000045
 Ostend-Bruges International Airport,0.000016
 Uyuni Airport,0.000015
 Yibin Caiba Airport,0.000153
-Kenneth Kaunda International Airport Lusaka,0.000536
+Kenneth Kaunda International Airport Lusaka,0.000535
 Taupo Airport,0.000038
 Savannah Hilton Head International Airport,0.000346
 Westerland Sylt Airport,0.000122
@@ -2979,7 +2979,7 @@ Nelson Lagoon Airport,0.000013
 Surat Thani Airport,0.000062
 Cape Town International Airport,0.000635
 Ninoy Aquino International Airport,0.002956
-Quinhagak Airport,0.000046
+Quinhagak Airport,0.000047
 Ben Schoeman Airport,0.000077
 Yining Airport,0.000061
 Mount Hagen Kagamuga Airport,0.000194
