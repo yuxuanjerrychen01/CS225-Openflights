@@ -186,7 +186,15 @@ double Graph::_findDistance(int a, int b) {
 double Graph::_rad(double d) {
     return d * pi /180.0;
 }
-
+/**
+ * @brief a helper function
+ * 
+ * @param la1 
+ * @param lo1 
+ * @param la2 
+ * @param lo2 
+ * @return double 
+ */
 double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
     double radLat1 = _rad(la1);
     double radLat2 = _rad(la2);
@@ -196,19 +204,25 @@ double Graph::_fakeDistance(double la1,double lo1,double la2,double lo2) {
     return s;
 }
 
-void Graph::traversal(int start, vector<bool>& visited) {
-    if (visited[(airports_set.at(start)).getUniqueID()] == false) {
-        visited[(airports_set.at(start)).getUniqueID()] = true;
-        //std::cout << (airports_set.at(start).airportName) << std::endl;
+// void Graph::traversal(int start, vector<bool>& visited) {
+//     if (visited[(airports_set.at(start)).getUniqueID()] == false) {
+//         visited[(airports_set.at(start)).getUniqueID()] = true;
+//         //std::cout << (airports_set.at(start).airportName) << std::endl;
 
-        for(int i = 0; i < (int)route_adjaMat.size(); i++) {
-            if(route_adjaMat[(airports_set.at(start)).getUniqueID()][airports_set.at(i).getUniqueID()]>-1 && !visited[(airports_set.at(i)).getUniqueID()]) {
-                traversal((airports_set.at(i)).getUniqueID(), visited);
-            }
-        }
-    }
-}
+//         for(int i = 0; i < (int)route_adjaMat.size(); i++) {
+//             if(route_adjaMat[(airports_set.at(start)).getUniqueID()][airports_set.at(i).getUniqueID()]>-1 && !visited[(airports_set.at(i)).getUniqueID()]) {
+//                 traversal((airports_set.at(i)).getUniqueID(), visited);
+//             }
+//         }
+//     }
+// }
 
+/**
+ * @brief this is the function using for finding edges given the uniqueID of the source airport
+ * 
+ * @param srcID 
+ * @return vector<int> 
+ */
 vector<int> Graph::getEdges(int srcID) {
     vector<int> edges;
     for (size_t i = 0; i < Graph::route_adjaMat.at(srcID).size(); i++) {
@@ -219,44 +233,58 @@ vector<int> Graph::getEdges(int srcID) {
     return edges;
 }
 
+/**
+ * @brief check if two airports are adjacent given their uniqueID
+ * 
+ * @param srcID 
+ * @param destID 
+ * @return true 
+ * @return false 
+ */
 bool Graph::ifAdjacent(int srcID, int destID) {
     return Graph::route_adjaMat.at(srcID).at(destID) >= 0;
 }
 
-vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
-    vector<string> output;
-    //this is a vector of boolean(set default as false) covering all the airports filtered
-    _setInitial();
-    queue<int> queue;
-    queue.push(source_airport);
-    int current_airport = source_airport;
-    if(airports.find(source_airport) != airports.end()){
-        airports[source_airport] -> isTravel = true;
-        // cout<< queue.size() << endl;
-        while(!queue.empty()) {
-            current_airport = queue.front();
-            if (current_airport == dest_airport) {
-                Airport airport_temp = *airports[current_airport];
-                output.push_back(airport_temp.getAirportName());
+// vector<string> Graph::BFS_traverse(int source_airport, int dest_airport) {
+//     vector<string> output;
+//     //this is a vector of boolean(set default as false) covering all the airports filtered
+//     _setInitial();
+//     queue<int> queue;
+//     queue.push(source_airport);
+//     int current_airport = source_airport;
+//     if(airports.find(source_airport) != airports.end()){
+//         airports[source_airport] -> isTravel = true;
+//         // cout<< queue.size() << endl;
+//         while(!queue.empty()) {
+//             current_airport = queue.front();
+//             if (current_airport == dest_airport) {
+//                 Airport airport_temp = *airports[current_airport];
+//                 output.push_back(airport_temp.getAirportName());
                 
-                break;
-            }
-            Airport * airport_temp = airports[current_airport];
-            output.push_back(airport_temp->getAirportName());
-            for(auto id : airport_temp->getDestinations()) {
-                if(airports[id.first] -> isTravel == false) {
-                    queue.push(id.first);
-                    airports[id.first] -> isTravel = true;
-                }
-            }
-            queue.pop();
-        } 
+//                 break;
+//             }
+//             Airport * airport_temp = airports[current_airport];
+//             output.push_back(airport_temp->getAirportName());
+//             for(auto id : airport_temp->getDestinations()) {
+//                 if(airports[id.first] -> isTravel == false) {
+//                     queue.push(id.first);
+//                     airports[id.first] -> isTravel = true;
+//                 }
+//             }
+//             queue.pop();
+//         } 
        
-    }
-    // cout << output.size() << endl;
-    return output;
-}
+//     }
+//     // cout << output.size() << endl;
+//     return output;
+// }
 
+/**
+ * @brief here is the traverse function based on BFS traversing all the airports possible
+ * 
+ * @param source_airport 
+ * @return vector<string> 
+ */
 vector<string> Graph::BFS_all(int source_airport) {
     vector<string> output;
     if (airports.find(source_airport) == airports.end()) {
@@ -283,7 +311,13 @@ vector<string> Graph::BFS_all(int source_airport) {
     
     return output;
 }
-
+/**
+ * @brief this is the helper function for BFS_all
+ * 
+ * @param airport_id 
+ * @param queue 
+ * @return vector<string> 
+ */
 vector<string> Graph::BFS_all_helper(int airport_id, queue<int> queue) {
     vector<string> output;
 
@@ -310,13 +344,12 @@ vector<string> Graph::BFS_all_helper(int airport_id, queue<int> queue) {
     // cout << output.size() << endl;
     return output;
 }
-
 /**
+ * @brief the pagerank algorithm to calculate the visiting proportion of each airport
  * 
- * @param tolerance: a parameter to check 
+ * @param tolerance a parameter to check 
  * the changes of Pagerank value sum is with the tolerance
- * 
- **/ 
+ */
 
 void Graph::pagerank(double tolerance) {
     double PR_initial = 1.0 / airports.size();

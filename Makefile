@@ -1,5 +1,5 @@
 # Executable names:
-EXE = graph
+EXE = main
 TEST = test
 
 # Add all object files needed for compiling:

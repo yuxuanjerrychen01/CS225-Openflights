@@ -114,6 +114,7 @@ int main() {
         
         Draw draw("Equirectangular_projection_SW.png");
         draw.drawDijkstra(graph,path);
+        std::cout << "The graph visualization has been stored in /output/outcome_dijkstra.png" << std::endl;
         return 0;
     }
 
@@ -124,6 +125,7 @@ int main() {
 
         Draw draw("Equirectangular_projection_SW.png");
         draw.drawDestinations(graph, airport_id);
+        std::cout << "The graph visualization has been stored in /output/outcome_destination.png" << std::endl;
         return 0;
     }
     return 0;
