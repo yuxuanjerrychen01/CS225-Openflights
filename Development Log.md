@@ -89,17 +89,17 @@ The "routes-data" folder will store any data related to routes dataset or genera
 ## Nov. 27th  
 #### Graph Constructor, Destructor, and helpfuction  
 We decided to use the pointer to store the data in the map. 
-- Constructor:Using data from Routes, we connect each airports with weights using vector<pair<int, int>>.
-- Destructor: we delete all the Airports node, and there is no memory leak after we build the destructor.
-- Help function: finish getAirline which get the information of airports ID and put them into the node airports as edges. Polished getAirline function by detecting not find before adding new destinations for each airport.
+ - Constructor:Using data from Routes, we connect each airports with weights using vector<pair<int, int>>.
+ - Destructor: we delete all the Airports node, and there is no memory leak after we build the destructor.
+ - Help function: finish getAirline which get the information of airports ID and put them into the node airports as edges. Polished getAirline function by detecting not find before adding new destinations for each airport.
 ##
 
 ## Nov. 28th  
 #### Constructor and Testcase
 We fix the constructor, and provide more information in getInformation
-- constructor: fix line 61 to make the right if statement.
-- getInformation: add the airlines information, including the airport id of target airports, the number of routes.
-- Finished tesecase of graph constructor by checking graph's size and airport ID 2 and airport 2972's destinations.
+ - constructor: fix line 61 to make the right if statement.
+ - getInformation: add the airlines information, including the airport id of target airports, the number of routes.
+ - Finished tesecase of graph constructor by checking graph's size and airport ID 2 and airport 2972's destinations.
 
 
 ##
@@ -107,20 +107,40 @@ We fix the constructor, and provide more information in getInformation
 ## Nov. 30th  
 #### Dijkstra Algorithm
 We implement Dikstra Algorithm to calculate the shortest path between two path.
-- using priority_queue to store the order of node that will be visited
-- distance: the distance between the start point and given node
-- is_Traval: check whether the node being visited
-- LastNode: store the lastnode depend on the shortest path
-- _findDistance, _fakeDistance, and _rad are the help fuction to calculate distance
-- _setInitial are the help function to set the data
+ - using priority_queue to store the order of node that will be visited
+ - distance: the distance between the start point and given node
+ - is_Traval: check whether the node being visited
+ - LastNode: store the lastnode depend on the shortest path
+ - _findDistance, _fakeDistance, and _rad are the help fuction to calculate distance
+ - _setInitial are the help function to set the data
 
 ##
 
-## Dec. 2th  
-#### Traversal
-We use the Depth-First_Search and recursion as the basis for our traversal
--use a vector<bool>& visited to store all the visited airports
--getEdges(int srcID) to get the edges given the uniqueID of the source airport
--adjacentMatrix: use this adjacent matrix to see if two airports are adjacent to each other directly
--bool ifAdjacent: to see if two airports(given by the unique source ID and destination ID) are adjacent.
 
+## Dec. 2th  
+#### Traversal  
+We use the Depth-First_Search and recursion as the basis for our traversal  
+ - use a vector<bool>& visited to store all the visited airports  
+ - getEdges(int srcID) to get the edges given the uniqueID of the source airport  
+ - adjacentMatrix: use this adjacent matrix to see if two airports are adjacent to each other directly  
+ - bool ifAdjacent: to see if two airports(given by the unique source ID and destination ID) are adjacent
+
+## 
+
+## Dec. 3rd  
+#### Modified Dijkstra's Algorithm
+We modified our implementation of Dijkstra's Algorithm such that it correctly calculates the shortest path between two airports.  
+ - Graph::Dijkstra returns a vector<int>, where int represents the airport id of the airport nodes.  
+ - Changed getInformation(); will return information of airports as a vector<string>.  
+ - Added test cases, tested edge cases of Dijkstra's Algorithm, and checked whether the paths are deterministic or not.  
+ 
+##
+## Dec. 9th
+#### PageRank
+#### Graph Visualization
+ 
+##
+## Dec. 11th
+#### Fixed makefile
+#### Main
+#### BFS_all traverse
