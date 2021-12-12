@@ -18,6 +18,12 @@ Draw::Draw(std::string const & fileName) {
  * draw the path on the background picture, return as "outcome_dijkstra.png"
  **/
 void Draw::drawDijkstra(Graph & graph, std::vector<int> info) {
+    //edge case
+    if (info.size() == 1) {
+        std::cout << "Cannot draw; airport id is inaccurate." << std::endl;
+        return;
+    }
+    
     PNG outcome(background);
     std::vector<std::pair<int,int>> routes;
     for(int id : info) {
@@ -43,6 +49,13 @@ void Draw::drawDestinations(Graph & graph, int id) {
     PNG outcome(background);
     std::vector<std::pair<int,int>> routes;
     vector<string> startairport = graph.getInformation(id);
+    
+    // edge case
+    if (startairport.size() == 1) {
+        std::cout << "Cannot draw; airport id is inaccurate." << std::endl;
+        return;
+    }
+    
     double latitude = stod(startairport[6]);
     double longitude = stod(startairport[7]);
     std::pair<int,int> startposition = _getXY(latitude,longitude);
