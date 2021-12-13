@@ -137,10 +137,15 @@ We modified our implementation of Dijkstra's Algorithm such that it correctly ca
 ##
 ## Dec. 9th
 #### PageRank
+ We implemented the PageRank Algorithm and trying to find the most important airports. Since we need more than 50 times iteration to traverse the airports and edges, we decided to use a matrix implemented by unordered map to store all destinations for each airports.
+ - Rank Leak and Rank Sink: Because many airports from the data file have no in-links or out-links, even both of them, which will cause Rank Leak and Rank Sink, we need to find an approach to solve these problems. After serious consideration, we decided to remove the airports with no in-links and out-links in the airport file. An airport with no in link means there are no routes' destinations is this airport, and an airport with no out link means there is no routes' source airport is this airport. We think both of these circumstances are caused by a lack of data. We do not want to rank airports' importance by data with problems, so we filtered these data before we did the page rank.
+ - Normalization: After each iteration, the sum of page rank numbers will decrease or increase unstable, so we decided to normalize each airport's page rank value by page rank value/page rank-sum to keep the probability space to be 1.
+ - Output: Since finishing running the PageRank algorithm might take a long time, and the size of the airports file is large, we decided to save the output (airports name with importance) as a CSV file, which is also easy for future data analysis use.
 #### Graph Visualization
  
 ##
 ## Dec. 11th
 #### Fixed makefile
+ Each group member developed locally in previous development, but we met linker problems when running our program on ews. We then decided to utilize the cs225 makefile template for the makefile. We divide our program into main and test. The test is for locally testing, while the main file is what users will run.
 #### Main
 #### BFS_all traverse
