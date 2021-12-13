@@ -270,7 +270,7 @@ bool Graph::ifAdjacent(int srcID, int destID) {
  * @param source_airport 
  * @return vector<string> 
  */
-void Graph::BFS_all(int source_airport) {
+vector<string> Graph::BFS_all(int source_airport) {
     vector<string> output;
     if (airports.find(source_airport) == airports.end()) {
         std::cout << "Nonexisting airport ID." << std::endl;
