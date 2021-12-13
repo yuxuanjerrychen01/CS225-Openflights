@@ -274,7 +274,8 @@ void Graph::BFS_all(int source_airport) {
     vector<string> output;
     if (airports.find(source_airport) == airports.end()) {
         std::cout << "Nonexisting airport ID." << std::endl;
-        return;
+        output.push_back("Nonexisting airport ID");
+        return output;
     }
     vector<string> temp;
 
@@ -298,6 +299,7 @@ void Graph::BFS_all(int source_airport) {
     for (auto str : output) {
         fts << str << endl;
     }
+    return output;
 }
 /**
  * @brief this is the helper function for BFS_all
