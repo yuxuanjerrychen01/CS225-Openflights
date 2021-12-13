@@ -16,10 +16,10 @@ When processing our data, the primary programming language we will use is Python
 Before we begin with our implementation of algorithms, we will have finished our data filtering and cleaning, and have constructed a working, logical airports data structure and graphs data structure.  
  - __Goal 1: BFS Traversal__  
 We will implement a BFS traversal for our graph data structure. We expect the running time of BFS to be O(M + N), where M is the number of edges (valid routes), and N is the number of vertices (valid airports). The input for this traversal algorithm will be a source airport ID, and the output will be in txt file with every airport generated from the BFS traversal.  
- - __Goal 2: Dijkstra's Algorithm__  ---- check complexity  
+ - __Goal 2: Dijkstra's Algorithm__  
 We will implement Dijkstra’s Algorithm to find the shortest path between two airports, with distance as the edge weight. Distance between two airports will be calculated using  longitude and latitude data from the airports dataset. For Dijkstra's Algorithm, the input will be two int numbers, the first representing a source airport ID, the second representing a destination airport ID. The output will be a vector containing information of the necessary airport stops between the two specific airport destinations. We estimate the running time of our implementation of Dijkstra’s Algorithm will be O(N^2), where N is the number of vertices.  
- - __Goal 3: PageRank Algorithm__  ---- check complexity, check input  
-We will implement the PageRank algorithm to find the most important airports/destinations. The input will be information on flights and a tolerance scalar, while the output will be a list of airports sorted based on their importance. We expect the running time will be O(k^N), where N is the number of airports and k is the number of iterations when implementing PageRank.  
+ - __Goal 3: PageRank Algorithm__  
+We will implement the PageRank algorithm to find the most important airports/destinations. The input will be information on flights and a tolerance scalar, while the output will be a list of airports sorted based on their importance. We expect the running time will be O(N^2), where N is the number of airports when implementing PageRank.  
  - __Goal 4: Graph Visualization__  
 We will implement a graph visualization function structure, with functions focusing on outputting the shortest path airports generated from Dijkstra's Algorithm, and the destination airports of a particular airport. We will continue this project as a bonus goal after we finish our first three goals.  
 
