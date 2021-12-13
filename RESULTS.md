@@ -331,8 +331,53 @@ Output has been stored as ./output/airports_importance
 If we change the output txt file to a csv file, and sort the pagerank values from largest to smallest, we can get a list of top importance airports.  
   
   
-### Graph Visualization
+### Graph Visualization  
+We used the previous CS225 library of HSLAPixels and PNGs, and implemented Equiectangualr Projection source map as our world map background. We use our Dijkstra's Algorithm implementaion to obtain airport points for *drawDijkstra()*, and call the destination of specific airports to obtain airport points for *drawDestination()*.  
 
+<details>
+  <summary> <b> Graph visualization of the shortest path between Airport ID 3406 and Airport ID 2069 in <i> main() </i> function (click to expand) </b> </summary>  
+ 
+  ```
+Hello! This is SPYE01000001 OpenFlights Data Analysis.
+get airport information -- enter 1.
+get shortest path between two airports -- enter 2.
+get important airports txt -- enter 3.
+get traversal txt -- enter 4.
+graph visualization of shortest path -- enter 5.
+graph visualization of destinations -- enter 6.
+5
+ 
+Enter source airport ID: 
+3406
+ 
+Enter destination airport ID: 
+2069
+ 
+The graph visualization has been stored as ./output/outcome_dijkstra.png
+  ```
+![example1](https://github-dev.cs.illinois.edu/cs225-fa21/ruozhen2-xx19-kangyuf2-yuxuan19/blob/main/output/example_dijkstra_3406to2069.png) 
+  
+</details> 
+  
+<details>
+  <summary> <b> Graph visualization of airport ID 3406 destinations in <i> main() </i> function (click to expand) </b> </summary>  
+ 
+  ```
+Hello! This is SPYE01000001 OpenFlights Data Analysis.
+get airport information -- enter 1.
+get shortest path between two airports -- enter 2.
+get important airports txt -- enter 3.
+get traversal txt -- enter 4.
+graph visualization of shortest path -- enter 5.
+graph visualization of destinations -- enter 6.
+6
+ 
+Enter airport ID:
+3406
+ 
+The graph visualization has been stored as ./output/outcome_destination.png
+  ```
+![example2](https://github-dev.cs.illinois.edu/cs225-fa21/ruozhen2-xx19-kangyuf2-yuxuan19/blob/main/output/example_destination_3406.png)  
+  
+</details>  
 
-### Leading Question Results  
-We
