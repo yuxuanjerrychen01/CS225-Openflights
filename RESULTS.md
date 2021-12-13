@@ -325,11 +325,13 @@ Enter iteration for PageRank Algorithm:
  
 Output has been stored as ./output/airports_importance
   ```
- 
+  
+If we change the output txt file to a csv file, and sort the pagerank values from largest to smallest, we can get a list of top importance airports. Here is the top 14 important airports obtained from the example above.  
+  
+![example3](https://github-dev.cs.illinois.edu/cs225-fa21/ruozhen2-xx19-kangyuf2-yuxuan19/blob/main/output/example_airports_importance_0.02_100_top14.jpg)
+
 </details>  
-  
-If we change the output txt file to a csv file, and sort the pagerank values from largest to smallest, we can get a list of top importance airports.  
-  
+
   
 ### Graph Visualization  
 We used the previous CS225 library of HSLAPixels and PNGs, and implemented Equiectangualr Projection source map as our world map background. We use our Dijkstra's Algorithm implementaion to obtain airport points for *drawDijkstra()*, and call the destination of specific airports to obtain airport points for *drawDestination()*.  
