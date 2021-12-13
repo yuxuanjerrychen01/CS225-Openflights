@@ -381,3 +381,43 @@ The graph visualization has been stored as ./output/outcome_destination.png
   
 </details>  
 
+## Leading Questions Results  
+We have solved all leading questions we proposed at the beginning of this project.  
+#### What is the shortest path from one destination (source airport) to another destination (destination airport)?  
+Achieved by correctly implementing Dijkstra's Algorithm.  
+#### What are some of the popular airports/ destinations?
+Achieved by correctly implementing PageRank Algorithm.
+#### Given an airport ID, what information can I get?
+Obtained by a well-constructed airports data structure (with getInformation() method).  
+
+<details>
+  <summary> <b> Example of getting information of airport ID 3406 in <i> main() </i> function (click to expand) </b> </summary>  
+ 
+  ```
+Hello! This is SPYE01000001 OpenFlights Data Analysis.
+get airport information -- enter 1.
+get shortest path between two airports -- enter 2.
+get important airports txt -- enter 3.
+get traversal txt -- enter 4.
+graph visualization of shortest path -- enter 5.
+graph visualization of destinations -- enter 6.
+1
+ 
+Enter airport ID: 
+3406
+
+Airport name: Shanghai Pudong International Airport
+Airport ID: 3406
+City: Shanghai
+Country: China
+IATA: PVG
+ICAO: ZSPD
+Latitude: 31.143400
+Longitude: 121.805000
+  ```
+  
+</details>   
+
+
+#### What would the shortest path look like on a world map?
+Obtained by correctly implementing a graph visualization function.  
