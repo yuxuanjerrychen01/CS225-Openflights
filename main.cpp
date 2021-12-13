@@ -36,6 +36,7 @@ int main() {
         std::cout << "Enter airport ID: " << std::endl;
         int airport_id;
         std::cin >> airport_id;
+        std::cout << " " << std::endl;
         std::vector<std::string> info = graph.getInformation(airport_id);
         if (info.size() == 1) {
             std::cout << info[0] << std::endl;
