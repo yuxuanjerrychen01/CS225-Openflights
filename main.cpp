@@ -46,10 +46,10 @@ int main() {
         std::cout << "Airport ID: " << info[0] << std::endl;
         std::cout << "City: " << info[2] << std::endl;
         std::cout << "Country: " << info[3] << std::endl;
-        std::cout << "IATA: " << info[0] << std::endl;
-        std::cout << "ICAO: " << info[0] << std::endl;
-        std::cout << "Latitude: " << info[1] << std::endl;
-        std::cout << "Longitude: " << info[1] << std::endl;
+        std::cout << "IATA: " << info[4] << std::endl;
+        std::cout << "ICAO: " << info[5] << std::endl;
+        std::cout << "Latitude: " << info[6] << std::endl;
+        std::cout << "Longitude: " << info[7] << std::endl;
         return 0;
     }
 
