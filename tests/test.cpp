@@ -164,34 +164,23 @@ TEST_CASE("Airports Information")
 
 }
 
-// TEST_CASE("BFS_all") {
+TEST_CASE("BFS_all") {
 
-//     SECTION("BFS_all starting from airport ID 3406") {
-//         // cout<<"test the BFS_all"<<endl;
-//         vector<string> result_dest = graph.BFS_all(3406);
-//         // cout<<"Printing out traversal starting from Pudong Airport"<<endl;
-//         // for(unsigned i = 0; i < result_dest.size(); i++) {
-//         //     cout<<result_dest[i];
-//         //     if (i != result_dest.size() - 1) {
-//         //         cout<<"--->";
-//         //     }
-//         //     if (i % 5 == 0 && i != 0) {
-//         //         cout<<endl;
-//         //     }
-//         // }
-//         REQUIRE(result_dest.size() == 3052);
-//     }
+    SECTION("BFS_all starting from airport ID 3406") {
+        vector<string> result_dest = graph.BFS_all(3406);
+        REQUIRE(result_dest.size() == 3052);
+    }
     
-//     SECTION("BFS_all starting from airport ID 1212") {
-//         vector<string> result_dest = graph.BFS_all(1212);
-//         REQUIRE(result_dest.size() == 3052);
-//     }
+    SECTION("BFS_all starting from airport ID 1212") {
+        vector<string> result_dest = graph.BFS_all(1212);
+        REQUIRE(result_dest.size() == 3052);
+    }
 
-//     SECTION("BFS_all starting from nonexisting airport ID 682") {
-//         vector<string> result_dest = graph.BFS_all(682);
-//         REQUIRE(result_dest.size() == 1);
-//         REQUIRE(result_dest[0] == "Nonexisting airport id");
-//     }
-// }
+    SECTION("BFS_all starting from nonexisting airport ID 682") {
+        vector<string> result_dest = graph.BFS_all(682);
+        REQUIRE(result_dest.size() == 1);
+        REQUIRE(result_dest[0] == "Nonexisting airport id");
+    }
+}
 
 
