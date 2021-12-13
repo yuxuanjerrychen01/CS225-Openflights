@@ -34,8 +34,7 @@ class Graph{
     vector<int> getEdges(int srcID);                                    //get the edges given specific srcID
     bool ifAdjacent(int srcID, int destID);
     Airport airport_;
-    vector<string> BFS_traverse(int source_airport, int dest_airport);
-    void BFS_all(int source_Airport);
+    vector<string> BFS_all(int source_Airport);
     vector<string> BFS_all_helper(int airport_id, queue<int> queue);
     void pagerank(double tolerance, int iteration);
 };
