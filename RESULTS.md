@@ -334,7 +334,7 @@ If we change the output txt file to a csv file, and sort the pagerank values fro
 
   
 ### Graph Visualization  
-We used the previous CS225 library of HSLAPixels and PNGs, and implemented Equiectangualr Projection source map as our world map background. We use our Dijkstra's Algorithm implementaion to obtain airport points for *drawDijkstra()*, and call the destination of specific airports to obtain airport points for *drawDestination()*.  
+We used the previous CS225 library of HSLAPixels and PNGs, and implemented Equiectangular Projection source map as our world map background. We use our Dijkstra's Algorithm implementaion to obtain airport points for *drawDijkstra()*, and call the destination of specific airports to obtain airport points for *drawDestination()*.  
 
 <details>
   <summary> <b> Graph visualization of the shortest path between Airport ID 3406 and Airport ID 2069 in <i> main() </i> function (click to expand) </b> </summary>  
