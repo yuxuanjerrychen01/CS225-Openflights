@@ -179,7 +179,7 @@ TEST_CASE("BFS_all") {
     SECTION("BFS_all starting from nonexisting airport ID 682") {
         vector<string> result_dest = graph.BFS_all(682);
         REQUIRE(result_dest.size() == 1);
-        REQUIRE(result_dest[0] == "Nonexisting airport id");
+        REQUIRE(result_dest[0] == "Nonexisting airport ID");
     }
 }
 
