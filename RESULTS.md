@@ -201,14 +201,138 @@ Our implementation of Dijkstra's Algorithm takes in a source airport ID and a de
   ```
  
 </details>  
+  
+We use *priority_queue* to store the order of vertix that will be visited, *distance* to express the distance between the start point and given vertix, and *is_Travel* to check whether the airport vertix has been visited. *_findDistance*, *_fakeDistance*, and *_rad* are helper fuctions to calculate distance.  
+
+The running time of our Dijkstra's Algorithm implementation is O(N + M*log(N)), where N is the number of airport vertices and M the number of route edges. In the provided test case, we have checked that this algorithm is indeed deterministic, and we have taken care of cases where airport IDs do not exist.  
+
+<details>
+  <summary> <b> Here is an example of running this algorithm in <i> main() </i> function (click to expand) </b> </summary>  
+ 
+  ```
+Hello! This is SPYE01000001 OpenFlights Data Analysis.
+get airport information -- enter 1.
+get shortest path between two airports -- enter 2.
+get important airports txt -- enter 3.
+get traversal txt -- enter 4.
+graph visualization of shortest path -- enter 5.
+graph visualization of destinations -- enter 6.
+2
+ 
+Enter source airport ID: 
+3406
+ 
+Enter destination airport ID: 
+2069
+ 
+Shanghai Pudong International Airport (3406) 
+Indira Gandhi International Airport (3093) 
+King Fahd International Airport (2064) 
+Ha'il Airport (2069) 
+  ```
+ 
+</details>  
+
    
 
 ### PageRank Algorithm
-    1. code  
+Our implementation of PageRank Algorithm takes in a tolerance double value and an iteration int value, calculates the importance of airports, and outputs a txt file containing the importance values of all the airports.  
+
+<details>
+  <summary> <b> <i> pagerank() </i> code implementation (click to expand) </b> </summary>  
  
+  ```
+ void Graph::pagerank(double tolerance, int iteration) {
+    double PR_initial = 1.0 / airports.size();
+    for (auto & airport : airports) {
+        airport.second->PR_value = PR_initial;
+    }
+    unordered_map<int, unordered_map<int, int>> adj_matrix;
+
+    for (auto i : airports) {
+        unordered_map<int, int> temp_dis;
+        for (auto des : i.second->getDestinations()) {
+            temp_dis[des.first] = des.second;
+            i.second->total_lines+=des.second;
+        }
+        adj_matrix[i.first] = temp_dis;
+    }
+
+    //iteration 100 times for updating new pagevalue
+    double page_sum = 1.0;
+    double page_sum_temp = 0.0;
+    int count = 0;
+    while (abs(page_sum - page_sum_temp) > tolerance || count < iteration) {
+        if (count != 0) {
+            page_sum = page_sum_temp;
+        }
+        count++;
+        //normalize PR_value
+        for (auto & air : airports) {
+            air.second->PR_value = air.second->PR_value / page_sum;
+        }
+        //begin to find
+        page_sum_temp = 0;
+        for (auto & air : airports) {
+            page_sum_temp += air.second->PR_value;
+            double temp = 0.0;
+            for (auto & map : adj_matrix) {
+                if (map.second.find(air.first) != map.second.end()) {
+                        temp += (airports[map.first]->PR_value / (double) airports[map.first]->total_lines) * (double) map.second[air.first];
+                }
+            }
+            air.second->PR_value = temp;
+        }
+    }
+    for (auto & air : airports) {
+        air.second->PR_value = air.second->PR_value / page_sum;
+    }
+    ofstream fts("./output/airports_importance.txt");
+    double sum = 0;
+    for (auto &p : airports) {
+        sum += p.second->PR_value;
+        fts<<p.second->getAirportName() + "," + to_string(p.second->PR_value) <<endl;
+    }
+ }
+  ```
  
+</details>  
+ 
+Since we need more than 50 times iteration to traverse the airports and edges, we decided to use a matrix implemented by unordered map to store all destinations for each airports. For each step, we have included normalization, and by transforming our output txt file to a csv file and sorting the data, we can easily obtain the top importance airports from our dataset. The running time of our algorithm is xxx.  
+
+Although we do not have a provided PageRank test case, we have checked that the algorithm indeed outputs all 3052 airports to "./output/airports_importance.txt".  
+
+<details>
+  <summary> <b> Here is an example of running this algorithm in <i> main() </i> function (click to expand) </b> </summary>  
+ 
+  ```
+Hello! This is SPYE01000001 OpenFlights Data Analysis.
+get airport information -- enter 1.
+get shortest path between two airports -- enter 2.
+get important airports txt -- enter 3.
+get traversal txt -- enter 4.
+graph visualization of shortest path -- enter 5.
+graph visualization of destinations -- enter 6.
+3
+ 
+Variable tolerance is a double from (0,1).
+Enter tolerance for PageRank Algorithm: 
+0.02
+ 
+Variable iteration can be value 10 or value 100 (may take 5 min).
+Enter iteration for PageRank Algorithm: 
+100
+ 
+Output has been stored as ./output/airports_importance
+  ```
+ 
+</details>  
+  
+If we change the output txt file to a csv file, and sort the pagerank values from largest to smallest, we can get a list of top importance airports.  
+  
+  
 ### Graph Visualization
-    1. code  
+
 
 ### Leading Question Results  
 We
