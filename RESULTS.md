@@ -298,7 +298,7 @@ Our implementation of PageRank Algorithm takes in a tolerance double value and a
  
 </details>  
  
-Since we need more than 50 times iteration to traverse the airports and edges, we decided to use a matrix implemented by unordered map to store all destinations for each airports. For each step, we have included normalization, and by transforming our output txt file to a csv file and sorting the data, we can easily obtain the top importance airports from our dataset. The running time of our algorithm is O(N^2), where N is the number of airport vertices.  
+Since we need more than 50 times iteration to traverse the airports and edges, we decided to use a matrix implemented by unordered map to store all destinations for each airports. For each step, we have included normalization, and by transforming our output txt file to a csv file and sorting the data, we can easily obtain the top importance airports from our dataset. The running time of our algorithm is O(kN^2), where N is the number of airport vertices, and k is the number of iterations.  
 
 Although we do not have a provided PageRank test case, we have checked that the algorithm indeed outputs all 3052 airports to "./output/airports_importance.txt".  
 
