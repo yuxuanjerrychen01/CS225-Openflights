@@ -73,7 +73,7 @@ The graph visualization has been stored as ./output/outcome_dijkstra.png
 ```
 The user will find the completed graph stored in ./output file, and named as *outcome_dijkstra.png*.  
   
-![example1](https://github-dev.cs.illinois.edu/cs225-fa21/ruozhen2-xx19-kangyuf2-yuxuan19/blob/main/output/example_dijkstra_3406to2069.png)  
+![example1](https://github.com/yuxuanjerrychen01/CS225-Openflights/blob/main/output/example_dijkstra_3406to2069.png)  
 This is just a simple example of what the user can obtain from our project code. Check our __RESULTS.md__ for more examples.    
 Here is another graph visualization example:
 ```
@@ -91,7 +91,7 @@ Enter airport ID:
  
 The graph visualization has been stored as ./output/outcome_destination.png
 ```
-![example2](https://github-dev.cs.illinois.edu/cs225-fa21/ruozhen2-xx19-kangyuf2-yuxuan19/blob/main/output/example_destination_3406.png)  
+![example2](https://github.com/yuxuanjerrychen01/CS225-Openflights/blob/main/output/example_destination_3406.png)  
 
 ### Test Cases  
 To build and run the provided test cases, run code:
